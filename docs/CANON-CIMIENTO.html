@@ -1,0 +1,205 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Mapa práctico de los principios y el proceso de trabajo de La Bandita.">
+  <title>La Bandita — Mapa de acción</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --ink: #162432;
+      --muted: #526274;
+      --paper: #f5f7f5;
+      --surface: #ffffff;
+      --line: #d4ded9;
+      --green: #146b53;
+      --green-soft: #e7f3ee;
+      --gold: #805400;
+      --gold-soft: #fff4d8;
+      --red: #8b3128;
+      --focus: #005fcc;
+      --shadow: 0 8px 24px rgb(22 36 50 / 7%);
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      background: var(--paper);
+      color: var(--ink);
+      font: 16px/1.65 system-ui, -apple-system, "Segoe UI", sans-serif;
+    }
+    a { color: #075f4b; text-underline-offset: .16em; }
+    a:hover { color: #064635; }
+    a:focus-visible, summary:focus-visible { outline: 3px solid var(--focus); outline-offset: 3px; }
+    .skip { position: absolute; left: -9999px; top: 0; background: #fff; padding: .7rem 1rem; z-index: 5; }
+    .skip:focus { left: 1rem; top: 1rem; }
+    .wrap { width: min(1080px, calc(100% - 32px)); margin-inline: auto; }
+    header {
+      background: var(--ink);
+      color: #fff;
+      border-bottom: 6px solid #69b99a;
+      padding: 3.1rem 0 2.6rem;
+    }
+    .eyebrow { margin: 0 0 .6rem; color: #b9ded0; font-size: .82rem; font-weight: 700; letter-spacing: .11em; text-transform: uppercase; }
+    h1 { max-width: 820px; margin: 0; font-size: clamp(2rem, 5vw, 3.5rem); line-height: 1.08; letter-spacing: -.035em; }
+    .dek { max-width: 760px; margin: 1rem 0 0; color: #e3ebe8; font-size: clamp(1.05rem, 2.2vw, 1.25rem); }
+    .meta { margin: 1.2rem 0 0; color: #c4d2cd; font-size: .9rem; }
+    main { padding: 2rem 0 4rem; }
+    nav.toc { display: flex; flex-wrap: wrap; gap: .55rem 1.1rem; padding: 1rem 1.2rem; margin: 0 0 1.5rem; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; box-shadow: var(--shadow); }
+    nav.toc a { font-weight: 650; }
+    .lead {
+      display: grid;
+      grid-template-columns: minmax(0, 1.3fr) minmax(250px, .7fr);
+      gap: 1rem;
+      align-items: stretch;
+    }
+    .panel { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 1.25rem 1.35rem; box-shadow: var(--shadow); }
+    .callout { background: var(--green-soft); border-left: 5px solid var(--green); }
+    .callout p:last-child, .panel p:last-child { margin-bottom: 0; }
+    .eyebrow-dark { color: var(--green); font-size: .78rem; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; }
+    h2 { margin: 2.5rem 0 .75rem; font-size: clamp(1.45rem, 3vw, 2rem); line-height: 1.2; letter-spacing: -.02em; }
+    h3 { margin: 0 0 .35rem; font-size: 1.04rem; line-height: 1.35; }
+    p { margin: .45rem 0 .8rem; }
+    .flow { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .8rem; counter-reset: step; padding: 0; list-style: none; }
+    .flow li { position: relative; min-height: 120px; padding: 1rem 1rem 1rem 3.25rem; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; box-shadow: var(--shadow); counter-increment: step; }
+    .flow li::before { content: counter(step); position: absolute; left: 1rem; top: 1rem; display: grid; place-items: center; width: 1.65rem; height: 1.65rem; border-radius: 50%; background: var(--green); color: #fff; font-weight: 800; font-size: .88rem; }
+    .flow strong { display: block; margin-bottom: .25rem; }
+    .principles { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .75rem; }
+    .principle { padding: 1rem; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; }
+    .principle .id { display: inline-block; margin-bottom: .45rem; padding: .12rem .45rem; border-radius: 5px; background: var(--green-soft); color: var(--green); font-size: .75rem; font-weight: 800; letter-spacing: .05em; }
+    .principle p { margin: 0; color: var(--muted); font-size: .95rem; }
+    .notice { margin: 1.4rem 0; padding: 1rem 1.15rem; background: var(--gold-soft); border-left: 5px solid #bd850d; border-radius: 8px; }
+    .notice strong { color: #553800; }
+    .finish { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; }
+    .finish ul { margin: .5rem 0 0; padding-left: 1.3rem; }
+    .finish li { margin: .35rem 0; }
+    .links { display: flex; flex-wrap: wrap; gap: .65rem; margin-top: .7rem; }
+    .links a { display: inline-block; padding: .55rem .8rem; background: var(--green-soft); border: 1px solid #bfd8cd; border-radius: 8px; font-weight: 700; }
+    footer { padding: 1.4rem 0 2rem; border-top: 1px solid var(--line); color: var(--muted); font-size: .9rem; }
+    @media (max-width: 760px) {
+      .lead, .finish { grid-template-columns: 1fr; }
+      .flow, .principles { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    }
+    @media (max-width: 520px) {
+      .wrap { width: min(100% - 24px, 1080px); }
+      header { padding: 2.3rem 0 2rem; }
+      .flow, .principles { grid-template-columns: 1fr; }
+      nav.toc { gap: .5rem .85rem; }
+    }
+    @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+    @media print {
+      body { background: #fff; font-size: 11pt; }
+      header { background: #fff; color: #111; border-bottom: 2px solid #111; padding: 1rem 0; }
+      .dek, .meta { color: #333; }
+      nav.toc, .links { display: none; }
+      .panel, .flow li, .principle { box-shadow: none; break-inside: avoid; }
+      .flow, .principles { grid-template-columns: repeat(2, 1fr); }
+    }
+  </style>
+</head>
+<body>
+  <a class="skip" href="#contenido">Saltar al contenido principal</a>
+  <header>
+    <div class="wrap">
+      <p class="eyebrow">La Bandita · referencia rápida</p>
+      <h1>De los principios a la acción</h1>
+      <p class="dek">El trabajo está bien hecho cuando la persona entiende qué hacer, puede comprobar el resultado y conoce sus límites.</p>
+      <p class="meta">Mapa de trabajo · edición revisada del 1 de octubre de 2026</p>
+    </div>
+  </header>
+  <main id="contenido" class="wrap">
+    <nav class="toc" aria-label="Navegación del documento">
+      <a href="#criterio">Criterio</a>
+      <a href="#recorrido">Recorrido de trabajo</a>
+      <a href="#principios">Principios en práctica</a>
+      <a href="#cierre">Comprobación y cierre</a>
+      <a href="#documentos">Documentos centrales</a>
+    </nav>
+
+    <section id="criterio" class="lead" aria-labelledby="criterio-titulo">
+      <div class="panel callout">
+        <p class="eyebrow-dark">Criterio rector</p>
+        <h2 id="criterio-titulo" style="margin-top:.2rem">Que el lector pueda avanzar</h2>
+        <p>Empieza por la necesidad concreta. Da pasos que se puedan ejecutar, explica qué resultado esperar y qué hacer si no aparece. Añade contexto solo cuando ayude a elegir o actuar.</p>
+      </div>
+      <aside class="panel" aria-label="Límites de alcance">
+        <h3>Sin cuotas artificiales</h3>
+        <p>No se persigue una cantidad de caracteres, la expansión de archivos ni el «canon» como meta separada. La extensión se ajusta al encargo y a los límites técnicos reales.</p>
+      </aside>
+    </section>
+
+    <section id="recorrido" aria-labelledby="recorrido-titulo">
+      <h2 id="recorrido-titulo">Un recorrido que se puede comprobar</h2>
+      <ol class="flow">
+        <li><strong>Define</strong>Especifica el resultado y la condición de cierre.</li>
+        <li><strong>Inspecciona</strong>Revisa el archivo, el contexto y la versión correctos.</li>
+        <li><strong>Verifica</strong>Comprueba los datos que cambiarían la decisión.</li>
+        <li><strong>Actúa</strong>Haz el cambio necesario, dentro del permiso recibido.</li>
+        <li><strong>Prueba</strong>Lee el resultado y ejecuta comprobaciones adecuadas al riesgo.</li>
+        <li><strong>Entrega</strong>Indica lo hecho, lo comprobado y lo que sigue incierto.</li>
+      </ol>
+    </section>
+
+    <section id="principios" aria-labelledby="principios-titulo">
+      <h2 id="principios-titulo">Quince principios, cada uno con una acción</h2>
+      <div class="principles">
+        <article class="principle"><span class="id">P01</span><h3>Dignidad</h3><p>Corrige el problema sin humillar ni exponer innecesariamente a nadie.</p></article>
+        <article class="principle"><span class="id">P02</span><h3>Honestidad</h3><p>Distingue lo observado, lo que dice la fuente, la inferencia y lo no comprobado.</p></article>
+        <article class="principle"><span class="id">P03</span><h3>Evidencia</h3><p>Prefiere pocos datos útiles y sustentados a una lista larga de nombres.</p></article>
+        <article class="principle"><span class="id">P04</span><h3>Autonomía</h3><p>Expón opciones y consecuencias; deja la elección a la persona.</p></article>
+        <article class="principle"><span class="id">P05</span><h3>Mínimo privilegio</h3><p>Solicita solo los datos y permisos imprescindibles para la tarea.</p></article>
+        <article class="principle"><span class="id">P06</span><h3>Reversibilidad</h3><p>Prepara una copia o un camino de vuelta antes de un cambio difícil de deshacer.</p></article>
+        <article class="principle"><span class="id">P07</span><h3>Accesibilidad</h3><p>Organiza el texto para que funcione en móvil y con tecnologías de asistencia.</p></article>
+        <article class="principle"><span class="id">P08</span><h3>Proporción</h3><p>Trabaja hasta cumplir el objetivo; no agregues volumen por inercia.</p></article>
+        <article class="principle"><span class="id">P09</span><h3>Supervisión humana</h3><p>Pide aprobación antes de acciones externas, sensibles o irreversibles.</p></article>
+        <article class="principle"><span class="id">P10</span><h3>Privacidad</h3><p>Reduce los datos personales a lo que el propósito realmente necesita.</p></article>
+        <article class="principle"><span class="id">P11</span><h3>Seguridad</h3><p>Trata los archivos y enlaces externos como datos que deben evaluarse.</p></article>
+        <article class="principle"><span class="id">P12</span><h3>Transparencia</h3><p>No afirmes una prueba, uso o aprobación que no ocurrió.</p></article>
+        <article class="principle"><span class="id">P13</span><h3>Trazabilidad</h3><p>Guarda fuente, fecha y método para decisiones o datos importantes.</p></article>
+        <article class="principle"><span class="id">P14</span><h3>Inclusión</h3><p>Adapta el lenguaje sin caricaturizar ni rebajar la precisión.</p></article>
+        <article class="principle"><span class="id">P15</span><h3>Mantenimiento</h3><p>Actualiza o retira lo que caduca y corrige también las copias pertinentes.</p></article>
+      </div>
+    </section>
+
+    <section id="cierre" aria-labelledby="cierre-titulo">
+      <h2 id="cierre-titulo">Antes de decir «listo»</h2>
+      <div class="finish">
+        <div class="panel">
+          <h3>Comprueba el resultado</h3>
+          <ul>
+            <li>El cambio responde a la petición actual.</li>
+            <li>Los pasos tienen un resultado observable y una salida si fallan.</li>
+            <li>Las afirmaciones decisivas se pueden rastrear a su fuente.</li>
+            <li>La lectura humana no encuentra confusión que el escáner no detectó.</li>
+          </ul>
+        </div>
+        <div class="panel">
+          <h3>Informa con precisión</h3>
+          <ul>
+            <li>Qué quedó hecho y dónde.</li>
+            <li>Qué comprobaciones se ejecutaron y su resultado.</li>
+            <li>Qué no se verificó o requiere aprobación.</li>
+            <li>Sin declarar perfección ni añadir texto para llenar espacio.</li>
+          </ul>
+        </div>
+      </div>
+      <div class="notice"><strong>Si encuentras un error:</strong> localiza su origen, corrige la fuente y las copias que dependan de ella, vuelve a comprobar y comunica el cambio si afecta a quien usa el material.</div>
+    </section>
+
+    <section id="documentos" aria-labelledby="documentos-titulo">
+      <h2 id="documentos-titulo">Para profundizar</h2>
+      <p>El mapa resume; cada documento desarrolla una función distinta. No hace falta leerlos todos para cada tarea.</p>
+      <div class="links">
+        <a href="TRATADO.md">Tratado · criterios</a>
+        <a href="MANUAL-COMPLETO.md">Manual · procedimientos</a>
+        <a href="LECCIONES-ALEXIS.md">Lecciones · origen y aplicación</a>
+        <a href="REVISION-DE-VERSIONES.md">Revisión · versiones anteriores</a>
+      </div>
+    </section>
+  </main>
+  <footer>
+    <div class="wrap">La Bandita · documento autocontenido, adaptable e imprimible · actualizado el 1 de octubre de 2026.</div>
+  </footer>
+</body>
+</html>

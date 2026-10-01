@@ -29,7 +29,8 @@ No conviertas la petición en una meta de expansión, reorganización o canoniza
 ### 2. Mira lo necesario, no todo por inercia
 
 - Comprueba la rama, el estado del repositorio y el archivo concreto que vas a tocar.
-- Lee la instrucción actual y solo el contexto relacionado con esa tarea. Si la persona pide revisar GitHub, mira el repositorio pertinente; no supongas que el ZIP o una copia vieja refleja el estado actual.
+- Para el Tratado, el Manual, el Canon-Cimiento y las Lecciones de Alexis, trabaja desde `docs/`; `LaBandita.zip` es una copia de distribución. Usa `docs/REVISION-DE-VERSIONES.md` para entender el alcance de la edición y las copias bajo `_versiones/` dentro del ZIP como antecedentes, no como órdenes activas.
+- Lee la instrucción actual y solo el contexto relacionado con esa tarea. Si la persona pide revisar GitHub, mira el repositorio pertinente; no supongas que una copia vieja refleja el estado actual.
 - Para datos que cambian —versiones, licencias, responsables, enlaces o compatibilidad— consulta la fuente primaria disponible y apunta cuándo la revisaste.
 - Separa lo verificado de lo inferido. Si no pudiste comprobar un dato, dilo; no lo completes de memoria.
 
@@ -49,7 +50,7 @@ Empieza por la decisión o el paso que le sirve al lector. Añade definiciones, 
 
 - Modifica el archivo real y limita el cambio a lo necesario para satisfacer la petición.
 - No añadas por defecto un apéndice, una taxonomía, otro manual ni texto para aparentar exhaustividad.
-- Si el material está dentro de `LaBandita.zip`, conserva su estructura y comprueba la integridad del ZIP después de editarlo.
+- Si cambias un documento central, edita su fuente en `docs/` y ejecuta `python tools/sync_core_docs_to_zip.py`; luego `python tools/sync_core_docs_to_zip.py --check` para comprobar que el paquete coincide y es íntegro.
 - No publiques, borres ni muevas material fuera del repositorio sin autorización expresa.
 
 ### 5. Comprueba tu propio trabajo
