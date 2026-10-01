@@ -35,6 +35,26 @@ Esta revisión no intenta hacer crecer el archivo ni certificar que el texto ant
 
 **Decisión editorial:** conservar las enseñanzas duraderas, fechar su origen, separar cita de interpretación y convertir cada una en una práctica comprobable. Los ejemplos fechados no se reutilizan como hechos actuales.
 
+**Trazabilidad de las entradas de V.22:** las 23 entradas fechadas se revisaron y se consolidaron en las 17 lecciones actuales; la agrupación evita repetir la misma regla y permite rastrear cada origen.
+
+| Entradas anteriores | Lección revisada |
+|---|---|
+| 2026-09-11; 2026-09-15 (II) | 1 — humildad y crítica |
+| 2026-09-13; 2026-09-13 (II); 2026-09-13 (III) | 2, 3 y 4 — integridad, verdad con cuidado y experiencia declarada |
+| 2026-09-14; 2026-09-15 (III); 2026-09-15 (V) | 5 — ritmo sostenible |
+| 2026-09-14 (II) | 6 — traducir la intención con claridad |
+| 2026-09-14 (III); 2026-09-14 (V) | 7 — comprobar enlaces, existencia y significado de métricas |
+| 2026-09-14 (IV) | 8 — explorar con propósito |
+| 2026-09-15 | 9 — comprobar el detalle |
+| 2026-09-15 (IV) | 10 — adaptar el método al contexto |
+| 2026-09-15 (VIII); 2026-09-22 (I) | 11 — completar el alcance y retomar desde un estado comprobado |
+| 2026-09-15 (VII); 2026-09-16 (I) | 12 — mejorar, aprender del fallo y no perseguir perfección |
+| 2026-09-22 (II) | 14 — adaptar el formato al uso |
+| 2026-09-22 (III) | 13 — claridad sin perder precisión |
+| 2026-09-22 (IV) | 15 — revisar la propia casa |
+| 2026-09-15 (VI) | 16 — investigar relaciones sin darlas por supuestas |
+| 2026-09-17 (I) | 17 — copiar datos de la fuente y verificar qué se contó |
+
 ### Canon-Cimiento V28-sep
 
 - Reunía 12 pilares, 8 operaciones y una puerta de aceptación; tenía la intención valiosa de traducir doctrina a trabajo diario.
