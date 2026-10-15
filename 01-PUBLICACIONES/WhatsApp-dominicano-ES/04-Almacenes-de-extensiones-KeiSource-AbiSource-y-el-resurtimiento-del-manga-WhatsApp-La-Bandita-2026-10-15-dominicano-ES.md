@@ -2,7 +2,7 @@ ALMACENES DE EXTENSIONES: LA BODEGA QUE ABASTECE TU LECTOR (KeiSource y las fila
 
 Quién resurtió el pasillo del manga en 2026 — cuatro índices, dos forks hermanos y la mudanza de número que casi nadie contó — todo con placa literal, estrellas y horas de HOY. Sin islas dinámicas, solo la mercedería abierta y el candado puesto.
 
-🌱 LA SEMILLA
+*🌱 LA SEMILLA*
 
 Dominicana lectora, de las de club de lectura y colmado. Cuando al colmado de la esquina lo cerraron por remodelación, el barrio no aprendió a comprar en otra parte por anuncio: aprendió porque don Pedrito, el del depósito de arroz, abrió un cuaderno gigante en su puerta. Ese cuaderno se llamaba EL INVENTARIO: cada mañana él escribía qué había llegado, qué se había acabado, qué marca era la original y cuál era «la de la competencia que vende igual». La gente no iba a su depósito a echarse el arroz al costal: iba A LEER EL CUADERNO, para luego comprar cada artículo en su tiendecita. Don Pedrito no vendía el arroz él mismo: él era el inventario del barrio. Y lo mejor: el cuaderno era público, fechado cada día, y su lápiz no se movía para premiar a nadie — se movía porque la mercancía así llegaba.
 
@@ -18,7 +18,39 @@ Primero, lo que quedó vigente letra por letra sobre índices, APKs de fuente mi
 
 ───────────────────
 
-⚡ LA GUÍA EN UNA PÁGINA
+*🗺️ MAPA DE ESTA GUÍA*
+
+```
+├── 🌱 LA SEMILLA  · ~2 min
+├── ⚡ LA GUÍA EN UNA PÁGINA  · ~2 min
+├── 🧠 MAPA MENTAL DE LA PALABRA CLAVE: «ÍNDICE»  · ~1 min
+├── 🧬 LO QUE SIGUE VIGENTE, LETRA POR LETRA  · ~3 min
+├── 📌 LA MUDANZA DEL CUADERNO CENTRAL  · ~9 min
+├── 🧪 LA BRIGADA DE AUTOVERIFICACIÓN  · ~2 min
+├── 🔍 MITOS QUE TODAVÍA COBRAN MIRONES  · ~4 min
+├── 🔧 TALLER PRÁCTICO: CAMBIAR DE ÍNDICE SIN PERDER  · ~2 min
+├── 🧭 LA LECTURA EN 2×2: QUIÉN NECESITA QUÉ  · ~2 min
+├── 🔎 LA COMPARACIÓN DE PRECISIÓN: TIPOGRAFÍA DEL  · ~2 min
+├── 📦 LA CLASE DE LOS PAQUETES  · ~1 min
+├── ❓ PREGUNTAS FRECUENTES RECALENTADAS  · ~4 min
+├── 📖 GLOSARIO DEL DÍA (las palabras con ficha)  · ~2 min
+├── 📱 ESCENARIO «SI LA BODEGA CIERRA DE NOCHE»  · ~1 min
+├── 📜 CRÓNICA DEL CUADERNO DE DON PEDRITO  · ~2 min
+├── 😄 EL MEME DE LA PIEZA: EL INVENTARIO  · ~3 min
+├── 🎓 LOS TRES ESCENARIOS DE APRENDIZAJE DE UN  · ~2 min
+├── 📢 NOTA PARA EL GRUPO QUE SIGUE PREGUNTANDO  · ~3 min
+├── 🌐 EL VECINDARIO COMPLETO EN UNA MIRADA  · ~1 min
+├── 🧮 LO QUE APRENDÍ ESTA MAÑANA, CONTADO EN FICHA  · ~4 min
+├── 🔗 FUENTES SEÑALADAS CON SU FECHA DE VISTA  · ~1 min
+├── 📝 NOTA DE VERIFICACIÓN — 22 DE SEPTIEMBRE DE  · ~2 min
+└── 📎 VERSIÓN COMPACTA (por si solo lees esto)  · ~1 min
+```
+
+───────────────────
+
+⏱️ *Lectura total: 56 min*
+
+*⚡ LA GUÍA EN UNA PÁGINA*
 
 • El concepto, igual de válido hoy: tu lector (Mihon, Aniyomi, Dantotsu, forks) NO trae fuentes adentro. Las trae de un índice público — un catalogo compilado que el mantenedor publica y tu app consulta. Un índice ≠ tienda de apps: solo empaquetan PARSERS. Las extensiones en sí (los APKs) viven en la entrega del catalogo.
 
@@ -30,7 +62,7 @@ Primero, lo que quedó vigente letra por letra sobre índices, APKs de fuente mi
 
 ───────────────────
 
-🧠 MAPA MENTAL DE LA PALABRA CLAVE: «ÍNDICE»
+*🧠 MAPA MENTAL DE LA PALABRA CLAVE: «ÍNDICE»*
 
 EL CUADERNO — la fuente no vive en el APK: vive en el índice público que se actualiza solo. Mi pregunta: ¿quién escribe el cuaderno, con qué frecuencia, y qué firma pone en cada línea?
 
@@ -42,7 +74,7 @@ LA MUDANZA — si el cuaderno central se reordena (agosto: tags 2.x, lib 16), no
 
 ───────────────────
 
-🧬 LO QUE SIGUE VIGENTE, LETRA POR LETRA (la madre no caducó en su meollo)
+*🧬 LO QUE SIGUE VIGENTE, LETRA POR LETRA (la madre no caducó en su meollo)*
 
 La Comunidad repite desde 2024 una triple realidad que esta guía no piensa cambiar aunque el índice se reordene tres veces más:
 
@@ -60,7 +92,7 @@ Cuarto repaso — el conocido «error 403 o Cloudflare»: a veces la fuente vive
 
 ───────────────────
 
-📌 LA MUDANZA DEL CUADERNO CENTRAL (agosto 2026, contada paso a paso)
+*📌 LA MUDANZA DEL CUADERNO CENTRAL (agosto 2026, contada paso a paso)*
 
 Aquí la noticia técnica del trimestre que casi nadie uniformó en las guías. Con sólo abrir la casa keiyoushi/extensions esta mañana, el registro público cuenta la historia así:
 
@@ -71,18 +103,18 @@ antes del 5 de agosto:   la bodega trabajaba igual que
                            del tipo «2024.1.x» (la edición
                            anterior decía «1.6 activa» con
                            recibo del 14-sep).
-entre el 5 y el 13-ago:   aparece en el log público esto literal:
+entre el 5 y el 13-ago:  aparece en el log público esto literal:
                            «WIP: Collection extension/repo
                            migration(s)» (5-ago, release 2.0)
                            y «Reinitialize release-based
-                           extensions repo» (13-ago, release 2.1).
+                         extensions repo» (13-ago, release 2.1).
                            Traducción: vaciaron el cuaderno y
                            re-empaquetaron TODO el inventario.
 hoy, 22-sep:               los releases del índice viven en tags
                            «2.x»: 2.1.3 (5-sep), 2.2 (15-sep),
                            2.3 (20-sep, anteayer). Y los commits
                            de la familia manga/anime ya hablan
-                           de «lib 16» (la versión de la librería
+                          de «lib 16» (la versión de la librería
                            de soporte) — la sucesora natural del
                            «1.6» de hace semanas.
 ```
@@ -101,7 +133,7 @@ Si tu reader indicó «smaller repo incompatible» o «migrar al repo nuevo» en
 
 *Fila C — el rehijo individual: suwayomi/extensions.* Caja registrada 15-sep (★636, 1 push) y HOY sin cambio en ella (reportado a vara de fecha, no al entrar): la corriente de la bodega central no se detuvo por su soledad — sus cambios «de usuario final son cero» y eso se quedó cero a la vista. Pero atento, porque el mensaje sigue valiendo oro: un fork puede parir (como parió) todos los calles: el índice oficial de Suwayomi v2.0 vive de manera independiente dentro del fork del consorcio, y particular los movers maníacos del escritorio leen este rastro como si le desadornas el solplic.
 
-*Fila D — la gemela anime: yuzono/anime-extensions.* ★439 (500† estimado del viejo 432: margen de la ira: tu cálculo, hoy). Commit activo HOY — hace 3 horas: «Add Source AniPM EN» (la fuente nueva del día). Secuencia de la semana afectada a lib 16: el día 16 hicieron «LegacySource for lib-16 compatibility», el 17 «Keiyoushi Network Import», el 12 clásico «AnimePahe: Fix» (los botones de los items: reducción, respeto). Y es el dato clave de la semana anime: Aniyomi ya está del lado de la v17 (su commit del 14-sep en su pieza vecina de la 06): la ramificación manga ya se consume por lib 16, la anime por v17-lib — dos números diferentes que le dicen al usuario novato «¿cómo es compatible mi lector?»: coincide tu lector con tu tipo de media y te ahorras el 90% de los chooses telearrelejados de los grupos. La búsqueda de legado: «[Legacy] Source for lib-16 compatibility» == parches de transición exclusivos del cambio. Irónicamente te enamoras de la compat librera, e ignora la lag astrada.
+*Fila D — la gemela anime: yuzono/anime-extensions.* ★485 (500† estimado del viejo 432: margen de la ira: tu cálculo, hoy). Commit activo HOY — hace 3 horas: «Add Source AniPM EN» (la fuente nueva del día). Secuencia de la semana afectada a lib 16: el día 16 hicieron «LegacySource for lib-16 compatibility», el 17 «Keiyoushi Network Import», el 12 clásico «AnimePahe: Fix» (los botones de los items: reducción, respeto). Y es el dato clave de la semana anime: Aniyomi ya está del lado de la v17 (su commit del 14-sep en su pieza vecina de la 06): la ramificación manga ya se consume por lib 16, la anime por v17-lib — dos números diferentes que le dicen al usuario novato «¿cómo es compatible mi lector?»: coincide tu lector con tu tipo de media y te ahorras el 90% de los chooses telearrelejados de los grupos. La búsqueda de legado: «[Legacy] Source for lib-16 compatibility» == parches de transición exclusivos del cambio. Irónicamente te enamoras de la compat librera, e ignora la lag astrada.
 
 *Fila E — el molde dormido: keivom/extension-anime.* Sorpresa brunch-spirited de la mañana: el aparato overnight del Kamila continúa: su bot («keivom-bot») empujó la rama master/builds esta misma madrugada — no hay tratañezas detectadas en hoy: el cruce de tareas milenarias reproducidas por computadora. La edicion madre lo fichó con su día de datos; hoy es igual: molde con cuaderno diario al bot de la estrella que sigue super centinela (nunca su fuente de preferencia, solo la suya de quien ellas lo mantienen). Escrito en su legajo con cariño: está bien que cada casa tenga su propio depósito; malo es cuando los «depósitos» paren de visitarte a ti sin tu consentimiento.
 
@@ -115,7 +147,7 @@ Si tu reader indicó «smaller repo incompatible» o «migrar al repo nuevo» en
 
 ───────────────────
 
-🧪 LA BRIGADA DE AUTOVERIFICACIÓN (cinco minutos, sin creerte a nadie)
+*🧪 LA BRIGADA DE AUTOVERIFICACIÓN (cinco minutos, sin creerte a nadie)*
 
 La pieza más útil del día: cómo mides tú la salud de CUALQUIER índice sin confiar en esta guía siquiera. El ritual de las cinco luces, validado esta mañana una vez más:
 
@@ -141,7 +173,7 @@ Lo mismo para el RUNNER (la copia de tu lector que apecha sus builds): verifica 
 
 ───────────────────
 
-🔍 MITOS QUE TODAVÍA COBRAN MIRONES (cuatro desmentidos con recibo del día)
+*🔍 MITOS QUE TODAVÍA COBRAN MIRONES (cuatro desmentidos con recibo del día)*
 
 *Mito 1 — «añadir el índice ya me da las fuentes en español».»* Mitad verdadera y mitad represor: el índice central es biblioteca, no buffet linquistíco; incluye parsers en inglés, japonés, chino, vietnamita (el cuaderno de Cuong-Tran), francés, español, etc. Tu lector te Filtra por idioma — y ese filtro es tuyo, no del repo. Si ves una extensión cuya fuente es en inglés léelo como lo que es: un parser del tomo en su idioma, no una nominación a contenido: navega con la lupa desde el moro de tu ingles or go to index of idiome con tu flag.
 
@@ -165,7 +197,7 @@ Lo mismo para el RUNNER (la copia de tu lector que apecha sus builds): verifica 
 
 ───────────────────
 
-🔧 TALLER PRÁCTICO: CAMBIAR DE ÍNDICE SIN PERDER LA CALMA (la mudanza controlada)
+*🔧 TALLER PRÁCTICO: CAMBIAR DE ÍNDICE SIN PERDER LA CALMA (la mudanza controlada)*
 
 Cuando llegue el día de mudarte de índice — porque el central cierra la persiana, porque decide migrar su modelo, o porque detectas una casa más afin a tu lectura — el orden es el siguiente, ya enseñado en el barrio y re-enseñado esta mañana:
 
@@ -183,7 +215,7 @@ Cuando llegue el día de mudarte de índice — porque el central cierra la pers
 
 ───────────────────
 
-🧭 LA LECTURA EN 2×2: QUIÉN NECESITA QUÉ (la matriz rápida del censo)
+*🧭 LA LECTURA EN 2×2: QUIÉN NECESITA QUÉ (la matriz rápida del censo)*
 
 Decisión por perspectiva. Si perteneces a cada una, este es el fifty/debatle rápido con info de hoy:
 
@@ -197,7 +229,7 @@ Decisión por perspectiva. Si perteneces a cada una, este es el fifty/debatle r�
 
 ───────────────────
 
-🔎 LA COMPARACIÓN DE PRECISIÓN: TIPOGRAFÍA DEL DATO DEL DÍA
+*🔎 LA COMPARACIÓN DE PRECISIÓN: TIPOGRAFÍA DEL DATO DEL DÍA*
 
 Nota de oficio que ningún otro report de este barrio hace: cómo reporta esta familia cada número. Con relación a hora: cada commit/publicación lleva la hora APROXIMADA como «hace N horas» leyendo directamente el log de GitHub al momento del conteo — no de memoria, no de la captura de otro. Con relación a estrellas: las doy en el redondeo de la página al registrar el día (15.0k, 2.7k…) y no persigo decimales: lo que importa es el orden y la movilidad, nunca la fracción cortés (¿Te dijo alguna guía 15.004 o 15.010? A ti te basta 15.0k y la comunidad se junta igual a su lado). Con relación a «versions tags»: fechas de calendario universal en castellano («20-sep» significa 20 de septiembre de 2026, cualquier hora) — no GMT, no convencion militar. Nuestra razón: cualquiera con su propio teléfono abre la misma página y confirma o corrige con su propia vara — si las horas bailan un minuto del mostrador. Publicar con humildad siempre funcionó mejor que publicar con fanfarria.
 
@@ -211,7 +243,7 @@ El médico de cabecera de esta serie — tranquila, que no tuvo que asistir — 
 
 ───────────────────
 
-📦 LA CLASE DE LOS PAQUETES (APK legítimo vs APK genérico, una repasada que vive)
+*📦 LA CLASE DE LOS PAQUETES (APK legítimo vs APK genérico, una repasada que vive)*
 
 Decía la madre y sigue vivo el mensaje con recibo de hoy: el riesgo público número uno del pasillo no es que «te roben el teléfono»: es que el enganche de la cadena se murió. Lo comparamos en tres renglones:
 
@@ -236,9 +268,9 @@ Y el APK bueno, tu prueba final: borrado volúntaire re-instalarlo desde el índ
 
 ───────────────────
 
-❓ PREGUNTAS FRECUENTES RECALENTADAS (las doce, con respuestas del día)
+*❓ PREGUNTAS FRECUENTES RECALENTADAS (las doce, con respuestas del día)*
 
-*¿Puedo quitar el índice y seguir leyendo lo ya instalado?* Sí — tus extensiones instaladas no dependen del índice para leer (habí the APK bajado al teléfono). Directamente NO dependen para actualizar: eso es lo único que pierdes temporalmente. De ahí el «qu`itarselo de repente» no entraña desaparición de nada.
+*¿Puedo quitar el índice y seguir leyendo lo ya instalado?* Sí — tus extensiones instaladas no dependen del índice para leer (el APK ya bajado al teléfono). Directamente NO dependen para actualizar: eso es lo único que pierdes temporalmente. De ahí el «quitárselo de repente» no entraña desaparición de nada.
 
 *¿El índice central ahora es 2.x: tengo que migrar yo?* El ecosistema se reordenó release-based entre 5-13-ago: la mayoría no tiene que hacer nada (su lector leyó la migración del propio índice). Solo si tu reader dice «repo incompatible/migrar» en el panel: sigue la indicación del indice (sus instrucciones están en su README, paso 2).
 
@@ -264,7 +296,7 @@ Y el APK bueno, tu prueba final: borrado volúntaire re-instalarlo desde el índ
 
 ───────────────────
 
-📖 GLOSARIO DEL DÍA (las palabras con ficha)
+*📖 GLOSARIO DEL DÍA (las palabras con ficha)*
 
 Índice (repo, cuaderno): el catálogo público que el lector consulta para saber qué extensiones existen y desde dónde bajarlas. No es tienda: es inventario.
 
@@ -286,7 +318,7 @@ Migrar (título): re-pointar un manga de tu biblioteca desde una extensión muer
 
 ------------------
 
-📱 ESCENARIO «SI LA BODEGA CIERRA DE NOCHE» (plan B, C y D — ya pensados)
+*📱 ESCENARIO «SI LA BODEGA CIERRA DE NOCHE» (plan B, C y D — ya pensados)*
 
 *Plan B — mi índice no refresca un día:* respira: una tarde de lag del bot no es blackout (están este mes el schedule de la casa central: 19 horas es la regla esta semana, pero se desmarca— «altis month's+mangage to change». Verifica paso 5 antes de anunciar estop en grupo). Tus extensiones instaladas siguen leyendo igual. Esperé 24-48 h, y tengo el nombre del Único backup de respaldo apuntado en mi nota (mi segundo índice apenas anotado, no instalado). Muero anchisu si el modelo falla por un día: no es emergencia.
 
@@ -296,13 +328,13 @@ Migrar (título): re-pointar un manga de tu biblioteca desde una extensión muer
 
 ───────────────────
 
-📜 CRÓNICA DEL CUADERNO DE DON PEDRITO (la historia corta del mes)
+*📜 CRÓNICA DEL CUADERNO DE DON PEDRITO (la historia corta del mes)*
 
 La del taller que aprendió a abastecer el barrio. Don Pedrito vendía arroz desde 1998, pero su depósito nunca fue famoso por el arroz: era famoso por EL CUADERNO —la libreta gigante donde anotaba cada provisión. Cuando el colmado cerró, el barrio no fue a otro colmado: fue al cuaderno. Di ferencias que no dijeron la versión abuelita: uno, cada mañana el cuaderno escribía el día y la hora (a las 5:45, lápiz bien sacao); dos, la letra de Pedrito era pública sin pedir reseílla ni limosna — la fila de compradores la leía todos en orden; tres, jamás le ensuciaron la libreta: nunca una «cuenta de ahorros» recomendada por el cuchitril, nunca un pollo sin origen; cuatro, cuando llegó el jón, la borra, la sigla, la parafrase: cada una tenía su fecha de llegada. Un día el cuaderno se reordenó —el problema de agosto de este taller de palabras: primero llegaron los libros al revés para recopilar el inventario entero, luego los re-empacaron en estanterías con numeros distintos (la release-based del tallercito) — y el barrio entró en pánico dos días al no encontrar «el paquete de abajo a la derecha» en su sitio. Don Pedrito solo les escribió en la primera hoja: «el arroz es el mismo: el estante nuevo tiene su etiqueta». Nadie murió de hambre; todos encontraron su saco a la semana. Hoy el cuaderno se llena con lápiz semi-automático — el bot dibujito armado por sus nietos: el joven que le sabe al computé, y la sincronía lo empuja a las tres de la mañana — y el buen lector de este pueblo ya no pregunta «¿quién me vende arroz»: pregunta «¿a qué hora se actualiza el cuaderno del depósito». Hay que hacerle zancazo con el estudio: eso es ni más ni menos cómo funciona un índice de bodega del software libre — ni sabiduría suprema, ni magia: solo un cuaderno, público, fechado, y una comunidad que lo lee ordenada sin quemarse el polvo por el ojo.
 
 ───────────────────
 
-😄 EL MEME DE LA PIEZA: EL INVENTARIO
+*😄 EL MEME DE LA PIEZA: EL INVENTARIO*
 
 Dibújate mental: colmado en reposo, madrugada total.
 
@@ -350,7 +382,7 @@ Cada sobrealarmada tenía su origen comiendo tono: se resolvió con recibo sano 
 
 ───────────────────
 
-🎓 LOS TRES ESCENARIOS DE APRENDIZAJE DE UN NOVATO DEL ÍNDICE (se juega contigo, uno por uno)
+*🎓 LOS TRES ESCENARIOS DE APRENDIZAJE DE UN NOVATO DEL ÍNDICE (se juega contigo, uno por uno)*
 
 Onda corta del taller: si estás aprendiendo el cuidado de lectores libres con placa, estos tres escenarios te pondrán a oír las campanas según tocan, no según huelen.
 
@@ -362,7 +394,7 @@ Onda corta del taller: si estás aprendiendo el cuidado de lectores libres con p
 
 ───────────────────
 
-📢 NOTA PARA EL GRUPO QUE SIGUE PREGUNTANDO «¿CUÁL ES EL NUEVO ÍNDICE BUENO?»
+*📢 NOTA PARA EL GRUPO QUE SIGUE PREGUNTANDO «¿CUÁL ES EL NUEVO ÍNDICE BUENO?»*
 
 Con la respuesta absoluta y sin el rebardero naranja: el hoy oficial del cuaderno manga es el central que tu reader te sugiere al declarar (su bot actuó hace 19 horas) e instalaciones de día completas. Pero la respuesta correcta, la de la vara, no es el nombre: es que «Índice bueno» se define por la hora más reciente de su lápiz, no por el rótulo de su logo. La guía que necesitas ya la tienes: la brigada de cinco luces de la página anterior. No confíes en el censo de cuando publicamos si tu propio minuto muestra otra cosa — sobre nosotros también haya que verificar, con las mismas manos: así se cultiva un barrio que no necesita ni líderes ni carteles para saber leer al inventario.
 
@@ -386,13 +418,13 @@ Y todos, en conjunto, te dicen «nada de trucos» un fin de semana más: ninguna
 
 ───────────────────
 
-🌐 EL VECINDARIO COMPLETO EN UNA MIRADA (los conectores de esta pieza)
+*🌐 EL VECINDARIO COMPLETO EN UNA MIRADA (los conectores de esta pieza)*
 
 Esta guía se para sola pero se entiende mejor en su familia — las relaciones que realmente se usan al vivirla. De los lectores: la pieza 06 (forks lectores, publicada la tarde de esta misma jornada) lleva el censo de quién consume estos índices (michiyomimihon, copymanga, tus Mihon/Aniyomi/Dantotsu de cabecera) — si tu pregunta va sobre la app, va allá: nosotros llevamos la bodega, ellos los muebles. De los archivos y herramientas: la pieza 02 (proyectos hermanos) explica cómo funcionan las casas web (Suwayomi en escritorio con su servidor, Tachidesk) y su vinculo nativo con la fila B — si lo que te ronda es la copia de biblioteca al PC, abrió sus ventanas ayer. De la fiesta semanal: la madre citable de antigüedad vive en la carpeta _versiones (15-sep) — toda comparación se hace contra ella con recibo de cuaderno, no de memoria. De la apasionante al final que debe esquivar el paracaidismo: la guía de mejores prácticas de biblioteca (la 03), donde están los memos de migración de títulos y respaldos cada viernes. Tu ruta para hoy queda así: lee esta bodega al 100%, práctica de la brigada 5-luces este viernes, y la próxima semana te atreves con la de forks lectores con la misma vara —es el programa del taller, no el anuncio del Mundo.
 
 ───────────────────
 
-🧮 LO QUE APRENDÍ ESTA MAÑANA, CONTADO EN FICHA CORTA (siete apuntes sin jalea)
+*🧮 LO QUE APRENDÍ ESTA MAÑANA, CONTADO EN FICHA CORTA (siete apuntes sin jalea)*
 
 *Apunte 1:* el índice central ahora publica en su README la ruta del archivo bruto para forks (index.json, index.min.json, index.pb — tres formatos servidos) — con eso cualquiera puede armarse su motor sin ver más secretaria manual: la bodega enseña su cuaderno completo, no solo al mostrador. No lo necesitas tú (usuario), pero lo vive quien construye (desarrollador) — y eso re-sirve el barrio.
 
@@ -412,11 +444,11 @@ Esta guía se para sola pero se entiende mejor en su familia — las relaciones 
 
 🛠️ CÓMO SE VERIFICÓ ESTA PIEZA (método y vara de hoy)
 
-Primero, la madre re-leía completa: cada sección de la edición del 15-sep se marcó en un inventario de verificaciones — fichas de índices (cuatro más los dos runners), fechas de medición (14-sep), principios (índice = cuaderno, Tienda ≠ índice, APK genérico = trampa), casos de tomos difuntos, crónica del rehijo de Suwayomi, mudanza de numero «1.6». Segundo, verificación viva levantada esta mañana a la hora del té: keiyoushi/extensions con su bot a h19 horas y tag 2.3 al 20-sep confirmado, Suwayomi/tachiyomi-extension con su rebase (172 beyond) y ktlint del 18-sep, ellos haciendo menudo los brigadieres de Github Actions, yuzono/anime-extensions con su commit de hace 3 horas y la legacy-branch de la lib 16 como sigue living, cuong-tran/manga-repo con push de hace 6 horas y estrellas subidas, los runners listados copymanga v9.8.0 del 21-sep y michi v0.3.1 del 3-sep. Tercero, lo que esta guía no pudo comprobar y se dice tal cual con fecha: las estrellas exactas de caille secundarios (extensions-source, SkyHanni, aceso a F-Droid catalogo) se citan a los 14-sep cuando se midió por última vez, y la lectura de doubles file no fue realizada en materia cuantitativa no medida hoy. Cuarto, la vara de la casa: modo conteo por longitud de caracteres sin espacios dando humildad por bandas (banda 62.000–64.000 para WhatsApp), anatomía del día completa (el labio del mapa, el cuaderno, la brigada, mitos, facturas, FAQ, glosario, crónica, meme, método), titular sin número de publicación, firma y tags al final. Y quinto, la costumbre de la epistemología de este taller: toda tabla de la que no se verificó personalmente en la casa correspondiente hoy se etiqueta con su fecha de última verificación o se omite, y ninguno «30% de mejora» diferentes sin recibo cuantificable y sin que nadie se las crea.
+Primero, la madre re-leía completa: cada sección de la edición del 15-sep se marcó en un inventario de verificaciones — fichas de índices (cuatro más los dos runners), fechas de medición (14-sep), principios (índice = cuaderno, Tienda ≠ índice, APK genérico = trampa), casos de tomos difuntos, crónica del rehijo de Suwayomi, mudanza de número «1.6». Segundo, verificación viva levantada esta mañana a la hora del té: keiyoushi/extensions con su bot a h19 horas y tag 2.3 al 20-sep confirmado, Suwayomi/tachiyomi-extension con su rebase (172 beyond) y ktlint del 18-sep, ellos haciendo menudo los brigadieres de Github Actions, yuzono/anime-extensions con su commit de hace 3 horas y la legacy-branch de la lib 16 como sigue living, cuong-tran/manga-repo con push de hace 6 horas y estrellas subidas, los runners listados copymanga v9.8.0 del 21-sep y michi v0.3.1 del 3-sep. Tercero, lo que esta guía no pudo comprobar y se dice tal cual con fecha: las estrellas exactas de caille secundarios (extensions-source, SkyHanni, aceso a F-Droid catalogo) se citan a los 14-sep cuando se midió por última vez, y la lectura de doubles file no fue realizada en materia cuantitativa no medida hoy. Cuarto, la vara de la casa: modo conteo por longitud de caracteres sin espacios dando humildad por bandas (banda 62.000–64.000 para WhatsApp), anatomía del día completa (el labio del mapa, el cuaderno, la brigada, mitos, facturas, FAQ, glosario, crónica, meme, método), titular sin número de publicación, firma y tags al final. Y quinto, la costumbre de la epistemología de este taller: toda tabla de la que no se verificó personalmente en la casa correspondiente hoy se etiqueta con su fecha de última verificación o se omite, y ninguno «30% de mejora» diferentes sin recibo cuantificable y sin que nadie se las crea.
 
 ───────────────────
 
-🔗 FUENTES SEÑALADAS CON SU FECHA DE VISTA
+*🔗 FUENTES SEÑALADAS CON SU FECHA DE VISTA*
 
 keiyoushi/extensions — abierto HOY 22-sep-2026, con bot paseando hace 19 horas y releases 2.x en curso (2.3 del 20-sep vigente)
 Suwayomi/tachiyomi-extension — HOY, con su rama al nuevo punto 172-beyond tras el rebase de agosto
@@ -431,7 +463,7 @@ El material de la pieza vecina 06 (forks lectores) y de la 02 (proyectos hermano
 
 ───────────────────
 
-📝 NOTA DE VERIFICACIÓN — 22 DE SEPTIEMBRE DE 2026
+*📝 NOTA DE VERIFICACIÓN — 22 DE SEPTIEMBRE DE 2026*
 
 Todas las medidas de este censo con estrellas y hora fueron tomadas esta mañana abriendo cada página de GitHub nombrada (donde no hay duda), con timestamp del commit visible en el log público. Los valores de estrellas se redondean al indicador propio de las páginas (15.0k, 2.7k, 439, 742, 1.1k): con precisión honesta de mostrador, que nunca altera el orden de mayor a menor que esta guía te sirve. La re-inicialización de agosto está constada por las señales literales de los releases (`WIP: Collection extension/repo migrations` 5-ago, `Reinitialize release-based extensions repo` 13-ago) y los cambios de contabilidad del árbol — no por especulación de calle. Los «dormidos» (suwayomi/extensions ★636, keivom) se citan a su placa del 15-sep, declarado ahí donde esta pieza no fue a medir de nuevo. Lo histórico (Tachiyomi removal de su lista oficial enero-2024, cierres de tomos 0yu/cameranovels) se sostiene en su registro de días de entonces. Ningún dato de memoria sola: cada ficha lleva el verificador concreto junto al nombre del dueño. Si después de publicado aparece alguna discrepancia, se corrige aquí con fecha de corrección — el registro de errores es parte de la vara, no un extra al margen.
 
@@ -445,7 +477,12 @@ Busca más, porque los mejores lectores son los que verifican antes de creer. Co
 
 ───────────────────
 
-📎 VERSIÓN COMPACTA (por si solo lees esto)
+*PULSO AL CORTE — 15-OCT ~15:00 (mapa vivo #2)*
+
+yuzono ★439 -> ★485 (15-OCT). El resto de las filas
+conserva su lectura fechada. Caja apilada, nada borrado.
+
+*📎 VERSIÓN COMPACTA (por si solo lees esto)*
 
 Los almacenes de extensiones son el ÍNDICE que empaqueta las fuentes de tu lector (mueble vacío + cuaderno comunitario). Censo de hoy 22-sep-2026: índice manga central con bot activo hace 19 horas (releases 2.3 del 20-sep), su fork del consorcio Suwayomi con rebase de agosto y push del 18-sep, la rama anime con commit de hace 3 horas, el molde-bot diario, el cuaderno manual vietnamita con push de hace 6 horas y +110★ en semana, y los runners vigentes (copymanga 9.8.0 ayer / michi 0.3.1 del 3-sep). La renovación grande del trimestre: la bodega central re-empaquetó su cuaderno release-based (5-13 ago) y hoy hablamos de lib 16/v17 — todos constados en abrojos públicos. Las tres tareas: índice ≠ tienda de apps, fuentes se instalan/actualizan dentro del lector tras declarar el índice, APKs de «pack de extensiones» son siempre mal pote. Regla madre: verifica la hora del bot, no el vértigo del grupo.
 

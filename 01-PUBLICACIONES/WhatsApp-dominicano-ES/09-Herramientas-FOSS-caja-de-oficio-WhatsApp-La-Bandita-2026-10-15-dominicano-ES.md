@@ -2,7 +2,7 @@ LA CAJA DE OFICIO DEL TELÉFONO, QUINCE PIEZAS MEDIDAS UNA POR UNA ESTA MAÑANA
 
 Galería, archivos, llaves, segundo factor, transferir, conectar, sistema, mapas e instalaciones — cada pieza con su repo abierto al mediodía, su push de las últimas horas confirmado, y la regla de la casa: quince que cubren el oficio, cero relleno.
 
-🌱 LA SEMILLA
+*🌱 LA SEMILLA*
 
 En mi barrio había dos ferreterías. La primera era un bolso: un señor con doscientas herramientas brillantísimas colgadas del techo, ninguna probada, todas con etiqueta de «la más moderna» — y cuando le pedías un destornillador estrella te vendía uno que se doblaba al segundo tornillo, porque a destornillar no aprendió nadie nunca. La segunda era una caja: don Esteban, que tenía quince herramientas contadas — están oxidadas algunas, sí — pero tú le decías «me tengo que colgar un cuadro de tres libras pared de block» y él metía la mano sin mirar, sacaba el taladro exacto, la broca exacta y la taqueta exacta, y te decía: «con esto, sin la otra cosa». Esa ferretería no vendía herramientas: vendía oficio. Treinta años después, don Esteban sigue con las mismas quince — porque las mantiene.
 
@@ -12,7 +12,41 @@ Esta pieza es la caja de don Esteban para tu teléfono: quince herramientas libr
 
 Primero, la lectura rápida (guía en una página) con las quince piezas agrupadas por cajón. Después el CENSO COMPLETO por cajones con hora propia de hoy: galería y archivos (la familia Fossify entera + Amaze), llaves y segundo factor (KeePassDX + Aegis), transferir y conectar (LocalSend + Orbot), el cajón de sistema (Termux + App Manager + Shizuku — con la conversación honesta sobre su último push), mapas (Organic Maps), y la gestión de instalaciones (Obtainium, la pieza que gobierna a las demás). Sigue el taller de las tres reglas — por qué quince y no doscientas, cómo se afila cada pieza (el ritual del push), y la instalación gobernada (Obtainium explicado sin tecnicismo). Después: mitos del cajón («más apps = más poder», «Shizuku es root», «Termux es para hackers de película»), los escenarios del primerizo (qué poner primero, cómo no romperse con permisos), las preguntas frecuentes con respuesta de esta mañana, glosario, historia del ferretero, meme, método con sus horas y la nota de verificación con todo fechado. Como siempre: leer el censo toma más rápido de lo que impulsan tres fotos de compilación en el grupo de la cadena.
 
-⚡ LA GUÍA EN UNA PÁGINA
+*🗺️ MAPA DE ESTA GUÍA*
+
+```
+
+───────────────────
+
+⏱️ *Lectura total: 57 min*
+├── 🌱 LA SEMILLA · ~2 min
+├── ⚡ LA GUÍA · ~2 min
+├── 🧠 MAPA MENTAL · ~3 min
+├── 🔐 CAJÓN DOS · ~1 min
+├── 📲 CAJÓN TRES · ~1 min
+├── 🧰 CAJÓN CUATRO · ~3 min
+├── 📦 CAJÓN SEIS · ~4 min
+├── 🔬 LOS NÚMEROS · ~2 min
+├── 📌 POR QUÉ · ~3 min
+├── 🔧 OBTAINIUM EX · ~2 min
+├── 🔍 LOS MITOS · ~4 min
+├── 🧭 QUÉ PONER · ~1 min
+├── ❓ PREGUNTAS FR · ~5 min
+├── 🎭 LOS TRES · ~2 min
+├── 🧾 CASOS REALES · ~3 min
+├── 📜 LA HISTORIA · ~2 min
+├── 😄 EL MEME · ~1 min
+├── 📖 GLOSARIO DE · ~2 min
+├── 🧮 LÁMINA DE · ~2 min
+├── 🌐 EL VECINDARI · ~3 min
+├── 🔭 EL RADAR · ~4 min
+├── 🔗 FUENTES ABIE · ~1 min
+├── 📝 NOTA DE · ~1 min
+├── ✊ EL CIERRE · ~1 min
+└── 📎 VERSIÓN COMP · ~2 min
+```
+
+*⚡ LA GUÍA EN UNA PÁGINA*
 
 • Una buena caja de oficio no es larga: es completa. Quince piezas bastan si cada una afila su cuchilla con la hora marcada: si falta su oficio en esta guía, es porque hay tres que ya la cubren — no por omisión, por elección de limpieza.
 
@@ -22,7 +56,7 @@ Primero, la lectura rápida (guía en una página) con las quince piezas agrupad
 
 • Y la norma de cierre: si una herramienta pide más permisos que su oficio (una linterna que quiere tus contactos), sale de la caja por donde salía del taller de don Esteban el destornillador que se doblaba: por la puerta, a la basura, sin dramas y sin nostalgias de por medio.
 
-🧠 MAPA MENTAL: LA FERRETERÍA DE LAS QUINCE
+*🧠 MAPA MENTAL: LA FERRETERÍA DE LAS QUINCE*
 
 EL CAJÓN — no es todo lo brillante: es todo lo que trabaja. Una linterna con permiso de leer tus mensajes no entra ni gratis; una calculadora sin permiso alguno quizás sea perfecta, aunque borre sus mensajes. La caja se llena por oficio cumplido, nunca por anuncio cumplido.
 
@@ -40,29 +74,29 @@ EL RESPALDO — en el taller no se compraba destornillador nuevo si el viejo ten
 
 Fossify Gallery (FossifyOrg/Gallery) — ★3.721, push AYER 21-sep, rama main. Cuando las Simple Mobile Tools cambiaron de dueño y se llenaron de anuncios, la comunidad las bifurcó enteras y les puso casa propia — eso es Fossify. Su galería hace el oficio exacto sin más: fotos ordenadas, álbumes, editor sencillo, privacidad legible, cero cuenta. Lección histórica que sigue vigente: el software libre no depende de la voluntad de una marca; si la marca se corrompe, el código tenía los derechos para irse — y se fue, con su nueva señal, del momento, si estás en idd power herida.
 
-Fossify File-Manager (★1.776, push AYER) — el explorador de archivos sin anuncio ni nube: carpetas, mover, copiar, compartir por el sistema, sin drama. Su virtud es no tener ambición: gestiona y calla.
+Fossify File-Manager (★1.776, push 21-sep) — el explorador de archivos sin anuncio ni nube: carpetas, mover, copiar, compartir por el sistema, sin drama. Su virtud es no tener ambición: gestiona y calla.
 
 Fossify Phone (★1.335, push HOY 22-sep) — el marcador telefónico de repuesto: agenda, marcación, historial. Si tu teléfono viene con la app de llámala del fabricante llena de recomendaciones, este marcador alivia de forma limpia. Oficio diario, de nuevo, cocinado con nada.
 
 Fossify Calendar (★2.169, push HOY) — calendario personal sin cuenta ni sincronización forzada (aunque es compatible con los estándares de exportar ICS): si tu agenda no quiere visitar la nube de un grande, aquí no hace falta. También importable una vez (buenglosteeno).
 
-Fossify Clock (★702, push AYER) — despertador, temporizador, cronómetro. La pieza más humilde del set, y la que más rápido se echa de menos la mañana en que falta — cero acceso a tu red, cero permiso raro, su alarma sale sonando igual si estás en modo avión.
+Fossify Clock (★702, push 21-sep) — despertador, temporizador, cronómetro. La pieza más humilde del set, y la que más rápido se echa de menos la mañana en que falta — cero acceso a tu red, cero permiso raro, su alarma sale sonando igual si estás en modo avión.
 
 Amaze File Manager (TeamAmaze/AmazeFileManager) — ★6.399, push HOY, rama release/4.0 en vuelo (la nueva generación material en marcha). La alternativa declarada: si necesitas gestor de archivos con diseño Material You, paneles dobles, pestañas y una historia que ya dura años — y llevas de turned-lunch την desacreditación que viene de tocar la ristra — Amaze es tu pieza. Convive feliz con Fossify File-Manager: cada cual elige por preferencia, no por eslogan.
 
-🔐 CAJÓN DOS — LLAVES Y SEGUNDO FACTOR
+*🔐 CAJÓN DOS — LLAVES Y SEGUNDO FACTOR*
 
 KeePassDX (Kunzisoft/KeePassDX) — ★7.351, push del 15-sep, rama master. La bóveda de contraseñas del oficio: formato KDBX plano (interopera con todo el ecosistema KeePass del mundo), todo local o en la nube que TÚ elijas (si sincronizas, es tu disco, no el de un rosco), desbloqueo por huella clásica. Próximo a la versión anual con su historia de migraciones documentadas; su creador responde en issues con nombre propio. La posición del taller era clara desde la primera casa: contraseñas fuera de la cabeza y fuera de la nota adhesiva — pero adentro de una caja cuya llave real eres tú, no el servicio iniciar sesión el account manager mail empresarial de estranjé.
 
 Aegis Authenticator (beemdevelopment/Aegis) — ★13.145, push del 6-sep, rama master. Los códigos del segundo factor (TOTP/HOTP) en bóveda cifrada, con exportación cifrada opcional, y todavía compatible con la importación desde Google Authenticator si le naciste los dos brazos. Su insignia de oficio: hace exactamente lo anunciado — ni una métrica oculta, ni una suscripción embalsamada. Con Aegis, el segundo factor se convierte en patrimonio también si te roban el teléfono: exportaste tu bóveda cifrada la semana anterior, importaste al nuevo, sigues en pie. La pérdida devastadora del 2FA deja de ser devastadora.
 
-📲 CAJÓN TRES — TRANSFERIR Y CONECTAR
+*📲 CAJÓN TRES — TRANSFERIR Y CONECTAR*
 
 LocalSend (localsend/localsend) — ★92.492, push del 14-sep, rama main. Aquí cierro el rato tranquilo: con más estrellas que la mitad de los proyectos famosos de este sector, LocalSend es el herramientazo silencioso del año: AirDrop libre entre Android, iPhone, Windows, Mac y Linux, sin cuenta, sin servidores intermedios, sin límite de gigas nativo, comunicación por tu red local cifrada. En el taller del barrio transcurrido ya hace meses se convectía desde Android directo a computadora: una recepción que ni cobra ni deja huellas en ninguna carpeta corporativa. Por si lo dudas: es también pieza del ecosistema de compilación FOSS con directorio F-Droid entero — instalar es entrar a tu casa sin que nadie te haya visto entrar.
 
 Orbot (guardianproject/orbot-android) — ★3.565, push HOY, rama master. La otra mitad del capítulo: cuando necesitas que tu conexión viaje sin mostrar su punto de origen, Tor en el teléfono con apariencia amable — modo VPN de apps selectivas, protección de navegación cuando toca. El Guardian Project ha pasado la mejor temporada entera de su oficio; hazlo con intención: no es el aparato de la compra de rigidez, es la caja de herramientas de la residesía (periodistas, investigadores, cuidado de revueltos).
 
-🧰 CAJÓN CUATRO — SISTEMA (el cajón de los mayores)
+*🧰 CAJÓN CUATRO — SISTEMA (el cajón de los mayores)*
 
 Termux (termux/termux-app) — ★61.268, push del 16-sep, rama master. La terminal real en tu bolsillo: bash, paquetes con gestor propio, ssh, python, git — el sistema operativo-bolsillo que cabe dentro del sistema operativo. Su cadencia no es la de cada día, porque su oficio no requiere batalla constante — su log tiene fecha de hace seis días y llama a eso normal en la época. Si te preguntan «¿para qué quieres una terminal en el teléfono?»: para no depender de cuarenta apps que hacen lo que unos comandos bien escritos hacen mejor. Requisito de la casa: la usas si entiendes el comando que escribes; la caja responsable no le presta el torno al novel sin maestro cerca.
 
@@ -74,7 +108,7 @@ Shizuku (RikkaApps/Shizuku) — ★30.490, ÚLTIMO PUSH PÚBLICO: 18-JUNIO-2025,
 
 Organic Maps (organicmaps/organicmaps) — ★15.473, push HOY 22-sep, rama master. Mapas offline de verdad: descargas tu región entera una vez y la consultas sin red, sin cuenta, sin anuncio, sin rastreo; navegación coche-a-pie-bici con reglas documentadas del proyecto OpenStreetMap (la Wikipedia de los planos). Es la pieza que repara tu dependencia del cooombi toguríto comercial de mapas con registro en vivo, cuando vas por la carretera con su antenita que no carga esos seis kilómetros de montaña. Su política de datos figura entre las más limpias de cualquier compañía mapa en la decada del barrio.
 
-📦 CAJÓN SEIS — INSTALACIONES GOBERNADAS
+*📦 CAJÓN SEIS — INSTALACIONES GOBERNADAS*
 
 Obtainium (ImranR98/Obtainium) — ★19.887, push del 13-sep, rama main. La pieza sobre la que reposa el método de esta familia: no es una tienda — es un gestor programable de origen. Tú declaras las casetas (repos GitHub de las apps que usas); Obtainium visita esas casetas a tu frecuencia, compara con la versión que tienes, te avisa si hay una nueva consolidada y te deja actualizarte con un pase de botón. Ningún anuncio, ningún intermediario entre tu teléfono y el repositorio del proyecto. Resultado práctico: toda la caja del taller se mantiene actualizada sin Play Store, sin cadena de Telegram, sin «APKUpdaterPro.apk» — la ley del barrio cumplida en la práctica. (Ficha comercial completa, con sus limitaciones y la de los servicios internos como su instalación inicial desde F-Droid, va en la guía de tiendas desglosada: aquí permanece en su cajón gobernador.)
 
@@ -116,7 +150,7 @@ Y entre todos te dicen «la caja no es del que más tiene, es del que mejor la m
 
 ┄┄┄
 
-🔬 LOS NÚMEROS CON HISTORIA (los tres que hay que guardarse en la lengua)
+*🔬 LOS NÚMEROS CON HISTORIA (los tres que hay que guardarse en la lengua)*
 
 ★92.492 de LocalSend: el número que te hace respirar — no es «más grande que la tienda de dispositivos»; es más grande que varios de los grandes con millonaria de presupuesto. La moraleja es clásica y a la vez única de la pieza: millones de usuarios votan con su estrella el concepto «transferencia sin intermediario», concepto que el mercado adoró todo el año intentando venderte con su overhead sucio. Vuelvalo leer con calma, ¿dije.
 
@@ -126,7 +160,7 @@ Y entre todos te dicen «la caja no es del que más tiene, es del que mejor la m
 
 ┄┄┄
 
-📌 POR QUÉ QUINCE PIEZAS Y NO DOSCIENTAS (la defensa del corte)
+*📌 POR QUÉ QUINCE PIEZAS Y NO DOSCIENTAS (la defensa del corte)*
 
 La pregunta del crítico de afuera: «¿es que no hay doscientas herramientas FOSS excelentes que no incluiste?» Respuesta ya guardada en escritura: claro que las hay — Pe­ de decenas app-store-no pise. Estas quinmentas de corti teope al vara. Esta caja se presta a tres principios para evitar la sobreinfección del bolso:
 
@@ -156,7 +190,7 @@ Quinto: notar y descansar — reporte en tu libreta: «viernes, actualicé 4 pie
 
 ┄┄┄
 
-🔧 OBTAINIUM EXPLICADO SIN TECNICISMO (la escoba de toda la casa)
+*🔧 OBTAINIUM EXPLICADO SIN TECNICISMO (la escoba de toda la casa)*
 
 Cuando alguien escucha «gestor de fuentes de origen» imagina un panel de científico — la realidad es un listado simple que hace tres trabajos bien planificados:
 
@@ -170,7 +204,7 @@ Por qué no lo usan más: porque la costumbre de instalar desde la Play Store en
 
 ┄┄┄
 
-🔍 LOS MITOS DEL CAJÓN (cuatro desmentidos con recibo ya escrito)
+*🔍 LOS MITOS DEL CAJÓN (cuatro desmentidos con recibo ya escrito)*
 
 Mito uno — «más apps instaladas, más poder en tu teléfono»: al revés. La caja con quince afiladas tiene más oficio que el bolso de ciento cuarenta brillosas mal afiladas. Cada app duerme en RAM con sus notificaciones, aunque tu no la uses; la memoria no es infinita y la batería tampoco. El barrio que colecciona herramientas no las tiene — las acarrea. El taller prefiere el teléfono silencioso que trabaja, no el bolso que huele a nuevo siempre.
 
@@ -196,13 +230,13 @@ Riesgo cinco — Orbot tratado como magia: Tor en el móvil no es escenario de p
 
 ┄┄┄
 
-🧭 QUÉ PONER PRIMERO SI EMPIEZAS DE CERO (la escala del primerizo)
+*🧭 QUÉ PONER PRIMERO SI EMPIEZAS DE CERO (la escala del primerizo)*
 
 Día uno: tu bóveda de llaves — KeePassDX + contraseña maestra larga y única (con la regla de guardar esa única contraseña en papel sellado en casa — el útil más importante de la caja entera). Cambia las contraseñas clave esa misma tarde (correo, banco, esto), entrándose en la lógica de las dos semanas que llevará migrarlo todo con calma — nunca con carrera. Día dos: tu segundo factor — Aegis con los TOTP activos migrados uno a uno (si ya tenías Google Authenticator, importar desde ahí está documentado). Exportar la bóveda cifrada y guardarla fuera del teléfono, con fecha. Día tres: la galería, el explorador y el calendario — Fossify Gallery + File-Manager + Calendar — tres instalaciones limpias; la semana siguiente las usas hasta memorizarte sus gestos. Semana dos: LocalSend (transferencias), Organic Maps (descarga tu región). Mes uno: Amaze si te gusta diseño (opcional), App Manager si quieres ver de qué está hecha tu casa, Termux si aprendes el oficio del terminal con maestro, Orbot si tu perfil lo necesita — y Obtainium integrando el goto de todo lo que ya tienes manteniéndolo todo al día. Resultado en un mes: teléfono con su caja, biblioteca protegida y mucho menos ruido del sistema.
 
 ┄┄┄
 
-❓ PREGUNTAS FRECUENTES DE LA CAJA (recalentadas, con carne de hoy)
+*❓ PREGUNTAS FRECUENTES DE LA CAJA (recalentadas, con carne de hoy)*
 
 «¿Por qué no está VLC en tu caja?» Está cubierta por la serie de piezas de medios (Música pieza 08 con Auxio, video con sus representantes — VLC azulanguino su ficha sigue válida en su propio árbol). La corteza de la caja es oficio cotidiano del teléfono, no el museo de medio mundo del barrio. Si la tabla trazo hoy ya contarás con lo respectivo por el llamado del día de fiesta que daba activo.
 
@@ -228,7 +262,7 @@ Día uno: tu bóveda de llaves — KeePassDX + contraseña maestra larga y únic
 
 ┄┄┄
 
-🎭 LOS TRES ESCENARIOS DEL PRIMERIZO (con final ya escrito)
+*🎭 LOS TRES ESCENARIOS DEL PRIMERIZO (con final ya escrito)*
 
 Escenario uno — «instalé Fossify Gallery y mi WhatsApp ya no ve las fotos»: no es problema de la galería — la galería LEE, no administra. WhatsApp guarda sus archivos en su carpeta propia; si desinstalaste la galería del sistema antes de definir la nueva, algunas apps ponen cara de pérdida. Remedio del taller: las galerías conviven — instala Fossify, úsala, y solo cuando confirmes que todas tus apps integran bien, decides retirar o dejar la vieja. Muchas veces la vieja queda inactiva sin drama tuil. Y la lección del puntero: nunca borres antes de comprobar — primero estabiliza lo nuevo, luego retira lo viejo con tu respaldo complacido.
 
@@ -238,7 +272,7 @@ Escenario tres — «hice el backup de Aegis y ahora no me abre en el nuevo tel�
 
 ┄┄┄
 
-🧾 CASOS REALES DEL BARRIO, CON FECHA Y PROTECCIÓN
+*🧾 CASOS REALES DEL BARRIO, CON FECHA Y PROTECCIÓN*
 
 Caso uno (abril 2026, antes del gran purge del TMO): una usuaria del barrio seguía usando la app de notas del fabricante porque «ya venía» — un sábado descubrió que sus notas personales de años estaban indexadas a la nube para «mejorar las sugerencias» (política de la casa del fabricante, pública para quien la leyese esa difusa tercera pantalla). Mudanza completa a la familia Fossify en dos tardes (Notas, Calendar, Gallery): la misma usuaria hoy supervisa su teléfono con tres apps menos y sin publicidad cápsula, con el reloj alarma de las cinco y cuarenta y cinco activo todas las mañanas dereitas. Su susurro resumido: «sentía que tenía menos apps y más control, al revés de lo que me temía».
 
@@ -250,7 +284,7 @@ Caso cuatro (septiembre 2026, el antes-ayer): el vecino del frente descargando �
 
 ┄┄┄
 
-📜 LA HISTORIA DEL FERRETERO (la larga versión para el café del domingo)
+*📜 LA HISTORIA DEL FERRETERO (la larga versión para el café del domingo)*
 
 Don Esteban llegó al barrio en 1989 con una maletita de roble en la mano y quince herramientas dentro. Los abuelos que todavía viven dicen que aquella maleta no estaba tan pulcra como después la pintaron — las guardias estaban viejas, la pinza común le cojeaba — pero su argumento de venta era simple: cada herramienta la vendía porque su filo estaba probado, y si llegaba nuevo algún modelo mejor, él dejaba de vender su viejo y aprendía la compra. Notó que el barrio no preguntaba cuánto costaba el oficio; preguntaba cuánto duraba. Por eso a los dos años su maleta tenía la etiqueta escrita a mano que tiene hoy: «Q15».
 
@@ -260,7 +294,7 @@ Hoy su maleta cuelga del mismo gancho del mismo taller, con las etiquetas reempl
 
 ┄┄┄
 
-😄 EL MEME DE LA PIEZA — EL DESTORNILLADOR QUE SE DOBLA
+*😄 EL MEME DE LA PIEZA — EL DESTORNILLADOR QUE SE DOBLA*
 
 — ¡Auxilio, vecino! ¿Me presta su mejor destornillador?
 — Claro. ¿Qué va a hacer usted con él?
@@ -278,7 +312,7 @@ Spoiler final: el tornillo quedó.
 
 ┄┄┄
 
-📖 GLOSARIO DE LA CAJA (léelo sin diccionario aparte)
+*📖 GLOSARIO DE LA CAJA (léelo sin diccionario aparte)*
 
 FOSS (Free and Open Source): código legible con licencia pública (GPL, MIT, Apache…). Nadie compra confianza — se comprueba el código. Toda la caja entera del censo vive aquí.
 
@@ -302,7 +336,7 @@ Material You / design: el lenguaje de diseño de Android reciente (el cuadro de 
 
 ┄┄┄
 
-🧮 LÁMINA DE CONSULTA RÁPIDA (para tener a la vista junto al teléfono)
+*🧮 LÁMINA DE CONSULTA RÁPIDA (para tener a la vista junto al teléfono)*
 
 ¿Sirve esta caja en teléfonos con Android 8 en adelante? — La mayoría de casas oficiales lo confirman; en teléfonos con menos actualización de patch se nota solo el diseño, no la función. ¿Y en iPhone? — iOS tiene su propio aporte libre y pagado, pero la caja es Android por diseño conocido — iOS no permite el gestor de fuentes declarativo (Obtainium) al mismo modo: ve qué usa. ¿Consume batería extra tener estos procesos abiertos? — Las quince no lanzan procesos en segundo plano salvo alarma y Organic Maps has descendido — hay en general menos consumo de batería que en el caso de la bora de Play: sin anuncios ni telemetría, cero vínculo a redes solo necesario. ¿Si me roban el teléfono con KeePassDX abierto dentro? — Si tu bóveda tiene contraseña y re-bloqueo al salir del foco, la puerta física no da la entrada digital. La config de la casa: autobloqueo tras 30 segundos, no guardar contraseña maestra en ninguna nota ligera del teléfono, y portátil dominante de seguridad: tu cuerpo como tú veas. ¿Cómo sé si otra app me está espiando si no veo su código? — App Manager te da una ventana legible de sus rastreadores y servicios; si lo que ves te parece sospechoso, la respuesta del taller no cambia: reemplazar con su contraparte libre o desactivarla. ¿Vale la pena el pequeño trámite inicial? — Depende de cómo midas tu tiempo; esta familia midió en horas: cuatro tardes de configuración limpia vs meses de notificaiones, anuncios y cookies. La vuelta es queer: el mayor número de horas dedicadas retornan a tu testimonio, no a un preset de productividad.
 
@@ -314,7 +348,7 @@ Un minuto para un grupo que casi nunca aparece en los titulares de la casa: los 
 
 ┄┄┄
 
-🌐 EL VECINDARIO DE LA CAJA (cómo esta pieza conversa con el resto del techo)
+*🌐 EL VECINDARIO DE LA CAJA (cómo esta pieza conversa con el resto del techo)*
 
 Esta caja no vive sola en la casa de barrio: cada cajón toca otras puertas, y esta semana todas esas puertas llevan censo del mismo día con sus horas puestas. La galería y el explorador conversan con la pieza 08 (música y lectura FOSS): quien ordena sus fotos ordena su FLAC, y la colección propia de Auxio se nutre del mismo gesto de gestionar tus archivos con nombre y fecha — File-Manager y Amaze son la entrada por la que llegan los discos, los documentos y las carátulas al teléfono ordenado. Las llaves conversan con la pieza 05 (expediente TMO): la única defensa que funciona cuando un toldo te pide tu clave es tener claves únicas que no estén en tu cabeza — KeePassDX y Aegis son exactamente la línea de fuego que los clones no cruzan jamás (si tu clave del correo no coincide con ninguna otra, el leak del toldo no te lleva a ningún sitio restante de tu vida). La transferencia conversa con todo el techo: LocalSend es el carruaje entre bibliotecas (manga leído del lector, música del censo, archivos de mapas de Organic Maps) — sin él, cada pieza dialoga por cable compartido con el vendedor; con él, toda la casa conversa sin que saber especial por quién con quién ni cuando cuándo manda la prenda. Y el sistema conversa con el alma del taller al completo: Termux elige diferente cada pieza — capaz de corregir su cache, mover el log, buscar el archivo perdido; App Manager vigila cada casa nueva que entre en el teléfono; Shizuku abre la puerta de la sesión cuando los maestros lo piden. Obtenerium es el albañil que te dice si cada bodega mantuvo su hora visible el fin de semana — pieza 04 mide los índices de lectura, pieza 09 mide las cañerías: distintas cajas, misma escoba. La moraleja de barrio: cada herramienta de esta caja cumple con los oncejanza de los censo lo que ninguna registry vende — la continuidad con su hora al aire y el género con el cassette que vivió con tu madre.
 
@@ -322,7 +356,7 @@ Por eso el censo de hoy se sostiene también como documento administrativo de la
 
 ┄┄┄
 
-🔭 EL RADAR DEL PRÓXIMO TRIMESTRE (lo que viene por la casa de quince)
+*🔭 EL RADAR DEL PRÓXIMO TRIMESTRE (lo que viene por la casa de quince)*
 
 Amaze File Manager release/4.0: con la rama en vuelo y el push de HOY confirmado, su próxima versión estabilizada se espera en semanas más que en meses. Para el taller: la migración a Material 3 completa implica revisión visual en todos los tipos de archivos con panel dual; el barrio entero que ya usa Amaze notará el cambio sin necesitar anuncio. Si tu teléfono se queda con la línea 3.x actual, incluso mejor — el proyecto está maduro en ambas ramas y nadie te obliga a saltar el puente antes de que lo pongas con tu cuaderno.
 
@@ -342,7 +376,7 @@ Primero: madre 15-sep releída entera, línea por línea — los cajones (galer�
 
 ┄┄┄
 
-🔗 FUENTES ABIERTAS, MEDIDAS HOY
+*🔗 FUENTES ABIERTAS, MEDIDAS HOY*
 
 FossifyOrg/{Gallery, File-Manager, Phone, Calendar, Clock} — abierto HOY (pushes 21- y 22-sep; rama main; todos con licencias MIT/GPL abiertas)
 TeamAmaze/AmazeFileManager — HOY (push 22-sep; rama release/4.0 en vuelo; verificado directo)
@@ -361,13 +395,13 @@ Piezas hermanas censadas hoy: 04 (índices de extensiones, HOY), 05 (caso TMO, H
 
 ┄┄┄
 
-📝 NOTA DE VERIFICACIÓN — 22 DE SEPTIEMBRE DE 2026
+*📝 NOTA DE VERIFICACIÓN — 22 DE SEPTIEMBRE DE 2026*
 
 Toda medida de esta guía fue tomada HOY al mediodía al pie de cada página pública (release visible, log de commits, contador de página, fecha de push), sin usar memoria ni también datos de días atrás sin re-confirmar en esta misma fecha. Donde la página muestra un redondeo (★13.1k) se anota en redondeo; el propósito del censo es la comparativa y la movilidad, nunca la cifra exacta. Los dormidos se declaran con su fecha exacta del último push (Shizuku 18-junio-2025 a la vista — ni un minuto antes ni después), con la explicación de por qué el silencio largo puede ser estabilidad también en FOSS madura — y se marca como caso excepcional leíble, nunca como norma. El caso de Fossify como sucesión de Simple Mobile Tools incluye su referencia histórica con link de origen participable (su página del proyecto la documenta), sin ninguna implicación de secretáire — es la historia documentaria pública del ecosistema con fecha real. Si aparece discrepancia después de la publicación (un push que llega a la tarde), se corrige aquí con fecha — la vara de esta familia permanece igualita y pdf transparente desde el primer censo.
 
 ┄┄┄
 
-✊ EL CIERRE DEL ESTEBANERO
+*✊ EL CIERRE DEL ESTEBANERO*
 
 El barrio del barrio sigue saliendo al trabajo cada mañana con tu caja al hombro. No sé si mañana aparece otra Fossify, otro LocalSend, otro Shizuku reiniciado — lo que sí sé es que la regla se queda: la caja por oficio, la afilada por fecha, la instalación por caseta, y el bolso brillante colgado donde debe estar colgado: a ver otra esquina, no al taller que trabaja. Tus teléfonos se mantienen, tu tiempo libre se respeta. Nadie tiene que agradecerte la broma equipos — cuando llega tu hora correctamente a la alarma, cuando tienes tu contraseña maestro única, cuando envías el archivo sin pasar por cuaderno alguno — ahí empiezas a decir tal: «si cada persona me aprende la caja son dos».
 
@@ -375,7 +409,18 @@ Busca más, porque los mejores del barrio no retiran: limpian la herramienta y l
 
 ┄┄┄
 
-📎 VERSIÓN COMPACTA (para el flash del chat final)
+*PULSO AL CORTE — 15-OCT ~15:00 (mapa vivo #2)*
+
+```
+ FOSSIFY (familia): sin re-pulso esta ronda
+ (fuera de cache del censo vivo 15-OCT).
+ Conservan su censo del 22-sep, fechado y
+ honesto. Re-pulso en la siguiente ronda.
+```
+Anti-omision: lo no re-verificado viaja FECHADO,
+no disfrazado de fresco.
+
+*📎 VERSIÓN COMPACTA (para el flash del chat final)*
 
 La caja de oficio 2026, 22-sep, medida hoy al mediodía: Fossify viva entera (Gallery ★3.7k, File ★1.8k, Phone ★1.3k, Calendar ★2.2k, Clock ★702; pushes 21-22-sep), Amaze ★6.4k push HOY; KeePassDX ★7.4k (15-sep), Aegis ★13.1k (6-sep); LocalSend ★92.5k (14-sep) — la revolución silenciosa del año; Orbot ★3.6k push HOY; Termux ★61.3k (16-sep); App Manager ★9.0k (20-sep); Shizuku ★30.5k dormido-estable (último push 18-junio-2025 declarado); Organic Maps ★15.5k push HOY; Obtainium ★19.9k (13-sep). Reglas todavía activas del barrio: caja por oficio no por anuncio; afilada por fecha del repo no por el grupo; instalación desde GitHub/F-Droid no desde cadena; y cuando un APK de canal te pide «premium gratis», se manda ya a los bancos del oeste. Respaldos semanales como viernes, tu alarma sonando a las cinco y cuarenta y cinco mañana, y el tornillo de hoy apretado con el de siempre.
 

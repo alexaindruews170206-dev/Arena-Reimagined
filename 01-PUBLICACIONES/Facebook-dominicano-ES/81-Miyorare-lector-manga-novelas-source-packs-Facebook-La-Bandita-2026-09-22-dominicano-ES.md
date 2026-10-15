@@ -25,7 +25,7 @@
 • 🧊 Mitos (dos rondas) · ❓ Preguntas frecuentes
 • 🗺️ Mapa ancho · ⏰ señales de reverificación
 • 😄 El meme original · 🚫 lo que NO receta · 📚 glosario
-• 🔗 Enlaces · 🗒️ Nota de verificación · 🌅 despedida · #tags
+• 🔗 Enlaces · 🗒️ Nota de verificación · 🌅 despedida · tags finales
 
 ━━━━━━━━━━━━━━━
 
@@ -139,7 +139,7 @@ Y la declaración que le da peso adulto a todo lo anterior, dicha por la casa: l
 
 🪜 CÓMO INSTALARLO CON LA VARA EN LA MANO
 
-1. «Puerta oficial y sola:» el repo «Noirero/Miyorare», sección RELEASES. La casa del código es la única puerta admitida — el proyecto mismo lo declara.
+1. «Puerta oficial y sola:» el repo «Noirero/Miyorare», botón RELEASES. La casa del código es la única puerta admitida — el proyecto mismo lo declara.
 2. ELIGE PUERTA: estable («main») para leer tranquilo; beta solo si quieres mirar el taller. Al 22-sep, estable = «v1.4.3».
 3. «Confirma la identidad del paquete:» estable «org.noirero.miyorare», beta «org.noirero.miyorare.beta». Otra identidad = otra cosa disfrazada: no se instala, se borra el enlace, se anota el intento.
 4. «Lee el aviso de Play Protect con cerebro:» si aparece, recuerda la explicación del propio proyecto (permisos avanzados documentados). Aviso explicado ≠ bandera roja; aviso sin proyecto detrás, sí.
@@ -157,7 +157,7 @@ Y la declaración que le da peso adulto a todo lo anterior, dicha por la casa: l
 2. ¿TRABAJÓ ESTA SEMANA? Commits recientes, no promesas de futuro. Miyorare: paso del día anterior.
 3. «¿Quién empaca las fuentes?» Paquetes con dueño y modelo escrito, o fuentes voladoras. La custodia la da la respuesta, no el entusiasmo.
 4. ¿DECLARA SUS LÍMITES? Miyorare declara compatibilidad variable, terceros independientes, oficial ≠ dueño del contenido, español no aún. Los serios ponen bordes; los anzuelos ponen «lo mejor de todos».
-5. «¿Vende paz o prisa?» Nada en su casa apura. La gramática del cebo («solo hoy», «Premium») no existe en un repo serio: lo bueno sigue mañana, y mañana se vuelve a verificar.
+5. «¿Vende paz o prisa?» Nada en su casa apura. La gramática del cebo («solo 22-sep-2026», «Premium») no existe en un repo serio: lo bueno sigue mañana, y mañana se vuelve a verificar.
 
 ━━━━━━━━━━━━━━━
 
@@ -168,7 +168,7 @@ Del historial público, con fecha:
 • 13-SEP — reorganización segura de ajustes (protegiendo configuración y rutas) + escritura del «modelo de seguridad de los Source Packs».
 • 17-SEP — mantenimiento de compatibilidad y carpeta de extensiones (canal beta).
 • 18-SEP — su «Compatibility Farm» promovió fuentes aprobadas a la carpeta disponible (19 archivos movidos): la curaduría corre, no se anuncia.
-• 21-SEP — merge del README de la «v1.4.3» con su sección de verificación actualizada.
+• 21-SEP — merge del README de la «v1.4.3» con su parte de verificación actualizada.
 
 Conclusión sin pasión: una semana con ajustes, seguridad, compatibilidad, curaduría y entrega — taller con rutina — y, a la vez, un recién llegado de 11 estrellas. Las dos verdades conviven.
 
@@ -198,11 +198,11 @@ Costumbre del respaldo (declarada por la app como función): se hace con el tel�
 
 🤝 CONVIVENCIA CON LA FAMILIA LECTORA
 
-No hay campeonato; hay reparto de bañquitos:
+No hay campeonato; hay reparto de banquitos:
 
 • Manga/cómics con extensiones clásicas ya probadas: las casas maduras del ecosistema (las guías lectores de esta serie).
 • Novelas + manga en una sola mesa, con ganas de taller nuevo: Miyorare, fichado con honestidad.
-• Lectura EN ESPAÑOL HOY: las vías ya documentadas de la serie siguen al frente, hasta que exista paquete ES con fecha.
+• Lectura EN ESPAÑOL 22-sep-2026: las vías ya documentadas de la serie siguen al frente, hasta que exista paquete ES con fecha.
 • Archivos locales: cualquiera de la mesa lo sirve; el baúl con respaldo eres tú, no la app.
 
 ━━━━━━━━━━━━━━━
@@ -211,7 +211,7 @@ No hay campeonato; hay reparto de bañquitos:
 
 En el barrio lector hubo una tienda-manga legendaria que cerró. Sus hijas abrieron su propio colmado cada una: una se quedó con el mostrador clásico (la heredera del guante), otra montó balanza propia (el tronco con parser). Los proveedores —las extensiones y los parsers— se organizaron en casas de empaque con nombre propio. Y ahora aparece un nieto que «habla el idioma de todas las casas a la vez» y, encima, «aprendió a empacar mercancía con su propio sello». Ese nieto es Miyorare.
 
-Por eso su compatibilidad de cinco ecosistemas no es truco: es aprendizaje. Cuando una casa declara «entiendo el formato de las maduras», está diciendo que estudió formatos ya probados por años de uso comunitario en vez de inventar uno raro que nadie audita. Lectura práctica doble: si vienes del mundo de las maduras, Miyorare te habla tu idioma (con la cautela de la variabilidad); y si crece, sus packs ID/EN de hoy son la plantilla del ES de mañana — que esta guía quedó fechada para contar cuando exista, si existe.
+Por eso su compatibilidad de cinco ecosistemas no es truco: es aprendizaje. Cuando una casa declara «entiendo el formato de las maduras», está diciendo que estudió formatos ya probados por años de uso comunitario en vez de inventar uno raro que nadie audita. Lectura práctica doble: si vienes del mundo de las maduras, Miyorare te habla tu idioma (con la cautela de la variabilidad); y si crece, sus packs ID/EN de 22-sep-2026 son la plantilla del ES de mañana — que esta guía quedó fechada para contar cuando exista, si existe.
 
 Nada de lo viejo se invalida por lo nuevo: se verifica de nuevo, con fecha nueva. La mesa familiar no se rompe por la silla nueva; se ajusta con la libreta abierta.
 
@@ -280,7 +280,7 @@ Esa ficha puede copiarse tal cual, con la fecha, para revisarla cuando pase el t
 1. «Versión Premium/PRO gratis de [app famosa]» → si fuera de la casa, estaría en la casa.
 2. «Todo el contenido del mundo en un toque» → «todo» es el cesto donde no se revisa nada.
 3. «Sin anuncios, sin permisos, sin límites» → triple «sin» = algo pasa por detrás.
-4. «Solo por hoy, cupos agotados» → la prisa es coartada; lo bueno sigue mañana.
+4. «Solo por 22-sep-2026, cupos agotados» → la prisa es coartada; lo bueno sigue mañana.
 5. «Pásalo a cinco amigos para desbloquear» → NUNCA: tu círculo no es la entrada gratis del anzuelo.
 
 El anzuelo no miente con datos, miente con ritmo; reconocido el ritmo, el cebo deja de dar miedo y da risa — y la risa es la vacuna.
@@ -301,7 +301,7 @@ Miyorare se presenta en INDONESIO («Manga, novel, dan koleksimu…») con packs
 
 🧊 MITOS DESMONTADOS CORTOS
 
-• «Pocas estrellas = app mala».» Fama ≠ salud: ★11 con commit de ayer y licencia clara es taller en marcha; miles de estrellas archivadas (casos conocidos del oficio) no devuelven una casa dormida.
+• «Pocas estrellas = app mala».» Fama ≠ salud: ★11 al 22-sep-2026 con commit de ayer y licencia clara es taller en marcha; miles de estrellas archivadas (casos conocidos del oficio) no devuelven una casa dormida.
 • «Play Protect = virus».» Explicado por el propio proyecto: permisos avanzados documentados disparan avisos. Documentación escrita cambia el aviso de alarma a aviso acompañado.
 • «Oficial = dueño del contenido».» Lo dice la casa, no esta guía: oficial Miyorare = curado y compilado por el proyecto; los sitios y contenidos de las fuentes siguen siendo de ellos.
 • «Compatibilidad = fork».» No declara linaje; declara cinco compatibilidades con nivel variable y terceros independientes. Es un vecino políglota, no un hijo disfrazado.
@@ -359,8 +359,8 @@ Y la regla que no negocia: permiso nuevo que aparece tras una actualización sin
 
 ❓ PREGUNTAS FRECUENTES CORTAS
 
-«¿Reemplaza a Mihon o Kotatsu?» No hay base: ellas tienen años de clientela documentada en español; Miyorare trae ID y EN hoy, con ficha honesta y método. Se le mira el mostrador, no se le entrega el barrio.
-«¿Sirve si leo en español?» Hoy: para contenido ID/EN sí; para español, las vías ya documentadas arriba. Cuando exista pack ES con fecha, esta casa lo contará con fecha.
+«¿Reemplaza a Mihon o Kotatsu?» No hay base: ellas tienen años de clientela documentada en español; Miyorare trae ID y EN 22-sep-2026, con ficha honesta y método. Se le mira el mostrador, no se le entrega el barrio.
+«¿Sirve si leo en español?» 22-sep-2026: para contenido ID/EN sí; para español, las vías ya documentadas arriba. Cuando exista pack ES con fecha, esta casa lo contará con fecha.
 «¿Puedo confiarle mi biblioteca?» Con respaldo hecho y casa visible, sí; sin respaldo, a ninguna app del mundo, ni la más famosa.
 «¿Debo instalar la beta para apoyar?» No: la beta es para mirar el taller y reportar con datos. El apoyo serio es verificar, usar con medida y hablar de él con su enlace — no con fe ciega.
 ¿FUNCIONA SIN INTERNET? Lectura offline para lo descargado donde la fuente lo permite + tus archivos locales, que no necesitan señal de nadie.
@@ -383,7 +383,7 @@ Y la regla que no negocia: permiso nuevo que aparece tras una actualización sin
 
 «¿Por qué esta guía no pone capturas de la app?» Porque una captura se copia y se maquilla; una ficha con hash de versión, fecha y commits no. La casa decide enseñar actas, no afiches.
 
-«¿Sirve para leer webtoons / cómics occidentales?» Su ficha declara manga, cómics y novelas — el paraguas es amplio — pero la cobertura real por tipo vive en las fuentes que conectes, no en el mostrador. Incertidumbre fichada: no se mide aquí lo que no abrimos hoy con fecha.
+«¿Sirve para leer webtoons / cómics occidentales?» Su ficha declara manga, cómics y novelas — el paraguas es amplio — pero la cobertura real por tipo vive en las fuentes que conectes, no en el mostrador. Incertidumbre fichada: no se mide aquí lo que no abrimos 22-sep-2026 con fecha.
 
 «¿Da virus instalar APKs de GitHub?» Instalar APKs «puede» ser riesgo cuando la puerta no tiene dueño. Con puerta oficial + proyecto que documenta su propio modelo de seguridad, el riesgo cambia de naturaleza: deja de ser ciego. Ciego no, nunca; de otro tipo, sí — y por eso existe la verificación de cada actualización.
 
@@ -452,7 +452,7 @@ No manda a instalar Miyorare; no manda a botar a Mihon/Kotatsu; no nombra fuente
 
 🛠️ CÓMO SE VERIFICÓ ESTA PIEZA (EL PROCESO, TAMBIÉN TRANSPARENTE)
 
-El mismo día 22-sep se abrió la casa pública del proyecto y se leyó de principio a fin: portada y About, ficha de repositorio (estrellas, forks, commits, tags, ramas), historial de la semana pasada (lo que se movió del 13 al 21), la documentación de características, la póliza de seguridad con su modelo de Source Packs, y la sección de la verificación de la última entrega con su versión y su commit. Nada de segunda mano: si un dato no estaba a la vista con su fecha, no entró a la guía o entró marcado como incertidumbre — así los ves aquí, en su línea aparte.
+El mismo día 22-sep se abrió la casa pública del proyecto y se leyó de principio a fin: portada y About, ficha de repositorio (estrellas, forks, commits, tags, ramas), historial de la semana pasada (lo que se movió del 13 al 21), la documentación de características, la póliza de seguridad con su modelo de Source Packs, y la parte de la verificación de la última entrega con su versión y su commit. Nada de segunda mano: si un dato no estaba a la vista con su fecha, no entró a la guía o entró marcado como incertidumbre — así los ves aquí, en su línea aparte.
 
 Esa misma disciplina es la que te deja esta pieza como herencia: no «confía en La Bandita», sino «haz exactamente lo que La Bandita hizo, y llega donde mismo sin creerle a nadie». Cuando tus números coincidan con los nuestros, el único que habrás tenido que creerle a alguien es a tu propia libreta.
 
@@ -460,7 +460,7 @@ Esa misma disciplina es la que te deja esta pieza como herencia: no «confía en
 
 🗒️ NOTA DE VERIFICACIÓN DE LA BANDITA (22-SEP-2026)
 
-Verificados hoy en casa pública: «v1.4.3», «GPL-3.0», ★11, 1 fork, «3.561 commits», 40 tags, 204 ramas, último commit 21-SEP-2026; canales estable/beta convivientes (IDs distintas); Source Packs oficiales ID Y EN curados y distribuidos aparte; compatibilidad declarada con Kotatsu, Mihon, Keiyoushi, UMA y Gekkoushi (nivel variable, dicho por la casa); archivos locales CBZ/ZIP/EPUB/PDF; biblioteca con favoritos/categorías/marcadores/notas/historial; respaldo y restauración; soporte SHIZUKU; explicación escrita del aviso de Play Protect; «oficial ≠ dueño del contenido» dicho por el proyecto.
+Verificados 22-sep-2026 en casa pública: «v1.4.3», «GPL-3.0», ★11, 1 fork, «3.561 commits», 40 tags, 204 ramas, último commit 21-SEP-2026; canales estable/beta convivientes (IDs distintas); Source Packs oficiales ID Y EN curados y distribuidos aparte; compatibilidad declarada con Kotatsu, Mihon, Keiyoushi, UMA y Gekkoushi (nivel variable, dicho por la casa); archivos locales CBZ/ZIP/EPUB/PDF; biblioteca con favoritos/categorías/marcadores/notas/historial; respaldo y restauración; soporte SHIZUKU; explicación escrita del aviso de Play Protect; «oficial ≠ dueño del contenido» dicho por el proyecto.
 
 INCERTIDUMBRES A FUEGO: no declara linaje de fork (se fichó como proyecto propio); «no consta paquete de fuentes en español al 22-sep» (se dijo sin adornarlo); compatibilidad declarada ≠ promesa cerrada (dicho por la casa dos veces). Lo que no consta no se pinta: se anota y se visita el día que conste.
 
@@ -468,15 +468,25 @@ INCERTIDUMBRES A FUEGO: no declara linaje de fork (se fichó como proyecto propi
 
 🌅 SEMILLA DE DESPEDIDA
 
-❝ Un vecino nuevo no se juzga por las estrellas de ayer ni por el letrero de hoy: se juzga por su libreta con fecha, por si pinta las semillas o las deja como son, y por si abre el taller cuando nadie lo mira. Donde el entusiasmo pediría un aplauso, la vara pide una anotación; y la anotación — repite la casa — es la única que nunca se arrepiente. Miyorare abrió el 21-sep con libreta al día y semillas sin pintar. La respuesta del barrio curtido: «vuelvo la próxima semana; la libreta dirá». Eso no es desconfianza fría: es la confianza madura — verificación que regresa. ❞
+❝ Un vecino nuevo no se juzga por las estrellas de ayer ni por el letrero de 22-sep-2026: se juzga por su libreta con fecha, por si pinta las semillas o las deja como son, y por si abre el taller cuando nadie lo mira. Donde el entusiasmo pediría un aplauso, la vara pide una anotación; y la anotación — repite la casa — es la única que nunca se arrepiente. Miyorare abrió el 21-sep con libreta al día y semillas sin pintar. La respuesta del barrio curtido: «vuelvo la próxima semana; la libreta dirá». Eso no es desconfianza fría: es la confianza madura — verificación que regresa. ❞
 
 ━━━━━━━━━━━━━━━
 
-«Versión compacta de la guía completa de WhatsApp de hoy:» mismo día de verificación, mismo método, menos palabras. Si esta compacta te dejó con hambre de detalle — la semana del taller completa, los tres casos de entrenamiento desarrollados, el cuaderno de campo con su ficha imprimible comentada — la hermana completa los trae con el mismo día y la misma vara.
+«Versión compacta de la guía completa de WhatsApp de 22-sep-2026:» mismo día de verificación, mismo método, menos palabras. Si esta compacta te dejó con hambre de detalle — la semana del taller completa, los tres casos de entrenamiento desarrollados, el cuaderno de campo con su ficha imprimible comentada — la hermana completa los trae con el mismo día y la misma vara.
 
 NOTA DE FORMATO (D-011, Tratado V.0.04): esta pieza fue reformateada la noche del 22-sep-2026 al formato nativo de su plataforma: texto plano prosódico al cien por ciento — separadores ━, viñetas •, «énfasis», ❝citas❞, sin un solo símbolo Markdown. El contenido no cambió; la ropa sí.
 
 «La Bandita informa a partir de fuentes fechadas. El mapa se mueve; la vara no.» Esta pieza se refresca el día que el barrio lo pida con hechos (versión grande, paquete ES, cambio de póliza) — o a más tardar, cuando la fecha de arriba cumpla tres meses sin visita.
+*💓 PULSO 15-OCT ~21:40 (mapa vivo FB)*
+
+```
+ Miyorare ★13 (push 15-oct)
+ Miyorare-Source-Packs ★3 (push 15-oct)
+```
+El lector y su despensa, ambos empujando
+el mismo jueves. Caja apilada. Caja apilada; nada borrado (protocolo: mapa-maestro).
+
+📌 ACTUALIZADO AL 15-OCT-2026 — censo de API de 22-sep-2026: de la v1.4.3 retratada el 22-sep a la v1.4.9 (13-oct), con v1.4.7 y v1.4.8 en el medio. Lo demás viaja fechado 22-sep-2026.
 
 ━━━━━━━━━━━━━━━
 

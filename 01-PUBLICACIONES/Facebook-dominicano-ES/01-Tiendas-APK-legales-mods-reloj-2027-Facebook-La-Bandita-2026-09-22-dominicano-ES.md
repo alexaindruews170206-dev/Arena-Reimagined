@@ -52,7 +52,7 @@ Si solo vas a quedarte con una tienda de esta lista, quédate con esta: la más 
 ▸ IzzyOnDroid — la sala de novedades
 
 • Repo: https://apt.izzysoft.de/fdroid
-• No es tienda con escaparate: es un REPOSITORIO que se agrega dentro de cualquier cliente F-Droid. Muchas apps aparecen primero aquí antes de entrar al canal principal. Sitio vivo al 22-sep-2026: hoy sirve «1.397 apps» y su última actualización es de hoy mismo (18:01 UTC).
+• No es tienda con escaparate: es un REPOSITORIO que se agrega dentro de cualquier cliente F-Droid. Muchas apps aparecen primero aquí antes de entrar al canal principal. Sitio vivo al 22-sep-2026: 22-sep-2026 sirve «1.397 apps» y su última actualización es de 22-sep-2026 mismo (18:01 UTC).
 
 ▸ Droid-ify — el mostrador moderno (y su dirección verdadera)
 
@@ -161,9 +161,9 @@ Las tres se complementan, no compiten: descubres con yuki, instalas con ShizuSto
 
 ━━━━━━━━━━━━━━━
 
-🏬 EL ESCAPARATE YUKI (CINCO VITRINAS MÁS, ABIERTAS HOY)
+🏬 EL ESCAPARATE YUKI (CINCO VITRINAS MÁS, ABIERTAS 22-sep-2026)
 
-❝ SEMILLA: yukistore.org es la galería donde las tiendas del portero ponen su vitrina — «Shizuku-powered Android apps, all in one place». Letrero con dueño y estantería con fechas. Hoy abrimos cinco vitrinas de su pasillo: ❞
+❝ SEMILLA: yukistore.org es la galería donde las tiendas del portero ponen su vitrina — «Shizuku-powered Android apps, all in one place». Letrero con dueño y estantería con fechas. 22-sep-2026 abrimos cinco vitrinas de su pasillo: ❞
 
 ▸ Vitrina / Su oficio / Pulso al 22-sep-2026
 • Multistore (FedeFluork) → Agrega tiendas de terceros en un solo catálogo: buscas en todas, comparas e instalas de la que eliges → v0.7.2-beta del 18-sep
@@ -246,7 +246,7 @@ Cuatro respuestas buenas y puedes instalar en paz. Un solo «no» y la puerta es
 ▸ 🧊 Segunda tanda: los mitos del puente
 
 • «Shizuku es root para pobres.» No: root son las llaves maestras de toda la casa; Shizuku es el portero que abre UNA puerta, para UNA tarea, con tu permiso. Menos poder = menos peligro si te equivocas.
-• «Shizuku me quita la verificación del 2027.» No toca a Google ni a su registro: es un puente dentro de tu teléfono. Lo que te da es gestión sin root hoy, no inmunidad mañana.
+• «Shizuku me quita la verificación del 2027.» No toca a Google ni a su registro: es un puente dentro de tu teléfono. Lo que te da es gestión sin root 22-sep-2026, no inmunidad mañana.
 • «Si pide Shizuku, ya es rara.» Al revés: la app seria te pide el permiso en tu cara y te explica para qué. La rara es la que se cuela sin pedirte nada o te pide «todos los permisos» sin decir por qué.
 • «Estas tiendas son mods disfrazados.» Tienen repo público, historial y descripción declarada de qué son y para qué. El mod escondido no tiene dueño; estas tres lo tienen.
 
@@ -304,7 +304,7 @@ Las casas de arriba comparten tres cosas: «dirección, historial y firma». El 
 
 «Cambia de dueño.» Señales: el repo muda de organización, hay dominio nuevo, y la firma del archivo ya no cuadra con la de antes. Compara firma nueva contra vieja: si no coinciden, es otra app con el mismo cartel. La mudanza la anuncia el dueño (caso Komi Store); lo que aparece de la nada no tiene quien lo cuente.
 
-«Se pone rara.» Si Exodus o VirusTotal marcan algo nuevo, o empieza a pedir permisos que nunca pidió, déjala. Lo verificado antes se re-verifica hoy: la confianza tiene fecha de caducidad.
+«Se pone rara.» Si Exodus o VirusTotal marcan algo nuevo, o empieza a pedir permisos que nunca pidió, déjala. Lo verificado antes se re-verifica 22-sep-2026: la confianza tiene fecha de caducidad.
 
 ━━━━━━━━━━━━━━━
 
@@ -386,11 +386,11 @@ Con esos cinco puntos ya lees un repo mejor que la mayoría de la gente que te p
 Haz esto una sola vez y tu ojo cambia para siempre:
 
 1. Abre el repo de Obtainium. Mira la fecha del último commit y las estrellas. Eso es «casa viva».
-2. Abre el repo de F-Droid en su página y lee la sección de compilación reproducible. Eso es «promesa con método».
+2. Abre el repo de F-Droid en su página y lee la parte de compilación reproducible. Eso es «promesa con método».
 3. Piensa en el último «premium gratis» que te ofrecieron. Repásale la vara: ¿dueño? ¿firma? ¿permisos? ¿prisa? Ya sabes qué era.
 4. Guarda esta guía con su fecha. Eso es «acta»: la foto del mapa tal como estaba el 22-sep-2026.
 
-Diez minutos. Cuatro gestos. Y de hoy en adelante ningún enlace de grupo te mira por encima del hombro.
+Diez minutos. Cuatro gestos. Y de 22-sep-2026 en adelante ningún enlace de grupo te mira por encima del hombro.
 
 ━━━━━━━━━━━━━━━
 
@@ -407,13 +407,13 @@ La regla detrás del plan B: «el ecosistema no depende de una sola puerta». Po
 
 ━━━━━━━━━━━━━━━
 
-📅 2027 SIN PRISA (LO QUE CONVIENE HACER DESDE HOY)
+📅 2027 SIN PRISA (LO QUE CONVIENE HACER DESDE 22-sep-2026)
 
 El despliegue global llega en 2027 a los dispositivos certificados. Para entonces conviene tener andando tres cosas, todas gratis y todas de esta guía:
 
 1. «Tu base libre montada» (F-Droid + tu cliente favorito): si la tienda grande se pone difícil, tu casa ya tiene puerta propia.
 2. «Tus apps críticas fichadas:» nombre, versión, firma y repo. Cinco líneas en una nota. Si algo cambia de dueño en 2027, comparas firmas y decides con datos, no con susto.
-3. LA VARA ENTRENADA: porque cuando llegue la expansión, van a llover titulares de pánico. Quien sabe leer el calendario (esta misma guía, sección 🕐) no le compra miedo a nadie.
+3. LA VARA ENTRENADA: porque cuando llegue la expansión, van a llover titulares de pánico. Quien sabe leer el calendario (esta misma guía, parte 🕐) no le compra miedo a nadie.
 
 Y lo que NO conviene: correr a instalar mods «antes de que cierren», cambiar de sistema por pánico, ni creerle al video de turno que nunca pone enlaces. El calendario es un registro, no una guillotina — y esta casa lo seguirá comprobando con fecha.
 
@@ -428,7 +428,7 @@ Por F-Droid. Es la puerta con más historia y revisión; después sumas el clien
 Ninguna tienda promete eso. F-Droid promete transparencia: compilación reproducible y política declarada. Es el estándar más alto del ecosistema, no una varita mágica.
 
 «¿Necesito Shizuku para F-Droid?»
-No. Shizuku lo piden las tres tiendas de la sección del puente porque hacen tareas que requieren ese acceso; el resto del mapa funciona sin él.
+No. Shizuku lo piden las tres tiendas de la parte del puente porque hacen tareas que requieren ese acceso; el resto del mapa funciona sin él.
 
 «¿Shizuku me salva de la verificación del 2027?»
 No. Es un puente local, no un registro de desarrolladores. Lo que sí te deja es gestionar apps sin root en el día a día.
@@ -496,7 +496,7 @@ La casa trabaja por hornadas y actas, no por encargo exprés; pero si traes el e
 
 «Error dos: creer que «todo el mundo lo usa» es prueba.» Millones instalaron apps que después resultaron un desastre de privacidad. La multitud mide ruido, no inocencia. Antídoto: la vara no pregunta cuántos lo usan; pregunta quién lo firma.
 
-«Error tres: cambiar diez cosas a la vez.» Nueva tienda, nueva ROM, puente nuevo y tres instaladores el mismo día — y cuando algo falla, no sabes cuál fue. Antídoto: una decisión por día (regla de ritmo de esta casa, vieja y vigente). Montas F-Droid hoy; el mostrador, mañana; el vigilante, pasado. Lo que se rompe en calma, se arregla en calma.
+«Error tres: cambiar diez cosas a la vez.» Nueva tienda, nueva ROM, puente nuevo y tres instaladores el mismo día — y cuando algo falla, no sabes cuál fue. Antídoto: una decisión por día (regla de ritmo de esta casa, vieja y vigente). Montas F-Droid 22-sep-2026; el mostrador, mañana; el vigilante, pasado. Lo que se rompe en calma, se arregla en calma.
 
 ━━━━━━━━━━━━━━━
 
@@ -516,7 +516,7 @@ La casa trabaja por hornadas y actas, no por encargo exprés; pero si traes el e
 
 🪞 POR QUÉ VERIFICAMOS (LA FILOSOFÍA, NO EL TRÁMITE)
 
-Cualquiera escribe «esto es seguro». Pocos muestran el enlace y la fecha de dónde lo sacaron. Cada afirmación de esta guía carga tres cosas: UN ENLACE (la casa, no «una app que vi»), UNA FECHA (porque lo cierto el 14 puede no serlo el 22), y «una vara que cualquiera repite» (la de la sección 🔍, que no es secreta). Por eso esta guía no vende pánico (el calendario no es el fin del mundo), ni atajos (los mods no se recetan), ni certezas que no puede mostrar. Muestra el camino: dueño a la vista, firma que cuadra, permisos con sentido y tiempo de sobra para pensar.
+Cualquiera escribe «esto es seguro». Pocos muestran el enlace y la fecha de dónde lo sacaron. Cada afirmación de esta guía carga tres cosas: UN ENLACE (la casa, no «una app que vi»), UNA FECHA (porque lo cierto el 14 puede no serlo el 22), y «una vara que cualquiera repite» (la de la parte 🔍, que no es secreta). Por eso esta guía no vende pánico (el calendario no es el fin del mundo), ni atajos (los mods no se recetan), ni certezas que no puede mostrar. Muestra el camino: dueño a la vista, firma que cuadra, permisos con sentido y tiempo de sobra para pensar.
 
 ━━━━━━━━━━━━━━━
 
@@ -541,7 +541,7 @@ Cualquiera escribe «esto es seguro». Pocos muestran el enlace y la fecha de d�
 
 ━━━━━━━━━━━━━━━
 
-«Nota de verificación (22-sep-2026; segunda apertura, misma noche):» añadido el escaparate Yuki con sus cinco vitrinas abiertas hoy (Multistore 18-sep · GStore 21-sep · Xenon 2.2.1 · MOD Store abr-2026 · Crxmson dormida desde ago-2024). Esta compacta comparte la hornada del 22-sep con su hermana completa de WhatsApp: mismo día de apertura de enlaces, mismos números (Droid-ify 0.7.8 del 12-sep; Neo-Store 1.2.6 con commit del 13-sep; Komi 1.9.3 código 22; Aurora 4.8.4; Accrescent en alpha; Appteka cliente 23.0; Obtainium ~19.700★; Shizuku ~30,5 mil★ v13.6.0; ShizuStore ~62★ commit 20-sep; yuki ~120★ commit 22-sep; ShizuCoreFetch ~451★), y el calendario de verificación de Google comprobado contra sus fuentes declaradas y la campaña Keep Android Open. Los letreros de mods se constataron por respuesta o escudo, sin enlazarse. Lo que no se abrió con fecha se dice sin abrir; lo que se afirma, tiene casa y día. Queda pendiente vivo el sitio propio de Omnify (404 el 15-sep; repo vivo).
+«Nota de verificación (22-sep-2026; segunda apertura, misma noche):» añadido el escaparate Yuki con sus cinco vitrinas abiertas 22-sep-2026 (Multistore 18-sep · GStore 21-sep · Xenon 2.2.1 · MOD Store abr-2026 · Crxmson dormida desde ago-2024). Esta compacta comparte la hornada del 22-sep con su hermana completa de WhatsApp: mismo día de apertura de enlaces, mismos números (Droid-ify 0.7.8 del 12-sep; Neo-Store 1.2.6 con commit del 13-sep; Komi 1.9.3 código 22; Aurora 4.8.4; Accrescent en alpha; Appteka cliente 23.0; Obtainium ~19.700★; Shizuku ~30,5 mil★ v13.6.0; ShizuStore ~62★ commit 20-sep; yuki ~120★ commit 22-sep; ShizuCoreFetch ~451★), y el calendario de verificación de Google comprobado contra sus fuentes declaradas y la campaña Keep Android Open. Los letreros de mods se constataron por respuesta o escudo, sin enlazarse. Lo que no se abrió con fecha se dice sin abrir; lo que se afirma, tiene casa y día. Queda pendiente vivo el sitio propio de Omnify (404 el 15-sep; repo vivo).
 
 «Firma de la casa:» La Bandita verifica antes de recomendar.
 
@@ -554,6 +554,16 @@ SEMILLA DE DESPEDIDA: tu teléfono es tu casa. Quien entra con factura y nombre,
 NOTA DE FORMATO (D-011, Tratado V.0.04): esta pieza fue reformateada la noche del 22-sep-2026 al formato nativo de su plataforma: texto plano prosódico al cien por ciento — separadores ━, viñetas •, «énfasis», ❝citas❞, sin un solo símbolo Markdown. El contenido no cambió; la ropa sí.
 
 ❝ La Bandita informa a partir de fuentes fechadas. La tienda legal te deja un nombre al que volver; la maleta te deja un regalo que no pediste. ❞
+*💓 PULSO 15-OCT ~21:40 (mapa vivo FB)*
+
+```
+ Shizuku 31.558 -> 31.560 · Obtainium +1 (20.435)
+ Neo-Store 5.451 -> 5.452 · komi 19.468 quieto
+```
+Las tiendas viven: la llave y los tres
+almacenes con push fresco. Caja apilada. Caja apilada; nada borrado (protocolo: mapa-maestro).
+
+📌 ACTUALIZADO AL 15-OCT-2026 — re-verificado 22-sep-2026 por la hermana WhatsApp: hito del 30-sep cumplido; 2027 sin día ni mes; portada de la campaña y estado del programa re-abiertos 22-sep-2026. Lo demás viaja fechado 22-sep-2026.
 
 ━━━━━━━━━━━━━━━
 

@@ -106,7 +106,6 @@ hornea datos con nombre y apellido para la República Dominicana.
 Sigue leyendo y te la presento como se presenta un vecino: con su
 placa, su obra y sus deudas a la vista.
 
-
 ¿Y por qué medir velocidad y no solo estrellas?
 
 Porque las estrellas acumulan por inercia: un proyecto famoso de diez
@@ -171,7 +170,6 @@ silla que llevaba años vacía, y la llenó con reglas de taller que esta
 guía lleva años pidiendo en voz alta. Que la silla se siga sosteniendo
 lo decide el taller con sus releases — y nosotros con nuestra vara.
 
-
 *El falso dilema, desarmado con nombre y apellido.*
 
 Durante años, «salir de Google Maps» sonaba a castigo: perder el
@@ -230,13 +228,12 @@ lo lees no es una casa prometida: es una casa encendida.
 Para ponerla en perspectiva de barrio — mismo censo, mismo día:
 
 ```
- Vela Maps   ★1.961 en 4 meses   →  482 ★/mes
- NewPipe     ★40.140 en 10 años  →  ~330 ★/mes
+ Vela Maps   ★1.969 en 4 meses   →  482 ★/mes
+ NewPipe     ★40.148 en ~10 años y 10 meses  →  309 ★/mes
 ```
 
 ► NewPipe, el rey de nuestra lista, tardó años en correr a ese paso.
 Por eso la expedición se detuvo en esta puerta.
-
 
 *Cómo se lee esta placa, línea por línea* — porque una placa sin
 manual es un adorno:
@@ -395,7 +392,6 @@ si
 Google muda un campo, el arreglo llega en minutos sin actualizar nada.
 El mismo músculo de NewPipe cuando YouTube muda la puerta.
 
-
 *9 · Los detalles que se agradecen*
 
 Colores de fondo opcionales para el mapa — si cansa el tema oscuro
@@ -429,7 +425,7 @@ aparece en siete canales de datos del proyecto:
 
 ```
  CANAL DE DATOS        FECHA       ARCHIVO NUESTRO
- ─────────────────────────────────────────────────────
+────────────────
  basemap-tiles         15-sep-26   basemap-haiti-and-domrep
  places-overlays       14-sep-26   places-haiti-and-domrep
  road-features         13-sep-26   haiti-and-domrep.bin
@@ -457,7 +453,6 @@ alimenta el velocímetro. *poi*, los puntos de interés.
 OpenStreetMap y se verifica en la calle. Lo que SÍ dice: la
 infraestructura para que la isla sea región de primera clase ya está
 servida, con hornadas de este mismo mes.
-
 
 *Y si a tu pueblo le falta un pedazo,* la obra está abierta a tu mano.
 
@@ -540,13 +535,12 @@ total. El precio se dice entero.
 toparte con bugs. Abre un issue y llena la plantilla». La casa que
 dice de qué pieza está es la casa que no te miente.
 
-
 *La tabla que la casa sí se atrevió a publicar* — app de Google
 contra Vela, renglón por renglón:
 
 ```
  ¿QUÉ RECIBE GOOGLE?     APP DE GOOGLE   VELA
- ────────────────────────────────────────────────
+────────────────
  Tu cuenta               siempre dentro  jamás
  Tu GPS continuo         sí             nunca
  Cada movimiento         sí, a sus      no, por
@@ -634,7 +628,6 @@ nativo de Android, nunca el proveedor de Google. Con PSDS encendido,
 el primer fix baja de ~30 segundos a segundos. Bajo techo, ubicación
 por red — la app avisa sola si tarda.
 
-
 *¿Y si ya instalé y quiero cambiar de canal?* Se cambia sin drama: en
 Obtainium enciendes «include prereleases» y pasas a la nightly;
 
@@ -684,7 +677,6 @@ quiera ver el futuro antes.
 canales: es la bisagra que aceita la casa entera, cualquier llave que
 uses.
 
-
 ```
  ¿CUÁL ERES TÚ?
 
@@ -720,7 +712,6 @@ Un detalle que dice de qué madera es el taller: llevan un archivo de
 reglas y trampas del código, escrito para cualquiera que venga a tocarlo.
 Documentar las trampas del oficio para el que venga detrás es
 costumbre de talleres que planean durar.
-
 
 *Y lo que FEATURES.md confirma, renglón a renglón* — la lista oficial
 de funciones, una línea cada una, vista hoy:
@@ -760,7 +751,7 @@ despensa:
 
 ```
  CANAL               TRAE
- ─────────────────────────────────────────────
+────────────────
  basemap-tiles       el mapa base por país
  places-overlays     los lugares por región
  road-features       características de vías
@@ -779,7 +770,6 @@ isla entra en el teléfono de quien instale y baje su región.
 Y la despensa se rehorna: la horneada más vieja de las nuestras es del
 9 de julio; la más nueva, del 15 de septiembre. Pan del mes, no
 reliquia de año viejo.
-
 
 *Y hay dos despensas más que cuentan la seriedad del taller:*
 
@@ -825,7 +815,7 @@ Las cinco piezas de la analogía, verificadas una por una:
 
 ```
  NEWPIPE (YouTube)         VELA (mapas)
- ─────────────────────────────────────────────────
+────────────────
  cliente de la web         cliente de endpoints
  pública de YouTube        públicos de mapas
  sin cuenta, sin clave,    sin cuenta, sin clave,
@@ -848,7 +838,6 @@ que verifica su propia defensa, con el riesgo escrito al lado.
 ► Y una cosa más que comparten: cuando el gigante muda la puerta,
 NINGUNA de las dos casas llama a nadie pidiendo permiso. Ajustan la
 bisagra y a correr.
-
 
 *La prueba del tiempo, que es la prueba que manda.*
 
@@ -939,7 +928,6 @@ lo escribió en la lista de «no va a pasar» — la misma que ves en la
 estación 22. La mudanza es completa porque no cambia de dueño: te
 queda a ti.
 
-
 *Y lo que NO se muda — porque no existe aquí:*
 
 Tu historial de búsquedas de la app vieja: no viaja, y aquí ni
@@ -962,7 +950,7 @@ ve la cuadra hoy, contado por API esta mañana.
 
 ```
  CASA            ⭐        PUSH    SEMÁFORO
- ───────────────────────────────────────────────
+────────────────
  Organic Maps    15.685    HOY     🟢 el mapa offline
                                    clásico: maduro,
                                    querido, sin capa viva
@@ -992,12 +980,12 @@ cosecha no quede en silencio:
 
 ```
  1. Vela Maps        1.961★  482★/mes  ← la pieza de HOY
- 2. Husk             1.920★ 1.746★/mes  Android sobre iOS
+ 2. Husk             1.978★ 1.746★/mes  Android sobre iOS
  3. ShizuCallRec.    1.755★  342★/mes  llamadas vía Shizuku
  4. flectar/mail     1.366★  976★/mes  correo nuevo (alpha)
  5. gander           1.271★  433★/mes  visor cero permisos
  6. DSHA             1.270★  615★/mes  DeepSeek en el móvil
- 7. nanoMuse         1.233★ 1.681★/mes  agente personal
+ 7. nanoMuse         1.259★ 1.681★/mes  agente personal
  8. ReFra            2.897★   66★/mes  galería madura
  9. overlay-transl.  1.016★  265★/mes  traduce la pantalla
 10. read-aware         451★   54★/mes  lector con memoria
@@ -1006,7 +994,6 @@ cosecha no quede en silencio:
 Cada una de esas puertas se abre en su propio turno, con su propia
 guía. Las que conserven vida al llegar su hora, se actan; las que se
 apaguen en el camino, también — con fecha y causa.
-
 
 🕯️ *Y como se prometió arriba: un réquiem breve.*
 
@@ -1022,7 +1009,7 @@ el taller se detuvo. Contadas esta mañana en el censo:
  VIMUSIC    ★9.466  archivado
 ```
 
-Cuarenta mil estrellas juntas, y ni una sola puerta abierta. Así
+Treinta y tres mil cuatrocientas ochenta y una estrellas juntas, y ni una sola puerta abierta. Así
 funciona este barrio: la fama no mantiene la casa — el taller sí.
 
 Por
@@ -1116,7 +1103,6 @@ Si después de ese día la app no te sirve — no te sirvió de verdad. Y
 con la beta declarada, el bug se reporta con plantilla y el taller
 responde. Eso es lo opuesto al «funciona en mi laboratorio».
 
-
 *La prueba del colmado.* Una nota honesta para ese día: si el lugar
 que buscas sale sin horario o sin reseña, ya sabes dónde vive la
 carencia — en los datos abiertos, no en la app. La app te está
@@ -1174,7 +1160,6 @@ Discussions, y la propia casa pidiendo el reporte.
 El software libre no promete perfección: promete que cuando algo
 falla, lo puedes ver, lo puedes contar y lo puedes arreglar. Eso vale
 más que cualquier promesa de fábrica.
-
 
 *Los peajes y la vara final.* En la autopista, el velocímetro lleva
 el límite de la vía — útil donde la cámara te saluda antes que la
@@ -1308,7 +1293,6 @@ escribe sus negaciones en la puerta merece el plato de hoy.
 que se niegan a hacer. Guarda esa regla: sirve para apps y para
 gente.
 
-
 *Cómo leer un roadmap sin tragarse promesas:* mira tres listas, no
 una. Lo ABIERTO (lo que falta). Lo EMPEZADO (que aquí se declara: la
 build de Play está «en el radar, no empezada» — palabra por palabra).
@@ -1368,7 +1352,6 @@ colaboradores, releases semanales con señales fáciles de leer. Si la
 vitrina se para, esta guía lo acta con fecha. Hoy está encendida: hay
 una canary con horas de horneada.
 
-
 *¿Puedo ayudar al proyecto?* Sí, y no hace falta saber código: con
 reportes de bug (la plantilla es la vara del taller), con Discussions,
 traduciendo en Weblate al español de tu tierra, o mejorando el mapa de
@@ -1404,7 +1387,7 @@ público, con su commit a la vista.
 
 ```
  RENGLÓN            NOTA
- ────────────────────────────────────────────────
+────────────────
  Transparencia      10/10  tabla pública de qué
                            llega a Google, huella,
                            roadmap con «no va a pasar»
@@ -1419,7 +1402,7 @@ público, con su commit a la vista.
  riesgo                    dichos, reporte privado
  Hueco que llena    10/10  la capa viva sin cuenta:
                            nadie más la tiene
- ────────────────────────────────────────────────
+────────────────
  VEREDICTO          ENTRA al catálogo como guía nº 11,
                     con re-verdeo agendado y regla de
                     recién llegado: dos re-verdeos con
@@ -1445,7 +1428,6 @@ configuraciones» con app instalada a mano. El doc oficial manda.
 La longevidad: cuatro meses con cadencia semanal es el mejor pronóstico
 medible — el futuro no se censura con API.
 
-
 *Por qué estas notas no restan:* una guía que solo dijera bondades
 sería un folleto, no una vara. Cada renglón de «no verificado» es una
 tarea con dueño — tuya la prueba de sillón, mía el re-verdeo con
@@ -1470,6 +1452,16 @@ re-escribe en cada re-verdeo — nadie here una nota para siempre.
 ```
 ────────────────
 
+*PULSO AL CORTE — 15-OCT ~15:00 (mapa vivo #2)*
+
+```
+ Vela     ★1.969 -> ★1.969   (15-OCT)
+ NewPipe  ★40.148 -> ★40.148
+ Husk 1.920 -> 1.978 · nanoMuse 1.233 -> 1.259
+```
+Segunda lectura del mismo dia. Caja apilada;
+nada borrado (protocolo: mapa-maestro).
+
 ✍️ *EL CIERRE*
 · estación 25 de 27 · 2 min de lectura ·
 
@@ -1482,7 +1474,6 @@ nuestra isla con nombre propio.
 La Bandita informa a partir de fuentes fechadas. El mapa que no te
 vende, enseña el camino de verdad. El barrio que verifica cada push,
 nunca dormirá con la puerta abierta al toldo.
-
 
 *Una última cosa, de casa a casa.*
 
@@ -1503,19 +1494,16 @@ Si se apaga,
 también lo leerás aquí. Las dos noticias viajan fechadas.
 *Cerró dentro de su banda (WhatsApp, 62 000–64 000 caracteres).*
 
-#LaBandita #Guia #Mapas #VelaMaps #NavegacionSinGoogle #OSM #FOSS
-#RepublicaDominicana #FuenteFechada #LecturaVerificada
-
 📎 *FUENTES — constado 15-oct-2026 por API de GitHub*
 ```
- 🔗 github.com/PimpinPumpkin/Vela · ★1.961 · push HOY
+ 🔗 github.com/PimpinPumpkin/Vela · ★1.969 · push HOY
     10:13 UTC · GPL-3.0 · creado 15-jun-2026
  🔗 Releases: v0.5.2549 (12-oct) · canary (HOY)
     7 canales de datos con haiti-and-domrep
  🔗 README del repo, leído completo hoy (22.416 B):
     tabla de privacidad, huella, canales, roadmap
  🔗 Organic Maps ★15.685 · OsmAnd ★6.080 (push HOY)
- 🔗 NewPipe ★40.140 · censo de la mañana de HOY
+ 🔗 NewPipe ★40.148 · censo de la mañana de HOY
  🔗 Expedición: 9 vetas, 4.672→70→10 (acta del día)
 ```
 📖 *EL DICCIONARIO DEL BARRIO*
@@ -1563,7 +1551,6 @@ publicado: no es escondite, es inventario.
 Guarda este diccionario: la próxima pieza de la expedición trae
 palabras nuevas, y esta casa no repite definición sin motivo.
 
-
 Tres últimas que valen oro:
 
 *Fork* — la copia pública de un taller que otro hace para estudiarlo
@@ -1602,7 +1589,7 @@ adelante.
     — libre, GPL-3.0, sin anuncios ni cuenta
  2. Lo nuevo: horarios, reseñas, tráfico y
     precios de bomba, sin entregar tu vida
- 3. Cuatro meses de vida · ★1.961 · 23
+ 3. Cuatro meses de vida · ★1.969 · 23
     colaboradores · release semanal
  4. La Española horneada con nombre propio en
     7 canales de datos del proyecto
@@ -1623,14 +1610,13 @@ adelante.
 
 ```
  Expedición      4.672 casas → 70 → 10 → 1
- Placa           ★1.961 · push HOY 10:13
+ Placa           ★1.969 · push HOY 10:13
  Velocidad       482 ★/mes de vida
  Vitrina         v0.5.2549 (12-oct) + canary HOY
  Colaboradores   23 · forks 93 · issues 23
  Datos RD        7 canales · hornadas jul–sep
  Huella          SHA-256 publicada y textual
 ```
-
 
 *Y cada número, con su distancia:*
 
@@ -1644,8 +1630,9 @@ push de las 10:13 y la placa de la tarde cuadran: el taller no
 descansa ni para que lo escriban.
 
 ```
- Réquiem del día   4 casas archivadas con ~30
-                   mil estrellas juntas: fama
+ Réquiem del día   4 casas archivadas con 33.481
+                   estrellas juntas: fama
                    sin taller no entra
 ```
 ────────────────
+#LaBandita #Guia #Mapas #VelaMaps #NavegacionSinGoogle #OSM #FOSS #RepublicaDominicana #FuenteFechada #LecturaVerificada

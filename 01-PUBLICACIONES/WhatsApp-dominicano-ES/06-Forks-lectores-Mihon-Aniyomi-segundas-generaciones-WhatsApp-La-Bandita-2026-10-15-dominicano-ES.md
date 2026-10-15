@@ -6,7 +6,7 @@ Cuándo un fork es proyecto y cuándo solo es una foto del padre — el censo de
 
 ───────────────────
 
-🌱 LA SEMILLA
+*🌱 LA SEMILLA*
 
 Dominicana manija, de esas que criaron a los hijos de todo el barrio, cuidao. En mi esquina había una floristería de toda la vida — doña Carmen, que en paz descanse, le puso «La Azucena» y era el punto de referencia: ahí se hacían los ramos de las quinceañeras, las coronas y los domingos de ramos. Cuando doña Carmen enfermó y cerró el local, todo el barrio dijo «ya la floristería se acabó».
 
@@ -28,7 +28,40 @@ Después lo que pocos cuentan: la infraestructura que nadie ve (SyncYomi y el se
 
 ───────────────────
 
-⚡ LA PIEZA EN UNA PÁGINA
+*🗺️ MAPA DE ESTA GUÍA*
+
+```
+├── 🌱 LA SEMILLA · ~4 min
+├── ⚡ LA PIEZA · ~2 min
+├── 🧠 MAPA MENTAL · ~1 min
+├── 📜 LA HERENCIA · ~3 min
+├── 🌳 EL ÁRBOL · ~1 min
+├── 📱 FICHA POR · ~7 min
+├── 🧬 LA TAXONOMÍA · ~1 min
+├── 🔍 CÓMO LEER · ~1 min
+├── 📜 LICENCIAS, D · ~1 min
+├── 🔄 RESPALDOS Y · ~1 min
+├── 🔧 PROBLEMAS TÍ · ~3 min
+├── 🧯 MITOS DEL · ~1 min
+├── 🧪 CASOS PRÁCTI · ~2 min
+├── 📖 HISTORIA COR · ~3 min
+├── 📋 RADIOGRAFÍA  · ~2 min
+├── 📌 LÍMITES HONE · ~2 min
+├── ❓ PREGUNTAS FR · ~2 min
+├── 📖 GLOSARIO DEL · ~3 min
+├── 🔬 ANATOMÍA DE · ~3 min
+├── 🧭 LA BRÚJULA · ~1 min
+├── 📊 LO QUE · ~1 min
+├── 🪜 LA ESCALERA · ~3 min
+├── 🧾 LA FICHA · ~3 min
+├── 😄 EL MEME · ~3 min
+├── 🔗 ENLACES (señ · ~1 min
+└── 📝 NOTA DE · ~2 min
+```
+
+⏱️ *Lectura total: 57 min*
+
+*⚡ LA PIEZA EN UNA PÁGINA*
 
 • Tachiyomi — el lector de manga libre que marcó una época — cerró su núcleo en enero de 2024. Lo que quedó NO es «Tachiyomi con otro nombre»: es una familia de proyectos distintos, con dueños, ritmos y licencias propias. Ninguna estrella instala nada; ningún parentesco garantiza nada.
 
@@ -36,13 +69,13 @@ Después lo que pocos cuentan: la infraestructura que nadie ve (SyncYomi y el se
 
 • Censo anime re-contado HOY: Aniyomi ★7.8 mil, empuje sigue del 14-sep añadiendo soporte a extensions-lib v17 — la rama madre cavando la versión siguiente, aún sin release estable pero viva. Anikku ★1.0 mil, release r8944 del 16-sep — la rama anime más movida del mes. Tadami ★266, con v0.63.0 del 16-sep y 2.062 commits por delante de su madre — manga, anime y ranobe. Animetail queda a su fecha del 15-sep (★579), marcado como no re-contado hoy.
 
-• La infraestructura invisible también respira: SyncYomi ★718, commit de hace 3 horas probando bibliotecas gigantes, versión v1.5.6 del 18-sep. Y su propia portada regala la blunt más honesta del mapa: declara que el cliente Mihon dedicado probablemente nunca se implementará — los límites del dueño, escritos por el dueño.
+• La infraestructura invisible también respira: SyncYomi ★732, commit de hace 3 horas probando bibliotecas gigantes, versión v1.5.6 del 18-sep. Y su propia portada regala la blunt más honesta del mapa: declara que el cliente Mihon dedicado probablemente nunca se implementará — los límites del dueño, escritos por el dueño.
 
 • La regla ante todo: ser fork, variante o rebautizo NO es razón para usarlo. Las cuatro puertas que sí cuentan: uso real, unicidad, madurez pública y propósito propio. Y la única vía de instalación sana: Releases de la casa oficial, con tag y fecha — jamás «el paquete más actualizado» distribuido por grupos.
 
 ───────────────────
 
-🧠 MAPA MENTAL: LA PERSIANA
+*🧠 MAPA MENTAL: LA PERSIANA*
 
 LA PERSIANA — cómo elijo taller sin preguntar de quién es hijo.
 
@@ -58,7 +91,7 @@ LO QUE NO INSTALO — «más actualizado que GitHub», mods premium de tienda aj
 
 ───────────────────
 
-📜 LA HERENCIA, SIN DRAMA (qué cerró y qué no)
+*📜 LA HERENCIA, SIN DRAMA (qué cerró y qué no)*
 
 Enero de 2024: el proyecto Tachiyomi anunció el fin de su desarrollo activo y archivó su repositorio. Esa fecha importa por dos cosas distintas que el barrio mezcla siempre. Primera: cerró EL PROYECTO — el taller del maestro, con su almacén oficial de extensiones incluido (archivado el mismo mes). Segunda: NO cerró el código — la licencia libre que siempre tuvo hizo que cualquier equipo con oficio pudiera continuar la obra bajo su propio nombre, y eso es exactamente lo que pasó.
 
@@ -86,12 +119,12 @@ Con esas cuatro puertas, el mapa se reduce solo: decenas de forks se quedan fuer
 
 ───────────────────
 
-🌳 EL ÁRBOL COMPLETO DE HOY (censo del 22-sep)
+*🌳 EL ÁRBOL COMPLETO DE HOY (censo del 22-sep)*
 
 EL TRONCO MANGA (linaje Tachiyomi → Mihon)
 • Mihon — ★24.4 mil · v0.21.2 (13-oct) · push 14-oct · Apache-2.0 — el sucesor de hecho
 • TachiyomiSY — ★4.2 mil · master al 21-jul · v1.13.2 (13-jul) · Apache-2.0 — el clásico con nombre viejo
-• TachiyomiSYPreview — ★492 (a su fecha) · r6332 (14-ago) · host de pruebas
+• TachiyomiSYPreview — ★485 (a su fecha) · r6332 (14-ago) · host de pruebas
 • Komikku — ★4.8 mil · master al 17-jul · 10.617 commits · Apache-2.0 — el rehijo con casa propia
 • Neko — ★2.8 mil · commit HOY (7 h) · 351 tags · lector Compose en migración — especialista MangaDex
 • (Decenas de forks sin proyecto propio: no se listan — la regla)
@@ -104,14 +137,14 @@ LA RAMA ANIME (manga + anime + primos)
 • Animetail — ★579 (a su fecha del 15-sep; no re-contado hoy) — fork declarado
 
 LA INFRAESTRUCTURA
-• SyncYomi — ★718 · commit HOY (3 h) · v1.5.6 (18-sep) · sincronización entre dispositivos
+• SyncYomi — ★732 · commit HOY (3 h) · v1.5.6 (18-sep) · sincronización entre dispositivos
 • Suwayomi — servidor de escritorio (su ficha vive fechada en la pieza 04 de esta serie)
 
 EL ÁRBOL VECINO — Kotatsu/Usagi (GPL, parsers propios): otra gramática, otra guía de esta familia. No se mezclan extensiones entre árboles — la confusión número uno del barrio, señalada aquí otra vez a propósito.
 
 ───────────────────
 
-📱 FICHA POR FICHA: LOS VIVOS DEL CENSO (contadas hoy)
+*📱 FICHA POR FICHA: LOS VIVOS DEL CENSO (contadas hoy)*
 
 *Mihon — el tronco.* https://github.com/mihonapp/mihon — ★24.4 mil contadas hoy (la edición del 22-sep contaba 23.8 mil: el tronco sigue creciendo; release v0.21.2 firmada el 13-oct) · forks 1.5 mil · 8,020 commits · etiquetas 105 · ÚLTIMO COMMIT HOY, hace 14 horas: PR #4002 arreglando la búsqueda de la biblioteca al tocar el nombre de la fuente · licencia Apache-2.0. Su comunidad de traducciones empuja a diario; su versión estable vigente marcaba el 5 de agosto en nuestra edición anterior, y hoy consta que la rama sigue barriendo sin anunciar APK nueva — el oficio hecho rutina. Keiyoushi lo nombra primero entre sus apps soportadas, y en este ecosistema esa mención es la recomendación que vale.
 
@@ -119,7 +152,7 @@ EL ÁRBOL VECINO — Kotatsu/Usagi (GPL, parsers propios): otra gramática, otra
 
 *TachiyomiSY — el vivo con el nombre viejo.* https://github.com/jobobby04/TachiyomiSY — ★4.2 mil contadas hoy · 9.935 commits · master con último empuje del 21 de julio (PR #1629, migración asíncrona del ordenamiento) · versión vigente 1.13.2 del 13 de julio · Apache-2.0. La portada de hoy deja legible un dato que antes pedía excavar: el grafo lo declara fork de TachiyomiAZ — el linaje con bisabuelo visible, para alegría de la taxonomía. Su julio incluyó subida del SDK mínimo y release firmada; desde entonces, silencio de taller pausado — no muerto: la regla de la casa marca la diferencia, y los dos años de historial sólido mandan más que dos meses de calma.
 
-*Su host de pruebas:* TachiyomiSYPreview (★492 a su fecha, r6332 del 14 de agosto). Las preview-app: para probadores que reportan — no para tu lectura diaria.
+*Su host de pruebas:* TachiyomiSYPreview (★485 a su fecha, r6332 del 14 de agosto). Las preview-app: para probadores que reportan — no para tu lectura diaria.
 
 *Komikku — el rehijo con taller propio.* https://github.com/komikku-app/komikku — ★4.8 mil contadas hoy (era 4.721) · 10.617 commits, los más numerosos de la familia manga del censo · master con último empuje del 17 de julio (PR #1800: migración de preferencias chapter-hash PARA USUARIOS EXISTENTES — los rehijos también cuidan a los ya-casados, no solo a los recién llegados) · Apache-2.0. La API de GitHub no lo declara fork: repo nuevo, linaje contado en el README. Su organización — con su botón de sponsor a la vista — mantiene además Anikku y el almacén independiente de la pieza 04: una familia de talleres con el mismo plomero.
 
@@ -137,7 +170,7 @@ EL ÁRBOL VECINO — Kotatsu/Usagi (GPL, parsers propios): otra gramática, otra
 
 🏗️ LA INFRAESTRUCTURA QUE NADIE VE
 
-*SyncYomi* — https://github.com/syncyomi/syncyomi — ★718 contadas hoy (era 710) · rama develop con 356 commits · etiquetas 52 · versión v1.5.6 del 18-sep · COMMIT DE HOY hace 3 horas: dos PRs consecutivos ensayando bibliotecas gigantes — la #261 con transmisión continua y primera subida de un dispositivo, la #262 contra un servidor Suwayomi con montón de memoria pequeño. Traducción al barrio: alguien está probando, AHORA MISMO, si tu biblioteca de miles de títulos aguanta la sincronización contra el servidor — con pruebas escritas, no con promesas. Y su portada regala la blunt más refrescante del mapa entero: declara que el cliente Mihon dedicado NO está implementado (el flujo funciona igual por el estándar del árbol) y que — texto literal de su README — probablemente nunca se implementará. Límites escritos por el dueño, no descubiertos por ti: así se ve una casa honesta.
+*SyncYomi* — https://github.com/syncyomi/syncyomi — ★732 contadas hoy (era 710) · rama develop con 356 commits · etiquetas 52 · versión v1.5.6 del 18-sep · COMMIT DE HOY hace 3 horas: dos PRs consecutivos ensayando bibliotecas gigantes — la #261 con transmisión continua y primera subida de un dispositivo, la #262 contra un servidor Suwayomi con montón de memoria pequeño. Traducción al barrio: alguien está probando, AHORA MISMO, si tu biblioteca de miles de títulos aguanta la sincronización contra el servidor — con pruebas escritas, no con promesas. Y su portada regala la blunt más refrescante del mapa entero: declara que el cliente Mihon dedicado NO está implementado (el flujo funciona igual por el estándar del árbol) y que — texto literal de su README — probablemente nunca se implementará. Límites escritos por el dueño, no descubiertos por ti: así se ve una casa honesta.
 
 *Suwayomi* — el servidor de escritorio del ecosistema: tu biblioteca corriendo en la PC, leída desde el navegador. Su estado vigente vive fechado en la pieza 04 de esta serie (verificada esta misma jornada). Nombrar la infraestructura aquí cumple su propósito clásico: evitar el error de confundir la app con la capa que la acompaña — el taller con el depósito.
 
@@ -145,7 +178,7 @@ EL ÁRBOL VECINO — Kotatsu/Usagi (GPL, parsers propios): otra gramática, otra
 
 ───────────────────
 
-🧬 LA TAXONOMÍA HONESTA: QUIÉN ES FORK Y QUIÉN SOLO HEREDÓ
+*🧬 LA TAXONOMÍA HONESTA: QUIÉN ES FORK Y QUIÉN SOLO HEREDÓ*
 
 El grafo de GitHub y la realidad no siempre coinciden — cuatro formas de nacer, leídas hoy con nombres propios:
 
@@ -161,7 +194,7 @@ La pregunta útil cuando alguien te recomiende «un fork» nunca es ¿de quién 
 
 ───────────────────
 
-🔍 CÓMO LEER UN REPO EN DIEZ MINUTOS (el ritual del lunes)
+*🔍 CÓMO LEER UN REPO EN DIEZ MINUTOS (el ritual del lunes)*
 
 ```
 1. Abre la página del repo desde SU casa — no el
@@ -189,7 +222,7 @@ La pregunta útil cuando alguien te recomiende «un fork» nunca es ¿de quién 
 
 ───────────────────
 
-📜 LICENCIAS, DICHO SIN BUFETE
+*📜 LICENCIAS, DICHO SIN BUFETE*
 
 Lo que el campo de licencia de cada página declara (contado hoy en las fichas grandes; lo demás, a su fecha):
 
@@ -201,7 +234,7 @@ Dos cláusulas de sobremesa, sin cobrar consulta: esto no es asesoría legal —
 
 ───────────────────
 
-🔄 RESPALDOS Y MUDANZAS DE BIBLIOTECA (la liturgia completa)
+*🔄 RESPALDOS Y MUDANZAS DE BIBLIOTECA (la liturgia completa)*
 
 • Cada lector de la familia tiene su formato de respaldo; los formatos entre primos SE PARECEN, pero nadie garantiza igualdad ni entre versiones ni entre casas. Mudarte no es arrastrar el archivo: es exportar en casa A e importar en casa B — con ensayo antes de borrar nada.
 
@@ -215,7 +248,7 @@ Dos cláusulas de sobremesa, sin cobrar consulta: esto no es asesoría legal —
 
 ───────────────────
 
-🔧 PROBLEMAS TÍPICOS DE QUIEN CAMBIA DE LECTOR (cuatro trancas de mudanza)
+*🔧 PROBLEMAS TÍPICOS DE QUIEN CAMBIA DE LECTOR (cuatro trancas de mudanza)*
 
 *Tranca 1 — «Instalé el nuevo lector y no veo ninguna extensión».* La más común de todas. Cada lector trae su propia lista de extensiones VACÍA: los almacenes se añaden por casa (la pieza 04 cubre ese ritual entero), y ningún respaldo de biblioteca incluye las extensiones — respaldo es biblioteca, no instalación. Solución: abre las guías del almacén oficial del árbol correspondiente y añade desde ahí; si la lista aparece con el aviso de app desactualizada, el problema es tu versión del lector, no el almacén.
 
@@ -266,7 +299,7 @@ La liturgia parece excesiva hasta la primera vez que pierdes una biblioteca de m
 
 ───────────────────
 
-🧯 MITOS DEL APELLIDO (cuatro cuentos de barrio)
+*🧯 MITOS DEL APELLIDO (cuatro cuentos de barrio)*
 
 *Cuento 1 — «Mihon es Tachiyomi».* No. Tachiyomi cerró su núcleo en enero de 2024; Mihon es OTRO repo, vivo hoy, que heredó el modelo — rehijo con casa propia, no sucesor nombrado. El apellido de la historia no viaja en el nombre: viaja en el código y la comunidad. Quien diga «es el Tachiyomi oficial nuevo» está vendiendo apellido, no herramienta.
 
@@ -278,7 +311,7 @@ La liturgia parece excesiva hasta la primera vez que pierdes una biblioteca de m
 
 ───────────────────
 
-🧪 CASOS PRÁCTICOS DEL BARRIO (cuatro mudanzas contadas)
+*🧪 CASOS PRÁCTICOS DEL BARRIO (cuatro mudanzas contadas)*
 
 *Caso 1 — Yeraldy, la que probó sin borrar.* Tenía años en el tronco y le picaba el estilo clásico del SY. Instaló desde la casa (Release 1.13.2), exportó su respaldo con fecha en el tronco, importó en SY, verificó tres títulos en muestra — y leyó una semana en paralelo con el viejo en silencio. Al octavo día eligió el clásico por sus fuentes extra, creó respaldo nuevo desde SY, y recién entonces desinstaló el tronco — que se quedó archivado en su nube como respaldo histórico. Mudanza ejemplar: ensayo primero, borrado al final — nunca al revés.
 
@@ -292,7 +325,7 @@ Los cuatro comparten oficio: mirar taller, no parentesco; ensayar antes de mudar
 
 ───────────────────
 
-📖 HISTORIA CORTA: EL BAR SIN MAESTRO
+*📖 HISTORIA CORTA: EL BAR SIN MAESTRO*
 
 Cuando el taller del maestro cerró en enero de 2024, el barrio se hizo la pregunta de siempre: ¿ahora qué? La respuesta no fue una herencia — fue una temporada de aprendices. Nadie peleó por el letrero: levantaron talleres con nombre propio y aprendieron a compartir plomería entre casas que ni siquiera se llaman igual.
 
@@ -322,19 +355,19 @@ La moraleja la regala la pieza anterior de esta serie: el ecosistema que sobrevi
 
 ───────────────────
 
-📋 RADIOGRAFÍA DEL CENSO (lo medido hoy, con su hora)
+*📋 RADIOGRAFÍA DEL CENSO (lo medido hoy, con su hora)*
 
 ```
 CASO / TALLER      PLACA HOY     SEÑAL VIVA                NOTA
 Mihon    ★24.4 mil  v0.21.2 (13-oct)      tronco al día
-TachiyomiSY        ★4.2 mil      master al 21-jul          clásico, verano
-Komikku            ★4.8 mil      master al 17-jul          rehijo, verano
-Neko               ★2.8 mil      commit HOY 7 h            obra gruesa
+TachiyomiSY ★4.2 mil   master al 21-jul          clásico, verano
+Komikku   ★4.8 mil      master al 17-jul          rehijo, verano
+Neko         ★2.8 mil      commit HOY 7 h            obra gruesa
 Aniyomi  ★7.8 mil  commit 14-sep (v17)  rama madre, cava
-Anikku             ★1.0 mil      release r8944 (16-sep)    la más movida
-Tadami             ★266          v0.63.0 (16-sep)          el joven, corre
-Animetail          ★579 (15-sep) push 7-sep (fecha)        a su fecha
-SyncYomi           ★718          commit HOY 3 h            infra, mide duro
+Anikku     ★1.0 mil      release r8944 (16-sep)    la más movida
+Tadami   ★266          v0.63.0 (16-sep)          el joven, corre
+Animetail     ★579 (15-sep) push 7-sep (fecha)        a su fecha
+SyncYomi ★732         commit HOY 3 h            infra, mide duro
 ```
 
 La radiografía en una línea: tres talleres con persiana subida ESTA MAÑANA, el resto trabajando esta misma semana o en su verano — y ninguna ficha viva por debajo de la puerta de madurez. El barrio no está en decadencia: está en reorganización, con las horas a la vista.
@@ -347,7 +380,7 @@ El censo vecino de la pieza 17 de esta serie cuenta el territorio japonés del e
 
 ───────────────────
 
-📌 LÍMITES HONESTOS DE ESTA PIEZA
+*📌 LÍMITES HONESTOS DE ESTA PIEZA*
 
 *Este mapa no elige por ti.* Las fichas comparan placas y señales; la elección pertenece a tu lectura. La pregunta «¿cuál es el mejor?» no se responde aquí: se responde en tu casa, con tu lista.
 
@@ -377,7 +410,7 @@ El censo vecino de la pieza 17 de esta serie cuenta el territorio japonés del e
 
 ───────────────────
 
-❓ PREGUNTAS FRECUENTES (doce, contadas hoy)
+*❓ PREGUNTAS FRECUENTES (doce, contadas hoy)*
 
 *¿Cuál instalo?* El que uses y verifiques. Manga general: el tronco, con comunidad y empuje diario. Estilo clásico con extras: el SY de jobobby04. MangaDex por entero: Neko. Anime además del manga: la rama madre o sus hijos activos — Anikku es la más movida del mes, Tadami suma ranobe. Abre la Release el día que instales: esa es la única fecha que manda.
 
@@ -405,7 +438,7 @@ El censo vecino de la pieza 17 de esta serie cuenta el territorio japonés del e
 
 ───────────────────
 
-📖 GLOSARIO DEL TEMA (dieciséis términos del taller)
+*📖 GLOSARIO DEL TEMA (dieciséis términos del taller)*
 
 *Fork.* Proyecto hijo de otro, declarado en el grafo de GitHub con su padre visible. Dato de nacimiento — no certificado de calidad.
 
@@ -441,7 +474,7 @@ El censo vecino de la pieza 17 de esta serie cuenta el territorio japonés del e
 
 ───────────────────
 
-🔬 ANATOMÍA DE UN FORK SALUDABLE (ocho órganos, todos visibles)
+*🔬 ANATOMÍA DE UN FORK SALUDABLE (ocho órganos, todos visibles)*
 
 Un fork sano no se siente: se examina. Ocho órganos que cualquiera puede abrir desde la acera, con ejemplos de hoy:
 
@@ -504,7 +537,7 @@ Hoy, septiembre de 2026, el ciclo corre de nuevo (la rama madre ya integra la ge
 
 ───────────────────
 
-🧭 LA BRÚJULA DE 48 HORAS (cómo elegir entre los dos o tres finalistas)
+*🧭 LA BRÚJULA DE 48 HORAS (cómo elegir entre los dos o tres finalistas)*
 
 Cuando ya filtraste el mapa con las cuatro puertas y te quedan dos o tres talleres que todo el barrio celebra, la elección se hace así — con cronómetro de barrio, no con encuesta:
 
@@ -518,7 +551,7 @@ Cuando ya filtraste el mapa con las cuatro puertas y te quedan dos o tres taller
 
 ───────────────────
 
-📊 LO QUE CADA PRIMO DA QUE EL TRONCO NO (la diferencia real, sin floritura)
+*📊 LO QUE CADA PRIMO DA QUE EL TRONCO NO (la diferencia real, sin floritura)*
 
 ```
 TachiyomiSY    el estilo clásico con EXTRAS:
@@ -554,7 +587,7 @@ SyncYomi       no es lector: es el andamio que
 No es una tabla para decantar: es para desterrar la idea de que estos talleres compiten por lo mismo. Cada uno cultiva la esquina que el tronco deja libre — eso es un ecosistema, no un campeonato.
 
 ───────────────────
-🪜 LA ESCALERA DE CONFIANZA DEL LECTOR PRIMERIZO (cuatro peldaños, en orden)
+*🪜 LA ESCALERA DE CONFIANZA DEL LECTOR PRIMERIZO (cuatro peldaños, en orden)*
 
 Si llegas hoy a este ecosistema desde cero — o regresas después de años —, la escalera sana es esta. No se brincan peldaños:
 
@@ -590,7 +623,7 @@ La lectura del delta es tan importante como cada fila: una semana normalísima d
 
 ───────────────────
 
-🧾 LA FICHA RESUMEN (para guardar en la nota del teléfono)
+*🧾 LA FICHA RESUMEN (para guardar en la nota del teléfono)*
 
 ```
 ¿CUÁL INSTALO?   Uno por materia; desde su casa;
@@ -634,7 +667,7 @@ Por eso la frase más importante del ecosistema no es «larga vida al tronco»: 
 
 ───────────────────
 
-😄 EL MEME DE LA PIEZA
+*😄 EL MEME DE LA PIEZA*
 
 Original de la casa — del tema, con el lector, sin atacar a nadie:
 
@@ -669,7 +702,7 @@ El chiste defiende su tema: el apellido no ata ramos ni compone carros ni mantie
 
 *Paso uno — la madre re-leída.* Se leyó entera la edición del 15-sep (14.263 c) y se marcó su inventario de caducables: nueve fichas con placa y empuje, las dos piezas de infraestructura, los hosts de prueba, las versiones firmadas. Todo lo mundano fue a re-contarse hoy; lo no re-verificado quedó marcado con su fecha a la vista (Animetail; Suwayomi por la pieza 04).
 
-*Paso dos — la verificación viva de hoy, 22-sep.* Ocho repositorios abiertos y leídos en su propia página esta misma mañana: Mihon (★23.8 mil, commit hace 14 horas, PR #4002; 8.020 commits), Aniyomi (★7.7 mil; commit del 14-sep «extensions-lib v17»; 8.135), TachiyomiSY (★4.2 mil; grafo con padre TachiyomiAZ a la vista; master al 21-jul), TachiyomiSYPreview (★492 y r6332, de la hornada de agosto constada), Komikku (★4.8 mil; 10.617 commits; master al 17-jul, PR #1800), Neko (★2.8 mil; commit hace 7 horas, PR #3425; CI a JDK 21 del 14-sep; fase 1 Compose integrada el 25-ago), Anikku (★1.0 mil; release r8944 del 16-sep; 8.935), Tadami (★266; 10.181 commits; 2.062 por delante; merge ranobe-novel del 13-sep y v0.63.0 del 16-sep) y SyncYomi (★718; commit hace 3 horas — PRs #261 y #262; v1.5.6 del 18-sep; la blunt de su README sobre el cliente dedicado citada textualmente). La búsqueda de prensa del tema no trajo novedad firme que no estuviera ya en los repos — se declara así, sin inventarla.
+*Paso dos — la verificación viva de hoy, 22-sep.* Ocho repositorios abiertos y leídos en su propia página esta misma mañana: Mihon (★23.8 mil, commit hace 14 horas, PR #4002; 8.020 commits), Aniyomi (★7.7 mil; commit del 14-sep «extensions-lib v17»; 8.135), TachiyomiSY (★4.2 mil; grafo con padre TachiyomiAZ a la vista; master al 21-jul), TachiyomiSYPreview (★485 y r6332, de la hornada de agosto constada), Komikku (★4.8 mil; 10.617 commits; master al 17-jul, PR #1800), Neko (★2.8 mil; commit hace 7 horas, PR #3425; CI a JDK 21 del 14-sep; fase 1 Compose integrada el 25-ago), Anikku (★1.0 mil; release r8944 del 16-sep; 8.935), Tadami (★266; 10.181 commits; 2.062 por delante; merge ranobe-novel del 13-sep y v0.63.0 del 16-sep) y SyncYomi (★732; commit hace 3 horas — PRs #261 y #262; v1.5.6 del 18-sep; la blunt de su README sobre el cliente dedicado citada textualmente). La búsqueda de prensa del tema no trajo novedad firme que no estuviera ya en los repos — se declara así, sin inventarla.
 
 *Paso tres — lo no comprobado, dicho tal cual.* Animetail quedó a su fecha; las versiones firmadas viejas (1.13.2 del clásico, v0.20.4 del tronco) se describieron como vigentes según su día; la compatibilidad futura de la v17 se describe SOLO por el commit de hoy — sin promesas de roadmap; y la cercanía de los formatos de respaldo entre primos se mantiene como «a veces se parecen», sin garantía — igual que en la edición anterior, porque el oficio no ha cambiado su verdad.
 
@@ -679,7 +712,7 @@ El chiste defiende su tema: el apellido no ata ramos ni compone carros ni mantie
 
 ───────────────────
 
-🔗 ENLACES (señalados con su fecha de verificación)
+*🔗 ENLACES (señalados con su fecha de verificación)*
 
 *El tronco manga — verificados hoy:*
 • Mihon — https://github.com/mihonapp/mihon
@@ -702,7 +735,7 @@ El chiste defiende su tema: el apellido no ata ramos ni compone carros ni mantie
 
 ───────────────────
 
-📝 NOTA DE VERIFICACIÓN (22-sep-2026)
+*📝 NOTA DE VERIFICACIÓN (22-sep-2026)*
 
 Abiertos hoy y medidos en su propia página: Mihon, Aniyomi, TachiyomiSY, TachiyomiSYPreview (placa de agosto), Komikku, Neko, Anikku, Tadami y SyncYomi — de ellos salen todas las placas y horas marcadas como «hoy» o «esta semana» en el texto: los commits matinales de Mihon (14 h), Neko (7 h) y SyncYomi (3 h), la v17 integrada en la rama madre (14-sep), la fase 1 del lector Compose (25-ago) con su test de hoy (7 h), el release r8944 (16-sep) y la compatibilidad add-repo, el merge ranobe-novel (13-sep) con la v0.63.0 (16-sep), la sync v1.5.6 (18-sep) y los ensayos de biblioteca gigante. Citados a su fecha, sin reconteo de hoy: Animetail (★579 del 15-sep) y Suwayomi (empuje del 12-sep, por su pieza). La búsqueda fresca de prensa/web sobre el tema no añadió hechos firmes fuera de los repos — se declara aquí como vacío honesto. Datos históricos (cierre de enero de 2024, linajes) constados a su día. Cada placa lleva recibo; nada viene de memoria.
 

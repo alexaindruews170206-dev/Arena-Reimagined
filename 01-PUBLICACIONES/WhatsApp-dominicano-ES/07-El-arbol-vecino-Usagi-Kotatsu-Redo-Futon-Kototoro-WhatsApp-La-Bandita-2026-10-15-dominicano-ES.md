@@ -2,7 +2,7 @@ EL ÁRBOL VECINO: USAGI, KOTATSU-REDO, FUTON Y KOTOTORO MEDIDOS ESTA MAÑANA
 
 Cuándo «la mataron» es un rumor de pasillo y cuándo es verdad con archivo declarado — los cuatro vivos del árbol Kotatsu contados hoy repo por repo, con el primer puente entre los dos ecosistemas documentado por sus propios commits.
 
-🌱 LA SEMILLA
+*🌱 LA SEMILLA*
 
 En mi pueblo había un velorio errante: un cuento clásico de los abuelos que se les lleva al hospital al primero y amanece el barrio entero repartiendo café y aclimatando la sala — para darle luto al difunto equivocado. Doña Michaela, la que organizaba los coros, tenía la regla de oro: «Antes de prender la vela, te asomas a la casa a ver si el muerto siquiera desayunó». Y hubo un día famoso en que el «difunto» bajó la escalera con su tacita de avena mientras abajo cantaban responsos — fue el luto más corto de la zona y el chiste más largo de la década: el hombre vivió diez años más y él mismo asistía a su velorio como chisme de alcantarilla.
 
@@ -18,9 +18,50 @@ Primero, la cadena completa en tres actos: qué cerró, qué se descontinuó y q
 
 ───────────────────
 
-⚡ LA GUÍA EN UNA PÁGINA
+*🗺️ MAPA DE ESTA GUÍA*
 
-• Usagi, censo de HOY 15-oct-2026: ★273, rama con señal del 14-oct (la traducción francesa que esta guía vio integrarse en vivo, ya es historia de la casa), organización de dieciséis repos viva, versión firme única 1.0 del 10-sep, sin banner de archivado, en F-Droid. Viva: lo archivado fue la capa vieja de plugins; lo muerto hace meses, Yukimi — dos lutos distintos que los pasillos fundieron en uno.
+```
+├── 🌱 LA SEMILLA · ~2 min
+├── ⚡ LA GUÍA · ~2 min
+├── 🧠 MAPA MENTAL · ~1 min
+├── 🧬 LA CADENA · ~3 min
+├── 📱 FICHA: USAGI · ~2 min
+├── 🌳 LOS CUATRO · ~2 min
+├── 🌉 EL PUENTE · ~1 min
+├── 🧩 CÓMO COME · ~2 min
+├── 🤞 LA REGLA · ~1 min
+├── 🔍 EL RITUAL · ~1 min
+├── 🔧 LAS CUATRO · ~1 min
+├── 🧯 LOS CUATRO · ~1 min
+├── 🧪 CUATRO LECTU · ~2 min
+├── 📖 HISTORIA COR · ~3 min
+├── 🍴 LA LÁMINA · ~1 min
+├── 🎭 LA LECCIÓN · ~1 min
+├── 🧭 LA BRÚJULA · ~1 min
+├── 🪜 LA ESCALERA · ~2 min
+├── ❓ PREGUNTAS FR · ~3 min
+├── 📖 GLOSARIO DEL · ~2 min
+├── 📌 LÍMITES HONE · ~1 min
+├── 🧬 CAPA INMERSI · ~1 min
+├── 📊 RADIOGRAFÍA  · ~1 min
+├── 📊 LO QUE · ~1 min
+├── 📦 LA MUDANZA · ~2 min
+├── 🧩 LA MESA · ~4 min
+├── 📨 NOTA PARA · ~1 min
+├── 🧾 LA FICHA · ~2 min
+├── 🔭 QUÉ VIGILAR · ~1 min
+├── 📚 LA LECTURA · ~4 min
+├── 😄 EL MEME · ~3 min
+├── 🔗 FUENTES SEÑA · ~1 min
+├── 📝 NOTA DE · ~2 min
+└── 📎 VERSIÓN COMP · ~1 min
+```
+
+⏱️ *Lectura total: 59 min*
+
+*⚡ LA GUÍA EN UNA PÁGINA*
+
+• Usagi, censo de HOY 15-oct-2026: ★274, rama con señal del 14-oct (la traducción francesa que esta guía vio integrarse en vivo, ya es historia de la casa), organización de dieciséis repos viva, versión firme única 1.0 del 10-sep, sin banner de archivado, en F-Droid. Viva: lo archivado fue la capa vieja de plugins; lo muerto hace meses, Yukimi — dos lutos distintos que los pasillos fundieron en uno.
 
 • Los cuatro vivos, medidos hoy: Kotatsu-Redo ★940, app v9.8.4 (17-sep), README revisado el 19-sep — el heredero del nombre, con fork declarado del original. Futon ★431, empuje del 19-sep (reinicio inteligente de capítulos nuevos, configurable) — y su bomba senior: soporte de extensiones Mihon integrado desde abril, contado abajo. Kototoro ★581, empuje de esta mañana subiendo versión a v2.1.5 — el más movido del árbol, manga+novelas+vídeo. Usagi, ya dicho.
 
@@ -32,7 +73,7 @@ Primero, la cadena completa en tres actos: qué cerró, qué se descontinuó y q
 
 ───────────────────
 
-🧠 MAPA MENTAL: EL DIFUNTO QUE DESAYUNA
+*🧠 MAPA MENTAL: EL DIFUNTO QUE DESAYUNA*
 
 EL LUTO — los rumores de muerte viajan por grupos; las tumbas se verifican en el repo. Pregunto: ¿banner archivado en la página DEL LECTOR o en la página DE UN ANDAMIO? ¿Último empuje con hora o meses de tumba?
 
@@ -46,7 +87,7 @@ LO QUE NO INSTALO — ningún APK de «Usagi Plus», todos los imanes con estrel
 
 ───────────────────
 
-🧬 LA CADENA EN TRES ACTOS (cada muerte en su laberinto)
+*🧬 LA CADENA EN TRES ACTOS (cada muerte en su laberinto)*
 
 El árbol Kotatsu tiene un año de muertes y cristianito. Por orden, con las fechas de siempre:
 
@@ -87,7 +128,7 @@ El gesto es el de toda casa viva: demoler el andamio viejo con el edificio en pi
 
 ───────────────────
 
-📱 FICHA: USAGI (la ligera sin fuentes integradas)
+*📱 FICHA: USAGI (la ligera sin fuentes integradas)*
 
 github.com/UsagiApp/Usagi
 
@@ -118,13 +159,13 @@ Tres lecturas de la ficha para principiantes de la vara. Primera: el primer comm
 
 ───────────────────
 
-🌳 LOS CUATRO VIVOS, MEDIDOS ESTA MAÑANA
+*🌳 LOS CUATRO VIVOS, MEDIDOS ESTA MAÑANA*
 
 *Kotatsu-Redo — el heredero del nombre.* github.com/Kotatsu-Redo/Kotatsu-Redo — ★940 · 104 bifurcaciones · 5.069 empujes · fork DECLARADO del maestro (su rama va 120 commits por delante del original archivado). La app firmó el 17-sep su v9.8.4 (la serie 9.8.x se cuenta desde agosto: 9.8.0 el 13-jul, 9.8.2 el 25-ago, 9.8.3 el 5-sep), y dos días después, el 19-sep, el autor revisaba el README «para clarificar los objetivos del proyecto» — el gesto exacto de una casa joven que ya se da nombre propio. Su organización sostiene sus parsers (kotatsu-parsers-redo), telemetría y sincronización; y su metadata cuenta, desde diciembre, el camino a F-Droid con los parsers nuevos. Si tu corazón es el modelo del original con su mantenimiento vivo, este es el heredero que el barrio nombra primero — 22-sep, con placa.
 
-*Futon — el motor mestizo.* github.com/AppFuton/Futon — ★448 · 39 bifurcaciones · 5.128 empujes · fork declarado del maestro (179 por delante), último empuje del 19-sep: el reinicio inteligente de capítulos nuevos, configurable (#112). Su vitrina: v9.8.1 del 16-ago, nacida de un arreglo del manejador de extensiones (#104). Y su sección aparte va abajo — porque este taller guarda la bomba del trimestre: desde abril soporta extensiones de la familia Mihon ADEMÁS de sus parsers. El puente entre los dos árboles existe; se llama Futon; lo cuentan sus propios commits.
+*Futon — el motor mestizo.* github.com/AppFuton/Futon — ★449 · 39 bifurcaciones · 5.128 empujes · fork declarado del maestro (179 por delante), último empuje del 19-sep: el reinicio inteligente de capítulos nuevos, configurable (#112). Su vitrina: v9.8.1 del 16-ago, nacida de un arreglo del manejador de extensiones (#104). Y su sección aparte va abajo — porque este taller guarda la bomba del trimestre: desde abril soporta extensiones de la familia Mihon ADEMÁS de sus parsers. El puente entre los dos árboles existe; se llama Futon; lo cuentan sus propios commits.
 
-*Kototoro — el triple materia.* github.com/Kototoro-app/Kototoro — ★621 · 46 bifurcaciones · 7.139 empujes · doscientas versiones etiquetadas — y esta misma mañana, hace diez horas, subió su numeración a v2.1.5. Manga, novelas ligeras y vídeo en una sola app, licencia Apache-2.0 (declarada en su licencia misma), el compilador a la última (Gradle 9.7 desde agosto) y el taller cuidando hasta sus manuales internos — hace cuatro días retiró una familia entera de habilidades de diseño que ya no usaba, «para no enseñar lo que el repo prohíbe»: el taller que limpia hasta las paredes internas. Su serie de versiones de septiembre completa su propia pieza de esta familia (la 02, fechada).
+*Kototoro — el triple materia.* github.com/Kototoro-app/Kototoro — ★625 · 46 bifurcaciones · 7.139 empujes · doscientas versiones etiquetadas — y esta misma mañana, hace diez horas, subió su numeración a v2.1.5. Manga, novelas ligeras y vídeo en una sola app, licencia Apache-2.0 (declarada en su licencia misma), el compilador a la última (Gradle 9.7 desde agosto) y el taller cuidando hasta sus manuales internos — hace cuatro días retiró una familia entera de habilidades de diseño que ya no usaba, «para no enseñar lo que el repo prohíbe»: el taller que limpia hasta las paredes internas. Su serie de versiones de septiembre completa su propia pieza de esta familia (la 02, fechada).
 
 *Usagi — la ficha de arriba.* La cuarta y más ligera: sin fuentes integradas por diseño declarado — esa decisión es, probablemente, por lo que camina tranquila donde otras tropezaron con la bodega ferroviaria. Y su cadena de herramientas se mide abajo.
 
@@ -141,7 +182,7 @@ Kotatsu (maestro)  8.9 mil   ARCHIVADO 4-nov-2025, museo
 
 ───────────────────
 
-🌉 EL PUENTE: FUTON Y SUS EXTENSIONES MIHON (la noticia sin titular)
+*🌉 EL PUENTE: FUTON Y SUS EXTENSIONES MIHON (la noticia sin titular)*
 
 En abril de 2026 — cinco meses atrás, ya maduro pero no celebrado — el repo de Futon integró su pull request número 52, con este título seco: «Add support for mihon extensions». Léelo completo una vez, porque el hilo público cuenta el nacimiento de un puente entre dos ecosistemas que todo el barrio creía irreconciliables:
 
@@ -164,7 +205,7 @@ Traducido al barrio: Futon come ambos platos — los parsers del árbol Kotatsu 
 
 ───────────────────
 
-🧩 CÓMO COME ESTE ÁRBOL: PARSERS, TSUKI Y PLUGINS
+*🧩 CÓMO COME ESTE ÁRBOL: PARSERS, TSUKI Y PLUGINS*
 
 El árbol Kotatsu no usa extensiones estilo Miyomi: usa librerías de parsers y plugins compilados. El sándwich vigente, pieza por pieza, todo visto esta mañana:
 
@@ -175,7 +216,7 @@ UsagiApp/TsukiMix    la evolución: + extensiones/stores
                      (se tocó el 16-sep — viva)
 UsagiApp/plugins     plantilla con ejemplo para
                      creadores
-Gekkoushi/plugin-source  ★90 · 2.416 empujes · push
+Gekkoushi/plugin-source  ★92 · 2.416 empujes · push
                      del 13-sep (enlaces del README) —
                      aquí se contribuye y se reportan
                      fuentes rotas; migrada a la
@@ -201,13 +242,13 @@ Tres señales para retener. Una: la capita se migró a «estructura Tsuki» el 1
 
 ───────────────────
 
-🤞 LA REGLA MADRE QUE UNE LOS DOS ÁRBOLES
+*🤞 LA REGLA MADRE QUE UNE LOS DOS ÁRBOLES*
 
 Ahora que existen cuatro lectores vivos del vecino y nuevo de la familia Miyomi, el error número uno de descargas separadas sigue igual de campante: creer que «una extensión sirve en cualquier lado». La regla de ferroviaria, en verso de persiana: «los árboles no se injertan por descuido». Las extensiones de Miyomi viven en su librería (con su versión de convención — la pieza 04 enseña a leerlas); los parsers de Kotatsu viven en Tsuki. Futon cruza el puente PORQUE LO PROGRAMÓ — no porque los formatos sean el mismo. Lo que tu lector no declare en su README, no lo come: esa línea te evitará un año de «por qué no me sale la fuente».
 
 ───────────────────
 
-🔍 EL RITUAL EN ESTE ÁRBOL: SIETE LUCES
+*🔍 EL RITUAL EN ESTE ÁRBOL: SIETE LUCES*
 
 ```
 1. El enlace viene de la casa. ¿Repo o F-Droid?
@@ -226,7 +267,7 @@ Ahora que existen cuatro lectores vivos del vecino y nuevo de la familia Miyomi,
 
 ───────────────────
 
-🔧 LAS CUATRO TRANCAS DE ESTE ÁRBOL
+*🔧 LAS CUATRO TRANCAS DE ESTE ÁRBOL*
 
 *Tranca 1 — «Instalé Usagi y no veo ni una fuente».* No es fallo: es diseño. La app nace sin fuentes integradas — las trae el usuario vía plugins (capa Tsuki: plugin-source para el código, UMA para instalar). Media hora de lectura del README de la casa te ahorra una semana de preguntas fuera de lugar.
 
@@ -238,7 +279,7 @@ Ahora que existen cuatro lectores vivos del vecino y nuevo de la familia Miyomi,
 
 ───────────────────
 
-🧯 LOS CUATRO CUENTOS DEL VECINO
+*🧯 LOS CUATRO CUENTOS DEL VECINO*
 
 *Primero — «Usagi está muerta».* El cuento de la semana, nacido de mirar dos rótulos sin leerlos. Lo archivado fue el andamio viejo de plugins; la app hizo un merge esta madrugada; el museo del rótulo, su compañero de casa. La vara lo mide todo: banner EN EL LECTOR, o nada.
 
@@ -250,7 +291,7 @@ Ahora que existen cuatro lectores vivos del vecino y nuevo de la familia Miyomi,
 
 ───────────────────
 
-🧪 CUATRO LECTURAS DEL BARRIO
+*🧪 CUATRO LECTURAS DEL BARRIO*
 
 *Caso 1 — Rafa, el del luto errante.* Le pasaron el video del «archivado», borró Usagi en pánico y perdió el respaldo (que nunca había exportado, clásico). Cuando le enseñamos el merge de la madrugada, instaló de nuevo desde F-Droid, lloró por su biblioteca y hoy exporta cada domingo. Lección: ENTES del pánico, persiana — y respaldo antes de cualquier luto, porque quien llora sin exportar llora dos veces.
 
@@ -262,7 +303,7 @@ Ahora que existen cuatro lectores vivos del vecino y nuevo de la familia Miyomi,
 
 ───────────────────
 
-📖 HISTORIA CORTA: EL INVENTARIO DEL MUERTO
+*📖 HISTORIA CORTA: EL INVENTARIO DEL MUERTO*
 
 Cuentan que al viejo Cáceres le tocó catalogar los bienes de la hacienda Ferrera como encargado de inventario: bodegón lleno de filas de cuadernos, becerros con nombre de registro, herramientas con año de compra. Cuando le entregaron los papeles, el titular del inventario le entregó UN solo renglón: «Todo, pelo viejo». Cáceres tocó la campana de la administración: «¿Usted quiere que yo le diga al estado que esta hacienda vale «todo pelo viejo»?»
 
@@ -317,7 +358,7 @@ La lectura: el árbol vecino creció despacio y parejito — ninguna explosión,
 
 ───────────────────
 
-🍴 LA LÁMINA DE LOS 60 BIFURCADORES
+*🍴 LA LÁMINA DE LOS 60 BIFURCADORES*
 
 El grafo de Usagi cuenta hoy sesenta forks. Traída una mirada: cabezas mayormente recientes y ninguno con proyecto propio — salvando honras propias, como el simpático sang765/Usagi, cuyo README declara de frente: «Just a manga reader fork… IDK what i am doin» («no sé qué estoy haciendo», sic). Esa frase — de honestidad que sueña — es también la moraleja: un fork sin identidad es una copia con fecha. El que nadie mantendrá, nadie tiene que instalarse. Si alguno crece, tendrá su ficha el día que la merezca: hasta entonces, la casa es UsagiApp, punta del árbol.
 
@@ -329,19 +370,19 @@ Aquí la familia va casi entera GPL-3.0: Usagi, Kotatsu-Redo, Futon (repo madre 
 
 ───────────────────
 
-🎭 LA LECCIÓN DE LA CAMADA (fechada, para tu carpeta)
+*🎭 LA LECCIÓN DE LA CAMADA (fechada, para tu carpeta)*
 
 La búsqueda de mediados de septiembre documentó una camada de imanes con el mismo traje, fechados al 13-sep: estrellas infladas e idénticas entre repos (ciento quince a ciento veinte mil), títulos de clasificado — «usagi-nightly», «komikku-scans», «translation-hub-stringsets» y así —, nacidos esa misma semana, prisa por enlaces «antes de que lo borren». Ninguno es fork de nadie: son recaudadores de clics con nombre prestado, y en ellos es precisamente donde viaja el malware. La lección se fechó el 14/15-sep y sigue en vigor: si no nació de UsagiApp o de un nombre establecido en este censo, no es árbol — es quimiba. Cuando «alguien» te mande «el Usagi PLUS de la semana», la camada te debe la respuesta: la casa es una, y tiene dueño.
 
 ───────────────────
 
-🧭 LA BRÚJULA DEL VECINO (48 horas entre vivos)
+*🧭 LA BRÚJULA DEL VECINO (48 horas entre vivos)*
 
 Cuando te quedan dos finalistas del árbol, el desempate es sencillo y tiene nombre corto: diseño. ¿El modelo original con mantenimiento? El heredero del nombre. ¿El plato doble (parsers + extensiones Mihon)? El mestizo — despacio, función joven. ¿Manga+novelas+vídeo? El triple materia. ¿Ligereza y F-Droid con el sándwich organizado? La ligera sin fuentes integradas — sabiendo de ante qué comidas traes tú. Métese la semana de prueba con notificación en silencio y escoge el excelente por grima de dedo, no por número. La declinación completa del ritual va en la pieza 06 de esta familia — misma brújula, misma persiana: los árboles cambian, el método, no.
 
 ───────────────────
 
-🪜 LA ESCALERA DEL NUEVO EN EL VECINO
+*🪜 LA ESCALERA DEL NUEVO EN EL VECINO*
 
 *Peldaño 1 — UN vivo, desde su casa.* Nunca dos primos a la vez: las terminaciones en «.apk» se copian pero las colecciones no se clonan.
 
@@ -365,7 +406,7 @@ Pregunta del pasillo, una vez al mes: «y si Kotatsu desarchiva, ¿qué pasa con
 
 ───────────────────
 
-❓ PREGUNTAS FRECUENTES (las doce, censo vivo)
+*❓ PREGUNTAS FRECUENTES (las doce, censo vivo)*
 
 *¿Usagi está viva?*
 Sí, y con hora: merge de hace siete horas hoy, organización de dieciséis repos viva, F-Droid publicada, única estable 1.0 del 10-sep. Lo archivado fue su andamio viejo; lo muerto hace meses, Yukimi — dos lutos distintos.
@@ -405,7 +446,7 @@ Fichas al rescate: la ligera pide 5.0 en adelante (badges del README); las demá
 
 ───────────────────
 
-📖 GLOSARIO DEL VECINO
+*📖 GLOSARIO DEL VECINO*
 
 Archivado: el dueño pone «sólo lectura» al repo — museo legal, con fecha. No es borrado ni fin del mundo: es donación de herencia.
 
@@ -441,13 +482,13 @@ Puente (Futon ↔ Mihon): el único híbrido contado este año: app de un árbol
 
 ───────────────────
 
-📌 LÍMITES HONESTOS DE ESTA PIEZA
+*📌 LÍMITES HONESTOS DE ESTA PIEZA*
 
 No receta índices ni enlaces de plugins pegados: la casa los explica y los firma; nosotros no redistribuimos. No se recontó hoy la ficha de F-Droid ni el kit congelado de 1.3k fuentes: ambos van a su fecha del 14/15-sep, marcados. No se auditó el tiempo de respuesta del autor joven: el siete-de-issues queda como lectura de la mañana, no como garantía. La función híbrida de Futon se describe por sus commits PÚBLICOS, sin prueba propia en dispositivo — el recibo es su repo, nuestro rol es la lectura fechada. Y Yukimi no tiene repo vivo: su ficha es crónica citada de la época, nunca placa.
 
 ───────────────────
 
-🧬 CAPA INMERSIÓN (nota de línea)
+*🧬 CAPA INMERSIÓN (nota de línea)*
 
 Para la vista completa (icon/icono de cada app, colores, tutoriales detallados) va la pieza familia inmersión de esta serie — nacidas para verse, con fecha propia. Tú ya tienes lo que no se ve en screenshots: quién empujó, a qué hora, y bajo qué licencia.
 
@@ -459,7 +500,7 @@ Censo re-contado de los seis pilares más una organización entera: las siete fi
 
 ───────────────────
 
-📊 RADIOGRAFÍA DEL CENSO (horas absolutas, sin redondeo)
+*📊 RADIOGRAFÍA DEL CENSO (horas absolutas, sin redondeo)*
 
 ```
 Horas desde el último empuje hasta el conteo (HOY):
@@ -478,7 +519,7 @@ Las horas no son fervor: son factura. Un árbol sano no es el que «parece popul
 
 ───────────────────
 
-📊 LO QUE CADA VIVO DA QUE LOS OTROS NO
+*📊 LO QUE CADA VIVO DA QUE LOS OTROS NO*
 
 ```
 Kotatsu-Redo   el modelo del maestro con su casa a
@@ -502,7 +543,7 @@ El museo       la lección gratis: así se cierra con
 
 ───────────────────
 
-📦 LA MUDANZA DESDE EL MAESTRO CAÍDO (guía práctica, del APK museo al vivo)
+*📦 LA MUDANZA DESDE EL MAESTRO CAÍDO (guía práctica, del APK museo al vivo)*
 
 Si todavía corres el Kotatsu original — el archivado del 4-nov-2025 — esta sección es tu escalerilla. Se hace una vez y se hace MAÑANA antes de que un cambio de servicios te deje el bibliotecario en negro:
 
@@ -520,7 +561,7 @@ Si todavía corres el Kotatsu original — el archivado del 4-nov-2025 — esta 
 
 ───────────────────
 
-🧩 LA MESA DE PARSERS: POR QUÉ ESTE ÁRBOL NO TIENE «MIHON» PROPIO
+*🧩 LA MESA DE PARSERS: POR QUÉ ESTE ÁRBOL NO TIENE «MIHON» PROPIO*
 
 Pregunta honesta del principiante ojo avizor: «¿Por qué el vecino no levantó su propio Miyomi?». Respuesta corta: lo levantó — se llama Redo — y además ES MÁS que el Miyomi del vecino, porque aquí la convivencia es distinta. En el árbol Miyomi la comunidad vive de las extensiones: bodega, índice, versión lib. En el árbol Kotatsu vive de los parsers: borage de Kotlin compilado que se construye ENTERO (plugin-source primero, plugin compilado después) — menos caminos, menos variantes, más casas fuertes pero menos de ellas. Dos modelos de ciudad, dos ritmos de bomberos: la del vecino era asamblea; la del vecino es masterbuildier. Y hay su costo: el día que una fuente se rompe aquí, se compila un plugin entero; el día que se rompe en la familia Miyomi, la extensión individual se empata sin tocar a la vecina. Ventaja de aquel modelo, desventaja de este; feroz escarbar para ambos lados. Y ojo con el dato del siglo: el único experimento que corre la familia entera es Futon — un taller que cobra la documentación de AMBAS ciudades. Le decíamos arriba que es joven; repítetelo cuando creas «resolver» todo con él: el puente existe — pero la carga pesada sigue cruzando por barca.
 
@@ -546,16 +587,16 @@ Y el museo te dice lo obvio: 4.949 empujes congelados en el último día, todo l
 
 ───────────────────
 
-📨 NOTA PARA REENVIAR AL GRUPO QUE AÚN CORRE EL MAESTRO
+*📨 NOTA PARA REENVIAR AL GRUPO QUE AÚN CORRE EL MAESTRO*
 
 Familia, sin susto: si su APK de Kotatsu (la original) aún abre, congraciátnse un segundo — y márquenle el resumen: su repo está archivado desde el 4-nov-2025, así que «lo que me sigue funcionando» vive prestado del servicio que no cambia. Exporten SU respaldo hoy (exportación de biblioteca, fecha en el nombre, fuera del teléfono), y cuando les toque mudarse — porque les va a tocar — ya tienen la lista agenciada y cuatro vivos comprobados con fecha de esta misma mañana: el heredero del nombre, el mestizo con puente, el triple, la ligera. Uno por tres semanas; Releases o F-Droid solamente; ni un «Kotatsu HD» de canal amigo: el maestro ya no firma nada y cualquiera que firme POR EL es el feriante. Las guías de la familia cuentan el censo cada jornada, con placa y hora. Se aman.
 
 ───────────────────
 
-🧾 LA FICHA RESUMEN (la nota de dieciséis líneas)
+*🧾 LA FICHA RESUMEN (la nota de dieciséis líneas)*
 
 ```
-¿USAGI?         Viva: ★273, push 14-oct, F-Droid,
+¿USAGI?         Viva: ★274, push 14-oct, F-Droid,
                 única estable 1.0 (10-sep).
 ¿KOTATSU?       Museo declarado 4-nov-2025, sin
                 indicio de vuelta; legado abierto.
@@ -588,7 +629,7 @@ Primera: ANTES de cualquier instalación desde GitHub, confirma que la ventana q
 
 ───────────────────
 
-🔭 QUÉ VIGILAR EL PRÓXIMO TRIMESTRE (la lista de la ventana)
+*🔭 QUÉ VIGILAR EL PRÓXIMO TRIMESTRE (la lista de la ventana)*
 
 La mejor pieza no te dice solo cómo está el barrio: te dice qué esquinas mirar. Las cinco torres de este árbol para octubre-diciembre:
 
@@ -619,7 +660,7 @@ Estas cinco torres no son augurio: son COMPROBACIONES fechadas que el lector con
 
 ───────────────────
 
-📚 LA LECTURA CONJUNTA DEL VECINO (en qué orden leer si llegas hoy)
+*📚 LA LECTURA CONJUNTA DEL VECINO (en qué orden leer si llegas hoy)*
 
 Este árbol se lee con una agenda — el orden siguiente está probado por el barrio una generación entera:
 
@@ -649,7 +690,7 @@ Cúllase este árbol especialmente que se despidió con la casa ordenada: no bor
 
 ───────────────────
 
-😄 EL MEME DE LA PIEZA
+*😄 EL MEME DE LA PIEZA*
 
 EL VELORIO DE DOÑA MICHAELA
 
@@ -684,13 +725,13 @@ Moraleja para archivarlo junto al chiste: la feligresía de un ecosistema libre 
 
 ───────────────────
 
-🔗 FUENTES SEÑALADAS Y FECHADAS
+*🔗 FUENTES SEÑALADAS Y FECHADAS*
 
 github.com/UsagiApp/Usagi — 22-sep ·github.com/orgs/UsagiApp/repositories — 22-sep (16 repos) · github.com/Kotatsu-Redo/Kotatsu-Redo — 22-sep · github.com/AppFuton/Futon — 22-sep · github.com/Kototoro-app/Kototoro — 22-sep · github.com/Gekkoushi/plugin-source — 22-sep · github.com/InvalidDavid/UMA — 22-sep · github.com/KotatsuApp/Kotatsu — 22-sep (verificación del museo). A fecha 14/15-sep sin reconteo: Gekkoushi/plugin (1.3k, congelado) y f-droid.org/en/packages/org.draken.usagi/. La pieza vecina del tronco: 06 (el árbol Miyomí), esta jornada. La pieza del triple materia: 02 (Kototoro), fechada el 15-sep. La certera: la guía de almacenes de extensiones, pieza 04 de esta familia.
 
 ───────────────────
 
-📝 NOTA DE VERIFICACIÓN — 22 DE SEPTIEMBRE DE 2026
+*📝 NOTA DE VERIFICACIÓN — 22 DE SEPTIEMBRE DE 2026*
 
 Abiertos el 22-sep y medidos de frente: siete repos del vecino más su página de organización. De ahí salen: Usagi ★259 (merge del francés 100%, ~7 h), Kotatsu-Redo ★891 (app 17-sep; README 19-sep; +120 del maestro; 5.069 commits), Futon ★431 (#112 19-sep; #104 16-ago; el puente, PR #52, abril; +179; 5.128), Kototoro ★581 (v2.1.5 ~10 h; 7.139), UMA ★68 (merge #92 20-sep; 910), plugin-source ★90 (13-sep; 2.416; migración Tsuki 10-ago) y la organización UsagiApp con dieciséis repos (actualizada ~3 h; TsukiMix 16-sep; los archivados core-parsers/core-exts señalados por nombre y función). El museo verificado en su rótulo: archivado 4-nov-2025, «Update readme» del mismo 4-nov-2025 como última frase. A su fecha sin reconteo: kit congelado 1.3k (14-sep), F-Droid (14-sep), Yukimi (crónica de su época), la camada (13-sep). Los hechos noviembre-abril se citan a su día. Cada placa lleva recibo: GitHub de las casas y este barrillero con hora.
 
@@ -704,7 +745,13 @@ Busca más, asómate siempre a la casa antes de prender velas, y que tu lector v
 
 ───────────────────
 
-📎 VERSIÓN COMPACTA (para la nota del teléfono)
+*PULSO AL CORTE — 15-OCT ~15:00 (mapa vivo #2)*
+
+Usagi ★274->★274 · Futon ★449->★449 · Kototoro
+★625->★625 · Gekkoushi ★90->★92 (15-OCT).
+Kotatsu-Redo ★940 quieto. Apilado, nada borrado.
+
+*📎 VERSIÓN COMPACTA (para la nota del teléfono)*
 
 Usagi está viva: merge de 7 hoy, ★259, F-Droid — lo archivado fue el andamio viejo de plugins; lo muerto, Yukimi (meses). El maestro sí: archivo público 4-nov-2025, museo a la vista. Cuatro vivos hoy: Redo ★891 (v9.8.4, 17-sep), Futon ★431 (#112 del 19-sep y planta Mihon desde abril), Kototoro ★581 (v2.1.5 MADRUGADA de hoy), Usagi. La regla de hierro: los árboles no se injertan solos — la que declara puente en su repo, cruza; la que no, no. Instala: repo o F-Droid de la casa; plugins: de la casa; APK ajeno: letrero de feriante. Y la moraleja: el rumor cierra apps más rápido que los abuelos — verifica la persiana antes de llorar.
 
@@ -714,4 +761,4 @@ Usagi está viva: merge de 7 hoy, ★259, F-Droid — lo archivado fue el andami
 
 #LaBandita #Kotatsu #Usagi #MangaLibre #Futon #KotatsuRedo #Kototoro #LectoresLibres #VerificaAntesDeInstalar #FuenteFechada #EcosistemaLibre #RepublicaDominicana
 
-📝 *RE-CORTE 15-oct-2026 (censo de API).* LA SEMANA EN DELTA, segunda vuelta (22-sep → 15-oct): Usagi ★259 → ★273 (push 14-oct) · Kotatsu-Redo ★891 → ★940 (push 19-sep) · Futon ★431 → ★448 (push 9-oct) · Kototoro ★581 → ★621 (push HOY, v2.2.9 el 9-oct) · UMA ★68 → ★76 (push 13-oct) · plugin-source ★90 → ★92 (push 14-sep) · Kotatsu, archivado, ★8.923. El difunto sigue empujando traducciones — y el heredero del nombre, ganando veinticuatro estrellas por semana.
+📝 *RE-CORTE 15-oct-2026 (censo de API).* LA SEMANA EN DELTA, segunda vuelta (22-sep → 15-oct): Usagi ★259 → ★274 (push 14-oct) · Kotatsu-Redo ★891 → ★940 (push 19-sep) · Futon ★431 → ★449 (push 9-oct) · Kototoro ★581 → ★625 (push HOY, v2.2.9 el 9-oct) · UMA ★68 → ★76 (push 13-oct) · plugin-source ★90 → ★92 (push 14-sep) · Kotatsu, archivado, ★8.923. El difunto sigue empujando traducciones — y el heredero del nombre, ganando veinticuatro estrellas por semana.

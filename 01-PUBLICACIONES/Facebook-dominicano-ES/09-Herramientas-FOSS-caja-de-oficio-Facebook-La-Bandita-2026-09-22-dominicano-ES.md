@@ -1,4 +1,4 @@
-LA CAJA DE OFICIO DEL TELÉFONO, QUINCE PIEZAS CON SU HORA DE HOY PUESTA EN CUADERNO
+LA CAJA DE OFICIO DEL TELÉFONO, QUINCE PIEZAS CON SU HORA DE 22-sep-2026 PUESTA EN CUADERNO
 
 Galería y archivos, llaves y segundo factor, transferir, conectar, sistema, mapas y gestor de instalaciones — las quince piezas libres que cubren el oficio completo, medidas al mediodía del 22 de septiembre, cero relleno.
 
@@ -6,13 +6,13 @@ Galería y archivos, llaves y segundo factor, transferir, conectar, sistema, map
 
 En mi barrio había dos ferreterías. La primera era un bolso: doscientas herramientas brillantes, ninguna probada, todas «de última generación» — y el destornillador se doblaba al segundo tornillo. La segunda era una caja: don Esteban con quince piezas contadas — algunas oxidadas, sí — pero tú le describías tu problema y él metía la mano sin mirar y sacaba la herramienta exacta, y te decía: «con esto, sin la otra cosa». Treinta años después, su maleta «Q15» sigue colgada de su gancho con la cartelera de los oficios cumplidos — porque la mantiene.
 
-Esta guía es esa caja para tu teléfono: quince herramientas libres con su oficio comprobado HOY al mediodía — ni la lista inflada de doscientas, ni el códice caducado.
+Esta guía es esa caja para tu teléfono: quince herramientas libres con su oficio comprobado 22-sep-2026 al mediodía — ni la lista inflada de doscientas, ni el códice caducado.
 
 ┄┄┄
 
 🗺️ EL MAPA DE LA GUÍA
 
-Primero, una página de lectura rápida con los cajones. Después, el CENSO por cajones con la hora de hoy: la familia Fossify entera viva (cinco piezas con sus pushes de ayer o de hoy), Amaze con push de hoy en su rama 4.0, KeePassDX y Aegis con sus últimas citas, LocalSend con su récord silencioso de 92 mil estrellas, Orbot y Organic Maps con push de HOY, Termux y App Manager firmes — y Shizuku, el número más declarado del artículo: treinta mil estrellas y su último empuje del 18-junio-2025 declarado al pie de su ficha (dormido-estable: funciona hoy, sin abandono declarado, sin promesa nueva). Encima de todos, Obtainium, el gestor que mantiene la caja entera al día. Luego, las tres reglas del corte, el ritual del afilado semanal, Obtainium explicado sin tecnicismos, los mitos del cajón («más apps = más poder», «Shizuku es root», «Termux es de película»), los riesgos clave, la escala del primerizo, las preguntas que todos hacen, glosario de pieza, historia larga de don Esteban, meme, método con su hora y la nota de verificación con todo fechado.
+Primero, una página de lectura rápida con los cajones. Después, el CENSO por cajones con la hora de 22-sep-2026: la familia Fossify entera viva (cinco piezas con sus pushes de ayer o de 22-sep-2026), Amaze con push de 22-sep-2026 en su rama 4.0, KeePassDX y Aegis con sus últimas citas, LocalSend con su récord silencioso de 92 mil estrellas, Orbot y Organic Maps con push de 22-sep-2026, Termux y App Manager firmes — y Shizuku, el número más declarado del artículo: treinta mil estrellas y su último empuje del 18-junio-2025 declarado al pie de su ficha (dormido-estable: funciona 22-sep-2026, sin abandono declarado, sin promesa nueva). Encima de todos, Obtainium, el gestor que mantiene la caja entera al día. Luego, las tres reglas del corte, el ritual del afilado semanal, Obtainium explicado sin tecnicismos, los mitos del cajón («más apps = más poder», «Shizuku es root», «Termux es de película»), los riesgos clave, la escala del primerizo, las preguntas que todos hacen, glosario de pieza, historia larga de don Esteban, meme, método con su hora y la nota de verificación con todo fechado.
 
 ┄┄┄
 
@@ -20,7 +20,7 @@ Primero, una página de lectura rápida con los cajones. Después, el CENSO por 
 
 • Una buena caja de oficio no es larga: es completa. Quince piezas bastan si cada una cumple su oficio con la hora marcada: si tu caja tiene más, es bolso; si tiene menos, te falta destornillador.
 
-• Censo medido HOY 22-sep, al mediodía: Fossify Gallery ★3.7k ayer / File-Manager ★1.8k ayer / Phone ★1.3k HOY / Calendar ★2.2k HOY / Clock ★702 ayer — rama principal toda, la sucesión legítima de las Simple Mobile Tools sin un solo anuncio. Amaze File Manager ★6.4k push HOY en su rama release/4.0. KeePassDX ★7.4k (15-sep) y Aegis ★13.1k (6-sep) — tu bóveda y tu segundo factor, sin nube ajena. LocalSend ★92.5k (14-sep) — AirDrop libre entre Android/iPhone/PC/Mac, sin cuenta ni menosprecio. Orbot ★3.6k push HOY — Tor en el bolsillo. Termux ★61.3k (16-sep) — terminal real; App Manager ★9.0k (20-sep) — inspector de tus propias apps; Shizuku ★30.5k con el dato central: último push 18-junio-2025 — dormido-estable, no abandonado, declarado así. Organic Maps ★15.5k push HOY — mapa offline legítimo sin cuenta. Y Obtainium ★19.9k (13-sep) — la escoba que mantiene todo el anterior al día desde sus propias casetas.
+• Censo medido 22-sep-2026 22-sep, al mediodía: Fossify Gallery ★3.7k ayer / File-Manager ★1.8k ayer / Phone ★1.3k 22-sep-2026 / Calendar ★2.2k 22-sep-2026 / Clock ★702 ayer — rama principal toda, la sucesión legítima de las Simple Mobile Tools sin un solo anuncio. Amaze File Manager ★6.4k push 22-sep-2026 en su rama release/4.0. KeePassDX ★7.4k (15-sep) y Aegis ★13.1k (6-sep) — tu bóveda y tu segundo factor, sin nube ajena. LocalSend ★92.5k (14-sep) — AirDrop libre entre Android/iPhone/PC/Mac, sin cuenta ni menosprecio. Orbot ★3.6k push 22-sep-2026 — Tor en el bolsillo. Termux ★61.3k (16-sep) — terminal real; App Manager ★9.0k (20-sep) — inspector de tus propias apps; Shizuku ★30.5k con el dato central: último push 18-junio-2025 — dormido-estable, no abandonado, declarado así. Organic Maps ★15.5k push 22-sep-2026 — mapa offline legítimo sin cuenta. Y Obtainium ★19.9k (13-sep) — la escoba que mantiene todo el anterior al día desde sus propias casetas.
 
 • Regla base: cada pieza sale de su caseta oficial (GitHub Releases o F-Droid), se actualiza por Obtainium o F-Droid, y se respalda tu caja periódicamente. Si una herramienta pide más permiso que su oficio, sale de la caja.
 
@@ -42,19 +42,19 @@ EL RESPALDO — tu bóveda exportada cifrada fuera del teléfono (viernes), tu a
 
 🗃️ EL CENSO POR CAJONES (15 fichas, todas con hora propia)
 
-CAJÓN GALERÍA Y ARCHIVOS — Fossify te da la familia completa semillie del cercano barrio: Gallery ★3.721 push ayer (el punto de partida de imagen limpia sin publicidad); File-Manager ★1.776 push ayer (mover, copiar, compartir — sin juegos); Phone ★1.335 push HOY (el marcador sin permiso del fabricante que adivina a quién llamas); Calendar ★2.169 push HOY (agenda local con export estándar ICS — tu agenda tuya); Clock ★702 push ayer (alarma corriente que suena igualito en modo avión). Alternativa materializada: Amaze File Manager ★6.399 push HOY — rama release/4.0 viva, el diseño Material You con doble panel que Fossify File-Manager no ofrece: se elige por gusto, no por slogan.
+CAJÓN GALERÍA Y ARCHIVOS — Fossify te da la familia completa semillie del cercano barrio: Gallery ★3.721 push ayer (el punto de partida de imagen limpia sin publicidad); File-Manager ★1.776 push ayer (mover, copiar, compartir — sin juegos); Phone ★1.335 push 22-sep-2026 (el marcador sin permiso del fabricante que adivina a quién llamas); Calendar ★2.169 push 22-sep-2026 (agenda local con export estándar ICS — tu agenda tuya); Clock ★702 push ayer (alarma corriente que suena igualito en modo avión). Alternativa materializada: Amaze File Manager ★6.399 push 22-sep-2026 — rama release/4.0 viva, el diseño Material You con doble panel que Fossify File-Manager no ofrece: se elige por gusto, no por slogan.
 
 CAJÓN LLAVES — KeePassDX ★7.351 push 15-sep: la bóveda de contraseñas formato KDBX (estándar universal del ecosistema KeePass), sin nube ajena, con tu propia nube si la declaras tú. Aegis ★13.145 push 6-sep: los seis dígitos del segundo factor en bóveda cifrada con exporta/restore documentado — la herramienta que te salvará la vida si pierdes el teléfono mañana (a condición de que exportaste la bóveda antes; estado armado).
 
-CAJÓN TRANSFERIR Y CONECTAR — LocalSend ★92.492 push 14-sep: el grande impresionante del artículo — más estrellas que la mayoría de tiendas oficiales, y él no vende nada: mueve el archivo por tu red local directo entre Android, iPhone, Windows, Mac y Linux sin cuenta ni mensualidad. El «airdrop libre» documentado con semanas de oferta en cada release. Orbot ★3.565 push HOY: cuando tu capítulo requiere marchar sin mostrar el punto de esta puerta, Tor en el teléfono con modo amable — modo VPN por app selectiva, protección de navegación legible. Oficio de periodista y de discreto diario.
+CAJÓN TRANSFERIR Y CONECTAR — LocalSend ★92.492 push 14-sep: el grande impresionante del artículo — más estrellas que la mayoría de tiendas oficiales, y él no vende nada: mueve el archivo por tu red local directo entre Android, iPhone, Windows, Mac y Linux sin cuenta ni mensualidad. El «airdrop libre» documentado con semanas de oferta en cada release. Orbot ★3.565 push 22-sep-2026: cuando tu capítulo requiere marchar sin mostrar el punto de esta puerta, Tor en el teléfono con modo amable — modo VPN por app selectiva, protección de navegación legible. Oficio de periodista y de discreto diario.
 
-CAJÓN SISTEMA — Termux ★61.268 push 16-sep: terminal real en el bolsillo — bash, ssh, python, git, ffmpeg (paquetería propia); el Casio del oficio, con el respeto borrador de la casa. App Manager ★9.042 push 20-sep: el inspector de qué vive en tu teléfono — permisos por app, rastreadores con nombre propio, servicios y receptores al servicio, revocación de permisos sin root para gran parte y una mano fina mayor con Shizuku. Shizuku ★30.490 — el empaque del debate: último push público 18-junio-2025, quince meses, con treinta mil estrellas todavía votando «útil». No es root: es el puente de sesiones con APIs de sistema (activado por ADB o wireless debugging en Android 11+), sin permanecer en la partición. Dormido-estable declarado — funciona hoy con su build de junio pasado en la mayoría de dispositivos compatibles; si el nuevo Android cuarto trimestre la rompe, el censo de hoy reconocerá desde su caseta. Ni abandono declarado (sin archivo, sin despedida) ni promesa de lanamento mañana — la vara es la fecha visible del repo, no la fiesta del grupo.
+CAJÓN SISTEMA — Termux ★61.268 push 16-sep: terminal real en el bolsillo — bash, ssh, python, git, ffmpeg (paquetería propia); el Casio del oficio, con el respeto borrador de la casa. App Manager ★9.042 push 20-sep: el inspector de qué vive en tu teléfono — permisos por app, rastreadores con nombre propio, servicios y receptores al servicio, revocación de permisos sin root para gran parte y una mano fina mayor con Shizuku. Shizuku ★30.490 — el empaque del debate: último push público 18-junio-2025, quince meses, con treinta mil estrellas todavía votando «útil». No es root: es el puente de sesiones con APIs de sistema (activado por ADB o wireless debugging en Android 11+), sin permanecer en la partición. Dormido-estable declarado — funciona 22-sep-2026 con su build de junio pasado en la mayoría de dispositivos compatibles; si el nuevo Android cuarto trimestre la rompe, el censo de 22-sep-2026 reconocerá desde su caseta. Ni abandono declarado (sin archivo, sin despedida) ni promesa de lanamento mañana — la vara es la fecha visible del repo, no la fiesta del grupo.
 
-CAJÓN MAPAS — Organic Maps ★15.473 push HOY: el mapa offline que de verdad funciona sin red — descargas tu región una vez y navegas con el cel en modo avión, con la filosofía de OpenStreetMap legible y cero rastreo tus pasos. La alternativa que toma su parte del mercado por mérito propio con período informo.
+CAJÓN MAPAS — Organic Maps ★15.473 push 22-sep-2026: el mapa offline que de verdad funciona sin red — descargas tu región una vez y navegas con el cel en modo avión, con la filosofía de OpenStreetMap legible y cero rastreo tus pasos. La alternativa que toma su parte del mercado por mérito propio con período informo.
 
 CAJÓN GOBERNADOR — Obtainium ★19.887 push 13-sep: no es tienda; es el gestor de origen. Declaras casetas (GitHub de las apps que usas) y él compara tu versión instalada con la última firma pública de cada casa — actualizar con un toque, sin túnel ninguno, sin premiumlying. La ley del barrio hecha aplicación del sentido diario.
 
-Cierre del censo: quince piezas con su push de hoy, ayer o semana pasada — una dormido-estable declarada con su fecha — y ninguna vendiéndote nada oculto el margen. Es la caja del barrio, hoy.
+Cierre del censo: quince piezas con su push de 22-sep-2026, ayer o semana pasada — una dormido-estable declarada con su fecha — y ninguna vendiéndote nada oculto el margen. Es la caja del barrio, 22-sep-2026.
 
 ┄┄┄
 
@@ -66,7 +66,7 @@ Porque el oficio es reddite calender: cada pieza de esta lista cumple un trabajo
 
 🛠️ EL RITUAL DEL AFILADO (viernes, diez minutos, cada semana)
 
-Abre Obtainium: refresh a la bóveda completa — qué actualizaciones vienen de qué caseta hoy. Confirma tu lista activa (la caja mantiene quince, no ciento cincuenta: su planificación funciona porque es corta). Lee las notas de versión de las que tengan actualización importante (las de seguridad, las de privacidad, las que arreglan el bug que te tocaba). Actualiza con calma (descargas de las casetas respectivas en tu red, con la señal estable). Exporta tu bóveda cifrada del par de llaves (KeePassDX semanal, Aegis junto) a tu PC/disco fuera del teléfono. Anota en tu libreta: «viernes 22-sep: actualicé 4 piezas, respaldé 2 bóvedas». Y ya: te sobra el fin de semana.
+Abre Obtainium: refresh a la bóveda completa — qué actualizaciones vienen de qué caseta 22-sep-2026. Confirma tu lista activa (la caja mantiene quince, no ciento cincuenta: su planificación funciona porque es corta). Lee las notas de versión de las que tengan actualización importante (las de seguridad, las de privacidad, las que arreglan el bug que te tocaba). Actualiza con calma (descargas de las casetas respectivas en tu red, con la señal estable). Exporta tu bóveda cifrada del par de llaves (KeePassDX semanal, Aegis junto) a tu PC/disco fuera del teléfono. Anota en tu libreta: «viernes 22-sep: actualicé 4 piezas, respaldé 2 bóvedas». Y ya: te sobra el fin de semana.
 
 ┄┄┄
 
@@ -90,7 +90,7 @@ Riesgo uno, la bóveda sin exportado: quien usa KeePassDX o Aegis y no exportó 
 
 📜 HISTORIA DEL FERRETERO (para el café de la noche)
 
-Don Esteban llegó al barrio en 1989 con una maleta de roble y quince herramientas dentro. Cuando le preguntaron por qué tan pocas, respondió con la misma frase que hoy sigue su pizarra: «Q15 — quince, bien afiladas, cero brillo encubierto». Cuando la ferretería grande abrió enfrente en 1994, cincuenta mil artículos y luces de neón, sus clientes no se movieron — porque los destornilladores de colores se doblaban al segundo tornillo, y el barrio volvía al taller de las quince con la cabeza agradecida. En 2026, su maleta cuelga del mismo gancho; las etiquetas cambiaron de tinta pero el número sigue siendo el mismo, y su proveeduría siempre quedó igual. Lo que te deja este ferretero en cada tarro de visita: las herramientas que cuidas te cuidan; las que acumulas te distraen — la caja buena mide para tu oficio, no para tu adornador. Ni siquiera el malalpadecimiento del mercado le robó sus clientes, porque nadie vendía lo que él vendía: oficio con regla.
+Don Esteban llegó al barrio en 1989 con una maleta de roble y quince herramientas dentro. Cuando le preguntaron por qué tan pocas, respondió con la misma frase que 22-sep-2026 sigue su pizarra: «Q15 — quince, bien afiladas, cero brillo encubierto». Cuando la ferretería grande abrió enfrente en 1994, cincuenta mil artículos y luces de neón, sus clientes no se movieron — porque los destornilladores de colores se doblaban al segundo tornillo, y el barrio volvía al taller de las quince con la cabeza agradecida. En 2026, su maleta cuelga del mismo gancho; las etiquetas cambiaron de tinta pero el número sigue siendo el mismo, y su proveeduría siempre quedó igual. Lo que te deja este ferretero en cada tarro de visita: las herramientas que cuidas te cuidan; las que acumulas te distraen — la caja buena mide para tu oficio, no para tu adornador. Ni siquiera el malalpadecimiento del mercado le robó sus clientes, porque nadie vendía lo que él vendía: oficio con regla.
 
 ┄┄┄
 
@@ -143,13 +143,13 @@ Septiembre 2026, el vecino con «SuperLocker Pro»: descargó por bazar alternat
 
 🔭 EL RADAR DEL PRÓXIMO TRIMESTRE (señales ya visibles en cada caseta)
 
-Amaze File Manager: rama 4.0 activa con push de HOY. Cuando toque aterrizaje estable, diseño Material 3 completo + paneles duales rediseñados. El censo publicará la nueva medición con su fecha justo cuando se confirme desde su caseta — no antes, no por rumor.
+Amaze File Manager: rama 4.0 activa con push de 22-sep-2026. Cuando toque aterrizaje estable, diseño Material 3 completo + paneles duales rediseñados. El censo publicará la nueva medición con su fecha justo cuando se confirme desde su caseta — no antes, no por rumor.
 
 Fossify sin sorpresas previstas: los issues de la organización muestran el mapa tranquilo de las rachas maduras — retoques de temas, mejoras en widgets, detalles de accesibilidad acumulados mes a mes. Eso es exactamente lo que enumera la lista de una maduración orgánica: la caja madura no salta, afila.
 
 Organic Maps y la cartografía continua: las bases de OpenStreetMap se actualizan mes a mes, así que tu región descargada viene mejorando en detalle y rutas — reaplica tu descarga una vez cada dos meses cuando les llega la actualización de región (la app te la avisa desde give the mosca resistente).
 
-Shizuku y el nuevo Android del cuarto trimestre: las builds de compatibilidad con el sistema del año nuevo son la prueba viviente — si su sesión arranca con ADB en el firmware nuevo, el dormido más útil sigue vigente 2027. Se anota la prueba aquí con fecha (próximas semanas), sin promesa ni susto — se medirá desde su caseta igualito que hoy.
+Shizuku y el nuevo Android del cuarto trimestre: las builds de compatibilidad con el sistema del año nuevo son la prueba viviente — si su sesión arranca con ADB en el firmware nuevo, el dormido más útil sigue vigente 2027. Se anota la prueba aquí con fecha (próximas semanas), sin promesa ni susto — se medirá desde su caseta igualito que 22-sep-2026.
 
 Obtainium hacia el siguiente año: los issues del proyecto publican su línea (mejoras de notificación, ampliación de casetas soportadas, poll algo de joints con el directorio F-Droid en evolución). Todo a la vista, con su log — como debe ser. Cuando cada cambio reemplaza palmo de tu ventana, la caja entera gana un pedazo más de oficio siempre.
 
@@ -157,7 +157,7 @@ Obtainium hacia el siguiente año: los issues del proyecto publican su línea (m
 
 🗣️ LO QUE DICE CADA VIVO DEL CENSO AL MEDIODÍA DE ESTA PIEZA
 
-Gallery te dice: semana de detalles acumulándose entre temas y filtros — tu fototeca siempre ordenada con su pulso real de ruido cero. File-Manager, claro: carpetas limpias con la operación diaria sin poner historia batida — la pieza menos ruidosa con la que igual funciona la casa todos los mediodías. Phone te dice que cerró el lunes y abrió hoy con push nuevo: oficio de llamar sin regalos de datos al fabricante, exactamente lo que la mitad del barrio pedía. Calendar, capaz: tu agenda sin la nube que no pediste — con la sincronización opcional si la quieres tú, nunca clavada. Clock, humilde: suena a las cinco y cuarenta y cinco igualito que en modo avión — todo el truco de salvador dormido es nunca fallar el momento. Amaze: pública la rama de la casa nueva y todavía da la talla con push de esta misma mañana — el diseño en el que cresa tauní. KeePassDX y Aegis: la fortaleza, ads rimiliads — la bóveda que no desbloquea un pb. LocalSend: transfiere como si fuera de tu paritorio y no del vendedor — la estrella del año acallada entre su banquillo silencioso. Orbot, variado: si tu capítulo cierra, yo abro. Termux: aquí ya no estás cuantificando en galla lo que te cabe en el bolsillo. App Manager: la escoba de la casa, misinstallado si no quieres ver el fondo del alboroto. Shizuku: silencio largo, útil el rato — la puerta no ha abandonado, simplemente ya quedó bien estructurada rimiento. Organic Maps: navega sin esa columna negra del medio, con tu región siempre — reactiva la tarde de la montaña. Obtainium: te avisa cuando destenvolver cada caseta, uno a uno, sin negociar con el manto productoQuema. Los quince cierran con un ideo final: las verdades es soni y a tus postman juggles.
+Gallery te dice: semana de detalles acumulándose entre temas y filtros — tu fototeca siempre ordenada con su pulso real de ruido cero. File-Manager, claro: carpetas limpias con la operación diaria sin poner historia batida — la pieza menos ruidosa con la que igual funciona la casa todos los mediodías. Phone te dice que cerró el lunes y abrió 22-sep-2026 con push nuevo: oficio de llamar sin regalos de datos al fabricante, exactamente lo que la mitad del barrio pedía. Calendar, capaz: tu agenda sin la nube que no pediste — con la sincronización opcional si la quieres tú, nunca clavada. Clock, humilde: suena a las cinco y cuarenta y cinco igualito que en modo avión — todo el truco de salvador dormido es nunca fallar el momento. Amaze: pública la rama de la casa nueva y todavía da la talla con push de esta misma mañana — el diseño en el que cresa tauní. KeePassDX y Aegis: la fortaleza, ads rimiliads — la bóveda que no desbloquea un pb. LocalSend: transfiere como si fuera de tu paritorio y no del vendedor — la estrella del año acallada entre su banquillo silencioso. Orbot, variado: si tu capítulo cierra, yo abro. Termux: aquí ya no estás cuantificando en galla lo que te cabe en el bolsillo. App Manager: la escoba de la casa, misinstallado si no quieres ver el fondo del alboroto. Shizuku: silencio largo, útil el rato — la puerta no ha abandonado, simplemente ya quedó bien estructurada rimiento. Organic Maps: navega sin esa columna negra del medio, con tu región siempre — reactiva la tarde de la montaña. Obtainium: te avisa cuando destenvolver cada caseta, uno a uno, sin negociar con el manto productoQuema. Los quince cierran con un ideo final: las verdades es soni y a tus postman juggles.
 
 ┄┄┄
 
@@ -169,37 +169,37 @@ KDBX: formato estándar de las bóvedas de llaves (KeePass); opera en todas las 
 TOTP: código temporal del segundo factor, seis dígitos cada treinta segundos. Aegis lo guarda en tu teléfono cifrado, no en una nube ajena sin decírselo.
 ADB: canal técnico de diagnóstico PC-teléfono (aperitivio del alto barrio). Activas Shizuku por ahí, reverdi, dos minutos.
 Wireless Debugging: ADB por WiFi propio (Android 11+): tu Shizuku persiste entre reinicio sin cable — primer asenso.
-Dormido-estable: proyecto con push quieto hace meses pero funcional en producción hoy — ninguna muerte, ningún abandono anterior, solo estabilidad madura declarada (caso Shizuku-visible). Distinto de «abandonado», el muerto con registro escrito.
+Dormido-estable: proyecto con push quieto hace meses pero funcional en producción 22-sep-2026 — ninguna muerte, ningún abandono anterior, solo estabilidad madura declarada (caso Shizuku-visible). Distinto de «abandonado», el muerto con registro escrito.
 
 ┄┄┄
 
 🛠️ CÓMO SE VERIFICÓ ESTA PIEZA (el método, con la hora del conteo)
 
-Primero: madre del 15-sep releída completa (cajones, reglas del corte, filosofía de caseta). Segundo: verificación HOY al mediodía, al pie de cada repo público: Gallery 21-sep, File-Manager 21-sep, Phone HOY, Calendar HOY, Clock 21-sep; Amaze HOY; KeePassDX 15-sep; Aegis 6-sep; LocalSend 14-sep (★92.492 registrado); Orbot HOY; Termux 16-sep (★61.268); AppManager 20-sep; Shizuku push del 18-junio-2025 confirmado directo en la ficha oficial del repositorio; Organic Maps HOY (★15.473); Obtainium 13-sep (★19.887). Tercero: diferencias declaradas vs la madre (el push de Amaze más fresco que el 14-sep; Organic Maps confirmado HOY al filo del centro de la noche; las estrellas actualizadas cada una con su medida). Cuarto: lo que no se leyó con dato (cambios previstos para el cuarto trimestre que no tienen push aéreo) queda omitido de cualquier recomendación — el censo vende hechos con su fecha, no futurología con su cazuela. Quinto: vara de la casa Facebook — conteo canónico len() banda 29-31k, anatomía completa del día (semilla/mapa/una-página/mental/censo/reglas/afilado/mitos/riesgos/preguntas/historia/meme/glosario/método/nota/cierre), sin símbolos de marcado visible, pieza nativa de la plataforma, no fotocopia.
+Primero: madre del 15-sep releída completa (cajones, reglas del corte, filosofía de caseta). Segundo: verificación 22-sep-2026 al mediodía, al pie de cada repo público: Gallery 21-sep, File-Manager 21-sep, Phone 22-sep-2026, Calendar 22-sep-2026, Clock 21-sep; Amaze 22-sep-2026; KeePassDX 15-sep; Aegis 6-sep; LocalSend 14-sep (★92.492 registrado); Orbot 22-sep-2026; Termux 16-sep (★61.268); AppManager 20-sep; Shizuku push del 18-junio-2025 confirmado directo en la ficha oficial del repositorio; Organic Maps 22-sep-2026 (★15.473); Obtainium 13-sep (★19.887). Tercero: diferencias declaradas vs la madre (el push de Amaze más fresco que el 14-sep; Organic Maps confirmado 22-sep-2026 al filo del centro de la noche; las estrellas actualizadas cada una con su medida). Cuarto: lo que no se leyó con dato (cambios previstos para el cuarto trimestre que no tienen push aéreo) queda omitido de cualquier recomendación — el censo vende hechos con su fecha, no futurología con su cazuela. Quinto: vara de la casa Facebook — conteo canónico len() banda 29-31k, anatomía completa del día (semilla/mapa/una-página/mental/censo/reglas/afilado/mitos/riesgos/preguntas/historia/meme/glosario/método/nota/cierre), sin símbolos de marcado visible, pieza nativa de la plataforma, no fotocopia.
 
 ┄┄┄
 
-🔗 FUENTES ABIERTAS, MEDIDAS HOY
+🔗 FUENTES ABIERTAS, MEDIDAS 22-sep-2026
 
-FossifyOrg/{Gallery; File-Manager; Phone; Calendar; Clock} — abierto HOY (pushes 21 y 22-sep; rama main)
-TeamAmaze/AmazeFileManager — HOY (push 22-sep; rama release/4.0 viva confirmada)
-Kunzisoft/KeePassDX — HOY (push 15-sep; master)
-beemdevelopment/Aegis — HOY (push 6-sep; master)
-localsend/localsend — HOY (push 14-sep; main)
-guardianproject/orbot-android — HOY (push 22-sep; master)
-termux/termux-app — HOY (push 16-sep; master)
-MuntashirAkon/AppManager — HOY (push 20-sep; master)
-RikkaApps/Shizuku — HOY (directo; último push público 18-junio-2025 a la vista en su ficha)
-organicmaps/organicmaps — HOY (push 22-sep; master)
-ImranR98/Obtainium — HOY (push 13-sep; main)
+FossifyOrg/{Gallery; File-Manager; Phone; Calendar; Clock} — abierto 22-sep-2026 (pushes 21 y 22-sep; rama main)
+TeamAmaze/AmazeFileManager — 22-sep-2026 (push 22-sep; rama release/4.0 viva confirmada)
+Kunzisoft/KeePassDX — 22-sep-2026 (push 15-sep; master)
+beemdevelopment/Aegis — 22-sep-2026 (push 6-sep; master)
+localsend/localsend — 22-sep-2026 (push 14-sep; main)
+guardianproject/orbot-android — 22-sep-2026 (push 22-sep; master)
+termux/termux-app — 22-sep-2026 (push 16-sep; master)
+MuntashirAkon/AppManager — 22-sep-2026 (push 20-sep; master)
+RikkaApps/Shizuku — 22-sep-2026 (directo; último push público 18-junio-2025 a la vista en su ficha)
+organicmaps/organicmaps — 22-sep-2026 (push 22-sep; master)
+ImranR98/Obtainium — 22-sep-2026 (push 13-sep; main)
 
-Piezas hermanas del techo censadas HOY: 04, 05, 06, 07, 08 — todas a su fecha.
+Piezas hermanas del techo censadas 22-sep-2026: 04, 05, 06, 07, 08 — todas a su fecha.
 
 ┄┄┄
 
 📝 NOTA DE VERIFICACIÓN — 22 DE SEPTIEMBRE DE 2026
 
-Todas las cifras del censo se tomaron al mediodía de hoy pie de cada página pública, con timestamp del último push y contador repo visible — el redondeo de páginas es la vara común (3.7k, no 3.721 — el objetivo es la comparativa y la estabilidad, nunca el decimal cortesero). Las dormidas se declaran con su fecha exacta (18-junio-2025 para Shizuku) con la explicación de su caso excepcional — no la norma, no el refrán, el registro visible — y ninguna otra suposición se hizo entremas por los próximos días de nadie. Si luego aparece dato que corrija alguna determinación, esta familia lo corrige aquí con la fecha del día de corrección — nunca con la cadena del muro. La caja de la casa se mantiene contando únicamente con libro de asiento y libreta, como se les enseña desde el taller grande al minitorio nuevo.
+Todas las cifras del censo se tomaron al mediodía de 22-sep-2026 pie de cada página pública, con timestamp del último push y contador repo visible — el redondeo de páginas es la vara común (3.7k, no 3.721 — el objetivo es la comparativa y la estabilidad, nunca el decimal cortesero). Las dormidas se declaran con su fecha exacta (18-junio-2025 para Shizuku) con la explicación de su caso excepcional — no la norma, no el refrán, el registro visible — y ninguna otra suposición se hizo entremas por los próximos días de nadie. Si luego aparece dato que corrija alguna determinación, esta familia lo corrige aquí con la fecha del día de corrección — nunca con la cadena del muro. La caja de la casa se mantiene contando únicamente con libro de asiento y libreta, como se les enseña desde el taller grande al minitorio nuevo.
 
 ┄┄┄
 
@@ -213,10 +213,19 @@ Busca más, porque el barrio que mejor trabaja no colecciona: afila.
 
 📎 VERSIÓN COMPACTA (para flash del chat)
 
-Caja FOSS censo 22-sep mediodía: Fossify completa (Gallery ★3.7k/21-sep · File ★1.8k/21 · Phone ★1.3k/HOY · Calendar ★2.2k/HOY · Clock ★702/21); Amaze ★6.4k HOY; KeePassDX ★7.4k (15-sep); Aegis ★13.1k (6-sep); LocalSend ★92.5k (14-sep); Orbot ★3.6k HOY; Termux ★61.3k (16-sep); App Manager ★9.0k (20-sep); Shizuku ★30.5k DORMIDO-ESTABLE (18-junio-2025); Organic Maps ★15.5k HOY; Obtainium ★19.9k (13-sep). Tres reglas del barrio ya escritas: caseta oficial o F-Droid para todo lo que instales; export cifrado de bóvedas cada viernes fuera del teléfono; «premium gratis» que viene por cadena = toldo; revisar la caja cada mes, quitarle lo que no usaste — oficio cumplido siempre, sin neón ni bola de brillo.
+Caja FOSS censo 22-sep mediodía: Fossify completa (Gallery ★3.7k/21-sep · File ★1.8k/21 · Phone ★1.3k/22-sep-2026 · Calendar ★2.2k/22-sep-2026 · Clock ★702/21); Amaze ★6.4k 22-sep-2026; KeePassDX ★7.4k (15-sep); Aegis ★13.1k (6-sep); LocalSend ★92.5k (14-sep); Orbot ★3.6k 22-sep-2026; Termux ★61.3k (16-sep); App Manager ★9.0k (20-sep); Shizuku ★30.5k DORMIDO-ESTABLE (18-junio-2025); Organic Maps ★15.5k 22-sep-2026; Obtainium ★19.9k (13-sep). Tres reglas del barrio ya escritas: caseta oficial o F-Droid para todo lo que instales; export cifrado de bóvedas cada viernes fuera del teléfono; «premium gratis» que viene por cadena = toldo; revisar la caja cada mes, quitarle lo que no usaste — oficio cumplido siempre, sin neón ni bola de brillo.
 
 ---
 
 La Bandita informa a partir de fuentes fechadas. Las herramientas que cuidas te cuidan. El barrio que verifica con su hora, trabaja con su oficio — siempre.
+*💓 PULSO 15-OCT ~21:40 (mapa vivo FB)*
+
+```
+ Shizuku 31.560 · Obtainium 20.435 (+1 hoy)
+```
+La caja de oficio con su llave y su
+mayordomo al día. Caja apilada. Caja apilada; nada borrado (protocolo: mapa-maestro).
+
+📌 ACTUALIZADO AL 15-OCT-2026 — censo de API de 22-sep-2026: App Manager ★9.237 (push 14-oct) · Termux ★62.664 · Obtainium ★20.428 (14-oct). Lo demás viaja fechado 22-sep-2026.
 
 #LaBandita #HerramientasFOSS #Fossify #KeePassDX #Aegis #LocalSend #Termux #AppManager #Shizuku #OrganicMaps #Obtainium #Orbot #LecturaVerificada #FuenteFechada #RepublicaDominicana

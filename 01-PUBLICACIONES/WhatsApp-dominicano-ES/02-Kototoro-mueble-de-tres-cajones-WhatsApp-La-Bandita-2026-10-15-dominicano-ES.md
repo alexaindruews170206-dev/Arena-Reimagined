@@ -1,52 +1,50 @@
 ───────────────────
 
-*Kototoro: el mueble de tres cajones que hoy se hizo dos veces en un día*
+*Kototoro: el mueble de tres cajones que hoy volvió a hornear*
 
 *La Bandita · 15 de octubre de 2026 · edición dominicano-español*
 
-> *Semilla de esta guía:* en tu cuarto había tres muebles: el casillero del manga, el librero de las novelas y la mesita del televisor. Un día llega un carpintero del barrio con *un solo mueble de tres cajones* que cabe en el espacio de uno. Oferta tentadora — pero la pregunta adulta no es «¿cabe?» sino «¿el carpintero firma su trabajo y abre el taller?». Hoy, 22 de septiembre de 2026, este carpintero entregó *dos muebles nuevos esta misma tarde*, con su libreta de obra a la vista: la *v2.1.4 a las 15:05* y la *v2.1.5 a las 17:04*. Esa libreta — no la oferta — es lo que esta guía abre contigo, página por página.
+⏱️ *Lectura total: 54 min* · cada rama del mapa dice su tiempo
+
+> *Semilla de esta guía:* en tu cuarto había tres muebles: el casillero del manga, el librero de las novelas y la mesita del televisor. Un día llega un carpintero del barrio con *un solo mueble de tres cajones* que cabe en el espacio de uno. Oferta tentadora — pero la pregunta adulta no es «¿cabe?» sino «¿el carpintero firma su trabajo y abre el taller?». Aquel 22 de septiembre entregó *dos muebles en una tarde* (la v2.1.4 a las 15:05 y la v2.1.5 a las 17:04), y esta guía salió a leerle la libreta, página por página. Hoy, quince de octubre, la vitrina amaneció con la *v2.2.10*: sexta hornada del mes. El carpintero no para; la libreta tampoco.
 
 ───────────────────
 
 *🗺️ Mapa de esta guía*
 
 ```
-├── 🌱 Semilla principal — tres muebles, un carpintero
-├── ⚡ En una página — lo indispensable de Kototoro
-├── 🌐 Mapa mental — el árbol, los tres cajones y el día de hoy
-├── 📖 La ficha completa de Kototoro (todo verificado 22-sep-2026)
-│     ├── Qué es y qué no es
-│     ├── La corrección del linaje: «ya no somos un fork», dicho por la casa
-│     ├── EL DÍA de las dos versiones (15:05 y 17:04 de HOY)
-│     └── El pulso contado (números, no promesas)
-├── 🔬 El arco del lector-escena (44 entregas documentadas en público)
-├── 🗄️ Los tres cajones: manga, novelas y vídeo (y sus tres idiomas)
-├── 🧬 El sistema de entidades y los Spaces (la obra con cédula propia)
-├── 🈶 OCR y traducción local (el intérprete dentro del teléfono)
-├── 📺 El cajón de vídeo: super-resolución, DLNA y la escalera TVBox
-├── 📁 Tus archivos locales: CBZ, EPUB, TXT, MKV, MP4
-├── 🔄 Herramientas de fondo: WebDAV, OTA diferencial, navegador y bot
-├── ♿ Comodidad de lectura (los gestos y la mano cansada)
-├── 🧭 Los cinco carteles de GitHub, aplicados aquí
-├── 🔒 Seguridad y cadena de suministro (cero contenido, todas las fuentes tuyas)
-├── 🛠️ Solución de problemas (las cuatro escaleras)
-├── 🌳 El vecindario fechado (Mihon, Aniyomi, Komikku, Tadami)
-├── 🕰️ La historia del mueble en la serie (tres fotos, una semana)
-├── 🛠️ Cómo se verificó esta pieza (el proceso abierto)
-├── 📇 Cuaderno de campo: radiografía del mueble en una hora
-├── 🗓️ La semana de prueba (guía de convivencia)
-├── 🎭 Tres escenarios reales (declarados ficticios)
-├── 🔬 La regla del escaneo, en práctica
-├── 🪞 Para quién es (y para quién todavía no)
-├── 🚫 Lo que esta guía NO receta
-├── 🚚 Mudanza 1.x → 2.x: la regla del respaldo con vacío
-├── 🧊 Mitos desmontados (dos rondas)
-├── ❓ Preguntas frecuentes (cuatro rondas)
-├── ⏰ Señales de que esta ficha venció
-├── 📚 Glosario
-├── 🔗 Enlaces comprobados hoy
-├── 🗒️ Nota de verificación y fe de erratas de esta casa
-└── 🏷️ #tags
+├── ⚡ En una página  · ~2 min
+├── 🌐 Mapa mental — el árbol, los tres cajones y el  · ~2 min
+├── 📖 La ficha completa de Kototoro  · ~3 min
+├── 📦 EL DÍA de las dos versiones  · ~3 min
+├── 📦 La sexta hornada del mes (HOY, con hora)  · ~1 min
+├── 🔬 El arco del lector-escena  · ~5 min
+├── 🎫 El sistema de entidades y los Spaces  · ~3 min
+├── 📺 El cajón de vídeo: super-resolución, DLNA y  · ~1 min
+├── 📁 Tus archivos locales: CBZ, EPUB, TXT, MKV, MP4  · ~1 min
+├── 🔄 Herramientas de fondo  · ~1 min
+├── ♿ Comodidad de lectura  · ~1 min
+├── 🧭 Los cinco carteles de GitHub, aplicados a  · ~1 min
+├── 🔒 Seguridad y cadena de suministro  · ~3 min
+├── 🪞 Para quién es este mueble  · ~1 min
+├── 🚫 Qué esta guía NO receta  · ~1 min
+├── 🌳 El vecindario fechado  · ~1 min
+├── 🚚 Mudanza 1.x → 2.x: la regla del respaldo con  · ~2 min
+├── 🧪 Cómo se verificó esta pieza  · ~1 min
+├── 📇 Cuaderno de campo: radiografía del mueble en  · ~3 min
+├── 🎭 Tres escenarios reales  · ~1 min
+├── 🔍 La regla del escaneo y la cadena de  · ~1 min
+├── 🧊 Mitos desmontados (primera ronda)  · ~2 min
+├── 🧊 Mitos (segunda ronda, los tercos)  · ~1 min
+├── ❓ Preguntas frecuentes (las de verdad)  · ~3 min
+├── ❓ Cuarta ronda corta  · ~2 min
+├── 📚 Glosario de esta guía  · ~1 min
+├── 🔗 Enlaces comprobados hoy (15-oct-2026)  · ~1 min
+├── 😄 Remate de esta pieza  · ~1 min
+├── 🌅 Cierre — el mueble que ya tiene cédula  · ~1 min
+├── 🧵 Última hebra: lo que el barrio aprende de un  · ~2 min
+├── 🧠 Mini-quiz del carpintero  · ~1 min
+└── 🌱 Semilla de despedida  · ~1 min
 ```
 
 ───────────────────
@@ -57,57 +55,60 @@
 
 *La noticia del día, con hora:* aquel 22 de septiembre de 2026 salieron *dos versiones* de la serie 2.1: la *v2.1.4 a las 15:05* (un paquete grande dedicado por entero al lector: mosaicos decodificados sin esperar al dedo, fin del ventilador de carga fantasma, doble toque y zoom programático en lectura horizontal, bandejas nuevas en el inicio) y la *v2.1.5 a las 17:04* (dos retoques finos del flujo: el botón de «seguir leyendo» ya no se pelea con la barra de desplazamiento, y las tarjetas sin dato remoto heredan la identidad guardada). Son *seis versiones en doce días*: 2.1.0 (11-sep), 2.1.1 (13-sep), 2.1.2 (14-sep), 2.1.3 (15-sep), 2.1.4 (22-sep), 2.1.5 (22-sep).
 
-*El pulso contado hoy en su casa pública:* ★581 estrellas, 46 forks, 9 ramas, 200 etiquetas y *7.139 commits* — el 13-sep eran unos 6.950: esto es un metro de obra diario, no un taller dormido.
+*El pulso contado HOY 15-oct en su casa pública:* ★621 estrellas (581 al 22-sep), push de las 11:07 y la *v2.2.10 publicada a las 11:29 de este mismo 15-oct*: un metro de obra diario, no un taller dormido.
 
 *Y la rectificación que esta casa hace con honra:* semanas atrás dijimos «linaje skepsun» y se quedó corto. La propia casa declara hoy por escrito: _«nació de Kotatsu, se desarrolla ya de forma independiente… toma prestados patrones de Kotatsu como inspiración histórica, pero ya no es un fork de Kotatsu»_. Lo que no estaba claro, hoy lo está — y se dice con fecha.
 
 *Para quién:* para quien lee manga y novelas y ve vídeo en el teléfono y quiere saber si el mueble de tres cajones aguanta el peso; y para quien quiere aprender a leerle la libreta de obra a cualquier carpintero del ecosistema.
+
+*📏 La regla de bolsillo:* *la vitrina manda* — todo espejo es una foto del mueble, no el mueble. Comprobado por las malas el 30-sep: los espejos ofrecían una v0.8.8 de abril, seis versiones atrás.
 
 ───────────────────
 
 *🌐 Mapa mental — el árbol, los tres cajones y el día de hoy*
 
 ```
-                 EL MAPA DE KOTOTORO (22-sep-2026)
+                 EL MAPA DE KOTOTORO (actualizado 15-oct-2026)
 │
-├── 🧬 El linaje corregido
-│     ├── Nació de Kotatsu (inspiración histórica, dicho por la casa)
-│     └── YA NO es fork: proyecto independiente, Compose-first total
-│         (lector Y reproductor en Compose; XML/Fragment casi extintos)
+├── 🧾 El linaje corregido
+│     ├── Nació de Kotatsu (inspiración histórica)
+│     └── YA NO es fork: independiente, Compose-first
+│         (lector y reproductor en Compose; XML casi extinto)
 │
-├── 🗄️ EL MUEBLE DE TRES CAJONES
-│     ├── Cajón manga — extensiones del ecosistema Mihon/Aniyomi/IReader
-│     ├── Cajón novelas — libros de reglas JSON estilo Legado/Yuedu
+├── 🪑 EL MUEBLE DE TRES CAJONES
+│     ├── Cajón manga — ecosistema Mihon/Aniyomi/IReader
+│     ├── Cajón novelas — reglas JSON estilo Legado/Yuedu
 │     └── Cajón vídeo — perfiles TVBox y CloudStream3
-│         (+ parsers dinámicos propios, carga clase a clase, sin peso extra)
+│         (+ parsers propios, clase a clase, sin peso extra)
 │
 ├── 🧬 La cédula de cada obra (sistema de entidades + Spaces)
-│     ├── Una obra = identidad estable, aunque venga de varias fuentes
-│     ├── Proyecciones por fuente (reemplazables, sin perder la obra)
+│     ├── Una obra = identidad estable entre fuentes
+│     ├── Proyecciones por fuente (reemplazables)
 │     └── Espacios: manga / novelas / anime + los que tú definas
 │
 ├── 🧰 Herramientas de fondo
-│     ├── OCR local + traducción (modelos descargables, dos niveles)
-│     ├── Vídeo: super-resolución Anime4K/NCNN · DLNA · subtítulos/pistas
-│     ├── Sync WebDAV multi-dispositivo · respaldo por bot de Telegram
-│     ├── OTA diferencial pure-Kotlin (bspatch: bajas el cambio, no todo)
-│     └── Navegador interno con esquiva de Cloudflare (escuela kotatsu-redo)
+│     ├── OCR local + traducción (modelos descargables)
+│     ├── Vídeo: super-res · DLNA · subtítulos y pistas
+│     ├── Sync WebDAV · respaldo por bot de Telegram
+│     ├── OTA diferencial (bspatch: solo el cambio)
+│     └── Navegador interno, esquiva Cloudflare
 │
-├── 📅 EL DÍA de hoy
-│     ├── 15:05 → v2.1.4: el paquete del lector (todo el arco escena)
+├── 📅 EL DÍA del 22-sep
+│     ├── 15:05 → v2.1.4: el paquete del lector (arco escena)
 │     └── 17:04 → v2.1.5: dos retoques finos del flujo
+│     (y el 15-oct: v2.2.10 — la sexta hornada del mes)
 │
 └── 🪧 Reglas que no se mueven
-      ├── La casa NO empaqueta ni recomienda repositorios: las fuentes las pones tú
-      ├── Cero contenido incluido: la app es mueble, no mercancía
-      └── Cachés y espejos van con retraso: la verdad vive en Releases
+      ├── La casa NO empaqueta repos: las fuentes las pones tú
+      ├── Cero contenido: la app es mueble, no mercancía
+      └── La verdad vive en Releases, no en cachés
 ```
 
 *Lectura rápida del mapa:* dos ideas mandan esta guía. Primera: Kototoro ya no es «la rama de aquel árbol»; es una casa con cédula propia, dicho por ella misma y contado por nosotros hoy. Segunda: tres cajones significan tres tipos de fuente y tres tipos de fallo posible — el mueble se prueba cajón por cajón, nunca de golpe.
 
 ───────────────────
 
-*📖 La ficha completa de Kototoro (todo verificado 22-sep-2026)*
+*📖 La ficha completa de Kototoro (22-sep; placas al 15-oct)*
 
 ```
 FICHA — Kototoro
@@ -116,14 +117,15 @@ Paquete:          org.skepsun.kototoro
 Licencia:         Apache-2.0
 Declaración:      lector todo-en-uno (manga + novelas + vídeo),
                   Compose-first de punta a punta
-Estrellas:        ★581  (el 15-sep eran 569 → +12 en una semana)
-Forks:            46 · Ramas: 9 · Tags: 200 · Commits: 7.139
-Último commit:    HOY 22-sep (subida a v2.1.5, esta tarde)
-Últimas versiones: v2.1.5 (HOY 17:04) · v2.1.4 (HOY 15:05)
+Estrellas:        ★621 (15-oct; 581 al 22-sep, 569 al 15-sep)
+Forks:            46 · Ramas: 9 · Commits: 7.139 (al 30-sep)
+Tags:             214 (15-oct; eran 200 al 22-sep)
+Último commit:    HOY 15-oct, 11:07 UTC
+Última versión:   v2.2.10 (HOY, 11:29 UTC)
 Canal de prueba:  repo Kototoro-Nightly (build diario; el 14-sep
-                  constaba N20260914 — dato fechado, abrir de nuevo)
+                  constaba N20260914 — dato fechado)
 Documentación:    kototoro-app.github.io/Kototoro — VIVA HOY
-Founder visible:  skepsun (los commits recientes llevan su nombre)
+Founder:         skepsun (commits recientes con su nombre)
 ```
 
 ───────────────────
@@ -132,14 +134,19 @@ Founder visible:  skepsun (los commits recientes llevan su nombre)
 
 *Sí es:*
 • Un lector unificado de *tres medios*: manga (extensiones del ecosistema Mihon/Aniyomi/IReader), novelas (libros de reglas JSON al estilo chino Legado) y vídeo (perfiles TVBox y CloudStream3).
+
 • *Compose-first total*: la casa declara que no solo las pantallas de afuera, sino *el lector y el reproductor mismos* están construidos en Jetpack Compose, y que las capas viejas (XML, Fragment, mezclas) quedaron reducidas al mínimo. Dicho en el patio: el carpintero no pegó formica sobre madera vieja; hizo el mueble entero de la madera nueva.
+
 • Un proyecto con *documentación viva y extensa*: guía de inicio con asistente de configuración (GitHub mirrors, plugins de fuentes esenciales, tipos de contenido), guía de entidades, traducción, integraciones de fuentes, matriz de compatibilidad TVBox, importación local, WebDAV, arquitectura, ruta de desarrollo y FAQ. Todo eso abrió hoy.
+
 • Cero contenido: la casa lo repite en su disclaimer — no incluye, aloja ni distribuye contenido ni fuentes; la app es el mueble, y la mercancía es decisión tuya y responsabilidad tuya.
 
 *No es:*
 • No es un fork de Kotatsu (aunque de ahí nació): lo declara la casa por escrito; la relación es de inspiración histórica, y el desarrollo es independiente.
 • No es «el sucesor de Mihon» ni compite con él: habla el idioma de sus extensiones, igual que habla el de otros cinco ecosistemas.
+
 • No es una tienda ni un repositorio: *no empaqueta ni recomienda ningún repositorio de terceros*, dicho también por escrito. Quien te venda «Kototoro con fuentes ya cargadas» te vende otra cosa con su chaqueta.
+
 • No es liviano de peso ni de concepto: tres medios + OCR + super-resolución implican paquetes grandes (el arm64 de la serie 2.1 ronda los 125 MB; el universal supera los 300 MB, dato de la v2.1.3 al 15-sep) y teléfonos con ganas. En teléfonos justos: modelo arm64, sin modelos OCR avanzados al inicio.
 
 ───────────────────
@@ -154,9 +161,9 @@ Traducción con su peso exacto: nació de Kotatsu (están los patrones y la insp
 
 ───────────────────
 
-*📦 EL DÍA de las dos versiones (todo documentado, hora por hora)*
+*📦 EL DÍA de las dos versiones (22-sep, hora por hora)*
 
-Hoy 22-sep-2026 la página de Releases registró dos entregas, ambas firmadas por el robot de la casa (github-actions), como manda la costumbre de este taller:
+Aquel 22-sep la página de Releases registró dos entregas, ambas firmadas por el robot de la casa (github-actions), como manda la costumbre de este taller:
 
 ───────────────────
 
@@ -171,7 +178,9 @@ Una entrega de fondo dedicada a la experiencia de lectura, con una libreta larga
 • *Bandejas de secciones en el inicio*, con mejoras de legibilidad de portadas y «rail peek»; fuera los contenedores de destacados que ensuciaban.
 • *Sensibilidad de arrastre de doble página* movida a donde pertenece: la pestaña de lectura.
 • *Un selector de render de escena por familia* en las opciones del lector: puedes elegir el motor de dibujo por tipo de contenido.
+
 • *Fix de importación local:* cuando el patrón del índice no coincide, el capítulo resuelve sus páginas desde su propia carpeta (ese error dejaba el lector en blanco con tus CBZ/ZIP caseros).
+
 • *Trabajo de banco (reader-bench):* pruebas del flujo de fondo verificadas, herramientas de auditoría comprometidas, y mediciones de arranque del lector real (con retractaciones documentadas y re-medición: la entrega 42 se retira, la 43 mide bien). Puerta de calidad registrada: *P99 de marcos perdidos ≤ −4,9 ms en ambos lados de la comparación*.
 
 Ese detalle — la retractación documentada («nos equivocamos midiendo, lo medimos de nuevo y lo anotamos») — vale oro para la vara: un taller que firma sus errores de medición es un taller que tú puedes auditar.
@@ -181,6 +190,7 @@ Ese detalle — la retractación documentada («nos equivocamos midiendo, lo med
 *v2.1.5 — 17:04 — los dos retoques finos*
 
 • *«Seguir leyendo» deja de pelear con la barra de desplazamiento* en el flujo de inicio (el botón queda libre de la franja del scroll).
+
 • *Las tarjetas sin dato remoto heredan la identidad guardada:* si una tarjeta viene «pelada», no pierde la obra que tú ya tenías registrada — asunto de entidades que abajo se explica.
 
 ───────────────────
@@ -188,12 +198,26 @@ Ese detalle — la retractación documentada («nos equivocamos midiendo, lo med
 *La serie y su ritmo*
 
 ```
-2.1.0 → 11-sep      2.1.3 → 15-sep
-2.1.1 → 13-sep      2.1.4 → 22-sep (15:05)
-2.1.2 → 14-sep      2.1.5 → 22-sep (17:04)
+2.1.0 → 11-sep      2.1.4 → 22-sep (15:05)
+2.1.1 → 13-sep      2.1.5 → 22-sep (17:04)
+2.1.2 → 14-sep      2.2.10 → 15-oct (11:29)
++ 2.1.6 (23-sep) · 2.2.5 y 2.2.6 (1-oct)
++ 2.2.7 (6-oct) · 2.2.8 (7-oct) · 2.2.9 (9-oct)
 ```
 
-Seis versiones en doce días. Qué significa para ti, sin romanticismo: (1) el proyecto respira a ritmo de días, así que cualquier guía — esta incluida — habla del día en que se abrió; (2) con ritmo así, *instalar «la última de un pasito de descargas» es instalar mudanza atrasada*: la página de Releases se abre el día que instalas, siempre; (3) ritmo alto también pide más disciplina de tu parte con el respaldo: cada salto se hace con copia reciente, porque cuando el carpintero entrega seguido, el mueble cambia seguido.
+Once versiones en cinco semanas — seis hornadas este mes. Qué significa para ti, sin romanticismo: (1) el proyecto respira a ritmo de días, así que cualquier guía — esta incluida — habla del día en que se abrió; (2) con ritmo así, *instalar «la última de un pasito de descargas» es instalar mudanza atrasada*: la página de Releases se abre el día que instalas, siempre; (3) ritmo alto también pide más disciplina de tu parte con el respaldo: cada salto se hace con copia reciente, porque cuando el carpintero entrega seguido, el mueble cambia seguido.
+
+───────────────────
+
+*📦 La sexta hornada del mes (HOY, con hora)*
+
+Mientras esta guía se re-abría, la vitrina entregó la *v2.2.10 a las 11:29* de este 15-oct — la sexta hornada de octubre. Su libreta trae obra de fondo: descarga de capítulos solo-EPUB y selección de capítulos, acciones de fuente con verificación tolerante de repositorio, búsqueda y vinculación de seguimiento, y pulido de detalles — un taller ampliando la casa.
+
+(Dato para la libreta larga: el changelog viene cargado de renglones `ios` — terreno nuevo cociéndose; si el mueble anuncia otra plataforma, esta guía lo contará con fecha.)
+
+*Paquetes de hoy 15-oct:* arm64 (120 MB) · v7a (113 MB) · universal (300 MB) · x86/x86_64.
+
+► La v2.2.9 (9-oct) dejó la joya del mes: *búsqueda con alcance de página* — resultados cacheados dentro de tus páginas de biblioteca.
 
 ───────────────────
 
@@ -208,11 +232,14 @@ Canal paralelo en su propio repo (Kototoro-Nightly) con construcción diaria —
 Esta es la historia menos visible y más valiosa de la semana. En el historial del repositorio quedó registrado — con nombres de archivo y todo — un *plan de mejora del lector por escenas* (`docs/architecture/reader-scene-improvement-plan-2026-09.md`), ejecutado por entregas numeradas, con pruebas y mediciones. Traducido del idioma de obreros:
 
 • *Se extrajo un módulo puro* llamado `:reader-core` (geometría, escenas, cámara, progreso, arrastre, transiciones) sin dependencias de la plataforma — se prueba solo, sin teléfono. A su lado, una prueba guardiana (`ReaderCoreIsolationGuardTest`) que vigila que nadie le meta dependencias de nuevo: la sala limpia se mantiene limpia por contrato, no por promesa.
+
 • *Inversión de dependencias real:* los pedidos de mosaicos se promovieron a contratos (`ReaderImagePipeline`), y el coordinador deja de depender de piezas concretas para depender del contrato. En el patio: el carpintero dejó de ajustar la bisagra con el martillo de un solo herrero; cualquier herrero que respete el plano sirve.
+
 • *Banco de pruebas con compuerta:* el plan registra comparaciones A/B con rondas intercaladas y verificación por paquete (sha + instalación por ronda), y declara la compuerta aprobada: P99 de marcos perdidos por debajo del umbral en ambos lados. No «se siente más rápido»: *midió más rápido, con instrumentos y en público*.
+
 • *La honestidad del taller queda escrita:* la entrega 42 del banco registró una medición; la 43 la retractó («no se reproduce en el lector real») y midió de nuevo. Eso no es debilidad: es exactamente el comportamiento que esta vara premia en cualquier carpintería del mundo.
 
-El barrio completo lo ve así: un proyecto joven de 581 estrellas que documenta sus planos, numera sus entregas y firma sus retractaciones vale más, como dato de confianza, que diez mil estrellas sin libreta. La fama mide público; la libreta mide oficio.
+El barrio completo lo ve así: un proyecto joven — 581 estrellas en esa libreta, 621 hoy — que documenta sus planos, numera sus entregas y firma sus retractaciones vale más, como dato de confianza, que diez mil estrellas sin libreta. La fama mide público; la libreta mide oficio.
 
 ───────────────────
 *🗄️ Los tres cajones (y sus tres idiomas)*
@@ -248,18 +275,20 @@ Vídeo significa perfiles estilo *TVBox* y *CloudStream3*: listas JSON que apunt
 Tres cajones, tres lenguajes, tres clases de avería:
 
 ```
-Cajón   · Avería típica                               · Cura típica
-────────────────────────────
-Manga   · la extensión quedó atrás o la fuente cambió · actualizar/reinstalar extensión, refrescar el flujo
-Novelas · el JSON no importa o importa vacío          · puerta correcta (Legado ≠ TVBox), JSON válido, URL viva
-Vídeo   · el perfil importa pero no carga             · bajar un peldaño de escalera: ¿directo? ¿CMS? ¿JS?
+Cajón   · Avería típica                · Cura típica
+Manga   · extensión atrás o fuente     · reinstalar extensión,
+          cambió                         refrescar el flujo
+Novelas · JSON no importa o llega       · puerta correcta
+          vacío                      (Legado ≠ TVBox), URL viva
+Vídeo   · perfil importa pero no       · bajar un peldaño:
+          carga                          ¿directo? ¿CMS? ¿JS?
 ```
 
 > Regla del mueble unificado: la ventaja del mueble de tres cajones es el espacio; el precio es que aprendes tres cerraduras. Quien te venda el mueble «sin cerraduras» te está vendiendo la chaqueta de otro carpintero.
 
 ───────────────────
 
-*🧬 El sistema de entidades y los Spaces (la obra con cédula propia)*
+*🎫 El sistema de entidades y los Spaces (la obra con cédula propia)*
 
 Esta es la idea más adulta del proyecto, y conviene traducirla despacio porque es de las que cambian la vida de una biblioteca.
 
@@ -278,6 +307,7 @@ Esta es la idea más adulta del proyecto, y conviene traducirla despacio porque 
 Dos caminos declarados, con su diferencia importante:
 
 • *Local:* OCR sobre la imagen con *modelos descargables* que corren en tu teléfono (dos niveles, básico y avanzado). Ventaja: funciona sin señal y la imagen no sale de tu casa. Costo: los modelos pesan y piden descarga previa.
+
 • *API:* vía servicio externo que tú configuras (endpoint, clave, modelo). Ventaja: potencia del servicio. Costo: dependes de internet, del servicio y de tu propia cuenta/clave.
 
 *La lista corta del arranque* (el 80% de los fallos históricos según el taller): modo correcto (local o solo-API), idiomas bien elegidos, nivel de OCR elegido, *modelos efectivamente descargados* (no «en cola»), y si es API, endpoint/clave/modelo bien escritos.
@@ -300,7 +330,7 @@ Declaraciones con fecha de la casa:
 
 *📁 Tus archivos locales: CBZ, EPUB, TXT, MKV, MP4*
 
-El mueble también guarda lo que ya es tuyo: CBZ, EPUB, TXT, MKV, MP4 y más, declarados por la casa, con *guía propia de importación local* y selección forzada de tipo de contenido para evitar el clásico «el EPUB se coló por la puerta del manga». Hoy mismo la v2.1.4 corrigió el fallo que dejaba en blanco la lectura de carpetas locales cuando el patrón de índice no emparejaba — si esa avería te mordió con tus CBZ caseros, hoy quedó fichada y curada con fecha.
+El mueble también guarda lo que ya es tuyo: CBZ, EPUB, TXT, MKV, MP4 y más, declarados por la casa, con *guía propia de importación local* y selección forzada de tipo de contenido para evitar el clásico «el EPUB se coló por la puerta del manga». La v2.1.4 (22-sep) corrigió el fallo que dejaba en blanco la lectura de carpetas locales cuando el patrón de índice no emparejaba — si esa avería te mordió con tus CBZ caseros, quedó fichada y curada con fecha.
 
 Nombre de bautizo para la costumbre: *el baúl importado*. Lo que entra al baúl se respalda con la misma fe que todo lo demás: primero respaldo, luego mudanza.
 
@@ -309,9 +339,13 @@ Nombre de bautizo para la costumbre: *el baúl importado*. Lo que entra al baúl
 *🔄 Herramientas de fondo (las que no se ven hasta que faltan)*
 
 • *WebDAV sync multi-dispositivo:* tu biblioteca viaja contigo entre teléfono, tablet y lo que venga, por almacenamiento WebDAV — con guía escrita por la casa, pensada para opciones gratuitas o auto-alojadas. Regla de vara: WebDAV es tu casillero; su contraseña es tuya, y se guarda como tal.
+
 • *OTA diferencial pure-Kotlin (bspatch):* las actualizaciones dentro de la app bajan *solo el cambio*, no la casa entera — ahorro real de megas, con página de arquitectura propia explicando cómo. En el barrio: el mensajero no te trae el catálogo entero cada vez; te trae la hojita del cambio.
+
 • *Navegador interno con esquiva de Cloudflare:* heredado de la escuela kotatsu-redo, para las fuentes que ponen aduana de «verifica que eres humano».
+
 • *Bot de Telegram para respaldo, estadísticas de lectura y widget de acceso rápido:* utilidades que son eso — utilidades — y no excusa para bajar la guardia con las credenciales que les confías.
+
 • *Plugins de UI dinámicos* por classloaders externos, con guía de desarrollo propia para terceros: la casa invita a otros obreros a colgarle herramientas al mueble, de repositorios independientes, con builds por GitHub Actions.
 
 ───────────────────
@@ -320,19 +354,21 @@ Nombre de bautizo para la costumbre: *el baúl importado*. Lo que entra al baúl
 
 Lo que el mueble trae de fábrica para el ojo y la mano, con las mejoras del día incluidas:
 
-• *Lectores por modo:* página, continuo y webtoon; el ajuste de desplazamiento por tecla de volumen llegó en la 2.1.2 y el doble toque programado en escena horizontal se estrenó hoy con la 2.1.4.
-• *Selector de render de escena por familia* (hoy v2.1.4): cada tipo de contenido puede usar el motor de dibujo que mejor le va.
+• *Lectores por modo:* página, continuo y webtoon; el ajuste de desplazamiento por tecla de volumen llegó en la 2.1.2 y el doble toque programado en escena horizontal se estrenó en la 2.1.4 (22-sep).
+
+• *Selector de render de escena por familia* (v2.1.4): cada tipo de contenido puede usar el motor de dibujo que mejor le va.
 • *Doble página con sensibilidad de arrastre* en la pestaña de lectura, donde la mano la esperaba.
 • *Lectura en pantallas anchas y recuperación del desplazamiento de márgenes* (serie 2.1) — la tablet grande deja de tratarte como teléfono estirado.
+
 • *Consejo de ojo de la casa:* brillo alto en páginas de márgenes blancos, modo noche para webtoon, y descargar antes de viajar — los tres cajones lo permiten, y la señal del barrio jamás garantizó nada.
 
 ───────────────────
 
 *🧭 Los cinco carteles de GitHub, aplicados a esta casa*
 
-1. *La barra gris:* ★581 · 46 forks — barrio en crecimiento (12 marcas nuevas en una semana), no monumento; fama medida, no calidad.
-2. *La línea del último commit:* *hoy por la tarde* — la subida a v2.1.5. Un taller de guardia.
-3. *Releases:* robot de la casa firmando (github-actions), dos hoy, seis en doce días; paquetes por arquitectura con nombre claro.
+1. *La barra gris (15-oct):* ★621 · 46 forks — cuarenta marcas nuevas en tres semanas; barrio en crecimiento, no monumento.
+2. *La línea del último commit:* HOY, 11:07 UTC. Un taller de guardia.
+3. *Releases:* robot de la casa firmando (github-actions); la v2.2.10 salió HOY 11:29 con paquetes por arquitectura con nombre claro.
 4. *El papel de la póliza:* al corte de la semana pasada no constaba política de seguridad formal (SECURITY.md) — la higiene corre por otros carriles visibles: dependabot activo (la semana pasada fijó la familia PostCSS por CVE-2026-69153 y dejó notas exactas), CI limpia, contribución guiada. Señal a vigilar con fecha, no acusación: en una app que carga runtimes de terceros, la póliza escrita debería llegar — y si llega, esta casa lo contará con fecha.
 5. *Topics y About:* «manga, novel, video reader» — lo que la casa declara hacer; y su declaración extraña y valiosa: _«no longer a Kotatsu fork»_, atreviéndose a decir lo que no es.
 
@@ -341,14 +377,18 @@ Lo que el mueble trae de fábrica para el ojo y la mano, con las mejoras del dí
 ───────────────────
 *🔒 Seguridad y cadena de suministro (cero contenido, todas las fuentes tuyas)*
 
-Lo que la casa declara, hoy y por escrito:
+Lo que la casa declara, hoy 15-oct y por escrito:
 
-• *«No incluimos, alojamos ni distribuimos contenido, fuentes ni material con derechos; la app es un marco lector/reproductor genérico; toda fuente llega por ti»*: extensiones de terceros, importaciones locales o endpoints que tú configuras. Los desarrolladores no responden por el contenido al que se llegue por fuentes instaladas por el usuario.» Esto no es letra chica para esconderse: es la descripción exacta del mueble — y coincide con la regla madre de la serie.
+• *«No incluimos, alojamos ni distribuimos contenido, fuentes ni material con derechos; la app es un marco lector/reproductor genérico; toda fuente llega por ti»*: extensiones de terceros, importaciones locales o endpoints que tú configuras. Los desarrolladores no responden por el contenido al que se llegue por fuentes instaladas por el usuario.»
+
+Esto no es letra chica para esconderse: es la descripción exacta del mueble — y coincide con la regla madre de la serie.
 • *Sin afiliación con proveedores de contenido ni gobierno de repositorios de extensiones*: la casa no administra los almacenes de terceros; ni recomienda uno sobre otro.
-• *Los builds que ruedan por tiendas alternativas y pasos de descarga* no son la puerta oficial. La puerta oficial es GitHub Releases (hoy con paquetes por arquitectura). Escaneos limpios de un archivo suelto — cuando los hay — valen para ese archivo exacto y ese día; no canonizan la cadena.
+
+• *Los builds que ruedan por tiendas alternativas y pasos de descarga* no son la puerta oficial. La puerta oficial es GitHub Releases (hoy 15-oct, con paquetes por arquitectura). Escaneos limpios de un archivo suelto — cuando los hay — valen para ese archivo exacto y ese día; no canonizan la cadena.
+
 • *La app carga extensiones, parsers dinámicos y puede correr perfiles complejos*: por eso mismo el reparto adulto es claro — la app audita su taller en público (léete el arco del lector-escena) pero las fuentes las eliges tú, con la vara de la pieza madre: repo visible, dueño con nombre, historial vivo, cero prisa.
 
-*La vara del carpintero, resumida en cuatro miradas:* plano visible (código y documentos), obra reciente (hoy dos entregas), revertido con firma (la entrega 42 retractada, la 43 midiendo bien), y sin letreros de anzuelo (ningún «Premium», ninguna prisa). Cuatro «sí» no quitan el que tú decidas: solo dicen que el mostrador puede abrirse a prueba, con fecha.
+*La vara del carpintero, resumida en cuatro miradas:* plano visible (código y documentos), obra reciente (la hornada de hoy 15-oct), revertido con firma (la entrega 42 retractada, la 43 midiendo bien), y sin letreros de anzuelo (ningún «Premium», ninguna prisa). Cuatro «sí» no quitan el que tú decidas: solo dicen que el mostrador puede abrirse a prueba, con fecha.
 
 ───────────────────
 
@@ -378,7 +418,7 @@ Baja la escalera TVBox documentada: medios directos → CMS simples → dependen
 
 Traducción: modo correcto, idiomas correctos, nivel elegido, modelos descargados del todo; API: endpoint, clave y modelo bien escritos. Peso: arm64 (no universal), modelos OCR avanzados solo cuando los necesitas, y recuerda que el universal pasa los 300 MB (cifra de la serie 2.1 al 15-sep).
 
-*El escalón de arriba de las cuatro escaleras es el mismo:* la documentación viva de la casa (`kototoro-app.github.io/Kototoro`, viva hoy 22-sep) con sus guías de inicio, fuentes, traducción, importación local, TVBox y FAQ. La guía del barrio empieza aquí; la guía del carpintero sigue allí.
+*El escalón de arriba de las cuatro escaleras es el mismo:* la documentación viva de la casa (`kototoro-app.github.io/Kototoro`, viva al 22-sep) con sus guías de inicio, fuentes, traducción, importación local, TVBox y FAQ. La guía del barrio empieza aquí; la guía del carpintero sigue allí.
 
 ───────────────────
 
@@ -387,7 +427,7 @@ Traducción: modo correcto, idiomas correctos, nivel elegido, modelos descargado
 *Es tu mueble si:*
 • Lees manga y novelas y ves vídeo, y estás cansado de saltar entre tres apps con tres bibliotecas rotas.
 • Quieres que la obra sea una sola aunque la fuente cambie (entidades), y que tu biblioteca siga contigo en dos dispositivos (WebDAV).
-• Tu teléfono aguanta una app grande (arm64 ronda 125 MB en esta serie) y tu paciencia aguanta tres idiomas de fuentes.
+• Tu teléfono aguanta una app grande (el arm64 ronda 120-125 MB según la hornada) y tu paciencia aguanta tres idiomas de fuentes.
 • Lees la nota de cada versión antes de instalarla — o quieres empezar a hacerlo (este taller te va a entrenar, te guste o no).
 
 *Todavía no es tu mueble si:*
@@ -401,11 +441,15 @@ Decir «todavía no» también es servir al vecino: el barrio lector no necesita
 
 *🚫 Qué esta guía NO receta (declarado por adelantado)*
 
-• *No receta «desinstala Mihon».* El reparto de bañquitos de la sección vecindario es literal: cada quien cubre su lectura con su casa viva, y esta serie no promueve mudanzas que nadie pidió.
+• *No receta «desinstala Mihon».* El reparto de baulitos de la sección vecindario es literal: cada quien cubre su lectura con su casa viva, y esta serie no promueve mudanzas que nadie pidió.
+
 • *No da ni enlaza repositorios de fuentes:* la casa del proyecto no lo hace, y esta casa tampoco. La receta de cada almacén vive en el README del almacén, abierto el día del uso.
-• *No receta cada versión nueva el mismo día que sale:* el ritmo del taller es asunto del taller; tu ritmo es «versión + nota leída + respaldo al día». Hay seis entregas en doce días: nadie salta seis veces sin red — tú tampoco.
-• *No equipara «compatibilidad declarada» con «funciona todo»:* la casa declaró el idioma; la conversación se prueba frase a frase. Eso enseñarnos costó a todos, y no se te ahorra a ti.
-• *No promete que la v2.1.6 de mañana exista:* el ritmo constado indica costumbre, no garantía. Si el taller para, la ficha de hoy queda como foto con fecha — útil igual, porque el barrio aprende igual.
+
+• *No receta cada versión nueva el mismo día que sale:* el ritmo del taller es asunto del taller; tu ritmo es «versión + nota leída + respaldo al día». Hay once entregas en cinco semanas: nadie salta once veces sin red — tú tampoco.
+
+• *No equipara «compatibilidad declarada» con «funciona todo»:* la casa declaró el idioma; la conversación se prueba frase a frase. Eso enseñárnoslo costó a todos, y no se te ahorra a ti.
+
+• *No promete que la v2.2.11 de mañana exista:* el ritmo constado indica costumbre, no garantía. Si el taller para, la ficha de hoy queda como foto con fecha — útil igual, porque el barrio aprende igual.
 
 ───────────────────
 
@@ -414,11 +458,12 @@ Decir «todavía no» también es servir al vecino: el barrio lector no necesita
 Los lectores del ecosistema, cada número *con su fecha de constancia*:
 
 ```
-Mihon     ★24.385  v0.21.2 (13-oct) · push 14-oct  [constado 15-oct]  manga
-Aniyomi   ★7.799   push 14-sep             [constado 15-oct]  manga+anime
-Komikku   ★4.872   v1.14.1 · push 15-oct   [constado 15-oct]  manga
-Tadami    ★260     v0.62 (12-sep)          [constado 15-sep]  manga+anime+ranobe
-Kototoro  ★621     v2.2.9 (9-oct) · push HOY  [constado 15-oct]  manga+novelas+vídeo
+CASA      ★       VITRINA           [FECHA]  CAJONES
+Mihon     ★24.385  v0.21.2 (13-oct)  [15-oct]  manga
+Aniyomi   ★7.799   push 14-sep       [15-oct]  manga+anime
+Komikku   ★4.872   v1.14.1 push HOY  [15-oct]  manga
+Tadami    ★260     v0.62 (12-sep)    [15-sep]  m+a+ranobe
+Kototoro  ★621     v2.2.10 (HOY)     [15-oct]  los tres
 ```
 
 Regla de la vecindad: las extensiones de un árbol no sirven en el otro (las fuentes de Kotatsu/Usagi son otro tronco y otra familia de guías), y *ninguna app es «la mejor» en abstracto*: la buena es la que cubre lo que tú lees, con la casa viva hoy. El vecindario completo, con su vara y sus fechas, lo lleva la serie; esta pieza solo se asegura de que el mueble de tres cajones quede sentado en la silla correcta del mapa — independiente por cédula propia, host del idioma de los demás por compatibilidad declarada.
@@ -439,26 +484,28 @@ Si vienes de la serie 1.x de Kototoro (o de una biblioteca grande en otro lector
 
 *🕰️ La historia del mueble dentro de la serie (de la hornada del 14 al horno de hoy)*
 
-Este mueble ya pasó por esta casa dos veces: la hornada del 14-sep lo fichó en su estreno de vitrina y la del 15 lo re-verificó con su primera racha de versiones. Hoy, una semana después, no toca repetir la foto: toca comparar. Y comparar es exactamente el ejercicio que separa al vecino que acumula apps del vecino que entiende su teléfono: la foto sola acumula; la galería entera enseña. Las tres fotos lado a lado dicen cosas que ninguna sola dice:
+Este mueble ya pasó por esta casa dos veces: la hornada del 14-sep lo fichó en su estreno de vitrina y la del 15 lo re-verificó con su primera racha de versiones. Hoy — tres semanas después — no toca repetir la foto: toca comparar. Y comparar es exactamente el ejercicio que separa al vecino que acumula apps del vecino que entiende su teléfono: la foto sola acumula; la galería entera enseña. Las tres fotos lado a lado dicen cosas que ninguna sola dice:
 
-• *Estrellas:* ~569 (15-sep) → *581* (22-sep). En una semana, doce marcas nuevas en la puerta. Crecimiento de barrio, no estampida: exactamente el ritmo sano que se espera de un proyecto con libreta al día.
+• *Estrellas:* ~569 (15-sep) → 581 (22-sep) → *621* (15-oct). Tres semanas, cincuenta marcas nuevas. Crecimiento de barrio, no estampida: el ritmo sano de un proyecto con libreta al día.
+
 • *Commits:* ~6.950 (13-sep) → *7.139* (22-sep). Unos 190 pasos de obra en nueve días: veinte al día, fines de semana incluidos.
-• *Tags:* 196 → *200*. Cuatro etiquetas de versión nuevas en una semana — y dos son de hoy.
-• *La cédula:* el 15-sep la casa no hablaba de su parentesco; hoy declara por escrito su independencia de Kotatsu. La cédula del mueble quedó en regla — y esta guía quedó re-hecha con la misma fecha.
+• *Tags:* 196 → 200 (22-sep) → *214* (15-oct). Catorce etiquetas en tres semanas — y la última puesta esta mañana.
+
+• *La cédula:* el 15-sep la casa no hablaba de su parentesco; el 22-sep declaró por escrito su independencia de Kotatsu. La cédula del mueble quedó en regla — y esta guía quedó re-hecha con esa fecha.
 
 *Lección de serie, no de app:* verificar no es tomar la foto una vez; es montar la galería y notar qué cambió. Esa costumbre vale para este mueble y para cada guía del barrio, incluidas las mías.
 
 ───────────────────
 
-*🛠️ Cómo se verificó esta pieza (el proceso, también abierto)*
+*🧪 Cómo se verificó esta pieza (el proceso, también abierto)*
 
-El deber hecho de hoy, en orden, para que tú puedas repetirlo sin creerme:
+El deber hecho el 22-sep — repetido el 15-oct para esta actualización —, en orden, para que tú puedas repetirlo sin creerme:
 
-1. *Apertura del repo principal:* ficha gris (★581, 46 forks, 9 ramas, 200 tags), línea de último commit (hoy, subida a 2.1.5) y contador de historia: 7.139.
-2. *Apertura de Releases:* dos entregas de hoy con su robot de firma (github-actions), notas leídas línea por línea; serie de seis versiones en doce días confirmada en la lista.
+1. *Apertura del repo principal:* ficha gris (★621 hoy 15-oct; 581 y 200 tags al 22-sep; 214 tags hoy 15-oct), línea del último commit (HOY, 11:07) y contador de historia: 7.139 al 22-sep.
+2. *Apertura de Releases:* las entregas del día con su robot de firma (github-actions), notas leídas línea por línea; hoy se sumó la v2.2.10 y la serie cuenta once en cinco semanas.
 3. *Apertura del README completo:* declaración de independencia de Kotatsu, Compose-first, lista de ecosistemas, disclaimer de cero contenido/repositorio, herramientas de fondo — todo copiado de la casa, nada de memoria.
 4. *Apertura del sitio de documentación:* guías extensas verificadas en vivo (inicio, fuentes, entidades, traducción, matriz TVBox, import local, WebDAV, arquitectura, desarrollo, FAQ). Con eso se cierra la incertidumbre del 15-sep.
-5. *Cruce con el acta de la casa:* los números fechados del vecindario quedaron constados a su día (15-sep), no re-contados hoy — porque re-contar lo que no cambia es exactamente cómo se cuelan las cifras inventadas. Cada número tiene su fecha o no tiene numero.
+5. *Cruce con el acta de la casa:* los números fechados del vecindario quedaron constados a su día (15-sep), no re-contados en el día — porque re-contar lo que no cambia es exactamente cómo se cuelan las cifras inventadas. Cada número tiene su fecha o no tiene número.
 
 Si tus números de esta noche coinciden con estos, la única fuente en la que creíste fue tu propia verificación. Ese es el diseño de toda la serie.
 
@@ -491,7 +538,7 @@ Fecha: ________  App: ____________  Quien verifica: ____________
 
 [45-60 min] RESPALDO Y VEREDICTO
   ¿Ubicaste respaldo y restauración? [ ]  ¿WebDAV evaluado? [ ]
-  Veredicto: [ ] prueba 1 semana  [ ] anotar y revisar ___  [ ] fuera
+  Veredicto: [ ] prueba 1 semana [ ] revisar ___ [ ] fuera
   Incertidumbre anotada: ________________________________
 ```
 
@@ -501,13 +548,13 @@ Tres reglas del cuaderno que no se saltan: *una prueba por cajón* (el mueble co
 
 *🗓️ La semana de prueba con el mueble (guía de convivencia, paso a paso)*
 
-*Día 1 — La entrada:* instalas desde Releases (hoy: v2.1.5), completas el asistente (GitHub mirrors, plugins esenciales, tipos de contenido), y no tocas nada más. El mueble se mira, se huele y se lee su manual de la casa.
+*Día 1 — La entrada:* instalas desde Releases (hoy: v2.2.10), completas el asistente (GitHub mirrors, plugins esenciales, tipos de contenido), y no tocas nada más. El mueble se mira, se huele y se lee su manual de la casa.
 
 *Día 2 — El cajón que más usas:* solo ese. Tus dos extensiones de cabecera, tus dos obras de siempre, tu lectura de la noche. Si el cajón principal falla aquí, el mueble no pasa — así no hace falta ni probar los otros dos.
 
 *Día 3 — El segundo cajón:* otra lengua, otra prueba. La escalera específica de su sección, peldaño por peldaño. Se anota el fallo en la libreta con fecha, no en rabia contra el mueble entero.
 
-*Día 4 — El baúl local:* tus CBZ/EPUB/TXT propios, con el fix del import local de hoy (v2.1.4) como punto de control. Confirma la selección forzada de tipo — el EPUB por la puerta del EPUB.
+*Día 4 — El baúl local:* tus CBZ/EPUB/TXT propios, con el fix del import local que trajo la v2.1.4 como punto de control. Confirma la selección forzada de tipo — el EPUB por la puerta del EPUB.
 
 *Día 5 — Las herramientas de fondo:* WebDAV configurado en tu casillero, widget puesto si te sirve, estadísticas miradas una vez (para que la lectura te rinda cuentas a ti, no al revés).
 
@@ -529,7 +576,7 @@ Tres reglas del cuaderno que no se saltan: *una prueba por cajón* (el mueble co
 
 ───────────────────
 
-*🔬 La regla del escaneo y la cadena de suministro, en práctica*
+*🔍 La regla del escaneo y la cadena de suministro, en práctica*
 
 Sobre los «escaneos limpios» que circulan de cualquier APK (ClamAV, VirusTotal y familia), la vara de la serie se mantiene y se aplica aquí:
 
@@ -537,7 +584,7 @@ Sobre los «escaneos limpios» que circulan de cualquier APK (ClamAV, VirusTotal
 2. *La puerta manda sobre el resultado:* un APK del pasodetector limpio pero bajado de un espejo atrasado puede ser «limpio» y obsoleto a la vez — e instalarse obsoleto con el ritmo de este taller es instalarse fallas ya corregidas.
 3. *El gesto que sí cubre:* puerta oficial + versión + paquete esperado (arm64/universal) + nota de la versión leída. Es la cuadra completa del carpintero, no un solo clavo.
 
-Con esta regla armada, cada nueva salida de este taller (y hay muchas) deja de ser susto para convertirse en trámite: abres Releases, verificas la casa, lees la nota, y decides. Seis veces en doce días sin que se te acelere el pulso — eso es barrio bien educado.
+Con esta regla armada, cada nueva salida de este taller (y hay muchas) deja de ser susto para convertirse en trámite: abres Releases, verificas la casa, lees la nota, y decides. Once veces en cinco semanas sin que se te acelere el pulso — eso es barrio bien educado.
 
 ───────────────────
 
@@ -566,7 +613,7 @@ Las capturas de la carpeta `metadata` son afiches; la vara mira commits, release
 *🧊 Mitos (segunda ronda, los tercos)*
 
 *«Con entidades y Spaces ya no se pierde la biblioteca nunca».*
-Las entidades protegen la obra de los cambios de fuente — no del teléfono ahogado. Respaldo exportado y WebDAV configurado siguen siendo la póliza. La cédula salva de la fuente muerta, no del descuido propio.
+Las entidades protegen la obra de los cambios de fuente — no del teléfono ahogado. Respaldo exportado y WebDAV configurado siguen siendo la póliza: la cédula salva de la fuente muerta, no del descuido propio.
 
 *«Como soporta TVBox, Kototoro es ‘app de IPTV pirata’».*
 La app soporta *perfiles*; el contenido es decisión del que lo configura. La vara de siempre: el mueble no es la mercancía. Lo que la casa declara — cero contenido, cero repositorios — lo dice también contra ese prejuicio.
@@ -577,15 +624,15 @@ No: usas el cajón que necesitas, con el ecosistema que ya conoces. La compatibi
 *«El Nightly es la versión buena y secreta».*
 El Nightly es el andamio que se suelta cada día: útil para mirar y reportar, peligroso como comedor diario. La «secreta» es la estable con tu respaldo al día — y no tiene nada de secreta.
 
-*«Son 581 estrellas; mejor espero a que sea famoso».*
-Esperar a la fama para verificar es medir con la regla equivocada. La fama llega sola o no llega; la verificación se hace hoy, con fecha, y se repite con fecha — a 581 o a 58.100 estrellas es la misma vara.
+*«Son 621 estrellas; mejor espero a que sea famoso».*
+Esperar a la fama para verificar es medir con la regla equivocada. La fama llega sola o no llega; la verificación se hace hoy, con fecha, y se repite con fecha — a 621 o a 62.100 estrellas es la misma vara.
 
 ───────────────────
 
 *❓ Preguntas frecuentes (las de verdad)*
 
 *¿Cuál es la versión buena hoy?*
-La última de la página de Releases el día que instales. Hoy 22-sep: *v2.1.5* (17:04, dos retoques) sobre *v2.1.4* (15:05, el paquete del lector). Con seis versiones en doce días, la pregunta caduca horas después de respondida — el reloj que manda es Releases, no esta respuesta.
+La última de la página de Releases el día que instales. Hoy 15-oct: *v2.2.10* (11:29). Once versiones en cinco semanas: la pregunta caduca horas después de respondida — el reloj que manda es Releases, no esta respuesta.
 
 *¿Necesito GitHub mirrors o el asistente de configuración?*
 La casa recomienda completar el *asistente* tras instalar: configura GitHub mirrors, descarga los plugins de fuentes esenciales y fija tus tipos de contenido. Es la puerta de entrada diseñada; saltársela es entrar por la ventana del patio y luego quejarse de los charcos.
@@ -606,7 +653,7 @@ La super-resolución (Anime4K/NCNN) es trabajo pesado sobre la marcha: espera ba
 Es tu almacenamiento y tu contraseña: la seguridad la comparten el servicio que elijas (guía de la casa incluye opciones gratuitas y auto-alojadas) y tu costumbre de claves. La app declara el flujo; el candado lo pones tú.
 
 *¿Kototoro o Mihon? ¿Kototoro o Kotatsu?*
-Reparto de bañquitos, no campeonato: si lees solo manga y tu flujo ya vive en Mihon, tu mueble ya existe. Si quieres manga + novelas JSON + vídeo con cédula por obra y sync WebDAV en una sola pieza de carpintería nueva — y aceptas los tres idiomas de fuentes y la edad del proyecto (★581 hoy) —, este mueble pasa la ficha de prueba con fecha. Kotatsu y su cadena (Usagi, Yukimi) permanecen en la serie con sus propias guías; que Kototoro haya nacido ahí no muda a nadie de casa.
+Reparto de baulitos, no campeonato: si lees solo manga y tu flujo ya vive en Mihon, tu mueble ya existe. Si quieres manga + novelas JSON + vídeo con cédula por obra y sync WebDAV en una sola pieza de carpintería nueva — y aceptas los tres idiomas de fuentes y la edad del proyecto (★621 hoy) —, este mueble pasa la ficha de prueba con fecha. Kotatsu y su cadena (Usagi, Yukimi) permanecen en la serie con sus propias guías; que Kototoro haya nacido ahí no muda a nadie de casa.
 
 *¿Y los escaneos de antivirus del archivo?*
 Vale la regla de la serie: un escaneo limpio dice «este archivo, este día, sin amenaza detectada»; no canoniza la cadena ni el futuro. La verificación contra la puerta oficial (Releases + versión + paquete) es la costumbre que no falla.
@@ -622,13 +669,13 @@ Sí: usando con medida, reportando con datos (versión + qué hiciste + qué pas
 *❓ Cuarta ronda corta (las que llegaron con la puerta cerrada)*
 
 *¿El robot que firma los releases es confiable?*
-github-actions es el sistema de la casa: la firma «automática» es costumbre de taller serio (nadie sube APK a mano a las 17:04). Lo que tú verificas no cambia: canal oficial, versión, nota leída. La confianza no es en el robot: es en el sistema que deja historial.
+github-actions es el sistema de la casa. La firma «automática» es costumbre de taller serio: nadie sube APK a mano a las 17:04. Lo que tú verificas no cambia — canal oficial, versión, nota leída — y la confianza no vive en el robot, vive en el sistema que deja historial.
 
 *¿Cada versión viene con sus paquetes?*
-Sí — la serie 2.1 ha venido publicando por arquitecturas (arm64, armeabi-v7a, universal, x86, x86_64 constadas en la v2.1.3). Elige la tuya una vez y se repite para siempre.
+Sí — la serie 2.x viene publicando por arquitecturas (arm64, armeabi-v7a, universal, x86, x86_64 constadas en la v2.1.3 y otra vez hoy en la v2.2.10). Elige la tuya una vez y se repite para siempre.
 
 *¿Hay anuncios o rastreo?*
-La casa no declara anuncios (el proyecto es Apache-2.0, del ecosistema libre) y el seguimiento declarado pasa por servicios que tú conectas con tu cuenta. Incertidumbre fichada: esta guía no corrió hoy un análisis de rastreadores sobre la v2.1.5; lo que consta es la declaración y la escuela del proyecto. Cuando el ecosistema mida, esta casa contará con fecha.
+La casa no declara anuncios (el proyecto es Apache-2.0, del ecosistema libre) y el seguimiento declarado pasa por servicios que tú conectas con tu cuenta. Incertidumbre fichada: esta guía no corrió hoy un análisis de rastreadores sobre la v2.2.10; lo que consta es la declaración y la escuela del proyecto. Cuando el ecosistema mida, esta casa contará con fecha.
 
 *¿Puedo tener Kototoro y Mihon a la vez?*
 Sí: paquetes distintos, bibliotecas separadas. De hecho es la recomendación de la semana de prueba — el mueble nuevo entra al lado del viejo y el viejo se va cuando el nuevo demostró, nunca antes.
@@ -640,12 +687,12 @@ No: el 15-sep a la noche constaba 404 («posible mudanza», anotamos). Hoy abre 
 
 *⏰ Señales de que esta ficha venció (aprende a detectarlas sola)*
 
-• *Salió una versión 2.2.x o superior:* toda cifra de esta guía (versiones de hoy incluidas) vuelve a la vara completa.
+• *Salió una versión 2.2.x o superior:* la señal SONÓ — la v2.2.10 salió este mismo 15-oct, y esta guía volvió a la vara el mismo día.
 • *Pasaron 60+ días sin que tú reabrieras la casa:* la ficha pide refresco aunque el taller siga igual — la libreta marchita no es libreta.
 • *La documentación volvió a caer o cambió de casa:* la puerta viva del 22-sep se re-verifica; la cita pendiente puede hacerse esperar otra vez.
 • *El proyecto publicó póliza de seguridad (o cambió la que no tenía):* se lee entera y se anota con fecha — esa era la señal vigilada hoy.
 • *Oíste «Kototoro ahora recomienda tal repositorio»:* la casa declaró lo contrario por escrito; quien lo afirma te vende chaqueta. A la vara de inmediato.
-• *Tu propio uso cambió* (de 1 cajón a 3, o viceversa): el reparto de bañquitos se rehace para ti — no para el mueble.
+• *Tu propio uso cambió* (de 1 cajón a 3, o viceversa): el reparto de baulitos se rehace para ti — no para el mueble.
 
 La regla de siempre, que nunca caduca: *una ficha no se guarda como verdad eterna; se reabre cuando el barrio la necesita*. Por eso cada pieza de esta serie lleva su fecha en la frente — incluida esta.
 
@@ -668,24 +715,14 @@ La regla de siempre, que nunca caduca: *una ficha no se guarda como verdad etern
 
 ───────────────────
 
-*🔗 Enlaces comprobados hoy (22-sep-2026)*
+*🔗 Enlaces comprobados hoy (15-oct-2026)*
 
 • Repositorio: https://github.com/Kototoro-app/Kototoro
-• Versiones: https://github.com/Kototoro-app/Kototoro/releases (v2.1.5 17:04 · v2.1.4 15:05, HOY)
+• Versiones: https://github.com/Kototoro-app/Kototoro/releases (v2.2.10, publicada HOY)
 • Nightly: https://github.com/Kototoro-app/Kototoro-Nightly (dato N20260914 constado 14-sep; reabrir el día de uso)
 • Documentación: https://kototoro-app.github.io/Kototoro/ — *viva hoy* (guías: inicio, fuentes, entidades, traducción, TVBox, import local, WebDAV, arquitectura, desarrollo, FAQ)
-• Parsers del origen: https://github.com/skepsun/kototoro-parsers (constado ★16, 17-sep)
+• Parsers del origen: https://github.com/skepsun/kototoro-parsers (★16, push HOY)
 • Ecosistemas declarados (cada cual su casa, ninguno recomendado por el proyecto): Mihon · Aniyomi · IReader · Legado · TVBox · CloudStream3
-
-───────────────────
-
-*🗒️ Nota de verificación de La Bandita (22-sep-2026) + fe de erratas propia*
-
-*Contado hoy en la casa pública:* ★581 (569 el 15-sep) · 46 forks · 9 ramas · 200 tags · *7.139 commits* (~6.950 al 13-sep) · último commit HOY (subida a 2.1.5) · *v2.1.4 15:05 y v2.1.5 17:04 de hoy*, con sus notas leídas línea por línea · licencia Apache-2.0 · declaraciones README/docs leídas hoy: independencia de Kotatsu, Compose-first total, ecosistemas (Mihon, Aniyomi, IReader, Legado, TVBox, CloudStream3 + parsers dinámicos), cero repositorios recomendados, disclaimer de cero contenido, entidades/Spaces, OCR local + API, Anime4K/NCNN + DLNA + pistas, import local (CBZ/EPUB/TXT/MKV/MP4), WebDAV, OTA bspatch, navegador Cloudflare, plugins de UI, widget/estadísticas/bot Telegram · *docs hub VIVO hoy* con matriz TVBox y guía de entidades.
-
- *Fe de erratas de esta casa (contra la pieza madre del 15-sep):* (1) la vieja decía en su FAQ «hoy es la v2.1.2» cuando su titular decía v2.1.3 — contradicción interna fichada y superada; (2) «linaje skepsun» quedaba difuso: la casa declara hoy su independencia de Kotatsu, y esta pieza lo dice con ella; (3) la incertidumbre del 15-sep («docs 404, posible mudanza») se cierra: la documentación abre hoy viva, en toda su extensión — verificado en vivo 22-sep.
-
-*Incertidumbres que siguen abiertas con fecha:* no consta política de seguridad formal (SECURITY.md) al corte de esta semana — se vigila, no se acusa; cobertura real de contenido ES en novelas depende de tus fuentes, no consta declaración; pesos exactos de la v2.1.5 (los del 15-sep corresponden a la v2.1.3) — se abren en Releases el día de instalación. Lo que no consta no se pinta: se anota y se visita el día que conste.
 
 ───────────────────
 
@@ -693,7 +730,7 @@ La regla de siempre, que nunca caduca: *una ficha no se guarda como verdad etern
 
 ───────────────────
 
-*😄 Remate de esta pieza (meme original, consentido, del tema)*
+*😄 Remate de esta pieza*
 
 > Don Ramón pasa frente a la carpintería y ve al de Kototoro saliendo sudado con dos muebles iguales entre las manos. Le pregunta alarmado: «¿¡Dos muebles en una tarde!? ¡Si usted corre así se le van a zafar los tornillos!». El carpintero, sin dejar de caminar, le enseña la libreta: «Mire, don: el primero lo entregué 15:05 con su plano corregido — me equivoqué midiendo el desplazamiento, lo medí de nuevo y ahí quedó anotado — y el segundo 17:04 porque una bisagra se peleaba con la persiana y un retrato se caía sin marco. Todo con hora». Don Ramón mira la libreta, mira los muebles, mira la libreta otra vez, y dice la frase que en el barrio vale más que cualquier aplauso: «Con razón aquí nadie espera la versión “final”… aquí esperan la próxima entrega». Y se fue a su casa a respaldar, porque hasta Don Ramón entendió: con carpintero rápido, la copia de seguridad va por delante de la silla.
 
@@ -703,7 +740,7 @@ _(Moraleja del tema: ritmo alto no es caos cuando la libreta está al día; pero
 
 *🌅 Cierre — el mueble que ya tiene cédula*
 
-Esta guía empezó corrigiendo una cédula propia y termina con la cédula del mueble en regla: Kototoro ya no es «la rama de aquel árbol». Es un taller independiente que hoy entregó dos versiones, que documenta sus planos y sus retractaciones en público, que declara con franqueza lo que no hace (ni contenido, ni repositorios, ni ser un fork), y que crece a metro de obra diario. Todo eso se constató hoy, con fecha — y todo eso caduca, como caduca toda verdad de ecosistema vivo.
+Esta guía empezó corrigiendo una cédula propia y termina con la cédula del mueble en regla: Kototoro ya no es «la rama de aquel árbol». Es un taller independiente que hoy amaneció con su sexta hornada del mes, que documenta sus planos y sus retractaciones en público, que declara con franqueza lo que no hace (ni contenido, ni repositorios, ni ser un fork), y que crece a metro de obra diario. Todo eso se constató hoy, con fecha — y todo eso caduca, como caduca toda verdad de ecosistema vivo.
 
 Las tres preguntas eternas del mueble de tres cajones quedan respondidas con el mismo material: ¿aguanta el peso? — la ficha dice que se prueba cajón por cajón; ¿es de fiar? — la libreta pública con 44 entregas numeradas dice que se puede auditar, que es más; ¿me mudo ya? — la regla de la casa: respaldo con vacío, semana de doble lectura, cierre contra el respaldo. La decisión es tuya y la fecha es hoy. La vara corre por cuenta del barrio.
 
@@ -713,15 +750,44 @@ Y una verdad de cierre que no cabía en ninguna sección porque le pertenece a t
 
 *🧵 Última hebra: lo que el barrio aprende de un taller numérico*
 
-Antes de soltar la puerta, una mirada más al número que menos público aplaude y más barrio educa: *7.139 commits*. Nadie lleva la cuenta de la obra de su calle salvo el que camina mucho; y sin embargo es el número que separa los talleres reales de los afiches. Un proyecto puede tener README precioso y capturas de revista y aun así ser casa de cristal — o puede tener la cuenta de la obra abierta a cualquier vecino. Este tiene las dos cosas, constatado hoy. Cuando el próximo carpintero del barrio llegue con su mueble brillante, la pregunta de fondo no será «¿brilla?» sino «¿cuántos pasos de obra llevas anotados, vecino?». Esa pregunta no la hace la fama: la hace la vara — y la vara, desde esta serie, la haces tú.
+Antes de soltar la puerta, una mirada más al número que menos público aplaude y más barrio educa: *7.139 commits* (placas del 30-sep; el pulso de hoy 15-oct está en la ficha). Nadie lleva la cuenta de la obra de su calle salvo el que camina mucho; y sin embargo es el número que separa los talleres reales de los afiches. Un proyecto puede tener README precioso y capturas de revista y aun así ser casa de cristal — o puede tener la cuenta de la obra abierta a cualquier vecino. Este tiene las dos cosas, constatado en cada mirada. Cuando el próximo carpintero del barrio llegue con su mueble brillante, la pregunta de fondo no será «¿brilla?» sino «¿cuántos pasos de obra llevas anotados, vecino?». Esa pregunta no la hace la fama: la hace la vara — y la vara, desde esta serie, la haces tú.
 
 ───────────────────
 
 *🛠️ Cuaderno de campo, segunda pasada — 30-sep-2026 (con hora del mostrador)*
 
-Ocho días después del censo original volvimos al repositorio con la libreta abierta y el método idéntico. Datos con hora de hoy: la casa tiene ya organización propia — *Kototoro-app/Kototoro* (la dirección antigua redirige limpio; la mudanza de nombre la hizo el propio carpintero, no ningún espejo): *590* estrellas, *46* horquillas, *40* casos abiertos, último empuje de código registrado el *27-sep-2026* — tres días atrás —, y obra creada el *28-oct-2025*: once meses seguidos de taller encendido. Licencia constatada otra vez en su ficha: *Apache-2.0*. Idioma principal de la obra: *Kotlin*, tal como lo anuncia el sello Compose-first de esta guía. Dato que firma el método entero: nuestra citación del día 22 decía «v2.1.5, la última» — y el catálogo comunitario miyomi.app ya anota la *v2.1.6, publicada el 23-sep-2026*: el carpintero anotó su siguiente paso de obra al día siguiente de nuestra primera mirada. Anti-marketing en una línea: los espejos de descarga ofrecían hoy la *v0.8.8 de abril*, seis versiones atrás del mostrador real — quien descarga por espejo compra el mueble de cuando todavía faltaban cajones. La regla queda intacta desde el día uno: *la puerta verdadera es la casa del proyecto — GitHub Releases — con su hora visible; cualquier espejo es foto del mueble, no el mueble.*
+Ocho días después del censo original volvimos al repositorio con la libreta abierta y el método idéntico. Datos con la hora del mostrador de ese día: la casa tiene ya organización propia — *Kototoro-app/Kototoro* (la dirección antigua redirige limpio; la mudanza de nombre la hizo el propio carpintero, no ningún espejo): *590* estrellas, *46* horquillas, *40* casos abiertos, último empuje de código registrado el *27-sep-2026* — tres días atrás —, y obra creada el *28-oct-2025*: once meses seguidos de taller encendido. Licencia constatada otra vez en su ficha: *Apache-2.0*. Idioma principal de la obra: *Kotlin*, tal como lo anuncia el sello Compose-first de esta guía. Dato que firma el método entero: nuestra citación del día 22 decía «v2.1.5, la última» — y el catálogo comunitario miyomi.app ya anota la *v2.1.6, publicada el 23-sep-2026*: el carpintero anotó su siguiente paso de obra al día siguiente de nuestra primera mirada. Anti-marketing en una línea: los espejos de descarga ofrecían ese día la *v0.8.8 de abril*, seis versiones atrás del mostrador real — quien descarga por espejo compra el mueble de cuando todavía faltaban cajones. La regla queda intacta desde el día uno: *la puerta verdadera es la casa del proyecto — GitHub Releases — con su hora visible; cualquier espejo es foto del mueble, no el mueble.*
 
 ───────────────────
+
+*🧠 Mini-quiz del carpintero (sin mirar la libreta)*
+
+Ya leíste el mueble entero: la vara ahora la aplicas tú, sin releer.
+
+1. ¿Qué promete el sistema de entidades cuando tu fuente muere?
+2. Un perfil de vídeo importa y no carga: ¿primer peldaño de la escalera?
+3. ¿Qué versión amaneció en la vitrina hoy y a qué hora?
+
+*Respuestas (gíralas para leer):*
+
+`1. .etneuf al a on ,aludéc us a sodagep nadeuq sotirovaf y lairotsih ,saton :eviverbos arbo aL`
+`2. ?olos agrac otcerid ecalne le¿ :onu oñadlep la rajaB`
+`3. .tco-51 etse ed 92:11 sal a ,01.2.2v aL`
+
+*🗣️ El reto:* explica el sistema de entidades en tres líneas a alguien
+de tu grupo. Si puedes sin mirar, el mueble ya es tuyo — aunque decidas
+no instalarlo.
+
+───────────────────
+
+*PULSO AL CORTE — 15-OCT ~15:00 (mapa vivo #2)*
+
+```
+ Kototoro   ★621 -> ★625   (15-OCT, +4 en el dia)
+ parsers    ★16  · Nightly ★12   (quietos)
+```
+Segunda lectura del mismo dia. La caja se apila;
+no borra nada (protocolo: mapa-maestro).
 
 *🌱 Semilla de despedida*
 
@@ -731,4 +797,8 @@ Ocho días después del censo original volvimos al repositorio con la libreta ab
 
 #LaBandita #Kototoro #MangaYNovelas #LectorAndroid #ComposeFirst #Apache2 #VerificaAntesDeInstalar #EcosistemaLibre #FuenteFechada #OpenSource #TVBox #WebDAV
 
-📝 *RE-CORTE 15-oct-2026.* El carpintero no paró desde aquella tarde de dos versiones: *v2.2.6 (1-oct), v2.2.8 (7-oct) y v2.2.9 (9-oct)*, con código empujado el mismo día de este re-corte (★621). El Nightly sigue vivo (push 14-oct). Tabla del vecindario re-pisada hoy con censo de API; *Tadami conserva su constancia del 15-sep* (no re-verificado hoy). Lo demás conserva su fecha.
+📝 *RE-CORTE 15-oct-2026 (vara completa aplicada el día que sonó la señal).*
+
+La vitrina entregó la *v2.2.10 (11:29)* — sexta hornada de octubre, once versiones en cinco semanas. Placas de HOY 15-oct: ★621 · push 11:07 · 214 tags · parsers con push de HOY 15-oct · Nightly vivo (14-oct). Changelog de hoy leído y resumido en «La sexta hornada del mes».
+
+Vecindario re-pisado hoy 15-oct; Tadami conserva su constancia del 15-sep; lo demás, su fecha.

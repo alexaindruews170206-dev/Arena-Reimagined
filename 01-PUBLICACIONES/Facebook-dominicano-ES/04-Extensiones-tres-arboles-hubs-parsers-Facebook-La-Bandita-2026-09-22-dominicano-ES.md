@@ -10,7 +10,7 @@ Yo soy de las que compran donde es desde siempre — no porque el de siempre sea
 
 Le paso la misma pregunta a todas: «¿Y si una bombilla me explota, tú me la cambias?» Dos se ríen. La vieja de la esquina me enseña el libro de reclamaciones y me dice que lleva ahí cinco años. Eso me basta. Las lámparas se compran por luz; las bombillas, por recibo.
 
-Cliente, es lo mismo con tu lector de manga y anime. Las extensiones son las bombillas; los almacenes, las bodegas; y tu teléfono, el mueble que las recibe. Hoy te dibujo el mapa completo del barrio: qué árbol de parsers tiene tu lector, qué almacenes viven de él, cuáles mudaron de dirección este verano, y por qué la camada de impostores se viste igual todas las semanas.
+Cliente, es lo mismo con tu lector de manga y anime. Las extensiones son las bombillas; los almacenes, las bodegas; y tu teléfono, el mueble que las recibe. 22-sep-2026 te dibujo el mapa completo del barrio: qué árbol de parsers tiene tu lector, qué almacenes viven de él, cuáles mudaron de dirección este verano, y por qué la camada de impostores se viste igual todas las semanas.
 
 Dessy, la voz principal. Este tema nos tocó verificarlo de cerca — y el mapa tiene sorpresas de agosto.
 
@@ -22,7 +22,7 @@ Primero se entiende la regla de oro: lámpara (tu app), bombilla (la extensión)
 
 Después los árboles: tu lector no es «de extensiones» en general — es de UN árbol de parsers (Mihon/Keiyoushi, Usagi/Kotatsu, servidores), y cada árbol tiene almacenes propios que no hablan entre sí. La pieza 03 de esta serie explica por dónde llegar al lector mismo; esta explica qué llega después.
 
-Luego el censo de hoy: hub central empujando esta madrugada, casa anime con commit de hace tres horas, independiente con empuje de ayer, y un directorio que declara su servicio y sus límites. Y al final, el catálogo de impostores y las cinco preguntas que cierran la feria sin que te des cuenta.
+Luego el censo de 22-sep-2026: hub central empujando esta madrugada, casa anime con commit de hace tres horas, independiente con empuje de ayer, y un directorio que declara su servicio y sus límites. Y al final, el catálogo de impostores y las cinco preguntas que cierran la feria sin que te des cuenta.
 
 ┄┄┄
 
@@ -32,13 +32,13 @@ Luego el censo de hoy: hub central empujando esta madrugada, casa anime con comm
 
 • Tres árboles de parsers dominan el barrio: MIHON (el primogénito vivo del ecosistema madre, con su almacén de referencia Keiyoushi), el árbol USAGI/KOTATSU (su propio protocolo, su casa aparte, pieza futura de esta serie), y la capa SERVIDOR (Suwayomi y el recién llegado uchiyomi: tu biblioteca corriendo en PC o web, comiendo las mismas bombillas de Mihon).
 
-• El hub del árbol Mihon se reinició el 13 de agosto de 2026 como un almacén basado en RELEASES — maquinaria nueva, mismo nombre, mismo bot repartiendo índices a diario (empuje de hoy, 19 horas). La convención citada en papeles como «KeiSource 1.6» vive hoy en los commits como la «lib 16», con el PR #448 de Animetail como el caso que enseña por qué migrar la cadena no es opción sino urgencia.
+• El hub del árbol Mihon se reinició el 13 de agosto de 2026 como un almacén basado en RELEASES — maquinaria nueva, mismo nombre, mismo bot repartiendo índices a diario (empuje de 22-sep-2026, 19 horas). La convención citada en papeles como «KeiSource 1.6» vive 22-sep-2026 en los commits como la «lib 16», con el PR #448 de Animetail como el caso que enseña por qué migrar la cadena no es opción sino urgencia.
 
 • El árbol anime vive en la familia YŪZŌNŌ: almacén al día (commit de hace 3 horas), y desde el 1 de septiembre una capa LEGACY publicada por la propia casa para que las fuentes viejas respiren en la convención nueva. La noticia del mes ese tipo: el 17 de septiembre el almacén Yūzōnō injertó el CORE del hub Keiyoushi en su rama (PR #952): dos casas grandes compartiendo plomero.
 
 • Los independientes siguen con su oficio: manga-repo con empuje de ayer, y una mudanza de dirección declarada en su propio README — la receta convencional queda bajo el nombre de la familia Yūzōnō aunque el repo viva con otro dueno. El segundo estante adulto de referencia sigue vivo a su ritmo (empuje del 3 de agosto). Los ecosistemas chinos (copymanga y su rama comunitaria, la megacolección ZGQ) viven su propio ciclo. Miyomi es el cartel del mercado — ahora con organización propia y licencia AGPL-3.0 — pero dice claramente que no audita: cartel, no sello.
 
-• Y la feria de impostores: camada documentada esta semana con estrellas gemelas compradas por lote, fecha de nacimiento del mismo día, títulos de anuncio («Best Manga Reader App 2026»), y nombres que se cuelgan de los proyectos buenos. La vacuna son las cinco preguntas de la sección 🧭 y la regla no-traficable: tu almacén se instala desde su casa oficial, jamás desde un post — ni desde este.
+• Y la feria de impostores: camada documentada esta semana con estrellas gemelas compradas por lote, fecha de nacimiento del mismo día, títulos de anuncio («Best Manga Reader App 2026»), y nombres que se cuelgan de los proyectos buenos. La vacuna son las cinco preguntas de la parte 🧭 y la regla no-traficable: tu almacén se instala desde su casa oficial, jamás desde un post — ni desde este.
 
 ┄┄┄
 
@@ -70,7 +70,7 @@ La regla del índice de esta familia de guías la dice de corrido: te enseñamos
 
 ┄┄┄
 
-📅 LA LÍNEA DE TIEMPO DEL ECOSISTEMA (de la caída de la madre al bot de hoy)
+📅 LA LÍNEA DE TIEMPO DEL ECOSISTEMA (de la caída de la madre al bot de 22-sep-2026)
 
 Enero de 2024 — invierno. El almacén oficial del árbol madre archiva, y su historia queda como lección mayor: la comunidad que aprendió a mantener la plaza después de que cerró la casa original. De esa fecha en adelante, ninguna bodega del ecosistema vuelve a presentarse como «oficial» — y esa palabra es ya señal de alerta dondequiera que aparezca.
 
@@ -78,7 +78,7 @@ Agosto de 2024 — el almacén oficial del árbol anime archiva, y la familia Y�
 
 Enero de 2026 — el hub Keiyoushi anuncia cambios en su forma de distribuir (el anuncio queda en el historial del repositorio de código); la comunidad empieza a hablar de «release-based» como la vía nueva.
 
-13 de agosto de 2026 — la mudanza se hace: el hub se reinicia con la maquinaria nueva. La raíz del repositorio de hoy lo muestra sin misterio: siete archivos, fechas de agosto, y el bot empujando cada día desde entonces.
+13 de agosto de 2026 — la mudanza se hace: el hub se reinicia con la maquinaria nueva. La raíz del repositorio de 22-sep-2026 lo muestra sin misterio: siete archivos, fechas de agosto, y el bot empujando cada día desde entonces.
 
 1 de septiembre — la casa Yūzōnō publica su capa LegacySource para el tránsito a la convención «lib 16». El conducto entre la era vieja y la nueva queda oficialmente abierto.
 
@@ -86,15 +86,15 @@ Enero de 2026 — el hub Keiyoushi anuncia cambios en su forma de distribuir (el
 
 17 de septiembre — el mes firma su entrada fuera de lo común: el almacén Yūzōnō injerta el core de Keiyoushi en su rama (PR #952). Dos casas grandes comparten plomero por decisión — es la noticia estructural del otoño.
 
-Y esta mañana, 22 de septiembre — el estado del barrio: hub con el bot empujando a las 19 horas de hoy, casa anime con commit de hace 3 horas, independiente de ayer, y el directorio del mercado en su ritmo de siempre. El ecosistema que quedó viudo en 2024 vive hoy más barrio que nunca — con mudanzas técnicas completadas y plomería compartida.
+Y esta mañana, 22 de septiembre — el estado del barrio: hub con el bot empujando a las 19 horas de 22-sep-2026, casa anime con commit de hace 3 horas, independiente de ayer, y el directorio del mercado en su ritmo de siempre. El ecosistema que quedó viudo en 2024 vive 22-sep-2026 más barrio que nunca — con mudanzas técnicas completadas y plomería compartida.
 
 ┄┄┄
 
 📗 KEIYOUSHI, EL HUB PRINCIPAL, Y SU MUDANZA DE AGOSTO
 
-El nombre largo que repite todo el barrio — Keiyoushi — es hoy el mercado central de las bombillas del árbol Mihon. Sus números de hoy lo respaldan: alrededor de 15.0 mil estrellas contadas esta mañana, y — mejor dato— el bot repartiendo el índice con un empuje de hace apenas 19 horas. Una bodega viva no se define por su placa: se define por su camión.
+El nombre largo que repite todo el barrio — Keiyoushi — es 22-sep-2026 el mercado central de las bombillas del árbol Mihon. Sus números de 22-sep-2026 lo respaldan: alrededor de 15.0 mil estrellas contadas esta mañana, y — mejor dato— el bot repartiendo el índice con un empuje de hace apenas 19 horas. Una bodega viva no se define por su placa: se define por su camión.
 
-Lo interesante de esta casa, y lo que la madre vieja de esta pieza aún no conocía, es su mudanza técnica del 13 de agosto de 2026. En esa fecha el repositorio del almacén se reinició completo como «almacén basado en releases»: maquinaria nueva, historia nueva del repositorio, mismo nombre y mismo barrio. La raíz del repo de hoy lo cuenta sin adornos: un archivero llamado index.json (la lista completa de extensiones, en texto legible), su hermana comprimida index.min.json, la factura operativa index.pb, el carnet de identidad repo.json, el inventario de activos release-assets.json, la carpeta de logos, y el README de siempre. Todo eso junto es «el almacén» para tu lector: una lista viva que la app re-lee cada vez que abre.
+Lo interesante de esta casa, y lo que la madre vieja de esta pieza aún no conocía, es su mudanza técnica del 13 de agosto de 2026. En esa fecha el repositorio del almacén se reinició completo como «almacén basado en releases»: maquinaria nueva, historia nueva del repositorio, mismo nombre y mismo barrio. La raíz del repo de 22-sep-2026 lo cuenta sin adornos: un archivero llamado index.json (la lista completa de extensiones, en texto legible), su hermana comprimida index.min.json, la factura operativa index.pb, el carnet de identidad repo.json, el inventario de activos release-assets.json, la carpeta de logos, y el README de siempre. Todo eso junto es «el almacén» para tu lector: una lista viva que la app re-lee cada vez que abre.
 
 La mudanza cambia una arruga práctica: la edad del repo ya no se deduce de la fecha de creación que muestra GitHub — ese reloj se reinició en agosto — sino del proyecto y su historial. Y añadirlo sigue siendo igual de simple: la guía oficial de la casa, con su instalación en pocos toques — desde esa página, no desde cadenas.
 
@@ -104,11 +104,11 @@ Keiyoushi además declara sus límites donde duele, y eso es buena señal: su si
 
 ⚪ YŪZŌNŌ, LA CASA DEL ANIME, Y EL INJERTO DEL MES
 
-Si el hub es el mercado central, la familia Yūzōnō es hoy la casa donde vive el anime del ecosistema. Sus números de esta mañana: almacén de anime con 439 estrellas contadas hoy y 5.548 commits a sus espaldas — un historial de trabajo serio, no de semana. Su último commit llegó hace apenas tres horas: una fuente nueva entrando al almacén (PR #984). El periferia sigue mandando mercancía y la casa sigue despachando a diario.
+Si el hub es el mercado central, la familia Yūzōnō es 22-sep-2026 la casa donde vive el anime del ecosistema. Sus números de esta mañana: almacén de anime con 439 estrellas contadas 22-sep-2026 y 5.548 commits a sus espaldas — un historial de trabajo serio, no de semana. Su último commit llegó hace apenas tres horas: una fuente nueva entrando al almacén (PR #984). El periferia sigue mandando mercancía y la casa sigue despachando a diario.
 
 Tres hechos de su historial reciente cuentan el mes entero. El más importante, y el que este punto titula de «injerto»: el 17 de septiembre la casa integró en su rama el módulo PRINCIPAL del hub Keiyoushi — un commit titulado «Keiyoushi Network Import (Core)» con su número #952. Traducido al barrio: dos bodegas grandes dejaron de mantener cada una su plomería por separado y empezaron a compartirla. El efecto práctico para ti: menos averías duplicadas, y los arreglos que salen de un lado sirven al otro. Es el tipo de integración que no sale en titulares y que define la salud de un ecosistema.
 
-El segundo hecho: la casa vive la transición entre convenciones. Sus commits recientes incluyen los títulos «Bump to Lib 16» varias veces en las últimas semanas — la mudanza de patrón que la guía cita en su sección de convención. Y, lo más elegante del mes, su solución a la transición misma: el primer día de septiembre publicaron un componente llamado LegacySource «para compatibilidad con lib-16». En criollo: construyeron el ADAPTADOR para que las fuentes viejas siguieran respirando mientras el barrio migra, antes de que la mudanza doliera. Eso es mantener con tiempo, no con drama.
+El segundo hecho: la casa vive la transición entre convenciones. Sus commits recientes incluyen los títulos «Bump to Lib 16» varias veces en las últimas semanas — la mudanza de patrón que la guía cita en su parte de convención. Y, lo más elegante del mes, su solución a la transición misma: el primer día de septiembre publicaron un componente llamado LegacySource «para compatibilidad con lib-16». En criollo: construyeron el ADAPTADOR para que las fuentes viejas siguieran respirando mientras el barrio migra, antes de que la mudanza doliera. Eso es mantener con tiempo, no con drama.
 
 Y el tercero, casi un detalle fino que habla claro: el repo exige SDK mínimo 24 — es decir, las lámparas viejas de verdad (Android 6 para atrás) ya no reciben mercancía de esta casa. No es curios: es coherencia técnica declarada en el frente, sin que tengas que descubrirla a la mala.
 
@@ -118,9 +118,9 @@ Una nota más de la casa: su estante «cursed» para contenido adulto sigue vivo
 
 🗂️ LOS DEMÁS ALMACENES DEL BARRIO (con su fecha)
 
-El barrio no vive solo de las dos casas grandes. El censo de hoy reparte así el resto del mapa — todos numerados, todos con su fecha.
+El barrio no vive solo de las dos casas grandes. El censo de 22-sep-2026 reparte así el resto del mapa — todos numerados, todos con su fecha.
 
-MANGA-REPO, EL INDEPENDIENTE ACTIVO. Su propio dueño mantiene una bodega de manga multi-idioma con 451 estrellas contadas esta mañana y empuje del día de ayer, 21 de septiembre (recuento de volúmenes añadido a sus fuentes). Lo más didáctico de esta casa es su MUDANZA DECLARADA: el README de su front avisa que la receta convencional del almacén queda bajo la dirección de la familia Yūzōnō (yuzono/manga-repo) AUNQUE EL REPO VIVA CON OTRO NOMBRE — la dirección se mantiene como alias para no romper a los viejos asiduos. Es la lección viva de por qué tu receta copiada de hace dos años puede ser letra muerta hoy: las direcciones migran y solo la casa avisa.
+MANGA-REPO, EL INDEPENDIENTE ACTIVO. Su propio dueño mantiene una bodega de manga multi-idioma con 451 estrellas contadas esta mañana y empuje del día de ayer, 21 de septiembre (recuento de volúmenes añadido a sus fuentes). Lo más didáctico de esta casa es su MUDANZA DECLARADA: el README de su front avisa que la receta convencional del almacén queda bajo la dirección de la familia Yūzōnō (yuzono/manga-repo) AUNQUE EL REPO VIVA CON OTRO NOMBRE — la dirección se mantiene como alias para no romper a los viejos asiduos. Es la lección viva de por qué tu receta copiada de hace dos años puede ser letra muerta 22-sep-2026: las direcciones migran y solo la casa avisa.
 
 LOS SEGUNDOS ESTANTES ADULTOS. Aparte de la familia Yūzōnō, la referencia independiente documentada sigue su ciclo propio, con su último empuje del 3 de agosto a su fecha de constancia. Se nombra como marco del mapa (existe, vive, tiene mantenedor), y jamás su índice — cada quien decide su jurisdicción, como manda la casa.
 
@@ -128,15 +128,15 @@ EL ECOSISTEMA CHINO. Vive su propio ciclo con sus propios tiempos: la rama comun
 
 LA CAPA SERVIDOR. Para el que quiere su biblioteca manga en PC o en web, el almacén de la familia Suwayomi sigue activo (empuje de mediados de septiembre a su fecha), y el recién llegado del semestre, uchiyomi, ofrece la biblioteca como aplicación web auto-hospedada comiendo las mismas extensiones del árbol Mihon (versión v0.33.0 constada al 14 de septiembre). Otra habitación, mismas bombillas — la lámpara de escritorio del barrio.
 
-Y EL MUSEO, siempre con su placa: el almacén oficial original del árbol madre (archivado enero de 2024), la gran fuente copymanga original (archivada febrero de 2024), el almacén oficial del árbol Aniyomi (archivado agosto de 2024), y Kohi-den — la primera casa de código del árbol Yūzōnō — archivada en mayo de 2026 con la obra terminada. Cada uno se cita para no esperar en su puerta y para recordar que todo lo vivo de hoy también tendrá su placa un día.
+Y EL MUSEO, siempre con su placa: el almacén oficial original del árbol madre (archivado enero de 2024), la gran fuente copymanga original (archivada febrero de 2024), el almacén oficial del árbol Aniyomi (archivado agosto de 2024), y Kohi-den — la primera casa de código del árbol Yūzōnō — archivada en mayo de 2026 con la obra terminada. Cada uno se cita para no esperar en su puerta y para recordar que todo lo vivo de 22-sep-2026 también tendrá su placa un día.
 
 ┄┄┄
 
 📐 LA CONVENCIÓN, DE KEISOURCE 1.6 A LIB 16 (el detalle fino, dicho fino)
 
-Aquí va el trozo más técnico de la pieza, y va despacio porque los números de versión de este barrio se prestan confusión. En los papeles históricos — guías, discusiones, repos viejos — la convención con la que se construyen las extensiones del árbol aparece como «KeiSource 1.6»: el patrón con el que se cocinan las bombillas modernas tras la gran mudanza de 2024. Quietecito y lejos del drama, en los commits de la temporada la misma convención se llama hoy «lib 16»: la librería número dieciséis, cuyo rastro aparece en los títulos de empuje («Bump to Lib 16», «LegacySource for lib-16 compatibility»).
+Aquí va el trozo más técnico de la pieza, y va despacio porque los números de versión de este barrio se prestan confusión. En los papeles históricos — guías, discusiones, repos viejos — la convención con la que se construyen las extensiones del árbol aparece como «KeiSource 1.6»: el patrón con el que se cocinan las bombillas modernas tras la gran mudanza de 2024. Quietecito y lejos del drama, en los commits de la temporada la misma convención se llama 22-sep-2026 «lib 16»: la librería número dieciséis, cuyo rastro aparece en los títulos de empuje («Bump to Lib 16», «LegacySource for lib-16 compatibility»).
 
-¿Son dos cosas distintas? La lectura honesta: no existe un papel central que declare el cambio de nombre — la comunidad documenta en la marcha. Lo que sí existe es la evidencia de la semana: los repos vivos empujan esa numeración en cadena, y el caso clásico sigue citándose — el PR #448 de Animetail, el fork que tardó en migrar su cadena y cuyos usuarios perdieron el acceso a los almacenes de golpe, hasta que su ajuste «resolving 1.6+ extension loading» les devolvió la entrada. La moraleja de aquel PR es exactamente la de hoy: quien no migra la cadena, pierde los almacenes; y quien espera a que duela, migra de prisa.
+¿Son dos cosas distintas? La lectura honesta: no existe un papel central que declare el cambio de nombre — la comunidad documenta en la marcha. Lo que sí existe es la evidencia de la semana: los repos vivos empujan esa numeración en cadena, y el caso clásico sigue citándose — el PR #448 de Animetail, el fork que tardó en migrar su cadena y cuyos usuarios perdieron el acceso a los almacenes de golpe, hasta que su ajuste «resolving 1.6+ extension loading» les devolvió la entrada. La moraleja de aquel PR es exactamente la de 22-sep-2026: quien no migra la cadena, pierde los almacenes; y quien espera a que duela, migra de prisa.
 
 Lo que sí cambió con el nombre: el papel. En la era 1.6 la convención era una cita histórica del ecosistema; en la era lib 16 vive dentro de los commits, los módulos compartidos y el core injertado — ya no es solo patrón, es plomería compartida entre casas. Para ti, usuario, se reduce otra vez a lo simple: mantén tu lector al día desde su casa, acepta las actualizaciones de bombillas los fines de semana, y no le pidas a una convención vieja que abra la puerta de la nueva.
 
@@ -144,7 +144,7 @@ Lo que sí cambió con el nombre: el papel. En la era 1.6 la convención era una
 
 🗂️ MIYOMI, EL CARTEL DEL MERCADO (y su verano legal)
 
-Miyomi ocupa una esquina rara y preciosa de este mapa: no es app (no es lámpara), no es almacén (no es bodega). Es el cartel del mercado: la guía curada donde el ecosistema entero — lectores, almacenes, herramientas, servidores — desfila ordenado por categorías con una breve nota de cada uno. Este verano también vivió su mudanza: desde junio vive en su organización propia (miyomiorg), y sus números de esta mañana — 188 estrellas contadas hoy, último empuje del 31 de agosto — muestran una comunidad de curadores con pulso propio.
+Miyomi ocupa una esquina rara y preciosa de este mapa: no es app (no es lámpara), no es almacén (no es bodega). Es el cartel del mercado: la guía curada donde el ecosistema entero — lectores, almacenes, herramientas, servidores — desfila ordenado por categorías con una breve nota de cada uno. Este verano también vivió su mudanza: desde junio vive en su organización propia (miyomiorg), y sus números de esta mañana — 188 estrellas contadas 22-sep-2026, último empuje del 31 de agosto — muestran una comunidad de curadores con pulso propio.
 
 Lo más didáctico de su temporada es legal: entre junio y julio el proyecto cambió de licencia, pasando de la permisiva Apache-2.0 a la compartida AGPL-3.0, y publicó en el mismo gesto una política de marca separada que regula el uso de su nombre, su logo y sus activos. Traducido al barrio: el cartel aclaró quién puede pintar encima de él y quién no, y ustedes mismos pueden leer la orden — está firmada en el repositorio, sin abogado necesario.
 
@@ -174,7 +174,7 @@ Dos minutos para responderlas, y la feria cierra sola. Sus anexos obvios: «est�
 
 📚 LAS CUATRO TRANCAS DEL ALMACÉN, CONTADAS COMO DUEÑAS
 
-La primera tranca es la clásica del ecosistema: «mi lista de extensiones amaneció vacía, todo sale obsoleto». Diagnóstico exacto: la app envejeció para la convención del almacén. Medicina en orden: leer el aviso de compatibilidad del sitio oficial (Keiyoushi declara a día de hoy su soporte a Mihon, TachiyomiSY y Komikku); actualizar tu app desde SU casa (su repositorio oficial o su canal libre, nunca un paquete «compatible» de la feria); re-añadir la fuente del almacén por la guía oficial. Si tras actualizar sigue vacío, ahí sí, te toca escribir al mantenedor — con pasos reproducibles, no con queja.
+La primera tranca es la clásica del ecosistema: «mi lista de extensiones amaneció vacía, todo sale obsoleto». Diagnóstico exacto: la app envejeció para la convención del almacén. Medicina en orden: leer el aviso de compatibilidad del sitio oficial (Keiyoushi declara a día de 22-sep-2026 su soporte a Mihon, TachiyomiSY y Komikku); actualizar tu app desde SU casa (su repositorio oficial o su canal libre, nunca un paquete «compatible» de la feria); re-añadir la fuente del almacén por la guía oficial. Si tras actualizar sigue vacío, ahí sí, te toca escribir al mantenedor — con pasos reproducibles, no con queja.
 
 La segunda tranca es una bombilla sola apagada: «una fuente concreta dejó de funcionar, las demás corren bien». El almacén está sano; una extensión murió. La evidencia de esta semana (credenciales expiradas corregidas, recuento de volúmenes añadido) muestra el ritmo de reparación real: días. Medicina: actualizar la extensión cuando salga (llegan como actualizaciones de extensiones dentro de la app), y reportar bien en el repo del código: versión de la app, nombre de la fuente, pasos exactos, captura. El caso de Ambiorix abajo lo muestra con detalle — un reporte bueno arregla para todo el barrio.
 
@@ -200,7 +200,7 @@ Los cuatro casos comparten espina: la herramienta libre premia al que mira la ca
 
 🧯 MITOS DE LA BOMBILLA (cuatro apagones, dichos sin rodeos)
 
-Apagón uno: «Keiyoushi es el almacén oficial de Tachiyomi». No. El oficial original archivó con su árbol madre en enero de 2024, y desde entonces ninguna bodega del ecosistema tiene esa etiqueta — palabra que hoy solo usa la feria. Keiyoushi es el almacén DE REFERENCIA del árbol vivo: una comunidad organizada, sin empresa detrás. La diferencia práctica es enorme: nadie te garantiza nada; un colectivo te muestra su trabajo todos los días — y esa exhibición diaria es tu garantía.
+Apagón uno: «Keiyoushi es el almacén oficial de Tachiyomi». No. El oficial original archivó con su árbol madre en enero de 2024, y desde entonces ninguna bodega del ecosistema tiene esa etiqueta — palabra que 22-sep-2026 solo usa la feria. Keiyoushi es el almacén DE REFERENCIA del árbol vivo: una comunidad organizada, sin empresa detrás. La diferencia práctica es enorme: nadie te garantiza nada; un colectivo te muestra su trabajo todos los días — y esa exhibición diaria es tu garantía.
 
 Apagón dos: «más estrellas, más seguro». La camada de esta semana compró sus estrellas por lote — por eso las repite idénticas. Las estrellas cuentan congregación, no higiene. La vara de verdad ya la tienes: mantenedor con cara, historial con meses, código a la vista, límites confesados.
 
@@ -214,7 +214,7 @@ Apagón cuatro: «si figura en Miyomi, está verificado». Miyomi se declara a s
 
 ¿Qué almacén uso con Mihon? Keiyoushi — lo dice su propio sitio al declarar sus soportes. Si tu lista sale vacía con el aviso de app obsoleta, el problema es tu versión, no la bodega: actualiza desde la casa y re-añade por la guía oficial.
 
-¿Y para anime? La casa Yūzōnō, al día de hoy con commit de hace tres horas. Las direcciones viejas del árbol anime son ya museo: el oficial original archivó en agosto de 2024 y su primera casa de código en mayo de 2026.
+¿Y para anime? La casa Yūzōnō, al día de 22-sep-2026 con commit de hace tres horas. Las direcciones viejas del árbol anime son ya museo: el oficial original archivó en agosto de 2024 y su primera casa de código en mayo de 2026.
 
 ¿Los estantes adultos son peligrosos? El mecanismo es el mismo de cualquier bodega; el riesgo vive en el contenido y en tu jurisdicción. Se nombran para completar el mapa; los índices de ningún almacén se pegan en esta familia de guías.
 
@@ -222,7 +222,7 @@ Apagón cuatro: «si figura en Miyomi, está verificado». Miyomi se declara a s
 
 ¿Cada cuánto se actualizan las extensiones? Las bodegas vivas publican varias veces por semana, y el bot del hub a diario. Tu app las ofrece como actualizaciones de extensiones — aceptarlas en la ronda del fin de semana es todo el mantenimiento.
 
-¿Por qué dejó de funcionar mi receta vieja? Tres causas usuales: la casa migró de dirección (caso documentado hoy con manga-repo), el almacén cambió de maquinaria (el hub en agosto), o tu app envejeció para la convención nueva. Se mira la casa antes de re-copiar nada.
+¿Por qué dejó de funcionar mi receta vieja? Tres causas usuales: la casa migró de dirección (caso documentado 22-sep-2026 con manga-repo), el almacén cambió de maquinaria (el hub en agosto), o tu app envejeció para la convención nueva. Se mira la casa antes de re-copiar nada.
 
 ¿Pasan mis extensiones al teléfono nuevo? Sí, migrando la biblioteca con la herramienta de respaldo de tu lector. Los almacenes no se migran: se vuelven a añadir desde sus casas — ocasión sana de borrar los que ya no usas.
 
@@ -234,7 +234,7 @@ Apagón cuatro: «si figura en Miyomi, está verificado». Miyomi se declara a s
 
 📖 GLOSARIO DEL TEMA, EN PROSA
 
-App: tu lector, la lámpara — motor sin contenido. Extensión: la bombilla adaptadora, una por fuente. Almacén: la bodega con dueño e historial donde viven las bombillas. Índice: la lista técnica que la app lee para descubrir el almacén; en esta casa se señala la puerta, jamás la receta. Fuente: el contenido que una bombilla lee. Hub: el almacén de referencia del árbol Mihon — hoy, Keiyoushi. Bot del almacén: el camión automático que reparte el índice a diario. Repositorio del código: el taller hermano donde se arreglan las bombillas. Convención (lib): el patrón técnico de construcción — en papeles «KeiSource 1.6», en commits «lib 16». LegacySource: el adaptador para que las fuentes del patrón viejo respiren en la convención nueva. «Outdated app»: el cartel de que tu lector ya no entiende la convención vigente — se cura actualizando la app. Release-based: la maquinaria nueva del hub desde agosto. Fork: proyecto hijo de otro. Estante adulto: el rincón de contenido de algunas bodegas; se nombra, no se enlaza. Capa servidor (Suwayomi, uchiyomi): tu biblioteca en PC o web comiendo las mismas bombillas. Directorio (Miyomi): el cartel del mercado — usar como mapa, nunca como sello.
+App: tu lector, la lámpara — motor sin contenido. Extensión: la bombilla adaptadora, una por fuente. Almacén: la bodega con dueño e historial donde viven las bombillas. Índice: la lista técnica que la app lee para descubrir el almacén; en esta casa se señala la puerta, jamás la receta. Fuente: el contenido que una bombilla lee. Hub: el almacén de referencia del árbol Mihon — 22-sep-2026, Keiyoushi. Bot del almacén: el camión automático que reparte el índice a diario. Repositorio del código: el taller hermano donde se arreglan las bombillas. Convención (lib): el patrón técnico de construcción — en papeles «KeiSource 1.6», en commits «lib 16». LegacySource: el adaptador para que las fuentes del patrón viejo respiren en la convención nueva. «Outdated app»: el cartel de que tu lector ya no entiende la convención vigente — se cura actualizando la app. Release-based: la maquinaria nueva del hub desde agosto. Fork: proyecto hijo de otro. Estante adulto: el rincón de contenido de algunas bodegas; se nombra, no se enlaza. Capa servidor (Suwayomi, uchiyomi): tu biblioteca en PC o web comiendo las mismas bombillas. Directorio (Miyomi): el cartel del mercado — usar como mapa, nunca como sello.
 
 ┄┄┄
 
@@ -242,7 +242,7 @@ App: tu lector, la lámpara — motor sin contenido. Extensión: la bombilla ada
 
 Enero de 2024 enseñó al barrio su lección fundacional: cuando la casa madre archivó su almacén oficial, quedó claro que nada de esto era infraestructura «de alguien» — era el trabajo de muchos esperando a que otro lo levantara. Lo que vino fue manual de supervivencia de libro: el árbol más fuerte encontró su almacén de referencia en una comunidad nueva, nacida como tarea compartida, con un bot repartiendo índices todos los días desde entonces; la casa anime se mudó a la familia de su propio árbol; y cada fork aprendió su manera de convivir con las bombillas.
 
-Año y medio después, la semana de hoy enseña que el ecosistema no solo sobrevivió: se volvió más barrio. Dos señales nuevas lo demuestran: la INTEGRACIÓN de los herederos, dos casas grandes compartiendo plomero desde el diecisiete de septiembre, y la MADUREZ declarada — maquinaria de releases, capa puente para las fuentes viejas, museo cerrado con la obra terminada. Pasos de quien cuida legado, no de quien corre detrás del día.
+Año y medio después, la semana de 22-sep-2026 enseña que el ecosistema no solo sobrevivió: se volvió más barrio. Dos señales nuevas lo demuestran: la INTEGRACIÓN de los herederos, dos casas grandes compartiendo plomero desde el diecisiete de septiembre, y la MADUREZ declarada — maquinaria de releases, capa puente para las fuentes viejas, museo cerrado con la obra terminada. Pasos de quien cuida legado, no de quien corre detrás del día.
 
 La moraleja para el usuario común no es heroica: es doméstica. Tu lector y tus bombillas viven del trabajo de gente organizada en su tiempo libre. Cuidar el barrio no es donar estrellas: es reportar bien, actualizar tranquilo, no repartir calles ajenas, y acordarte de que el tendero voluntario también cansa. Quien aprende eso ya pagó la mitad del mapa con la moneda que no se gasta: el respeto al mantenedor.
 
@@ -266,9 +266,9 @@ Y paso seis, el que sostiene todo: la ronda semanal. Dos minutos por fin de sema
 
 🏛️ UNA NOTA DEL MUSEO, PARA CERRAR EL MAPA
 
-Se llega al museo con respeto y se sale sin equipaje. El archivo del árbol madre (enero de 2024) apagó una semana y encendió un barrio; la gran fuente china original (febrero de 2024) donó su protocolo a todos los sucesores; el del árbol anime (agosto de 2024) fue la partida de nacimiento de la casa que hoy empuja hace tres horas; y Kohi-den (mayo de 2026) enseña lo más fino: archivar también puede ser madurez — cerrar con la obra terminada.
+Se llega al museo con respeto y se sale sin equipaje. El archivo del árbol madre (enero de 2024) apagó una semana y encendió un barrio; la gran fuente china original (febrero de 2024) donó su protocolo a todos los sucesores; el del árbol anime (agosto de 2024) fue la partida de nacimiento de la casa que 22-sep-2026 empuja hace tres horas; y Kohi-den (mayo de 2026) enseña lo más fino: archivar también puede ser madurez — cerrar con la obra terminada.
 
-El museo se recorre para no esperar en la puerta equivocada, y para recordar que el hub vivo de hoy también tendrá su placa un día. La pregunta del barrio no es cuánto dura la bodega: es si tú estarás mirando mientras dure.
+El museo se recorre para no esperar en la puerta equivocada, y para recordar que el hub vivo de 22-sep-2026 también tendrá su placa un día. La pregunta del barrio no es cuánto dura la bodega: es si tú estarás mirando mientras dure.
 
 ┄┄┄
 
@@ -291,21 +291,21 @@ El chiste defiende su tema: el impostor no teme tus preguntas técnicas — teme
 
 ┄┄┄
 
-🛠️ MÉTODO DE LA CASA (con los pasos fechados de hoy)
+🛠️ MÉTODO DE LA CASA (con los pasos fechados de 22-sep-2026)
 
-Primero, la madre re-leída: la guía del quince de septiembre (once mil caracteres) se leyó entera y se marcó su lista de caducables — nueve almacenes con placa, cuatro archivos de museo, la convención citada, la camada de impostores, las reglas de lectura. Lo mundano fue a re-contarse hoy; lo estructural, a confirmarse en su historial.
+Primero, la madre re-leída: la guía del quince de septiembre (once mil caracteres) se leyó entera y se marcó su lista de caducables — nueve almacenes con placa, cuatro archivos de museo, la convención citada, la camada de impostores, las reglas de lectura. Lo mundano fue a re-contarse 22-sep-2026; lo estructural, a confirmarse en su historial.
 
-Segundo, la verificación viva de esta mañana, veintidós de septiembre: abierto el hub Keiyoushi (bot con empuje de hace 19 horas, raíz de siete archivos, reinicio de agosto a la vista, quince mil estrellas contadas hoy); abierto el almacén anime de la familia Yūzōnō (commit de hace 3 horas, 439 estrellas contadas hoy, 5.548 commits, el injerto del core documentado con su número del diecisiete, la capa puente del primero de septiembre, los empujes de la lib 16 de la semana); abierto manga-repo (451 estrellas contadas hoy, empuje del 21 de septiembre, y su propio README mandando mantener la receta bajo la dirección de la familia Yūzōnō); y abierto Miyomi (188 estrellas contadas hoy, organización propia desde junio, licencia AGPL-3.0 con política de marca publicada entre junio y julio, último empuje del 31 de agosto). Las cifras no re-contadas hoy llevan su fecha al lado, a la vista: el repositorio del código del hub (cuatro mil setecientas estrellas al quince del mes), la rama china (versión uno punto cuatro punto ochentaicinco al ocho de septiembre), la web-app de servidor (versión cero punto treinta y tres al catorce), el servidor clásico (empuje del doce), el segundo estante adulto (empuje del tres de agosto) y la megacolección ZGQ (mil doscientas al catorce). Los datos del museo son fechas históricas constadas en su día.
+Segundo, la verificación viva de esta mañana, veintidós de septiembre: abierto el hub Keiyoushi (bot con empuje de hace 19 horas, raíz de siete archivos, reinicio de agosto a la vista, quince mil estrellas contadas 22-sep-2026); abierto el almacén anime de la familia Yūzōnō (commit de hace 3 horas, 439 estrellas contadas 22-sep-2026, 5.548 commits, el injerto del core documentado con su número del diecisiete, la capa puente del primero de septiembre, los empujes de la lib 16 de la semana); abierto manga-repo (451 estrellas contadas 22-sep-2026, empuje del 21 de septiembre, y su propio README mandando mantener la receta bajo la dirección de la familia Yūzōnō); y abierto Miyomi (188 estrellas contadas 22-sep-2026, organización propia desde junio, licencia AGPL-3.0 con política de marca publicada entre junio y julio, último empuje del 31 de agosto). Las cifras no re-contadas 22-sep-2026 llevan su fecha al lado, a la vista: el repositorio del código del hub (cuatro mil setecientas estrellas al quince del mes), la rama china (versión uno punto cuatro punto ochentaicinco al ocho de septiembre), la web-app de servidor (versión cero punto treinta y tres al catorce), el servidor clásico (empuje del doce), el segundo estante adulto (empuje del tres de agosto) y la megacolección ZGQ (mil doscientas al catorce). Los datos del museo son fechas históricas constadas en su día.
 
-Tercero, lo no comprobado se dice tal cual: la transición de nombre de la convención se describe desde commits y mensajes de PR públicos — no existe papel oficial que la anuncie, y así se declara en su sección; el recuento exacto de fuentes del hub vive en su índice y no se re-contó hoy; los canales chinos no se re-abrieron esta mañana (actividad de días pasados basta para el mapa, marcada como tal).
+Tercero, lo no comprobado se dice tal cual: la transición de nombre de la convención se describe desde commits y mensajes de PR públicos — no existe papel oficial que la anuncie, y así se declara en su sección; el recuento exacto de fuentes del hub vive en su índice y no se re-contó 22-sep-2026; los canales chinos no se re-abrieron esta mañana (actividad de días pasados basta para el mapa, marcada como tal).
 
 Cuarto, la vara: conteo con longitud directa sobre este texto nativo de Facebook, anatomía completa verificada (semilla, mapa, página única, mapa mental, meme original, método, enlaces, nota, versión compacta y tags), y banda de la casa (treinta y nueve mil a cuarenta y un mil) confirmada antes de sellar. Número exacto en el registro vivo del día.
 
-Y quinto, la humildad del tema: este mapa envejece por semanas — bots empujan a diario, convenciones migran por meses, bodegas mudan por sorpresa. Toda cifra aquí se re-cuenta antes de repetirse. La pieza dice la verdad de hoy; mañana, la de mañana.
+Y quinto, la humildad del tema: este mapa envejece por semanas — bots empujan a diario, convenciones migran por meses, bodegas mudan por sorpresa. Toda cifra aquí se re-cuenta antes de repetirse. La pieza dice la verdad de 22-sep-2026; mañana, la de mañana.
 
 ┄┄┄
 
-🔗 ENLACES, ABIERTOS HOY
+🔗 ENLACES, ABIERTOS 22-sep-2026
 
 El almacén del árbol Mihon: dos puntos barra barra github.com/keiyoushi/extensions — su código hermano: github.com/keiyoushi/extensions-source — la guía oficial de la casa: keiyoushi.github.io.
 La casa del anime: github.com/yuzono/anime-extensions — su sitio: yuzono.github.io — su estante adulto (se nombra, no se enlaza índice): el que su propia organización lista.
@@ -319,7 +319,7 @@ El cartel del mercado: miyomi.app — su código, en la organización que este v
 
 📝 NOTA DE VERIFICACIÓN — 22 DE SEPTIEMBRE DE 2026
 
-Abiertos hoy y leídos en su propia página: el repositorio del almacén del árbol Mihon, el almacén de anime de la familia Yūzōnō, el repositorio del independiente manga-repo y el directorio del mercado. De ellos salen: el empuje del bot de esta madrugada, la re-inicialización basada en lanzamientos del trece de agosto, el commit de hace tres horas, el injerto del core del diecisiete con su número, la capa puente del primero de septiembre, los empujes de convención de la semana, la migración declarada del independiente y la mudanza legal del directorio. Placas re-contadas hoy: quince mil, cuatrocientas treinta y nueve, cuatrocientas cincuenta y una, ciento ochenta y ocho. Placas citadas a su fecha: las del código, la rama china, la web-app, el servidor, el segundo estante, la megacolección — todas marcadas en su punto. Fechas del museo constadas históricamente. Ningún número sale de memoria; todo lleva fuente y fecha.
+Abiertos 22-sep-2026 y leídos en su propia página: el repositorio del almacén del árbol Mihon, el almacén de anime de la familia Yūzōnō, el repositorio del independiente manga-repo y el directorio del mercado. De ellos salen: el empuje del bot de esta madrugada, la re-inicialización basada en lanzamientos del trece de agosto, el commit de hace tres horas, el injerto del core del diecisiete con su número, la capa puente del primero de septiembre, los empujes de convención de la semana, la migración declarada del independiente y la mudanza legal del directorio. Placas re-contadas 22-sep-2026: quince mil, cuatrocientas treinta y nueve, cuatrocientas cincuenta y una, ciento ochenta y ocho. Placas citadas a su fecha: las del código, la rama china, la web-app, el servidor, el segundo estante, la megacolección — todas marcadas en su punto. Fechas del museo constadas históricamente. Ningún número sale de memoria; todo lleva fuente y fecha.
 
 ┄┄┄
 
@@ -332,6 +332,16 @@ Busca más, y que la bombilla te llegue con papeles.
 Versión compacta: tu lector y sus extensiones viven de tres capas — lámpara, bombilla, bodega — y de tres árboles que no se mezclan. El hub del árbol principal mudó de maquinaria en agosto y reparte cada día; la casa del anime injertó la plomería del grande este mes; el independiente mudó de dirección declarándolo en su puerta; y la feria de imitaciones se reconoce por sus estrellas gemelas y sus títulos de venta. Todo almacén se instala desde su casa oficial, dos se miran bien y las demás no existen, y la ronda del fin de semana acepta las actualizaciones de la bombilla como quien riega el patio.
 
 La Bandita informa a partir de fuentes fechadas. Las bodegas abren cada día; la vara también.
+*💓 PULSO 15-OCT ~21:40 (mapa vivo FB)*
+
+```
+ keiyoushi/extensions 15.229 (push 15-oct)
+ yuzono/anime-extensions 485 (push 15-oct)
+```
+Los dos árboles empujan el mismo día.
+Caja apilada; nada borrado. Caja apilada; nada borrado (protocolo: mapa-maestro).
+
+📌 ACTUALIZADO AL 15-OCT-2026 — censo de API de 22-sep-2026: hub keiyoushi/extensions ★15.226 con push de 22-sep-2026 · extensions-source ★4.790, push de 22-sep-2026. Lo demás viaja fechado 22-sep-2026.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

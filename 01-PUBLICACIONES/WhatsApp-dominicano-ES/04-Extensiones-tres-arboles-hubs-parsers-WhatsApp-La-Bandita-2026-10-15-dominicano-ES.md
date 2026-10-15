@@ -6,7 +6,7 @@
 
 ───────────────────
 
-🌱 LA SEMILLA
+*🌱 LA SEMILLA*
 
 Imagina que tu lector de manga es una lámpara buena, de las que duran. La lámpara no hace la luz sola: necesita una bombilla para cada cuarto, y cada cuarto tiene un enchufe distinto. La lámpara no sabe de cuartos: sabe de bombillas. Esas adaptadoras — bombillas que convierten cualquier enchufe en luz — se llaman extensiones.
 
@@ -18,50 +18,58 @@ Esta guía recorre las bodegas del barrio de los lectores libres — cuál está
 
 🗺️ MAPA DE ESTA GUÍA
 
-├── 🌱 La semilla
-├── 🗺️ Este mapa
-├── ⚡ En una página
-├── 🧠 Mapa mental de la casa
-├── 🧩 Las tres capas (y la regla del índice)
-├── 📜 Línea del tiempo del ecosistema
-├── 📗 Keiyoushi: el hub principal — y su mudanza técnica de agosto
-├── 📘 Yūzōnō: anime vivo y la era lib 16
-├── 📙 Los demás almacenes vivos
-├── 🧬 De KeiSource 1.6 a lib 16: la convención que manda
-├── 🗂️ Miyomi: el directorio que ahora tiene org y marca propia
-├── 🎭 La feria de los impostores
-├── 🧭 Las cinco preguntas antes de abrir un almacén
-├── 📚 Solución de problemas del almacén (cuatro trancas)
-├── 🧪 Casos prácticos del barrio
-├── 🧯 Mitos de la bombilla (cuatro apagones)
-├── ❓ Preguntas frecuentes
-├── 📖 Glosario del tema
-├── 😄 El meme de la pieza
-├── 🛠️ Método de la casa
-├── 🔗 Enlaces
-├── 📝 Nota de verificación
-└── ✍️ Firma y despedida
+├── 🌱 LA SEMILLA  · ~2 min
+├── ⚡ EN UNA PÁGINA  · ~2 min
+├── 🧠 MAPA MENTAL DE LA CASA  · ~1 min
+├── 🧩 LAS TRES CAPAS (Y LA REGLA DEL ÍNDICE)  · ~1 min
+├── 📜 LÍNEA DEL TIEMPO DEL ECOSISTEMA  · ~2 min
+├── 📗 KEIYOUSHI: EL HUB PRINCIPAL — Y SU MUDANZA  · ~2 min
+├── 📘 YŪZŌNŌ: ANIME VIVO Y LA ERA LIB 16  · ~2 min
+├── 📙 LOS DEMÁS ALMACENES VIVOS  · ~2 min
+├── 🧬 DE KEISOURCE 1.6 A LIB 16: LA CONVENCIÓN QUE  · ~3 min
+├── 🎭 LA FERIA DE LOS IMPOSTORES  · ~1 min
+├── 🧭 LAS CINCO PREGUNTAS ANTES DE ABRIR UN ALMACÉN  · ~1 min
+├── 📚 SOLUCIÓN DE PROBLEMAS DEL ALMACÉN  · ~2 min
+├── 🧪 CASOS PRÁCTICOS DEL BARRIO  · ~2 min
+├── 🧯 MITOS DE LA BOMBILLA (CUATRO APAGONES)  · ~1 min
+├── ❓ PREGUNTAS FRECUENTES  · ~3 min
+├── 📖 GLOSARIO DEL TEMA (dieciséis términos)  · ~2 min
+├── 📋 RADIOGRAFÍA DEL MAPA ACTUAL  · ~1 min
+├── 📖 HISTORIA CORTA: EL AÑO QUE EL ECOSISTEMA  · ~2 min
+├── 🎒 LA MOCHILA MÍNIMA DEL LECTOR LIBRE  · ~2 min
+├── 🔎 ANATOMÍA DE UN ALMACÉN DE EXTENSIONES  · ~2 min
+├── 🧩 LOS TRES ÁRBOLES Y SUS PROTOCOLOS  · ~2 min
+├── 🧠 «EL ÍNDICE NO SE PEGA» — LA REGLA EXPLICADA  · ~4 min
+├── 🏪 DÓNDE INSTALAR TU LECTOR SIN SUSTOS  · ~1 min
+├── 🧪 UN TALLER EN SEIS PASOS: RECORRIDO PRÁCTICO  · ~2 min
+├── 💬 FRASES QUE DELATAN AL IMPOSTOR  · ~3 min
+├── 📌 LO QUE ESTE MAPA NO DICE  · ~1 min
+├── 😄 EL MEME DE LA PIEZA  · ~3 min
+├── 🔗 ENLACES (abiertos hoy, 22-sep-2026)  · ~1 min
+└── 📝 NOTA DE VERIFICACIÓN (22-sep-2026)  · ~2 min
 
 ───────────────────
 
-⚡ EN UNA PÁGINA
+*⚡ EN UNA PÁGINA*
 
 Las extensiones son la capa que conecta un lector libre — Mihon, Komikku y sus parientes — con sus fuentes de contenido. No viven dentro de la app: viven en almacenes con dueño, y el estado de cada almacén cambia semana a semana. Ayer hubo una mudanza técnica grande; hoy hay un ecosistema vivo con cara nueva.
 
 Los datos de esta mañana, abiertos hoy:
 
 ```
-Keiyoushi extensions          ★15.2 mil  bot empujó HOY     el hub
+
+⏱️ *Lectura total: 55 min*
+Keiyoushi extensions  ★15.2 mil  bot empujó HOY  el hub
   (su repositorio se re-inicializó el 13-ago-2026 como
    almacén basado en releases — ciclo nuevo)
-Keiyoushi extensions-source   vivo (★4.8 mil al 15-oct)     el código
-Yūzōnō anime-extensions       ★439       commit hace 3 h    anime
+Keiyoushi extensions-source vivo (★4.8 mil al 15-oct) el código
+Yūzōnō anime-extensions  ★439  commit hace 3 h  anime
   (su core recibió el 17-sep el «Keiyoushi Network Import»:
    el árbol oficial se injerta en el árbol de la familia)
-cuong-tran/manga-repo         ★451       empujó el 21-sep   el indepe
+cuong-tran/manga-repo  ★451  empujó el 21-sep  el indepe
   (su receta de instalación vive hoy bajo la dirección de
    yuzono/manga-repo — la casa migró, la receta no)
-Miyomi (el directorio)        ★188       en org propia      el índice
+Miyomi (el directorio)   ★188       en org propia      el índice
   (cambió de dueño a la organización «miyomiorg» y de
    licencia Apache-2.0 a AGPL-3.0 más política de marca)
 ```
@@ -72,7 +80,7 @@ La convención técnica que gobierna todo esto ya camina en la era «lib 16»: l
 
 ───────────────────
 
-🧠 MAPA MENTAL DE LA CASA
+*🧠 MAPA MENTAL DE LA CASA*
 
 Esta pieza abre el zaguán técnico de LA LISTA: la habitación de las extensiones y sus almacenes. Así se ve la familia entera desde arriba:
 
@@ -107,7 +115,7 @@ La brújula de hoy: si tu lector no encuentra fuentes, el problema vive en ESTA 
 
 ───────────────────
 
-🧩 LAS TRES CAPAS (Y LA REGLA DEL ÍNDICE)
+*🧩 LAS TRES CAPAS (Y LA REGLA DEL ÍNDICE)*
 
 Antes de recorrer bodegas, el plano del edificio. Todo esto funciona en tres capas:
 
@@ -131,7 +139,7 @@ Una consecuencia honesta de la regla: esta guía tampoco le dice a nadie qué co
 
 ───────────────────
 
-📜 LÍNEA DEL TIEMPO DEL ECOSISTEMA
+*📜 LÍNEA DEL TIEMPO DEL ECOSISTEMA*
 
 Los almacenes de extensiones tienen genealogía, y conocerla explica el porqué del mapa de hoy:
 
@@ -177,7 +185,7 @@ La moraleja del calendario: este ecosistema no tiene dueño único ni anuncio of
 
 ───────────────────
 
-📗 KEIYOUSHI: EL HUB PRINCIPAL — Y SU MUDANZA TÉCNICA DE AGOSTO
+*📗 KEIYOUSHI: EL HUB PRINCIPAL — Y SU MUDANZA TÉCNICA DE AGOSTO*
 
 Keiyoushi es el almacén de referencia del árbol Mihon: el recuento de fuentes más grande del ecosistema, código abierto (Apache-2.0 en su repositorio hermano), y un bot propio — keiyoushi-bot — que actualiza el índice a diario. Hoy, la evidencia de vida más fresca que existe: el último «Update extensions repo» del bot es de hace 19 horas, con fecha 22-sep-2026 en la entrada del historial.
 
@@ -189,7 +197,7 @@ Detalle de transparencia que sigue igual y se dice igual: el repositorio de bina
 
 ───────────────────
 
-📘 YŪZŌNŌ: ANIME VIVO Y LA ERA LIB 16
+*📘 YŪZŌNŌ: ANIME VIVO Y LA ERA LIB 16*
 
 El canal vivo de referencia para extensiones de anime en el árbol Tachiyomi/Mihon. La placa de hoy: 439 estrellas, 5.548 commits de historia, y el último empuje es de hace tres horas — una fuente nueva de anime en inglés integrada esta misma tarde (PR #984). El estante está tan vivo como se puede estar.
 
@@ -205,7 +213,7 @@ Tercera pieza que pocos nombran y esta casa sí: el estante «cursed» (contenid
 
 ───────────────────
 
-📙 LOS DEMÁS ALMACENES VIVOS
+*📙 LOS DEMÁS ALMACENES VIVOS*
 
 *cuong-tran/manga-repo — el independiente más activo.* ★451, último empuje el 21-sep-2026 (hace un día): recuento de volúmenes añadido a una fuente multi-idioma. La semana pasada arregló un fallo de credenciales expiradas en otra fuente. Y un detalle fino que enseña cómo migran las casas en este ecosistema: su propio README avisa que la receta de instalación se mantiene siempre bajo la dirección de «yuzono/manga-repo», sin importar dónde viva el repositorio real. La bodega se movió de esquina, pero el anuncio de la calle no cambió — lección práctica: si tu receta deja de funcionar algún día, es probable que la esquina haya cambiado de nombre, no que la mercancía haya desaparecido.
 
@@ -219,7 +227,7 @@ Tercera pieza que pocos nombran y esta casa sí: el estante «cursed» (contenid
 
 ───────────────────
 
-🧬 DE KEISOURCE 1.6 A LIB 16: LA CONVENCIÓN QUE MANDA
+*🧬 DE KEISOURCE 1.6 A LIB 16: LA CONVENCIÓN QUE MANDA*
 
 Las extensiones no son archivos sueltos: siguen una convención técnica de la casa de los parsers. Hasta hace poco la regla citada era KeiSource con librería 1.6 (la base antigua, HttpSource 1.4, ya era legado). Hoy los commits de los dos árboles grandes nombran otra cosa: lib 16 — y la familia Yūzōnō empacó encima su capa LegacySource para no ahogar a las fuentes viejas.
 
@@ -243,7 +251,7 @@ Lo que no cambió y sigue mandando: el proyecto declara que no aloja contenido y
 
 ───────────────────
 
-🎭 LA FERIA DE LOS IMPOSTORES
+*🎭 LA FERIA DE LOS IMPOSTORES*
 
 Toda bodega exitosa tiene su feria al frente. La búsqueda de la semana pasada dejó documentada una camada de repos con el mismo traje, y el patrón se repite tanto que ya merece catálogo propio:
 
@@ -273,7 +281,7 @@ Una práctica que termina de sellar la casa: la dirección oficial de cada almac
 
 ───────────────────
 
-🧭 LAS CINCO PREGUNTAS ANTES DE ABRIR UN ALMACÉN
+*🧭 LAS CINCO PREGUNTAS ANTES DE ABRIR UN ALMACÉN*
 
 El filtro de la casa para mirar cualquier bodega nueva — cinco preguntas en orden, y en dos minutos:
 
@@ -307,7 +315,7 @@ Anexo obvio pero necesario: «sale en el directorio Miyomi» no es respuesta a n
 
 ───────────────────
 
-📚 SOLUCIÓN DE PROBLEMAS DEL ALMACÉN (CUATRO TRANCAS)
+*📚 SOLUCIÓN DE PROBLEMAS DEL ALMACÉN (CUATRO TRANCAS)*
 
 *Tranca 1 — «Mi lista de extensiones apareció vacía / todo obsoleto.»* El síntoma clásico del ecosistema nuevo: la app es vieja para la convención del almacén. Medicina en orden: (a) abre el aviso del sitio oficial del almacén — Keiyoushi avisa que soporta Mihon, TachiyomiSY y Komikku; (b) actualiza tu app desde su propia casa (su repo o su tienda legal, nunca un «paquete compatible» de la feria); (c) borra y vuelve a añadir la fuente del almacén desde la guía oficial. Si sigue vacío después de actualizar, entonces sí escribe al mantenedor.
 
@@ -319,7 +327,7 @@ Anexo obvio pero necesario: «sale en el directorio Miyomi» no es respuesta a n
 
 ───────────────────
 
-🧪 CASOS PRÁCTICOS DEL BARRIO
+*🧪 CASOS PRÁCTICOS DEL BARRIO*
 
 *Caso 1 — La que actualizó tarde.* Carlitos usa un lector de la familia desde 2025 y esta semana se le vació la lista: todo «obsoleto». Lloró al grupo pidiendo «el nuevo almacén que sirva», y tres personas le pasaron tres enlaces distintos. El arreglo real no vino de ninguno: vino de la página oficial del almacén, que decía «Outdated app = tu app no es compatible; actualízala». Actualizó desde la casa, re-añadió la fuente oficial, y volvió todo. Lección contada al grupo entero: el almacén casi nunca se rompe — la lámpara envejece.
 
@@ -333,7 +341,7 @@ Los cuatro casos comparten la espina de esta puerta: la herramienta libre premia
 
 ───────────────────
 
-🧯 MITOS DE LA BOMBILLA (CUATRO APAGONES)
+*🧯 MITOS DE LA BOMBILLA (CUATRO APAGONES)*
 
 *Apagón 1 — «Keiyoushi es el almacén oficial de Tachiyomi.»* No: el almacén oficial original archivó en enero de 2024 con su árbol madre. Keiyoushi es el almacén DE REFERENCIA del árbol Mihon — comunidad organizada, no «oficial» de ninguna empresa. La distinción importa: nadie te garantiza nada; un colectivo te muestra su trabajo — y esa es tu garantía.
 
@@ -345,7 +353,7 @@ Los cuatro casos comparten la espina de esta puerta: la herramienta libre premia
 
 ───────────────────
 
-❓ PREGUNTAS FRECUENTES
+*❓ PREGUNTAS FRECUENTES*
 
 *¿Qué almacén uso con Mihon?* Keiyoushi: lo declara su propio sitio (Mihon, TachiyomiSY, Komikku). Si tu lista sale vacía con «Outdated app», el problema es la versión de tu app, no la bodega.
 
@@ -373,7 +381,7 @@ Los cuatro casos comparten la espina de esta puerta: la herramienta libre premia
 
 ───────────────────
 
-📖 GLOSARIO DEL TEMA (dieciséis términos)
+*📖 GLOSARIO DEL TEMA (dieciséis términos)*
 
 *App.* Tu lector: la lámpara. No trae contenido, trae motor.
 
@@ -409,7 +417,7 @@ Los cuatro casos comparten la espina de esta puerta: la herramienta libre premia
 
 ───────────────────
 
-📋 RADIOGRAFÍA DEL MAPA ACTUAL (lo medido hoy, con su hora)
+*📋 RADIOGRAFÍA DEL MAPA ACTUAL (lo medido hoy, con su hora)*
 
 Censo del barrio tomado esta mañana, leyendo cada casa en su propia página. Lo que no se contó hoy lleva su fecha anterior marcada — la regla de la casa sobre números:
 
@@ -417,17 +425,17 @@ Censo del barrio tomado esta mañana, leyendo cada casa en su propia página. Lo
 ALMACÉN O CASA             SEÑAL VIVA HOY            PLACA
 Keiyoushi (hub) empuje del bot: hoy ★15.2 mil
 └ Re-init release-based    hecho: 13-ago-2026        —
-Keiyoushi (código)         vivo entre semana         ★4.8 mil (15-oct)
-Yūzōnō anime               empuje: hace 3 h          ★439 · 5.548 commits
+Keiyoushi (código)   vivo entre semana         ★4.8 mil (15-oct)
+Yūzōnō anime      empuje: hace 3 h          ★439 · 5.548 commits
 └ Core injertado Keiyoushi hecho: 17-sep (#952)      —
 └ Capa LegacySource        hecho: 1-sep              —
 manga-repo (indepe)        empuje: 21-sep            ★451
 └ Receta bajo otra casa    migrada (su README)       —
-2º estante «cursed»        vivo en su rango          empuje del 3-ago
-Ecosistema CN copymanga    v1.4.85 (8-sep)           ★2.7 mil (14-sep)
-Suwayomi (servidor)        vivo                      empuje 12-sep (14-sep)
-uchiyomi (web self-host)   v0.33.0 (14-sep)          ★37 (14-sep)
-Miyomi (directorio)        empuje: 31-ago            ★188 · AGPL-3.0
+2º estante «cursed»   vivo en su rango          empuje del 3-ago
+Ecosistema CN copymanga v1.4.85 (8-sep)        ★2.7 mil (14-sep)
+Suwayomi (servidor) vivo                  empuje 12-sep (14-sep)
+uchiyomi (web self-host)  v0.33.0 (14-sep)          ★37 (14-sep)
+Miyomi (directorio)    empuje: 31-ago            ★188 · AGPL-3.0
 MUSEO (archivados)         sin empujes               —
 ├ oficial árbol madre      archivado ene-2024        —
 ├ gran fuente copymanga    archivado feb-2024        —
@@ -439,7 +447,7 @@ Lectura de la radiografía en una frase: cuatro casas con camión de esta semana
 
 ───────────────────
 
-📖 HISTORIA CORTA: EL AÑO QUE EL ECOSISTEMA APRENDIÓ A VIVIR SIN MADRE
+*📖 HISTORIA CORTA: EL AÑO QUE EL ECOSISTEMA APRENDIÓ A VIVIR SIN MADRE*
 
 En enero de 2024 pasó lo que las comunidades libres no se cansan de ensayar: la casa madre del ecosistema — el almacén oficial del árbol Tachiyomi — cerró la persiana y archivó. En ese invierno el barrio aprendió su lección grande: nada de esto era «la infraestructura de alguien» — era el trabajo coordinado de muchos, esperando a que alguien más se hiciera cargo.
 
@@ -451,7 +459,7 @@ La moraleja que esta historia deja al usuario común no es heroica: es doméstic
 
 ───────────────────
 
-🎒 LA MOCHILA MÍNIMA DEL LECTOR LIBRE (lo que tu lector debería llevar)
+*🎒 LA MOCHILA MÍNIMA DEL LECTOR LIBRE (lo que tu lector debería llevar)*
 
 Si esta guía tuviera que caber en una mochila, iría así — cinco piezas:
 
@@ -497,7 +505,7 @@ Extra opcional para el que quiera servidor: la capa Suwayomi o uchiyomi en el cu
 
 ───────────────────
 
-🔎 ANATOMÍA DE UN ALMACÉN DE EXTENSIONES (qué significa cada archivo, visto hoy)
+*🔎 ANATOMÍA DE UN ALMACÉN DE EXTENSIONES (qué significa cada archivo, visto hoy)*
 
 Abrir el hub hoy enseña una raíz con siete archivos. Pocas veces se explica qué hace cada uno; aquí va la placa de cada pieza, leída en la propia lista del repositorio de hoy:
 
@@ -537,7 +545,7 @@ Saber esta anatomía cambia un comportamiento: cuando la «receta» llega por ca
 
 ───────────────────
 
-🧩 LOS TRES ÁRBOLES Y SUS PROTOCOLOS (el mapa que evita la confusión número uno)
+*🧩 LOS TRES ÁRBOLES Y SUS PROTOCOLOS (el mapa que evita la confusión número uno)*
 
 La confusión más repetida del barrio nace de no distinguir árboles. Tres familias de lectores, tres protocolos distintos de parsers, y ninguno habla con el otro:
 
@@ -583,7 +591,7 @@ El barrio habla por sus commits. Aquí van seis mensajes reales leídos hoy esta
 
 ───────────────────
 
-🧠 «EL ÍNDICE NO SE PEGA» — LA REGLA EXPLICADA SIN MISTERIO
+*🧠 «EL ÍNDICE NO SE PEGA» — LA REGLA EXPLICADA SIN MISTERIO*
 
 Esta familia de guías insiste tanto en no pegar recetas que merece una sección que explique el porqué con lógica de barrio. Cuatro razones:
 
@@ -650,7 +658,7 @@ La moraleja operativa de esta cocina: todo el trayecto — arreglo, compilación
 
 ───────────────────
 
-🏪 DÓNDE INSTALAR TU LECTOR SIN SUSTOS (la lista legal corta)
+*🏪 DÓNDE INSTALAR TU LECTOR SIN SUSTOS (la lista legal corta)*
 
 Paradójicamente, la pregunta más repetida del barrio tiene la respuesta más corta: el lector se instala SOLO desde su casa. Con fecha de hoy, las casas de este árbol son:
 
@@ -683,7 +691,7 @@ Ninguno de estos pasos pasa por letreros luminosos, «APK Premium Mod Latest», 
 
 ───────────────────
 
-🧪 UN TALLER EN SEIS PASOS: RECORRIDO PRÁCTICO POR EL HUB
+*🧪 UN TALLER EN SEIS PASOS: RECORRIDO PRÁCTICO POR EL HUB*
 
 Teoría sin oficio no cierra la casa. Este recorrido se hace en silencio, una vez, y queda de memoria para siempre — seis pasos contra el telón de la feria:
 
@@ -701,33 +709,33 @@ Teoría sin oficio no cierra la casa. Este recorrido se hace en silencio, una ve
 
 ───────────────────
 
-💬 FRASES QUE DELATAN AL IMPOSTOR (el catálogo rápido del toldo)
+*💬 FRASES QUE DELATAN AL IMPOSTOR (el catálogo rápido del toldo)*
 
 Doce frases escuchadas por el barrio esta temporada. Si dos se juntan en el mismo anuncio, no hace falta más examen — se guarda el dinero:
 
 ```
-«Sirve con TODOS los lectores»          (las bombillas no son universales)
-«Es el almacén OFICIAL nuevo»            (los oficiales viejos archivaron;
-                                        el nuevo nació en comunidad y no se
+«Sirve con TODOS los lectores» (no hay bombilla universal)
+«Es el almacén OFICIAL nuevo»  (los oficiales viejos archivaron;
+                             el nuevo nació en comunidad y no se
                                         anuncia por cadena)
-«Mismo código, más fuentes»              (traducción: mismo clon, otro logo)
-«Premium unlocked / VIP gratis»          (no existe VIP en una bodega libre)
-«Sin anuncios de por vida»               (los anuncios viven en la fuente,
-                                        no en la extensión: gato por liebre)
-«No necesitas registrarte aquí»          (tú nunca te registras en la bodega:
-                                        la frase huele a capturar credenciales)
-«Actualizado hoy»                        (¿cortado a qué hora? ¿dónde está
-                                        el commit? Las estrellas gemelas mienten)
-«La versión que los demás no quieren…»   (el miedo como argumento de venta:
-                                        la cola es siempre la captura)
-«100% seguro, verificado»                (nadie verifica así: la propia
-                                        casa dice «lee el código»)
-«Te envié el índice por interno»         (los índices se leen de la casa;
-                                        el interno es el disfraz)
-«Actívalo con este código»               (las bombillas no se activan, abren)
-«Es como Keiyoushi pero mejor»           (la comparación es siempre con el
-                                        grande; la bodega verdadera no se
-                                        vende como «como otro, pero»)
+«Mismo código, más fuentes»  (traducción: mismo clon, otro logo)
+«Premium unlocked / VIP gratis» (no hay VIP en bodega libre)
+«Sin anuncios de por vida»     (los anuncios viven en la fuente,
+                            no en la extensión: gato por liebre)
+«No necesitas registrarte» (nunca te registras en la bodega:
+                         la frase huele a capturar credenciales)
+«Actualizado hoy»              (¿cortado a qué hora? ¿dónde está
+                       el commit? Las estrellas gemelas mienten)
+«La versión que los demás no quieren…» (el miedo como argumento:
+                                  la cola es siempre la captura)
+«100% seguro, verificado»         (nadie verifica así: la propia
+                                      casa dice «lee el código»)
+«Te envié el índice por interno» (los índices se leen en casa;
+                                       el interno es el disfraz)
+«Actívalo con este código»  (las bombillas no se activan, abren)
+«Es como Keiyoushi pero mejor» (la comparación es siempre con el
+                               grande; la bodega verdadera no se
+                                   vende como «como otro, pero»)
 ```
 
 Ninguna frase es delito suelta. Juntas — o en la boca de un toldo sin taller al lado — son la cotización exacta de lo que no vale tu teléfono.
@@ -750,7 +758,7 @@ El museo se recorre para dos cosas: para no repetir la espera delante de su puer
 
 ───────────────────
 
-📌 LO QUE ESTE MAPA NO DICE (límites honestos de la pieza)
+*📌 LO QUE ESTE MAPA NO DICE (límites honestos de la pieza)*
 
 Toda guía de la casa cierra declarando su techo, y esta no es excepción:
 
@@ -766,7 +774,7 @@ Y lo que este mapa sí persigue: que instalado tu almacén como manda la guía o
 
 ───────────────────
 
-😄 EL MEME DE LA PIEZA
+*😄 EL MEME DE LA PIEZA*
 
 Original de la casa, de este mismo horno — del tema, con el lector, contra nadie:
 
@@ -804,7 +812,7 @@ El chiste defiende su tema: el impostor no teme tus preguntas técnicas — teme
 
 ───────────────────
 
-🔗 ENLACES (abiertos hoy, 22-sep-2026)
+*🔗 ENLACES (abiertos hoy, 22-sep-2026)*
 
 *El hub y su código:*
 • Almacén — https://github.com/keiyoushi/extensions
@@ -833,7 +841,18 @@ El chiste defiende su tema: el impostor no teme tus preguntas técnicas — teme
 
 ───────────────────
 
-📝 NOTA DE VERIFICACIÓN (22-sep-2026)
+*PULSO AL CORTE — 15-OCT ~15:00 (mapa vivo #2)*
+
+```
+ yuzono      ★439 -> ★485   (15-OCT)
+ manga-repo  ★451 -> ★460   (15-OCT)
+ Miyomi      ★188 -> ★201   (15-OCT)
+ keiyoushi   ★15.228 (empuje del dia, confirmado)
+```
+Segunda lectura del mismo dia: el enchufe late.
+Caja apilada; nada borrado (mapa-maestro).
+
+*📝 NOTA DE VERIFICACIÓN (22-sep-2026)*
 
 Abiertos hoy y leídos en su propia página: el almacén Keiyoushi, el repositorio de anime Yūzōnō, manga-repo y Miyomi. De ellos salen: el empuje del bot de hoy, la re-inicialización release-based del 13-ago-2026, el commit de hace 3 h de Yūzōnō, el injerto del core del 17-sep (#952), la capa LegacySource del 1-sep, los commits «lib 16» de la semana, la migración de la receta de manga-repo declarada en su README, y la mudanza de Miyomi a org + AGPL-3.0. Placas re-contadas hoy, 15-oct: ★15.2 mil (hub) y 201 (Miyomi); las 439 y 451 (Yūzōnō) conservan su constancia del 22-sep. Placas citadas a su fecha (no re-contadas hoy): código Keiyoushi ★4,7 mil (15-sep), Copymanga-CN v1.4.85 (8-sep), uchiyomi v0.33.0 (14-sep), Suwayomi (12-sep), segundo estante adulto (3-ago), ZGQ (★1,2 mil, 14-sep). Los datos de museo (ene/feb/ago-2024, may-2026) son fechas históricas constadas en sus días. Todo número sin fuente de hoy lleva su fecha al lado; nada sale de la memoria.
 

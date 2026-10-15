@@ -11,26 +11,31 @@
 *🗺️ Mapa de esta guía*
 
 ```
-├── 🌱 Semilla principal — el colmado nuevo frente a tu casa
-├── ⚡ En una página — lo indispensable de Miyorare
-├── 🌐 Mapa mental — la familia lectura y su nieto nuevo
-├── 📖 La ficha completa de Miyorare (todo lo verificado 22-sep-2026)
-│     ├── Qué es y qué no es
-│     ├── Los canales estable y beta
-│     ├── Los Source Packs oficiales (ID y EN)
-│     ├── La compatibilidad declarada (cinco ecosistemas)
-│     ├── Seguridad, Shizuku y Play Protect
-│     └── El pulso del proyecto (números contados)
-├── 🧬 La historia de la familia (por qué Miyorare habla tantos idiomas)
-├── 🛡️ El modelo de confianza: quién empaca qué
-├── 🪜 Cómo instalarlo con la vara en la mano (paso a paso)
-├── 🔍 Cómo medirle el pulso a cualquier lector nuevo (método transferible)
-├── 📦 Tus archivos locales: CBZ, EPUB, PDF y el respaldo feliz
-├── 🧊 Mitos que caen con la vara
-├── ❓ Preguntas frecuentes (las de verdad)
-├── 📚 Glosario
-├── 🔗 Enlaces comprobados
-└── 🏷️ #tags
+├── ⚡ En una página  · ~2 min
+├── 🌐 Mapa mental — la familia lectura y su nieto  · ~2 min
+├── 📖 La ficha completa de Miyorare  · ~7 min
+├── 🧬 La historia de la familia  · ~3 min
+├── 🪜 Cómo instalarlo con la vara en la mano  · ~2 min
+├── 🔍 Cómo medirle el pulso a cualquier lector nuevo  · ~1 min
+├── 📦 Tus archivos locales: CBZ, EPUB, PDF y el  · ~3 min
+├── 📅 La semana observada en el taller  · ~2 min
+├── 🧭 Anatomía de una página de GitHub: dónde mirar  · ~3 min
+├── 🚚 Mudarse de lector sin perder la biblioteca  · ~3 min
+├── 🧪 Tres casos prácticos con la vara  · ~2 min
+├── 📇 Cuaderno de campo: la ficha imprimible de  · ~2 min
+├── 🌎 Sobre idiomas, orígenes y barrios  · ~1 min
+├── ❓ Segunda ronda de preguntas pequeñas  · ~1 min
+├── 🤝 Guía de convivencia con la familia lectora  · ~4 min
+├── 🌅 El día a día con el lector nuevo  · ~1 min
+├── 🚫 Qué esta guía NO receta  · ~1 min
+├── ❓ Tercera ronda corta (para dejar ficha cerrada)  · ~2 min
+├── 🧊 Mitos que caen con la vara  · ~3 min
+├── ❓ Preguntas frecuentes  · ~4 min
+├── 📚 Glosario de esta guía  · ~2 min
+├── 🔗 Enlaces comprobados (abiertos 22-sep-2026)  · ~2 min
+├── 😄 Remate de esta pieza  · ~1 min
+├── 🌅 Cierre — el nieto que habla todos los idiomas  · ~1 min
+└── 🌱 Semilla de despedida  · ~1 min
 ```
 
 ───────────────────
@@ -55,7 +60,7 @@ Estado contado a 15-oct-2026: versión *v1.4.9* (publicada el 13-oct), licencia 
                  LA FAMILIA LECTORA (árbol simple)
 │
 ├── 🧓 Los abuelos (las escuelas)
-│     ├── Tachiyomi — la escuela original (archivada; su linaje sigue)
+│ ├── Tachiyomi — la escuela original (archivada; linaje sigue)
 │     ├── Mihon — la heredera directa del guante del manga
 │     └── Kotatsu — el otro gran tronco, con su propio parser
 │
@@ -66,16 +71,16 @@ Estado contado a 15-oct-2026: versión *v1.4.9* (publicada el 13-oct), licencia 
 │
 ├── 🧒 El nieto nuevo — MIYORARE (Noirero)
 │     ├── Lee: manga + cómics + novelas, en una sola app
-│     ├── Habla con los 5 ecosistemas de arriba (compatibilidad declarada)
+│ ├── Habla con los 5 ecosistemas (compatibilidad declarada)
 │     ├── Trae Source Packs propios: Miyorare-ID y Miyorare-EN
-│     ├── Dos puertas: estable (org.noirero.miyorare) y beta (…beta)
+│ ├── Dos puertas: estable (org.noirero.miyorare) y beta (…beta)
 │     ├── Archivos locales: CBZ · ZIP · EPUB · PDF
 │     └── Licencia GPL-3.0 — la casa tiene el plano a la vista
 │
 └── 🧰 La escolta de la casa
       ├── Shizuku (portero, documentado en su SECURITY.md)
       ├── GitHub Releases (única vía oficial del APK)
-      └── Fuentes externas: cada una es su propio nivel de riesgo
+     └── Fuentes externas: cada una es su propio nivel de riesgo
 ```
 
 *Lectura rápida del mapa:* lo importante de Miyorare no es que sea «otro lector más», sino dos cosas: (1) *no se encadena a un solo ecosistema* —declara cinco— y (2) *se declara dueño de la curaduría de sus propios paquetes de fuentes*, que es donde viven los riesgos y los aciertos de esta clase de apps. Todo lo demás de esta guía son esas dos ideas explicadas con calma.
@@ -109,10 +114,10 @@ Miyorare es una *app lectora*, no una fuente de contenido. Ella no «trae» mang
 El proyecto publica dos canales, y la diferencia importa:
 
 ```
-Canal            · Para qué                                 · Application ID              · ¿Juntos?
-────────────────────────────
-`main` (estable) · Uso general, el carro de diario          · `org.noirero.miyorare`      · Sí, conviven
-`beta`           · Pruebas de lo último, la calle de ensayo · `org.noirero.miyorare.beta` · Sí, conviven
+Canal · Para qué        · Application ID              · ¿Juntos?
+───────────────────
+main (estable) · carro diario · org.noirero.miyorare · conviven
+beta (ensayo) · lo último · org.noirero.miyorare.beta · conviven
 ```
 
 Como las dos usan identificadores distintos, *pueden instalarse al mismo tiempo* sin pelearse. Eso, contado por el proyecto mismo en su documentación, permite tener la estable para leer en paz y la beta para mirar lo que está armando, sin que una pise a la otra. La verificación de la última entrega (v1.4.3) se mantiene al día en su propio README, con el identificador del commit de la rama estable (vimos la sección actualizada al 21-sep-2026).
@@ -195,9 +200,9 @@ También por eso esta familia se habla en varias guías de la serie: las ramas d
 La pregunta adulta de toda app lectora es una sola: *¿quién empaca las llaves que abren las fuentes?* Tres respuestas posibles en el mercado:
 
 ```
-1. Nadie: fuentes sueltas, de grupos y enlaces voladores  → puesto sin dueño
-2. La comunidad en gran lista abierta                     → mercado popular (con lupa)
-3. El proyecto mismo, curado y firmado                    → colmado con sello propio
+1. Nadie: fuentes sueltas, enlaces voladores → sin dueño
+2. La comunidad en lista abierta → mercado popular (con lupa)
+3. El proyecto curado y firmado → colmado con sello propio
 ```
 
 Miyorare declaró vivir en la puerta 3 para sus paquetes oficiales: los * Source Packs pasan por curaduría, compilación y verificación de la casa* antes de distribuirse, y el modelo de seguridad está escrito en su SECURITY.md. Eso no borra el riesgo de la fuente externa (el sitio de lectura al que apunta el conector), pero cambia la pregunta: ya no es «¿de dónde salió esta llave?» sino «¿confío en la casa que la revisó?», y para eso están sus commits, sus documentos y sus fechas visibles — todos contados arriba, no pedidos en fe.
@@ -242,12 +247,12 @@ Todo lo que hicimos arriba con Miyorare cabe en cinco miradas, y sirven igual pa
 *Qué es cada formato sin traductor de diccionario*
 
 ```
-Formato  · Peso típico               · Lector afinado                    · Lo que debes saber
-────────────────────────────
-CBZ  · Alto (imágenes empacadas) · Manga y cómics escaneados         · Contenedor de imágenes en ZIP: calidad = la del escaneo original
-ZIP  · Variable                  · Lo mismo, sin etiqueta de «cómic» · El empaque crudo de páginas
-EPUB · Liviano (texto con flujo) · Novelas, libros                   · El texto se reordena a tu letra/tamaño: la lectura larga descansa
-PDF  · Variable                  · Documentos de hoja fija           · La hoja va como foto: en pantalla chiquita se pelea a veces
+Formato · Peso típico · Lector afinado      · Lo que debes saber
+───────────────────
+CBZ · Alto · manga/cómics escaneados · ZIP: calidad del escaneo
+ZIP · Variable · lo mismo sin etiqueta «cómic» · empaque crudo
+EPUB · Liviano · novelas y libros · se reordena a tu letra
+PDF · Variable · hoja fija · la página va como foto en pantalla
 ```
 
 La recomendación de la casa, dicho sin adornos: los CBZ/ZIP van donde la imagen es el cuento (manga, cómics, webtoons escaneados), el EPUB va donde el texto es el cuento (novelas), y el PDF va donde la hoja importa tal cual salió (propuestas, guiones, manuales). Un mismo teléfono puede las cuatro cosas, y Miyorare las declara todas en su ficha.
@@ -305,7 +310,7 @@ La app declara Biblioteca con favoritos, categorías, marcadores, notas e histor
 
 • *Estrellas = fama.* 11 estrellas dicen “vecino nuevo”, no “vecino malo”; 11 mil estrellas dicen “hace mucho que vive aquí”, no “sigue vivo hoy”.
 • *Forks = confianza entre constructores.* Uno solo en Miyorare a 22-sep-2026; enormes en los archivos vivos de la familia lectora. El fork es cuando otro obrero dice “la obra es tan seria que yo también quiero tablones de la misma”.
-• *Issues abiertos/cerrados = la calle que habla.* Un numero alto de asuntos no es maldad: es uso. Un proyecto sin asuntos es un colmado sin fila: o es perfecto, o nadie compra ahí.
+• *Issues abiertos/cerrados = la calle que habla.* Un número alto de asuntos no es maldad: es uso. Un proyecto sin asuntos es un colmado sin fila: o es perfecto, o nadie compra ahí.
 
 ───────────────────
 
@@ -411,34 +416,34 @@ Letrero: «la beta exclusiva del lector que viene». Solo por canal de invitaci�
 
 ```
 FICHA DE EVALUACIÓN — Lector/app nueva (molde de La Bandita)
-Fecha de apertura: __________________  Verificador: __________________
+Fecha de apertura: __________ Verificador: __________
 
 1) CASA VISIBLE
-   Repo/casa: __________________  ¿Existe hoy? [ ]sí [ ]no
-   Licencia declarada: __________________  Dueño/nombre: __________________
+   Repo/casa: __________  ¿Existe hoy? [ ]sí [ ]no
+ Licencia declarada: __________ Dueño/nombre: __________
 
 2) TALLER EN MARCHA
-   Último commit: __________  Estrellas: ____  Forks: ____  Releases: ____
-   ¿Trabajó esta semana/mes? [ ]sí [ ]no   Evidencia: __________________
+ Último commit: ______ Estrellas: ___ Forks: ___ Releases: ___
+ ¿Trabajó esta semana/mes? [ ]sí [ ]no Evidencia: __________
 
 3) EMPACADOR CON NOMBRE
-   ¿Quién cura/distribuye las fuentes o el contenido? __________________
-   ¿Hay modelo de seguridad escrito? [ ]sí [ ]no  Dónde: __________________
+ ¿Quién cura/distribuye las fuentes o el contenido? __________
+ ¿Hay modelo de seguridad escrito? [ ]sí [ ]no Dónde: __________
 
 4) LÍMITES ESCRITOS
-   ¿Declara compatibilidad variable/dueños terceros/lo que no hace? [ ]sí [ ]no
+ ¿Declara compatibilidad variable/terceros? [ ]sí [ ]no
    ¿Play Protect/permisos explicados por escrito? [ ]sí [ ]no
 
 5) CERO PRISA
-   ¿Gramática de anzuelo presente? (Premium, últimas horas, solo hoy) [ ]sí [ ]no
+ ¿Gramática de anzuelo? (Premium, «solo hoy») [ ]sí [ ]no
    ¿Se te presiona a instalar YA? [ ]sí [ ]no
 
 VEREDICTO:
    [ ] Se abre el mostrador en período de prueba (5/5 o 4/5)
-   [ ] Se anota y se revisa en: __________________ (3/5)
+   [ ] Se anota y se revisa en: __________ (3/5)
    [ ] No se instala; se anota como cebo/chaqueta (0–2/5)
 
-NOTA DE INCERTIDUMBRE (si aplica): ______________________________________
+NOTA DE INCERTIDUMBRE (si aplica): __________
 ```
 
 > *Cómo se pasa la ficha sin trampas:* dos «no» en las cinco —sin pasión— ya basta para dejar dormida la app con fecha. Un «sí» a «¿te presionan a instalar YA?» es un «no» automático, no compensable, ni por todo el cariño del canal. Y la línea de incertidumbre está para llenarse, no para quedar bonita en blanco: lo que no consta hoy se anota hoy para que mañana, cuando conste, la ficha nueva herede la verdad y no el rumor.
@@ -485,7 +490,7 @@ Las notas que solo viven en la app vieja, viajan mal (ficha de mudanza). Las not
 
 ───────────────────
 
-*El reparto de bañquitos (con ficha, sin noviazgos)*
+*El reparto de banquitos (con ficha, sin noviazgos)*
 
 • *Para manga/cómics con las extensiones clásicas ya probadas del mundo:* las casas maduras del ecosistema (Mihon y su rama, las guías de forks lectores de esta serie). Años de uso comunitario, respaldos hechos, canal vecinal amplio. Eso pesa y se respeta.
 • *Para novelas + manga juntos*, con el convenio de una sola mesa y quizás con el gusto de taller nuevo: Miyorare se postula con ficha honesta (léctora de ambas cosas declarado, Source Packs oficiales, dos puertas convivientes). No «mejor que las maduras»: distinto reparto de bañquito.
@@ -533,11 +538,11 @@ Las notas que solo viven en la app vieja, viajan mal (ficha de mudanza). Las not
 
 Esta guía ficha, no prescribe. Queda por escrito, para que nadie la malinterprete mañana:
 
-• *No receta «usa Miyorare ya».* La ficha dice: mostrador en período de prueba + vuelta con fecha. Quien quiera esperar seis meses a que el vecino siga con libreta al día, está tomando la decisión correcta de su barrio — no exagerando.
-• *No receta «bota a Mihon/Kotatsu».* La mesa familiar arriba demuestra el reparto: no hay choque entre bañquitos, hay tareas distintas. El barrio lector necesita sus casas maduras tanto como necesita mirar talleres nuevos.
-• *No receta fuentes concretas de contenido.* La vara mide empacadores, no anuncia estantería: cada fuente específica se mide aparte, y quien te dice «esta es la buena, confía» sin cartelera pública está hablando gramática de cebo, aunque le caiga bien.
-• *No receta desactivar nada del teléfono.* Ni Play Protect ni gastos de actualización ni aviso alguno. La documentación del proyecto explica el aviso; nadie debe explicarte apagarlo. Nunca. En ningún idioma.
-• *No receta entrar por enlaces externos.* Puntero único de esta guía: repo oficial + Source Packs + SECURITY.md. Lo demás, por bueno que suene, queda fuera de la ficha hasta que tenga su puerta fechada.
+• *«Usa Miyorare ya», no se receta.* La ficha dice: mostrador en período de prueba + vuelta con fecha. Quien quiera esperar seis meses a que el vecino siga con libreta al día, está tomando la decisión correcta de su barrio — no exagerando.
+• *«Bota a Mihon/Kotatsu»: menos ruido.* La mesa familiar arriba demuestra el reparto: no hay choque entre banquitos, hay tareas distintas. El barrio lector necesita sus casas maduras tanto como necesita mirar talleres nuevos.
+• *Fuentes concretas de contenido: sin receta.* La vara mide empacadores, no anuncia estantería: cada fuente específica se mide aparte, y quien te dice «esta es la buena, confía» sin cartelera pública está hablando gramática de cebo, aunque le caiga bien.
+• *Desactivar nada del teléfono: ni hablar.* Ni Play Protect ni gastos de actualización ni aviso alguno. La documentación del proyecto explica el aviso; nadie debe explicarte apagarlo. Nunca. En ningún idioma.
+• *Enlaces externos: la puerta queda cerrada.* Puntero único de esta guía: repo oficial + Source Packs + SECURITY.md. Lo demás, por bueno que suene, queda fuera de la ficha hasta que tenga su puerta fechada.
 
 ───────────────────
 
@@ -562,7 +567,7 @@ Sí, y es lo más sano que le pasa. Toda ficha lleva su fecha: hoy 22-sep-2026. 
 Esta ficha es hermana de la familia completa — no una isla nueva —. Mapa rápido para ubicarte al terminar:
 
 • *La pieza madre de tiendas* dejó la vara con su nombre: la tienda legal regala siempre algo que el mod no puede — un dueño al que exigirle. En lectores pasa igual: el lector con repo tiene dueño al que exigirle; el APK del grupo no.
-• *Las guías de lectura* de la serie (la cadena de los forks lectores, las casas maduras y sus bifurcaciones) mapearon los bañquitos grandes. La ficha de hoy busca solo una tarea: que el vecino nuevo más joven ya quede en el mapa con su ubicación correcta — esperando su historial, no robando el de nadie.
+• *Las guías de lectura* de la serie (la cadena de los forks lectores, las casas maduras y sus bifurcaciones) mapearon los banquitos grandes. La ficha de hoy busca solo una tarea: que el vecino nuevo más joven ya quede en el mapa con su ubicación correcta — esperando su historial, no robando el de nadie.
 • *Las familias de verificación* (la de Exodus, VirusTotal, piezas de revisión de archivos) mantienen su oficio al lado: la ficha de una app nueva les abre la puerta cuando es la hora de medir por afuera, no solo por el README de la casa.
 
 *La regla del mapa ancho:* ninguna pieza de la serie funciona sola. Los vecinos se miran entre sí, las fichas se heredan las fechas y el barrio queda descrito por todas a la vez. Esa es la promesa de fondo de La Bandita: no son piezas sueltas con marketing de pieza — familia entera con método.
@@ -682,6 +687,15 @@ Y una última cosa queda dicha con calma: la mirada honesta a un proyecto joven 
 La familia lectora del barrio no se cierra con esta pieza: Mihon y Kotatsu siguen siendo las casas con clientela documentada en español, el nieto trae dos idiomas nuevos al mostrador y un aprendizaje de ecosistema que no se le había visto a ninguna app de su barrio. A la hermana siguiente de la serie le toca esa conversación: qué significa que las casas nuevas ya nazcan hablando todos los idiomas de las viejas. *Mapa se mueve; la vara no.*
 
 ───────────────────
+
+*PULSO AL CORTE — 15-OCT ~15:00 (mapa vivo #2)*
+
+```
+ Miyorare ★13 · Source-Packs ★3    (15-OCT)
+ rel v1.4.9 (13-oct) confirmada en vivo
+```
+Segunda lectura del mismo dia: en racha, sin
+movimiento de estrellas. Caja apilada.
 
 *🌱 Semilla de despedida*
 

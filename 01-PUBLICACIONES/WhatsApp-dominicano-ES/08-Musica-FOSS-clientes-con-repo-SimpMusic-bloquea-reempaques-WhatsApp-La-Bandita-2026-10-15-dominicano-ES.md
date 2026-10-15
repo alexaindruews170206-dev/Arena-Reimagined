@@ -2,7 +2,7 @@ LA MÚSICA LIBRE CON PULSO MEDIDO HOY: LA FAMILIA DE METROLIST, OUTERTUNE Y SIMP
 
 Los lectores de música FOSS contados esta mañana repo por repo — genealogía completa, el ancestro dormido confirmado, la cadencia de las vivas, y el gesto del año: un taller libre que ahora detecta y bloquea sus propias copias trucadas.
 
-🌱 LA SEMILLA
+*🌱 LA SEMILLA*
 
 Cuando yo era muchacho, en todos los bloques del sector había un negocito legendario: el del «cable de los mí canales». Un señor con una caja blanca que hacía aparecer novecientos ochenta y cinco canales por doscientos pesos al mes — famosísimo, único, sin dirección conocida. Un domingo — siempre un domingo, que es cuando uno mira el canal noventa — la caja amaneció con la pantalla en blanco. El sector entero aguantó hasta el lunes con paciencia cristiana. El lunes tocaban la puerta: nadie. El martes: nadie. Doña China, ortodoxa de la lógica, preguntó en voz alta en el colmado: «¿Y ese hombre tenía un sitio web? ¿Un teléfono? ¿Un recibo?». Silencio general. La caja no tenía casa, no tenía dueño, no tenía — y perdonen la palabra técnica — repositorio. Adiós a los doscientos pesos de medio bloque; la pantalla en blanco fue el único depósito que devolvió.
 
@@ -18,11 +18,48 @@ Primero, la regla: qué NO es esta guía — los límites legales y de confianza
 
 ───────────────────
 
-⚡ LA GUÍA EN UNA PÁGINA
+*🗺️ MAPA DE ESTA GUÍA*
+
+```
+├── 🌱 LA SEMILLA · ~2 min
+├── ⚡ LA GUÍA · ~2 min
+├── 🧠 MAPA MENTAL · ~2 min
+├── 🧬 LA GENEALOGÍ · ~1 min
+├── 🎧 LOS CLIENTES · ~4 min
+├── 🚨 LA HISTORIA · ~2 min
+├── 📻 EL FRONT-END · ~1 min
+├── 📂 AUXIO: TU · ~2 min
+├── 🌱 LOS APRENDIC · ~2 min
+├── 🧭 LA BRÚJULA · ~1 min
+├── 🧯 LOS CUATRO · ~2 min
+├── 🧪 CUATRO CASOS · ~2 min
+├── 🔧 LAS CUATRO · ~2 min
+├── 🔍 EL RITUAL · ~1 min
+├── 📖 HISTORIA COR · ~4 min
+├── ❓ PREGUNTAS FR · ~3 min
+├── 📖 GLOSARIO DEL · ~5 min
+├── 📦 LA MUDANZA · ~1 min
+├── 🌐 LA CIUDAD · ~1 min
+├── 🔭 LAS CINCO · ~2 min
+├── 📨 NOTA PARA · ~1 min
+├── 🧾 LA FICHA · ~1 min
+├── 🪜 LA ESCALERA · ~1 min
+├── 🧮 LA LÁMINA · ~1 min
+├── 🧭 EL LEMA · ~1 min
+├── 🧪 OTRO RADAR · ~2 min
+├── 😄 EL MEME · ~3 min
+├── 🔗 FUENTES SEÑA · ~1 min
+├── 📝 NOTA DE · ~2 min
+└── 📎 VERSIÓN COMP · ~1 min
+```
+
+⏱️ *Lectura total: 56 min*
+
+*⚡ LA GUÍA EN UNA PÁGINA*
 
 • Regla madre primero: esta guía no dice «esto es legal» ni «esto no» — los servicios tienen sus términos y usted las leerá en su casa; aquí se miden repos con placa y hora. Y regla dos: la que el título ya adivina — aquí no hay «Spotify premium gratis», no hay mods premium de nada, y la única puerta es la casa oficial con su Release firmada.
 
-• Censo de HOY 22-sep-2026: Metrolist ★12.9 mil con commit de HACE 12 HORAS («restaurar controles multimedia en Android 17» — la señal del trimestre) y su casa definitiva en MetrolistGroup. SimpMusic ★12 mil, con push de HOY (el bloqueo lo vio nacer esta pieza de hace 17 horas el 22-sep): BLOQUEO DE BUILDS REEMPAQUETADAS — el primer cliente de la familia que detecta su propia clonación trucada y se niega a correrla. Es la historia que esta pieza le expone en su sección aparte. OuterTune ★5.4 mil con traducciones del 16-sep. Los dormidos: InnerTune (nov-2025, diez meses) y Harmony-Music (diciembre 2025, nueve meses —lav regional).
+• Censo de HOY 22-sep-2026: Metrolist ★13.5 mil con commit de HACE 12 HORAS («restaurar controles multimedia en Android 17» — la señal del trimestre) y su casa definitiva en MetrolistGroup. SimpMusic ★12 mil, con push de HOY (el bloqueo lo vio nacer esta pieza de hace 17 horas el 22-sep): BLOQUEO DE BUILDS REEMPAQUETADAS — el primer cliente de la familia que detecta su propia clonación trucada y se niega a correrla. Es la historia que esta pieza le expone en su sección aparte. OuterTune ★5.4 mil con traducciones del 16-sep. Los dormidos: InnerTune (nov-2025, diez meses) y Harmony-Music (diciembre 2025, nueve meses —lav regional).
 
 • Las otras tres categorías del sonido libre, censo incluido: NewPipe ★39.8 mil, empuje de AYER (log de errores de progreso) — el front-end general; Auxio ★4.3 mil, 8-sep (fix coroutines, su CI roja al pasar — la vida) — tu colección local; AntennaPod ★8.2 mil, commit de HACE 6 HORAS (#8771 feeds con dominio de un solo nivel) — los podcasts.
 
@@ -32,7 +69,7 @@ Primero, la regla: qué NO es esta guía — los límites legales y de confianza
 
 ───────────────────
 
-🧠 MAPA MENTAL: LA CAJA BLANCA
+*🧠 MAPA MENTAL: LA CAJA BLANCA*
 
 LA CUESTIÓN — los «premium gratis» no tienen casa: sin repo no hay recibo ni puerta que tocar. La conclusiones duras: la casi lectora de streaming vive en GitHub con su hora hoy; la copia trucada vive en el enlace de un desconocido, con la pantalla en blanco garantizada en tres meses.
 
@@ -52,13 +89,13 @@ Segunda barra de la regla — y ahora en mayúscula secreta: NINGÚN MOD PREMIUM
 
 ───────────────────
 
-🧬 LA GENEALOGÍA COMPLETA, CON EL DORMIDO SEÑALADO
+*🧬 LA GENEALOGÍA COMPLETA, CON EL DORMIDO SEÑALADO*
 
 ViMusic parió el modelo: streaming desde el catálogo con cola y sin la app oficial — archivada hace tiempo, idea vivaz. InnerTune heredó: Material 3, letras sincronizadas, biblioteca familiar — su último empuje fue el trece de noviembre de 2025 y está CONFIRMADO hoy: diez meses sin código nuevo; dormido, no muerto — se ficha por historia y por herencia. De esa rama colgaron dos trenes paralelos: SimpMusic (proyecto propio con el mismo fondo: dos releases mayores en agosto y el taller encendido) y OuterTune (fork con la letra gorda agregada: ARCHIVOS LOCALES integrados al streaming). Metrolist — rama del mismo árbol — hizo la mudanza certificada al grupo y va en cadencia mensual: su último día contenido matinal y areglo de player antes de la release, según su innertube (tres semanas). Y la tercera generación está a mano: N-Zik, con su autor humano que declara la asistencia máquina, corre a toque de campanario (empuje de una hora hoy). Resultado de la vara: no hay UN cliente ni UN villano ni fanboy: hay tres generaciones conviviendo, y el mapa no decide por ti — te muestra quién barre.
 
 ───────────────────
 
-🎧 LOS CLIENTES DE STREAMING, FICHA POR FICHA (censo con hora)
+*🎧 LOS CLIENTES DE STREAMING, FICHA POR FICHA (censo con hora)*
 
 *Metrolist — la de cadencia mensual, hoy en su casa definitiva.* github.com/MetrolistGroup/Metrolist — ★13.5 mil (re-contado hoy, 15-oct) · 1.1 mil bifurcadores · 3.806 empujes · GPL · el commit que esta pieza vio de HACE 12 HORAS el 22-sep: «fix(playback): restore media controls on Android 17» y a las 13 horas «fix(resources): remove duplicate Discord translations». Dos señales en un día con la misma lección: la casa no solo barre — AFINA el barrio del futuro (Android 17 ya está en el plano de las fixes de reproducción) y recoge sus propios restetos. En los últimos veintiún días: bump de dependencias ayer, itinerario de innertube «cleanup antes del release» (3-sep: reconciliación segura de playlists, subida centralizada en background, fallback local al fallar la creación remota — el guardarropa de la comunidad ordenado de antemano), y donación por Patreon y buy-me-a-coffee del autor principal a la vista. Si vienes del ancestro dormido, esta era tu casa natural — y hoy lo sigue siendo, con barra al día y vigilante de traducciones incluido.
 
@@ -85,7 +122,7 @@ Harmony-Music  3.1k   dic-2025 (nueva clase: dormida)
 
 ───────────────────
 
-🚨 LA HISTORIA DEL DÍA: EL PRIMER CLIENTE QUE LE CIERRA LA PUERTA A SU PROPIA COPA
+*🚨 LA HISTORIA DEL DÍA: EL PRIMER CLIENTE QUE LE CIERRA LA PUERTA A SU PROPIA COPA*
 
 Esta es la estrella de la pierna y esta familia no la ha titulado todavía en ninguna parte. Léela despacio porque es el gesto que tu próxima actualización te va a proteger gratis: ayer noche (hace veinte horas, con el commit firmado en público), el taller de SimpMusic integró esta función: «feat(security): block repackaged android builds and bump core». Traducido a barrio: la app recién descargada puede verificar SI ES ELLA MISMA antes de abrirse — y si detecta que la desarmaron, echaron merengue de más y la voltearon otra vez (el reempaquetado trucado, el «mod» del anuncio), simplemente NO ARRANCA.
 
@@ -95,13 +132,13 @@ La cláusula práctica de siempre: la función nace HOY (hace veinte horas); se 
 
 ───────────────────
 
-📻 EL FRONT-END GENERAL: NEWPIPE, AYER Y SUMA
+*📻 EL FRONT-END GENERAL: NEWPIPE, AYER Y SUMA*
 
 github.com/TeamNewPipe/NewPipe — ★39.8 mil · 3.8 mil bifurcadores · 12.294 empujes · GPL · empuje de ayer (21-sep): «fix: log stream progress save errors» — guardar el progreso de los streams ahora registra fallos como adulto, con la nota de estilo del proyecto. Y en los veintiún días: rama desktop actualizando su registro de licencias (junio), versión 0.29.1 (del 15 de agosto) vigilada por el F-Droid clásico — el camino oficial de instalación histórico —, y el gesto que ningún usuario final ve pero que moldea el barrio (31-ago): «Make using the PR template mandatory… AI generated PR descriptions are getting on my nerves». La radiografía de un taller de gente seria: sirena de calidad para humanos, y paciencia graduada en las issues. Está viejo, dice el que no mide: de los 12.294 empujes, suelen ser decenas por mes, sello y sello. En música pide menos comodidad de biblioteca que los clientes de arriba; a cambio cubre TODO el universo vídeo + música, sin cuenta y sin publicidad. El especialista general más veterano del Android libre — y el dual más lógico de la mesa: NewPipe para el mundo, un cliente del linaje para tus playlists.
 
 ───────────────────
 
-📂 AUXIO: TU COLECCIÓN, TU PAGADO, TU HOJA
+*📂 AUXIO: TU COLECCIÓN, TU PAGADO, TU HOJA*
 
 github.com/OxygenCobalt/Auxio — ★4.3 mil · 325 bifurcadores · 3.456 empujes · GPL · arreglo del 8-sep: «all: fix unscoped coroutines» — el gruñido que nadie cantaba: fuga de tareas en segundo plano, pillada por el propio taller (y sí: su CI salió en falta al cierre de la ronda — el semáforo del taller muestra el día exacto del rompimiento, esa es la salud vista en directo). En los veintiún días: para el primer día del próximo sistema ya está el ensteelto al cuestionario del fallo (20-jul, «add Android 17 to bug report dropdown») — eso se llama llegar al concierto antes de que haya taquilla. Escuela del absoluto: una app para la música que YA tienes en el teléfono — sin nube, sin cuenta, sin trackers: arch vivo, racional, material 3. Si tu biblioteca vive en tu hand phone transferida con las herramientas de familia de archivos (guía vecina de pieza 09), esta es su casa definitiva. Donación: Sponsors y PayPal vistos en la puerta.
 
@@ -113,7 +150,7 @@ github.com/AntennaPod/AntennaPod — ★8.2 mil · 1.8 mil bifurcadores · 9.508
 
 ───────────────────
 
-🌱 LOS APRENDICES QUE YA EMERGEN
+*🌱 LOS APRENDICES QUE YA EMERGEN*
 
 *N-Zik — súper activo, bilingüe con el ancéstore V.* github.com/N-Zik-Group/N-Zik — ★229 · 25.529 empujes («los veinticinco mil» sí, con su archivo de forks de la madre y su página historica del Kreate del que es hijo) · empuje de HACE 1 HORA (fix del ícono del rewind), stats frescos de hace 52 minutos, dependabot al día con ktor nuevo («bump 90» fue el último), y en veintiún días: la última etapa del refactoreo de threading (#606), el fix del contraste del Discord RPC, y el feature nuevo que toda app descargadora necesita esta semana: el modo «rescate» — recuperar, listar con cabezas y borrar descargas plesdosadas. README honesto a la vista: desarrolla con asistencia de IA — declarada y revisada por humano — y sugiere alternativas más maduras (Metrolist, etc.) si buscas estabilidad probada. Ese aviso NO es debilidad: es oficial de oficio. Monitorea que este taller vela — espera a que su señal se estabilice con la que ya tiene (v7.5.1-f estable en tienda, versión dev nueva cocinándose).
 
@@ -121,7 +158,7 @@ github.com/AntennaPod/AntennaPod — ★8.2 mil · 1.8 mil bifurcadores · 9.508
 
 ───────────────────
 
-🧭 LA BRÚJULA DE LA MÚSICA REAL (elige UNA por materia)
+*🧭 LA BRÚJULA DE LA MÚSICA REAL (elige UNA por materia)*
 
 ```
 ¿Tu música es el catálogo (streaming)?     Metrolist (cadencia
@@ -141,7 +178,7 @@ UNA por materia. Y la bloqueador de mods: ocurre sola en su casa desde hoy — n
 
 ───────────────────
 
-🧯 LOS CUATRO CUENTOS DEL «PREMIUM SIN PRECIO»
+*🧯 LOS CUATRO CUENTOS DEL «PREMIUM SIN PRECIO»*
 
 *Primero — «la original es la original, no hay otra».* Falso y con recibo: el modelo mismo de streaming con cola que hoy corre en su Android gratis lo inventó una FOSS (ViMusic) ANTES de ser mainstream; la calidad de letra sincronizada palabra a palabra nació aquí, la biblioteca con cuenta nació aquí, el wrapped anual nació aquí. Los talleres del barrio no copian el mostrador: lo patentaron primero. Tú pagas suscripción por la comodidad que ellos inventaron — o disfrutas el taller de cerca y a la vista.
 
@@ -153,7 +190,7 @@ UNA por materia. Y la bloqueador de mods: ocurre sola en su casa desde hoy — n
 
 ───────────────────
 
-🧪 CUATRO CASOS DEL BARRIO SONANDO
+*🧪 CUATRO CASOS DEL BARRIO SONANDO*
 
 *Caso 1 — Mildred, la del catálogo.* Pagó por años todo premium. Hace mes y medio instaló Metrolist por curiosidad (que le salió a la fecha anteayer con su fix del guardian Android 17: la gloria se le mantiene al día gratis). Respaldo de playlist exportado desde la app pagada al principisa (formato CSV, siguiendo las instrucciones de su servicio), dio la semana en paralelo — y al cuarto día canceló la renovación. Tick tock: el cuarto se perdió solo. Hoy busca dos autopistas nuevas por día. La clave fue el orden: primero el respaldo, luego la mudanza — nunca ella al revés como hace el sobrino.
 
@@ -165,7 +202,7 @@ UNA por materia. Y la bloqueador de mods: ocurre sola en su casa desde hoy — n
 
 ───────────────────
 
-🔧 LAS CUATRO TRANCAS DE AUDIO DE CADA DÍA
+*🔧 LAS CUATRO TRANCAS DE AUDIO DE CADA DÍA*
 
 *Tranca 1 — «mis playlists de la app pagada».* No se pierden: casi todos los servicios dejen exportar (el formato CSV/lib es tu pasaporte; el cliente FOSS recibe en import desde lista/archivo/M3U según el modelo y su README). El orden correcto: PRIMERO exportar con cuenta abierta, SEGUNDO importar al nuevo, TERCERO vivir una semana en paralelo, CUARTO cancelar. Quien cancele primero corre el riesgo de la madre: lista perdida por enojo anticipado.
 
@@ -177,7 +214,7 @@ UNA por materia. Y la bloqueador de mods: ocurre sola en su casa desde hoy — n
 
 ───────────────────
 
-🔍 EL RITUAL DE VERIFICACIÓN EN MÚSICA (diez minutos en casa)
+*🔍 EL RITUAL DE VERIFICACIÓN EN MÚSICA (diez minutos en casa)*
 
 ```
 1. ¿El enlace que te mandaron es el README de la casa?
@@ -200,7 +237,7 @@ UNA por materia. Y la bloqueador de mods: ocurre sola en su casa desde hoy — n
 
 ───────────────────
 
-📖 HISTORIA CORTA: EL VIGILANTE DEL PISO
+*📖 HISTORIA CORTA: EL VIGILANTE DEL PISO*
 
 La discoteca El Merengón vivió su edad dorada hasta que empezaron a colarse «primos del DJ»: paquetes clónicos que iban de mesa en mesa vendiendo la misma música al doble, con la mismísima fachada del local pintada encima. El DJ aguantó dos temporadas viendo cómo la clientela discutía con él por desperfectos que no había hecho él — cada pitana dañada de la copia barata le caía encima como si él fuera el de la mala mano. Hasta que un sábado bajó de la tarima y pegó un cartel nuevo en la puerta: «A la entrada se enseña la pulsera auténtica — la original suena distinta y se vende única noche tras noche, con su serial».
 
@@ -263,7 +300,7 @@ La lectura del delta: dos casas están en un momento de gloria de la minoría (M
 
 ───────────────────
 
-❓ PREGUNTAS FRECUENTES (las doce del sonido)
+*❓ PREGUNTAS FRECUENTES (las doce del sonido)*
 
 *¿Cuál instalo para empezar?*
 Tu música es catálogo: Metrolist. Catálogo más archivos locales: OuterTune. Tuya en el teléfono: Auxio. Todo YouTube sin cuenta: NewPipe. Podcasts: AntennaPod. Descargar: Gabi. UNA por materia — y abres su Release el mismo día de la instalación: la versión manda.
@@ -303,7 +340,7 @@ Con la Triple Corona: la casa (el repo del censo), la firma/tag del release con 
 
 ───────────────────
 
-📖 GLOSARIO DEL SONIDO LIBRE
+*📖 GLOSARIO DEL SONIDO LIBRE*
 
 Caja blanca: todo «premium gratis sin casa» — sin repo, sin firma, sin dirección; la pantalla en blanco es su depósito.
 
@@ -345,19 +382,19 @@ Los aprendices te dicen velocidad temprana: N-Zik acostó anoche a las once y pi
 
 ───────────────────
 
-📦 LA MUDANZA DEL PAGADO AL LIBRE (liturgia del décimo mes)
+*📦 LA MUDANZA DEL PAGADO AL LIBRE (liturgia del décimo mes)*
 
 Si hoy vives en el ecosistema de la suscripción y quieres preguntarte por el taller libre, el orden es el de toda mudanza documentada — solo que en música es cortesía de media semana. Primero: exporta TU lista mientras tienes la cuenta abierta (cada servicio ofrece su método — el archivo CSV/lib como pasaporte universal; se exporta HOY, no la próxima semana del corte). Segundo: instala UN cliente por el mapa de arriba y recórrelo sin importar: diez minutos de visita antes del compromiso. Tercero: importa la muestra — una playlist pequeña con cincuenta títulos que conoces y pruébala en la guagua con la pantalla apagada y el vuelto puesto: si salta raro, es el momento de pelear. Cuarto: la convivencia — tres semanas en paralelo, con la suscripción guardada en el ropero: no canceles a mitad de la curva (el placebo de abandonar el premium es más fuerte la primera semana; aguanta a la tercera) —; si en el día veinte sigues buscando la app pagada, la ciencia falló y retornas con la cola de tus listas sanas; si no la tocas más, el quinto paso es uno trivial: cancela con fecha de aniversario anotada, exporta una vez más (la lista final) y desinstala sin grima, que la gente del buen barrio despide casa con café. Sexto estadístico — quédate con la cuenta abierta en gratis si la prefieres: las apps de esta familia no te exigen quemar el puente que no era tu hogar. El fallo común es el contrario (cancela y entonces mira qué): esa se llama mudanza al revés, y se paga con playlists perdidas.
 
 ───────────────────
 
-🌐 LA CIUDAD DE LA COLECCIÓN PROPIA (la materia que nunca te puede cobrar ochomil)
+*🌐 LA CIUDAD DE LA COLECCIÓN PROPIA (la materia que nunca te puede cobrar ochomil)*
 
 En la discusión del streaming de cada día, este censo apunta a la puerta que siempre da riqueza: si pagaste dos años mes a mes para poseer nada (la suscripción era alquiler), mientras tanto la aldea entera cultiva MP3-terreno compactable: FLAC de los lanzamientos libres, Bandcamp de los artistas independientes que venden sin intermediario, las láminas digitales nuestra de cada semana, y tu Auxio sentado sin nube al centro — sin cuenta, sin anuncios, sin renovación, sin sentido a que el taller deje de existir. La alternativa es hermana de las disciplinas: el catálogo global tiene bien su precio si tu experiencia es el catálogo al alcance; y la colección propia tiene mejor su precio si tu cariño le sobrevive al próximo escándalo de precio. Las dos tarifas se miden en iguales horas de tu trabajo trimestral: (1) lo que pagas por Diciembre con el precio del premium entero, (2) lo que vales en tiempo ordenando tus carpetas con la calidad que le haces a tu nombre. Tú decides si quieres renters o propiedad; el barrio no vende ninguno — solo levanta la persiana de los dos cada mañana. Auxio y sus cuatro mil trescientas estrellas cuentan la tercera hipótesis que hoy celebra el compromiso: cuando los archivos son tuyos, la pantalla apagada no es un fallo del servidor: es tu teléfono durmiendo en paz.
 
 ───────────────────
 
-🔭 LAS CINCO TORRES DEL TRIMESTRE (lo que vigilaremos la próxima pieza)
+*🔭 LAS CINCO TORRES DEL TRIMESTRE (lo que vigilaremos la próxima pieza)*
 
 ```
 1. SimpMusic: la build con anti-repack llegada a
@@ -388,13 +425,13 @@ La mayor parte del beneficio de tu app libre se agotó invisible: las horas que 
 
 ───────────────────
 
-📨 NOTA PARA REENVIAR AL GRUPO DE LOS MP3
+*📨 NOTA PARA REENVIAR AL GRUPO DE LOS MP3*
 
 Familia, tres no se olvidan: el premium crackeado no existe — existe el vendedor que lo empaqueta y desaparece antes del domingo; el taller libre SÍ existe — Metrolist barrió el sistema gordito esta madrugada y su Gestionario ya es el siguiente; y uno de los nuestros acaba de clavar el primer control contra los clones dentro del código: si la copia no tiene la firma, la app no abre — así se acaba la caja blanca del Android desde el ritual interno. Instalaciones por repo o tienda, nunca por la esquina. Y los que viven con su respaldo exportado vivirán: los que pasaron el domingo pasado con sus playlists perdidas, ya saben a quién esperaron tres colonias. Nos leemos — y si alguien promete maravilla sin commit, la señal pide lo de siempre: sonríe un poco y verifica la persiana.
 
 ───────────────────
 
-🧾 LA FICHA RESUMEN (la buena nota pantalla)
+*🧾 LA FICHA RESUMEN (la buena nota pantalla)*
 
 ```
 ¿CUÁL INSTALO?  Catálogo: Metrolist. Locales+cat:
@@ -422,25 +459,25 @@ CRACKEADO?      repo; y desde esta madrugada la copia
 
 ───────────────────
 
-🪜 LA ESCALERA DEL OYENTE PRIMERIZO (viniendo de cero: cuatro escalones del sonido)
+*🪜 LA ESCALERA DEL OYENTE PRIMERIZO (viniendo de cero: cuatro escalones del sonido)*
 
 Llegar al barrio sonoro FOSS es fácil si llegas con la agenda, no con el ruido. Primer peldaño — una favorita, no cinco: instala UN cliente según la brújula (nunca dos de streaming en el mismo teléfono: no sube el bienestar, suben las notificaciones) y desde la casa, con la fecha del mirror guardada en una nota. Segundo peldaño — escucha al detalle: reproduce tu lista de siempre (no busques lo nuevo en la app nueva — lo nuevo ya vendrá) y verifica las dos joyas: la pantalla apagada sin cortes y el botón de siguiente sin lag; esas dos pruebas te dicen más que cualquier tabla de difusión. Tercer peldaño — al mes, el hábito: residuo de la sesión (¿limpia? ¿sigues el sugerir? ¿carga la red 3G en la guagua?); si algo se corta, tu primer reporte bien hecho en el repo valdría más que cinco reseñas. Cuarto peldaño — difundir: manda el enlace de la casa (nunca el APK copiado) al pariente que siempre pregunta, con esta pieza entera al lado — y espera un día. La música libre no se vende de boca a boca: se instala una casa por semana, con la firma mirada y la mesa dulce.
 
 ───────────────────
 
-🧮 LA LÁMINA PARA CONSULTA RÁPIDA (cinco preguntas, un solo criterio)
+*🧮 LA LÁMINA PARA CONSULTA RÁPIDA (cinco preguntas, un solo criterio)*
 
 Tabla de consulta rápida para la cerrada de la pieza: las cinco preguntas definitivas y qué le dicen estas fichas a cada una. ¿Escuchas en streaming (sin descargar nada) y no quieres cuentas con tarjeta de crédito? — Metrolist o SimpMusic/OuterTune: cadencia mensual o versión con tus archivos. ¿Tienes querencias de coleccionista y cassetes de MP3 de los 2000s? — Auxio, con la carpeta ordenada por la guía de archivos del barrio (vecina de publicación). ¿Descubres voces nuevas cada martes? — el streaming de catálogo (con la brújula arriba — no es un crimen lo que prefieres; es el uso). ¿Te emociona la voz humana hablando una hora? — AntennaPod, con sus feeds y su humor de ahora (#8771). ¿Quieres ahorrar datos en la guagua o extraer tu propio audio para tus proyectos libres? — Gabi, con el respeto a la música que tiene dueño — hoy subiendo en escalera a la casa del F-Droid (metadata lista, doble licencia). Y la última pregunta, la única que vale para todas: «¿y esto por qué me sale gratis?» — porque hay gente empujando código esta madrugada y gente traduciendo su aplicación madre entre la cena y el teléfono sin estarle cobrando a nadie. Cuando lo vendan, ten cuidado: sería tu fiesta en la cuenta ajena. Por ahora, quédate con lo que la casa mide cada mañana: el build con sello de la firma y la placa de la casa correcta.
 
 ───────────────────
 
-🧭 EL LEMA MÁGICO DE LAS ESTACIONES (para cuando aparezca la próxima gran retorno)
+*🧭 EL LEMA MÁGICO DE LAS ESTACIONES (para cuando aparezca la próxima gran retorno)*
 
 El ecosistema de la música libre en Android evolucionó tanto en estos últimos dos años que ya se puede resumir de la única manera de la que un taller se puede hablar en esta eternidad: hay poda y hay podador, hay taller que clona rostros y hay taller que los construye. La próxima vez que suene en el bar del bar «¡llegó el mejor!» o «¡mató a la última!» — sucederán estas mismas cuatro cosas que pasaron esta jornada con la misma eficacia de siempre: (1) habrá un taller entre estrellas y commits frescos sudando su papeleo; (2) habrá una copia retocada con colores brillitos por la que querrán venderte la app completa en negro cajón; (3) habrá un vigilante solo en su ordenador deteniéndoles las puertas; y (4) esta pieza, con el mismo nombre de siempre y con tu fecha al lado, volcando la placa viva de la mañana a la vista. Lo único que cambia cada trimestre es el color: el criterio, nunca. Ni el dueño lo cambia dos veces.
 
 ───────────────────
 
-🧪 OTRO RADAR: LOS TRES TALLERES QUE YA INGENIAN SU PRÓXIMO TRIMESTRE (la señal de fondo, no la del grito)
+*🧪 OTRO RADAR: LOS TRES TALLERES QUE YA INGENIAN SU PRÓXIMO TRIMESTRE (la señal de fondo, no la del grito)*
 
 Mientras el barrio vocaliza lanzamientos y placa, tres talleres de esta familia hace su trabajo del próximo trimestre sin grito: 
 
@@ -452,7 +489,7 @@ Mientras el barrio vocaliza lanzamientos y placa, tres talleres de esta familia 
 
 ───────────────────
 
-😄 EL MEME DE LA PIEZA
+*😄 EL MEME DE LA PIEZA*
 
 EL VIGILANTE DEL PISO (parte dos — la del brazalete)
 
@@ -491,15 +528,15 @@ Moraleja gi unteressa negra vs rubia: solo el taller puede protegerte del taller
 
 ───────────────────
 
-🔗 FUENTES SEÑALADAS Y FECHADAS
+*🔗 FUENTES SEÑALADAS Y FECHADAS*
 
 github.com/MetrolistGroup/Metrolist — hoy · github.com/maxrave-dev/SimpMusic — hoy · github.com/OuterTune/OuterTune — hoy · github.com/z-huang/InnerTune — hoy (confirmando dormido desde nov-2025) · github.com/anandnet/Harmony-Music — hoy (re-clasificada siesta con dic-2025) · github.com/TeamNewPipe/NewPipe — hoy · github.com/OxygenCobalt/Auxio — hoy · github.com/AntennaPod/AntennaPod — hoy · github.com/N-Zik-Group/N-Zik — hoy · github.com/Hotaro26/gabi — hoy. Citados a su fecha sin reconteo: ViMusic y RiMusic (museos, las archivadas del linaje), el aprendizaje histórico de la guía madre. La pieza de la tienda Appteka es la 01 de esta jornada; la de archivos propios viene en la 09.
 
 ───────────────────
 
-📝 NOTA DE VERIFICACIÓN — 22 DE SEPTIEMBRE DE 2026
+*📝 NOTA DE VERIFICACIÓN — 22 DE SEPTIEMBRE DE 2026*
 
-Abiertos hoy de frente los diez repos del censo del sonido. De ahí salen: Metrolist ★12.9 mil (12 h: restore media controls on Android 17; 1.1k forks; donación por su autor a la vista) · SimpMusic ★11.4 mil (17 h creditos legales + 20 h bloqueo de reempaquetadas + sentry geo/dispositivo; 608 forks; donaciones triseccionadas) · OuterTune ★5.4 mil (16-sep «lite» default; 374 forks; transcripción masiva 45 personas) · InnerTune ★6.1 mil (dormido: 13-nov-2025) · Harmony-Music ★3.1 mil (siesta: 8-dic-25; v1.12.2 7-dic-25) · NewPipe ★39.8 mil (21-sep errores progreso; 12.294 empujes; 31-ago plantilla PR obligatoria) · Auxio ★4.3 mil (8-sep fix coroutines; 3.456; 20-jul dropdown A17) · AntennaPod ★8.2 mil (HOY 6 h #8771 + 20-sep #8775 skips; 9.508 empujes) · N-Zik ★229 (HOY ~1 h fix rewind + 52 min stats; rescue 18-sep; dependabot ktor nuevo; 25.529 empujes) · Gabi ★79 (3-sep splash; dual MIT+GPL; metadata F-Droid 10-jul; KMP desktop). Ningún dato de batería se diciera: no se midió, no se inventa. Los motivos de cada clase (dormido como dormido y no muerto) se verifican por hora y no por rumor — con la misma vara de siempre medida con sus plantas.
+Abiertos hoy de frente los diez repos del censo del sonido. De ahí salen: Metrolist ★13.5 mil (12 h: restore media controls on Android 17; 1.1k forks; donación por su autor a la vista) · SimpMusic ★11.4 mil (17 h creditos legales + 20 h bloqueo de reempaquetadas + sentry geo/dispositivo; 608 forks; donaciones triseccionadas) · OuterTune ★5.4 mil (16-sep «lite» default; 374 forks; transcripción masiva 45 personas) · InnerTune ★6.1 mil (dormido: 13-nov-2025) · Harmony-Music ★3.1 mil (siesta: 8-dic-25; v1.12.2 7-dic-25) · NewPipe ★39.8 mil (21-sep errores progreso; 12.294 empujes; 31-ago plantilla PR obligatoria) · Auxio ★4.3 mil (8-sep fix coroutines; 3.456; 20-jul dropdown A17) · AntennaPod ★8.2 mil (HOY 6 h #8771 + 20-sep #8775 skips; 9.508 empujes) · N-Zik ★229 (HOY ~1 h fix rewind + 52 min stats; rescue 18-sep; dependabot ktor nuevo; 25.529 empujes) · Gabi ★79 (3-sep splash; dual MIT+GPL; metadata F-Droid 10-jul; KMP desktop). Ningún dato de batería se diciera: no se midió, no se inventa. Los motivos de cada clase (dormido como dormido y no muerto) se verifican por hora y no por rumor — con la misma vara de siempre medida con sus plantas.
 
 ───────────────────
 
@@ -511,7 +548,18 @@ Busca más, verifica antes de cantar, que tu playlist amanezca con un commit de 
 
 ───────────────────
 
-📎 VERSIÓN COMPACTA (para la nota del teléfono)
+*PULSO AL CORTE — 15-OCT ~15:00 (mapa vivo #2)*
+
+```
+ Metrolist  ★12.9 -> ★13.5 mil  (15-OCT)
+ NewPipe    ★40.148 push del dia
+ SimpMusic  ★12.071 rel 2.3.0 (10-oct)
+ AntennaPod ★8.218  rel 3.12.3 (13-oct)
+```
+Segunda lectura del mismo dia: la calle del suena
+late entera. Caja apilada; nada borrado.
+
+*📎 VERSIÓN COMPACTA (para la nota del teléfono)*
 
 La familia musical libre, sudando: Metrolist ★12.9k (12 h: controles en Android 17), SimpMusic ★11.4k (¡17 h: bloqueo de repack!) — el primer cliente de la casa nativa contra sus propios clones —, OuterTune ★5.4k, Auxio 4.3k, NewPipe 39.8k (ayer), AntennaPod ★8.2k (6 h HOY). Pieza aparte: los dormidos fichados por hora (InnerTune desde nov-25, Harmony-Music desde dic-25) y los aprendices con oficio a la vista: N-Zik y Gabi. Batería y legalidad: no se inventan ni se firman desde acá — esa conversación tiene otra puerta. Y la moraleja de la caja blanca: la app gratis que no tiene repositorio ni firma tiene la pantalla en blanco bajo el brazo — y el «premium crackeado» que llegue al grupo solo puede con taxes ya, no con timestamp: desde ayer en esta casa, ya no arrancan.
 

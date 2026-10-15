@@ -28,6 +28,23 @@ Esta guía es el mapa entero: las guías de la casa, una por una, con lo que hay
 
 ───────────────────
 
+*🗺️ MAPA DE ESTA GUÍA*
+
+```
+├── 🌱 LA SEMILLA · ~1 min
+├── 🧭 CÓMO SE · ~5 min
+├── 🧱 EL MURO · ~15 min
+├── ❓ PREGUNTAS DE · ~17 min
+├── 📚 GLOSARIO DE · ~15 min
+├── 🪧 EL CARTEL · ~1 min
+├── 😄 EL MEME · ~1 min
+└── ✊ EL CIERRE · ~2 min
+```
+
+───────────────────
+
+⏱️ *Lectura total: 57 min*
+
 *🧭 CÓMO SE LEE LA LISTA*
 
 *Solo lo vivo.* El mapa no nombra archivados ni espejos ni casas muertas: esos van al Registro con fecha — y si un día resucitan, vuelven con verificación. Lo que aquí se lee, respira.
@@ -253,7 +270,6 @@ Antes de las preguntas y del glosario, los mapas que alimentan este mapa: los ca
 
 *La regla que une a todos.* Ningún catálogo confirma: todos sugieren. El descubrimiento y la verificación son dos oficios distintos, y esta casa ejerce los dos — en ese orden y sin saltarse ninguno. Por eso los catálogos son el mapa de los mapas: sin ellos no llegarías a la puerta; sin tu vara, tampoco sería tuya lo que hay detrás.
 
-
 ───────────────────
 
 *❓ PREGUNTAS DE LA LISTA*
@@ -344,7 +360,6 @@ Las estrellas chicas esconden talleres grandes. La capa de inmersión de esta ca
 *— ¿Por qué la casa escribe las fechas así, con tanto detalle?*
 Porque el detalle es la diferencia entre historia y leyenda. «V2.1.4 y v2.1.5 el mismo día, hora por hora» vale más que «muy activo». «★11.025 archivado en este corte» vale más que «ya no existe, creo». El censo de la casa sondeó mil registros y las actas quedaron con motivo y fecha, sin crueldad: así se construye memoria que sirve.
 
-
 *— ¿Puedo usar solo esta LISTA, sin abrir los otros tomos?*
 Sí — está diseñada para eso: es el mapa entero en una sola pieza, y cada ficha aquí trae lo esencial antes de abrir cualquier casa. Pero te va a pasar como a todos: una ficha te va a agarrar — el mueble de tres cajones, la cadena de Usagi, el letrero de GLTools — y vas a querer la guía completa. La LISTA abre el apetito; la estantería lo satisface. Ninguna de las dos cosas es obligatoria: las dos son gozosas.
 
@@ -375,7 +390,6 @@ Porque el oficio no receta lo que no se habitó. Recetar es decirte qué hacer c
 *— Ya leí la LISTA entera. ¿Qué sigue?*
 Tres caminos buenos. Uno: entra a la Biblioteca — la guía 20 es el plano del proyecto entero y esta LISTA su índice vivo. Dos: escoge tu esquina — si llegas por el lector, la Fundación; si llegas por curiosidad, el Muro; si llegas por oficio, la Mina — y camínala con calma. Tres: vuelve al próximo corte, que el mapa no duerme. Y entre tanto, ejerce lo que ya tienes: la vara. Esa no se compra, no se hereda y no caduca — se ejerce.
 
-
 *— Si dos guías me dicen cosas distintas, ¿cuál mando?*
 La que tiene la fecha más nueva — pero con matices de casa. Las guías caminan esquinas distintas del mismo barrio: si chocan, casi siempre es la fecha la que resolvió (la mudanza anotada después, el archivo del corte). Y si siendo de la misma fecha discrepan, no hay traición: hay dos varas mirando al mismo pez desde dos muelles. Léete las dos, comprueba la fecha de la casa viva, y manda la evidencia — no la simpatía.
 
@@ -396,7 +410,6 @@ Letrero, no receta — igual que siempre. Los mods se nombran para que sepas que
 
 *— ¿Por qué celebran tanto una rectificación?*
 Porque es el sonido de la vara funcionando. Cuando una guía se corrige en público — con su acta y su fecha, como Tadami — lo que se está celebrando no es el error: es que la casa se atrevió a firmarlo y a desdecirse con evidencia encima. La credibilidad no viene de no equivocarse nunca: viene de corregir sin borrar. Un mapa que rectifica en público envejece bien; el que nunca se rectificó, o nunca caminó, o nunca confesó.
-
 
 ───────────────────
 
@@ -502,7 +515,6 @@ Las palabras con que esta casa nombra las cosas. Un mapa sin glosario es un mapa
 
 *Verificar antes de recomendar.* La regla de la casa en cuatro palabras — la misma en los siete idiomas. No es el eslogan del glosario: es el glosario entero doblado en cuatro. Todo lo demás son las manos con que se ejecuta.
 
-
 *El boleto.* El único requisito de entrada a la biblioteca: haber abierto tu repositorio, tu página de versiones y tu libreta de obra. No hay padrinazgos, no hay atajos, no hay entradas por la ventana. Sin boleto, no hay mapa.
 
 *El mapa del mapa.* Lo que estás leyendo: LA LISTA como índice vivo de la Biblioteca. Un plano del plano — la única manera de que un barrio de ochenta guías se recorra sin perderse, y la prueba de que la casa se toma en serio su propia vara: también el mapa verifica.
@@ -539,13 +551,11 @@ Las palabras con que esta casa nombra las cosas. Un mapa sin glosario es un mapa
 
 *La relectura.* El día en que TÚ abres el enlace: la única verificación que de verdad cuenta, porque la usas y no la heredas. Las fechas de esta LISTA no te ahorran la puerta: te la señalan. El mapa camina contigo o no camina.
 
-
 *La beta.* Lo que se prueba, se registra y se espera — nunca lo que se esconde. OpenlibExtended lo dijo sin rodeos: TTS en beta, se prueba, se registra, se espera. La beta declarada es honestidad; la beta disfrazada de estable, imposturería.
 
 *La API.* La boca formal de las forjas: por ahí contestan versión, fecha y estrella. Y cuando se agota a mitad del censo, la casa no inventa ceros: se raspa la página de cada puerta, una a una, y lo queda fuera se declara. La API es camino; la honestidad es el mapa.
 
 *«Inventar ceros, jamás».* El mandamiento técnico de la casa: donde no hay dato no se escribe número. Ni cero por comodidad, ni «casi» por vergüenza: lo que no se midió se dice que falta. Ese vacío firmado vale más que cualquier columna completa de mentiras ordenadas.
-
 
 *La capa de inmersión.* Los que enseñan japonés mientras lees: el fork que mina tarjetas de Anki, el EPUB con mil herramientas, el OCR que lee y la voz que contesta. Estrellas chicas, talleres grandes — la capa del ecosistema que convierte la lectura en estudio y el estudio en vicio sano.
 
@@ -589,6 +599,23 @@ Clávalo donde veas humo:
 
 ───────────────────
 
+*PULSO AL CORTE — 15-OCT ~15:00 (mapa vivo #2)*
+
+```
+ BIBLIOTECA 15-OCT ~15:00
+ 19 piezas WA · 12 FB · censo vivo 5.684 repos
+ sucesiones vivas: DSU · Dantotsu->Kiroku · aniyomi
+```
+```
+ BIBLIOTECA 15-OCT ~19:05
+ 20 piezas WA · 12 FB · censo vivo 5.684 repos
+ nace 16 mapa video/aniyomi · 62933 `dd0326efc9c01ad3`
+```
+Nace el mapa del video con su censo fresco. Caja #2
+de la lista; nada borrado (protocolo: mapa-maestro).
+La lista respira. Caja #1 de la lista;
+nada borrado (protocolo: mapa-maestro).
+
 *✊ EL CIERRE*
 
 Esta LISTA empezó como una semilla — dos líneas con una regla — y termina como lo que es: un mapa entero, caminado y fechado, de un ecosistema que no para de moverse.
@@ -612,3 +639,5 @@ Nos vemos en el próximo corte.
 *— La Bandita · 15 de octubre de 2026 · edición dominicano-español*
 
 ───────────────────
+
+*📝 RE-CORTE 15-oct-2026 (estructura).* Mapa de guía completo insertado hoy (8 estaciones, minutos medidos) y batería lupa v5 completa. Los pulso de estrellas de cada guía viajan fechados en su propia pieza — esta lista no re-censa hoy.

@@ -1,55 +1,64 @@
 ───────────────────
 
-*Ocho días para el censo: la verificación de desarrolladores, contada con la calma de quien mira el reloj ajeno*
+*El censo ya sonó en cuatro países: la verificación de desarrolladores, contada con la calma de quien mira el reloj ajeno*
 
 *La Bandita · 15 de octubre de 2026 · edición dominicano-español*
 
+⏱️ *Lectura total: 57 min* · cada rama del mapa dice su tiempo
+
 ───────────────────
 
-🌱 LA SEMILLA
+*🌱 LA SEMILLA*
 
-Imagina el barrio de siempre, el de las matas en el patio y las puertas sin timbre. Ahora llega un carro blanco con un letrero nuevo: la junta del distrito dice que toda mata que se vaya a compartir — el aguacate que le pasas al vecino, la guayaba que le mandas a tu prima, la matita que sembraste con la azadita del colmado — tiene que venir acompañada de un censo. No miran la mata ni le sacan brillo a la hoja; miran al que siembra. Quieren su nombre completo, su documento con foto, la lista de todas las matas que ha sembrado y que piensa sembrar, y una muestra de que la llave de su patio es de verdad suya.
+Imagina el barrio de siempre, el de las matas en el patio y las puertas sin timbre. Llega un carro blanco con un letrero nuevo: la junta del distrito dice que toda mata que se comparta — el aguacate del vecino, la guayaba de tu prima, la matita del colmado — debe venir con censo. No miran la mata; miran al que siembra: nombre completo, documento con foto, lista de matas sembradas y por sembrar, y prueba de que la llave del patio es suya.
 
-Hay gente del barrio que dice: bueno, un padrón espanta a los que siembran matas brujas que dejan malo al coro entero. Y hay gente del barrio que responde: sí, pero mi abuela siembra calladita, sin papel, desde antes de que la junta existiera; y el que siembra matas brujas no le da miedo sacar un registro más.
+Unos dicen: un padrón espanta al que siembra matas brujas que dejan malo al coro. Otros responden: mi abuela siembra calladita desde antes de la junta — y al de las matas brujas no le da miedo un registro más.
 
-Esa conversación, en Android, se llama verificación de desarrolladores. Y tiene una fecha en la puerta: ocho días.
+Esa conversación, en Android, se llama verificación de desarrolladores. Y ya tiene una fecha sonada: el 30 de septiembre entró en el filtro hace quince días. La que está en la puerta ahora: 2027.
 
 Esta guía no elige bando por ti. Cuenta los dos bandos con sus nombres y sus fuentes, te dice exactamente qué pasa el 30 de septiembre, qué no pasa ese día, y qué viene en 2027. Todo aquí está abierto hoy, con fecha de hoy, en los enlaces del final.
 
 ───────────────────
 
-🗺️ MAPA DE ESTA GUÍA
+*🗺️ MAPA DE ESTA GUÍA*
 
-├── 🌱 La semilla
-├── 🗺️ Este mapa
-├── ⚡ En una página
-├── 🧠 Mapa mental de la casa
-├── 📅 El cronograma completo
-├── 🪪 Qué es la verificación (dos lecturas)
-├── 🛒 Las dos consolas y el flujo en siete pasos
-├── 🏪 Las siete tiendas y los cuatro países
-├── 🎓 La puerta chica: veinte dispositivos
-├── 🛠️ El flujo avanzado: nueve pasos y veinticuatro horas
-├── 👤 Tabla: a quién le toca y a quién no
-├── 📜 La carta abierta: tres objeciones, 71 firmas, 23 países
-├── 📣 La campaña y sus dos relojes (79 días)
-├── 📗 La lectura contraria: F-Droid
-├── 🧩 Lo que NO cambia el 30 de septiembre
-├── 📌 Correcciones que este tema ya sufrió
-├── 🧪 Casos prácticos (cinco personas del barrio)
-├── 🧯 Mitos y apagones (cinco apagones y su fusible)
-├── ❓ Preguntas frecuentes
-├── 📖 Glosario del tema
-├── 😄 El meme de la pieza
-├── 🔗 Enlaces
-├── 📝 Nota de verificación
-└── ✍️ Firma y despedida
+```
+├── 🌱 LA SEMILLA  · ~2 min
+├── ⚡ EN UNA PÁGINA  · ~2 min
+├── 🧠 MAPA MENTAL DE LA CASA  · ~2 min
+├── 📅 EL CRONOGRAMA  · ~2 min
+├── 🪪 QUÉ ES LA VERIFICACIÓN  · ~2 min
+├── 🛒 LAS DOS CONSOLAS  · ~2 min
+├── 🏪 SIETE TIENDAS, CUATRO PAÍSES  · ~1 min
+├── 🎓 LA PUERTA CHICA: VEINTE DISPOSITIVOS  · ~1 min
+├── 🛠️ EL FLUJO AVANZADO  · ~2 min
+├── 👤 A QUIÉN LE TOCA  · ~1 min
+├── 📜 LA CARTA ABIERTA  · ~2 min
+├── 📣 LA CAMPAÑA Y SUS DOS RELOJES  · ~1 min
+├── 📗 LA LECTURA CONTRARIA  · ~2 min
+├── 🧩 LO QUE NO CAMBIA EL 30-SEP  · ~1 min
+├── 📌 CORRECCIONES QUE ESTE TEMA YA SUFRIÓ  · ~1 min
+├── 🧪 CASOS PRÁCTICOS  · ~3 min
+├── 🧯 MITOS Y APAGONES  · ~2 min
+├── 📚 SOLUCIÓN DE PROBLEMAS  · ~2 min
+├── 🧭 TRES FUTUROS DE 2027  · ~2 min
+├── 🔎 LA PORTADA OFICIAL  · ~4 min
+├── ❓ PREGUNTAS FRECUENTES  · ~3 min
+├── 📖 HISTORIA CORTA  · ~2 min
+├── 🎙️ LAS VOCES DEL TEMA  · ~2 min
+├── 🗺️ CÓMO LEER LAS FUENTES  · ~3 min
+├── 📖 GLOSARIO DEL TEMA  · ~3 min
+├── 😄 EL MEME  · ~3 min
+├── 🔗 ENLACES  · ~2 min
+├── 📝 NOTA DE VERIFICACIÓN  · ~1 min
+└── ✍️ FIRMA Y DESPEDIDA  · ~1 min
+```
 
 ───────────────────
 
-⚡ EN UNA PÁGINA
+*⚡ EN UNA PÁGINA*
 
-Google está armando un censo de desarrolladores de Android. El programa se llama verificación de desarrolladores de Android, y la idea cabe en una línea: para que una aplicación se instale en dispositivos Android certificados, la persona o empresa que la publica tendrá que estar registrada y verificada. Identidad real, nombres de paquete declarados por completo, evidencia de las claves de firma. No se analiza el archivo de la app: se analiza a quien la firma.
+Google arma un censo de desarrolladores: la verificación de desarrolladores de Android. La idea cabe en una línea: para instalarse en dispositivos certificados, quien publica la app deberá estar registrado y verificado — identidad real, paquetes declarados completos, evidencia de las claves de firma. No se analiza el archivo: se analiza a quien firma.
 
 Hoy es 15 de octubre de 2026. El primer hito público del cronograma se cumplió: el 30 de septiembre de 2026 entraron en el filtro cuatro países (Brasil, Indonesia, Singapur y Tailandia) y siete tiendas participantes, en dispositivos certificados con Android 7 o superior. La palabra clave de ese hito es piloto: no toca el mundo entero todavía.
 
@@ -61,26 +70,26 @@ Los dos bandos se citan por su nombre. Google lo vende como rendición de cuenta
 
 ───────────────────
 
-🧠 MAPA MENTAL DE LA CASA
+*🧠 MAPA MENTAL DE LA CASA*
 
 Toda pieza de La Bandita vive dentro de LA LISTA, el mapa mental del ecosistema libre que recorremos puerta por puerta. Esta guía abre la habitación del censo. Así se ve el cuarto completo desde arriba:
 
 ```
 LA LISTA — el vecindario libre (rama del censo y sus vecinas)
 │
-├── 🏪 PUERTA 01 — Las tiendas y el reloj
+├── 🏬 PUERTA 01 — Las tiendas y el reloj
 │      Dónde se consiguen APKs de forma legal, qué tiendas
 │      alternativas existen de verdad, y por qué los letreros
 │      de mods se conocen sin enlazar. Vecina directa: el censo
 │      empieza precisamente en las tiendas.
 │
-├── 🪪 PUERTA 03 — ESTA PIEZA
+├── 🚪 PUERTA 03 — ESTA PIEZA
 │      El censo de desarrolladores: qué pasa el 30-sep-2026 en
 │      4 países y 7 tiendas, qué pasa en 2027 en el mundo, qué
 │      pasa nunca con un teléfono sin certificación. Los dos
 │      bandos citados con nombre y fecha.
 │
-├── 🧩 PUERTA 04 — Extensiones, árboles y parsers
+├── 🌳 PUERTA 04 — Extensiones, árboles y parsers
 │      (la siguiente en el orden del día)
 │      Los tres árboles de donde cuelgan las extensiones de los
 │      lectores: hubs, repos de parsers, eco de horquillas.
@@ -92,7 +101,7 @@ LA LISTA — el vecindario libre (rama del censo y sus vecinas)
 │      que «iniciar sesión» en clones, y cómo se sobrevive a un
 │      apagón de lector sin perder la biblioteca.
 │
-└── 🔗 PUERTAS HERMANAS YA PUBLICADAS
+└── 🏘️ PUERTAS HERMANAS YA PUBLICADAS
        02 — Kototoro (el mueble de tres cajones)
        81 — Miyorare (el lector con source packs propios)
 ```
@@ -101,7 +110,7 @@ La brújula funciona así: si lo que buscas es dónde bajar apps legales, ve a l
 
 ───────────────────
 
-📅 EL CRONOGRAMA COMPLETO
+*📅 EL CRONOGRAMA COMPLETO*
 
 Las fechas oficiales, contadas en orden. Las fuentes se abrieron hoy:
 
@@ -111,20 +120,23 @@ Ago 2025        Google anuncia el programa: los desarrolladores
                 para que sus apps se instalen en dispositivos
                 certificados.
 
-29-sep-2025     F-Droid publica su análisis crítico: «el decreto
-                de registro de desarrolladores». F-Droid mantiene
+29-sep-2025     F-Droid publica su análisis crítico:
+                «el decreto de registro de desarrolladores».
+                F-Droid mantiene
                 desde entonces su aviso «under threat» en la
                 portada de todo su sitio.
 
 Mar 2026        El proceso se abre a todo el mundo a través de
                 dos consolas: la nueva Android Developer Console
-                (para lo que NO vive en la tienda de Google) y la
-                Play Console (para lo que sí). Blog oficial leído.
+                (para lo que NO vive en la tienda
+                de Google) y la Play Console
+                (para lo que sí). Blog oficial leído.
 
 Mar 2026        Segundo blog del mes: «equilibrar apertura y
                 elección con seguridad» — ahí se presenta por
-                primera vez el flujo avanzado para instalar apps
-                de desarrolladores no verificados.
+                primera vez el flujo avanzado para
+                instalar apps de desarrolladores
+                no verificados.
 
 Jun 2026        Google publica «Building a safer ecosystem
                 together»: confirma el arranque del 30-sep-2026
@@ -132,16 +144,18 @@ Jun 2026        Google publica «Building a safer ecosystem
                 automatizar flujos y repite el plan global 2027.
 
 Ago 2026        Las cuentas de distribución limitada quedan
-                disponibles: 20 dispositivos, sin ID del gobierno,
-                sin tarifa.
-
-15-oct-2026     HOY. El hub oficial marca «Next milestone:
-                September 30, 2026» en la primera línea de su
-                portada. La campaña marca 79 días en su contador.
+                disponibles: 20 dispositivos, sin ID
+                del gobierno, sin tarifa.
 
 30-sep-2026     PRIMER HITO. Brasil, Indonesia, Singapur y
-                Tailandia; las 7 tiendas participantes; dispositivos
-                certificados con Android 7 o superior.
+                Tailandia; las 7 tiendas participantes;
+                dispositivos certificados con Android 7+.
+
+15-oct-2026     HOY. El hub oficial sigue mostrando «Next
+                milestone: September 30, 2026» en la primera
+                línea de su portada — el hito ya pasó y la
+                línea no se movió: el reloj del hub duerme.
+                La campaña marca 79 días en su contador.
 
 2027            Google: expansión global — todas las apps, todos
                 los dispositivos certificados, todos los países.
@@ -153,7 +167,7 @@ El hub oficial se actualiza sin anunciarlo: el mapa se mueve. Esta guía lleva l
 
 ───────────────────
 
-🪪 QUÉ ES LA VERIFICACIÓN (LAS DOS LECTURAS)
+*🪪 QUÉ ES LA VERIFICACIÓN (LAS DOS LECTURAS)*
 
 La definición, resumida con respeto a ambos bandos: la verificación de desarrolladores de Android vincula entidades del mundo real — personas y organizaciones — con las aplicaciones de Android que publican. En la práctica exige tres cosas al que publica: probar su identidad (documento gubernamental, salvo excepción de la cuenta limitada), declarar TODOS los nombres de paquete que distribuye (el apk tal como lo reconoce el sistema), y mostrar evidencia de que controla las claves de firma con que sus apps están selladas.
 
@@ -165,7 +179,7 @@ La lectura contraria, en su propio idioma: eso no es un escáner de malware. Pla
 
 ───────────────────
 
-🛒 LAS DOS CONSOLAS Y EL FLUJO EN SIETE PASOS
+*🛒 LAS DOS CONSOLAS Y EL FLUJO EN SIETE PASOS*
 
 Hay dos puertas de registro, según por dónde se mueve tu app:
 
@@ -191,7 +205,7 @@ Tres puntos finos que la documentación confirma y la gente pasa por alto: prime
 
 ───────────────────
 
-🏪 LAS SIETE TIENDAS Y LOS CUATRO PAÍSES
+*🏪 LAS SIETE TIENDAS Y LOS CUATRO PAÍSES*
 
 El hito del 30 de septiembre no dice «todas las tiendas»: dice las participantes declaradas. Esta lista se leyó hoy en el hub oficial, con los nombres que Google publica:
 
@@ -214,11 +228,11 @@ Dispositivos: certificados, con Android 7 o superior.
 
 Qué significa en llano: desde el 30, si tu app se ofrece en una de esas tiendas a gente de esos países, tu registro de desarrollador tiene que estar hecho y verificado — o la app no entra nueva y no se actualiza. Si eres usuario de a pie de esos países, instalar desde esas tiendas solo ofrecerá apps de desarrolladores verificados.
 
-¿Y República Dominicana? No está en el piloto ni estaba prevista: la isla entra en el grupo «resto del mundo», cuyo reloj es 2027. Eso significa dos cosas prácticas. Primero, tu teléfono dominicano instalando desde Play hoy no ve cambio visible el 30 de septiembre. Segundo, el cambio llega igual — con fecha exacta todavía no publicada: Google dice solo «2027», sin mes, sin día, sin orden de países. El que espera a que el censo toque la puerta de su casa para entenderlo, entiende tarde: por eso esta guía existe ahora.
+¿Y República Dominicana? No está en el piloto ni estaba prevista: la isla entra en el grupo «resto del mundo», cuyo reloj es 2027. Eso significa dos cosas prácticas. Primero, tu teléfono dominicano instalando desde Play hoy 15-oct no vio cambio visible el 30 de septiembre. Segundo, el cambio llega igual — con fecha exacta todavía no publicada: Google dice solo «2027», sin mes, sin día, sin orden de países. El que espera a que el censo toque la puerta de su casa para entenderlo, entiende tarde: por eso esta guía existe ahora.
 
 ───────────────────
 
-🎓 LA PUERTA CHICA: VEINTE DISPOSITIVOS
+*🎓 LA PUERTA CHICA: VEINTE DISPOSITIVOS*
 
 La figura más nueva de todo el programa, visible hoy en el hub con su guía dedicada. Se llama cuenta de distribución limitada y el retrato es este:
 
@@ -243,7 +257,7 @@ Y el límite honesto: veinte dispositivos no levantan un proyecto comunitario qu
 
 ───────────────────
 
-🛠️ EL FLUJO AVANZADO: NUEVE PASOS Y VEINTICUATRO HORAS
+*🛠️ EL FLUJO AVANZADO: NUEVE PASOS Y VEINTICUATRO HORAS*
 
 Para quien no puede — o no quiere — pasar por el censo, Google decreció una ruta excepcional que presentó en su blog de mar-2026: el flujo avanzado, para que usuarios avanzados instalen apps de desarrolladores no verificados. La campaña lo publicó paso a paso en su portada, y así está hoy:
 
@@ -268,35 +282,35 @@ La FAQ oficial mantiene su sección «Advanced flow» como vía reconocida; es d
 
 ───────────────────
 
-👤 A QUIÉN LE TOCA Y A QUIÉN NO (TODAVÍA)
+*👤 A QUIÉN LE TOCA Y A QUIÉN NO (TODAVÍA)*
 
 ```
-Tu situación                                ¿Qué pasa el 30-sep?
-Publicas en las 7 tiendas, dentro de uno    Tu registro verificado
-de los 4 países piloto                      o tu app no entra nueva
+Tu situación                          ¿Qué pasa el 30-sep?
+Publicas en las 7 tiendas, dentro     Tu registro verificado
+de los 4 países piloto                o tu app no entra nueva
 
-Publicas en las 7 tiendas, fuera del       Aún no. Tu fecha: 2027
-piloto (incluye República Dominicana)
+Publicas en las 7 tiendas, fuera      Aún no. Tu fecha: 2027
+del piloto (incluye RD)
 
-Instalas APK a mano, sideload directo      Aún no. Tu tema: 2027,
-con fecha no publicada
+Instalas APK a mano, sideload         Aún no. Tu tema: 2027,
+directo, fecha sin publicar           sin día publicado
 
-Usas F-Droid                               Aún no. La fecha de
-impacto para F-Droid no está publicada
-por nadie fuera de Google
+Usas F-Droid                          Aún no. La fecha de
+                                      impacto no está publicada
+                                      por nadie fuera de Google
 
-Compartes por puerta chica (≤20 equipos)   Sigues igual: la
-cuenta limitada no exige ID ni tarifa
+Compartes por puerta chica            Sigues igual: la cuenta
+(≤20 equipos)                         no exige ID ni tarifa
 
-Teléfono sin certificación de Google       Otro planeta: el filtro
-(AOSP puro, de-/googled)                    aplica sobre certificados
+Teléfono sin certificación            Otro planeta: el filtro
+(AOSP puro, de-googled)               aplica sobre certificados
 ```
 
-La frase que cierra la tabla: el censo corre sobre el mundo certificado. Quien vive dentro, ya tiene fecha — ocho días en cuatro países, 2027 en el resto. Quien vive fuera de ese mundo, no tiene fecha porque su teléfono nunca entró en la casa blanca — y pagó el precio de fuera de otro lado.
+La frase que cierra la tabla: el censo corre sobre el mundo certificado. Quien vive dentro, ya tiene fecha sonada — el 30-sep en cuatro países, 2027 en el resto. Quien vive fuera de ese mundo, no tiene fecha porque su teléfono nunca entró en la casa blanca — y pagó el precio de fuera de otro lado.
 
 ───────────────────
 
-📜 LA CARTA ABIERTA: TRES OBJECIONES, 71 FIRMAS, 23 PAÍSES
+*📜 LA CARTA ABIERTA: TRES OBJECIONES, 71 FIRMAS, 23 PAÍSES*
 
 Keep Android Open mantiene una carta abierta a Google, leída hoy con su contador visible: 71 organizaciones de 23 países la han firmado. Se organiza en tres bloques, y aquí van resumidos con respeto al texto original:
 
@@ -310,7 +324,7 @@ Los firmantes visibles en la página — se citan para que tú conozcas el mapa,
 
 ───────────────────
 
-📣 LA CAMPAÑA Y SUS DOS RELOJES (101 DÍAS)
+*📣 LA CAMPAÑA Y SUS DOS RELOJES (79 DÍAS AL 15-OCT)*
 
 La campaña se define a sí misma con una frase de portada: «Your phone is about to stop being yours». Su contador público hoy marca 79 días, contando hacia lo que su FAQ llama el bloqueo — alrededor de enero de 2027. Dos aclaraciones limpias de su casa, importantes: el contador es de la campaña, no de Google; y su fecha de enero es su lectura del calendario de 2027 — Google dice «2027» sin mes ni día. Dos relojes, y esta guía se niega a presentarte uno solo.
 
@@ -320,9 +334,9 @@ Tres piezas nuevas del frente, todas visibles hoy en su página: uno, la petici�
 
 ───────────────────
 
-📗 LA LECTURA CONTRARIA: F-DROID
+*📗 LA LECTURA CONTRARIA: F-DROID*
 
-El análisis de F-Droid, publicado el 29 de septiembre de 2025, sigue arriba hoy y sigue en portada de su proyecto con el aviso «under threat». El texto arma su tesis en cuatro secciones, y se resume aquí con fidelidad:
+El análisis de F-Droid, publicado el 29 de septiembre de 2025, sigue arriba hoy 15-oct y sigue en portada de su proyecto con el aviso «under threat». El texto arma su tesis en cuatro secciones, y se resume aquí con fidelidad:
 
 *El movimiento para romper la distribución libre.* F-Droid no puede exigir a sus desarrolladores que se registren con Google — y tampoco puede «tomar» los identificadores de apps ajenas para registrarlas como propias, porque eso equivaldría a embargar los derechos de distribución de esos proyectos. Premisa y conclusión: si el decreto se aplica, el proyecto F-Droid como tal termina, junto con las demás vías de distribución libre, y sus usuarios quedan sin vía ni siquiera para actualizar sus apps instaladas.
 
@@ -332,11 +346,11 @@ El análisis de F-Droid, publicado el 29 de septiembre de 2025, sigue arriba hoy
 
 *Qué proponen.* Que los reguladores de competencia miren bien el diseño; que las políticas de seguridad no se usen para consolidar control; y que el usuario escriba a sus representantes y firme las peticiones en defensa del sideload.
 
-La frase viva de todo el asunto la firma F-Droid en esa página: «si se aplica, el decreto terminará con el proyecto F-Droid». Septiembre de 2025 a septiembre de 2026: un año después, el aviso sigue encendido y la fecha del piloto está a ocho días. Este es EL tema del año para el ecosistema libre.
+La frase viva de todo el asunto la firma F-Droid en esa página: «si se aplica, el decreto terminará con el proyecto F-Droid». Septiembre de 2025 a septiembre de 2026: un año después, el aviso sigue encendido y la fecha del piloto ya sonó. Este sigue siendo EL tema del año para el ecosistema libre.
 
 ───────────────────
 
-🧩 LO QUE NO CAMBIA EL 30 DE SEPTIEMBRE
+*🧩 LO QUE NO CAMBIA EL 30 DE SEPTIEMBRE*
 
 Media confusión de este tema vive en titulares que mezclan el piloto con el plan final. Verdades concretas de lo que el 30-sep NO toca:
 
@@ -352,7 +366,7 @@ Tener claro el no-cambia es tan importante como el cambio: el pánico bien infor
 
 ───────────────────
 
-📌 CORRECCIONES QUE ESTE TEMA YA SUFRIÓ
+*📌 CORRECCIONES QUE ESTE TEMA YA SUFRIÓ*
 
 Este asunto corrige versiones anteriores de sí mismo. El historial de lo que se creyó y dejó de ser cierto, con la columna de lo confirmado después:
 
@@ -367,7 +381,7 @@ APKs a mano»                    El bloqueo amplio llega en 2027.
                                 sus nombres oficiales de hoy).
 
 «Se anunció en nov-2025»        Se anunció en agosto de 2025;
-                                F-Droid respondió el 29-sep-2025.
+                               F-Droid respondió el 29-sep-2025.
 
 «El flujo avanzado tarda        La espera es una sola vez:
 24 h por cada APK»              9 pasos + ~24 h una vez.
@@ -377,8 +391,9 @@ existía desde marzo»            cuenta quedó abierta a todos
                                 en agosto de 2026, con 2FA y
                                 perfil de pagos operativos.
 
-«El contador del mundo          Hoy: 79 días (constado 15-oct; dos días seguidos en 79).
-quedaba en 110 días»            El reloj corre para abajo.
+«El contador del mundo         Hoy: 79 días (constado 15-oct;
+quedaba en 110 días»           dos días seguidos en 79).
+                               El reloj corre para abajo.
 
 «Faltaban 15 días para          Hoy: 8 días. Fechas de esta
 el hito» (15-sep)               pieza cortadas el 14-oct.
@@ -388,7 +403,7 @@ La lección vieja, vigente: cada mes trae su corrección en este tema. Abre las 
 
 ───────────────────
 
-🧪 CASOS PRÁCTICOS (CINCO PERSONAS DEL BARRIO)
+*🧪 CASOS PRÁCTICOS (CINCO PERSONAS DEL BARRIO)*
 
 El tema se entiende de verdad cuando aterriza en gente. Cinco casos, todos caseros de este barrio llamado Android dominicano, cada uno con su ventana y su tarea sana:
 
@@ -406,9 +421,9 @@ Los cinco casos repiten la misma espina: el problema casi nunca es la regla en a
 
 ───────────────────
 
-🧯 MITOS Y APAGONES (CINCO APAGONES Y SU FUSIBLE)
+*🧯 MITOS Y APAGONES (CINCO APAGONES Y SU FUSIBLE)*
 
-*Apagón 1: «El 30 de septiembre se acabó instalar APKs.»* Apagón total y falso. El 30-sep toca las siete tiendas participantes en cuatro países, en distribución nueva. Tu sideload directo, tu F-Droid, tu teléfono dominicano: mismo lunes después del hito que antes. Fusible: releer la sección 🧩 cada vez que un titular te grite.
+*Apagón 1: «El 30 de septiembre se acabó instalar APKs.»* Apagón total y falso. Lo que el 30-sep tocó: las siete tiendas participantes en cuatro países, en distribución nueva — nada más. Tu sideload directo, tu F-Droid, tu teléfono dominicano: mismo lunes después del hito que antes. Fusible: releer la sección 🧩 cada vez que un titular te grite.
 
 *Apagón 2: «Con pagar los 25 dólares quedas verificado.»* La tarifa sola no verifica a nadie: la verificación es identidad más lista de paquetes más evidencia de claves. La FAQ compara la tarifa con los 25 históricos de Play, pero el expediente completo es lo que abre la puerta — y la cuenta limitada no paga ni tarifa ni ID. Fusible: distinguir precio de requisito; no son lo mismo.
 
@@ -420,7 +435,7 @@ Los cinco casos repiten la misma espina: el problema casi nunca es la regla en a
 
 ───────────────────
 
-📚 SOLUCIÓN DE PROBLEMAS DEL REGISTRO (PARA EL QUE PUBLICA)
+*📚 SOLUCIÓN DE PROBLEMAS DEL REGISTRO (PARA EL QUE PUBLICA)*
 
 Cuatro trancas conocidas del proceso y su primera medicina, contadas con la honestidad de siempre: ninguna sustituye el centro de ayuda oficial — los enlaces viven abajo, y ahí termina la fila si el problema persiste.
 
@@ -434,7 +449,7 @@ Cuatro trancas conocidas del proceso y su primera medicina, contadas con la hone
 
 ───────────────────
 
-🧭 TRES FUTUROS DE 2027 (Lectura honesta, sin bola de cristal)
+*🧭 TRES FUTUROS DE 2027 (Lectura honesta, sin bola de cristal)*
 
 Nadie fuera de Google tiene el guion de 2027. Lo que sí se puede hacer — y esta casa lo hace contigo — es ensayar los tres futuros que la evidencia de hoy permite, para que ninguno te coja de tú a tú.
 
@@ -448,7 +463,7 @@ En los tres: la fecha que sí tienes hoy es la de pararte a leer. Cualquiera de 
 
 ───────────────────
 
-🔎 LA PORTADA OFICIAL, TRANSCRITA Y COMENTADA (lo que el hub ya dice hoy)
+*🔎 LA PORTADA OFICIAL, TRANSCRITA Y COMENTADA (lo que el hub ya dice hoy)*
 
 La primera pantalla del hub oficial, abierta hoy, dice más de lo que parece. Aquí va su recorrido, bloque por bloque, con el comentario de la casa en cada parada:
 
@@ -468,11 +483,11 @@ La portada entera cabía en una fría lista de hechos — y sin embargo hay que 
 
 ───────────────────
 
-🆕 QUÉ TRAE NUEVA ESTA EDICIÓN (contra la guía madre del 15-sep)
+*🆕 QUÉ TRAE NUEVA ESTA EDICIÓN (contra la guía madre del 15-sep)*
 
 La pieza madre quedó sellada como historia; esta es su relevo. Cinco novedades contra aquella:
 
-*Uno — el reloj se actualizó:* de «15 días para el hito» a 8 días; el contador pasó de 110 a 101 el 22-sep y a 79 el 14-oct; hoy sigue en 79. Todo número de cuenta regresiva de esta edición sale de hoy, nunca de la pieza vieja.
+*Uno — el reloj se actualizó:* de «15 días para el hito» (edición madre, 15-sep) al hito ya sonado; el contador pasó de 110 a 101 el 22-sep y a 79 el 14-oct; hoy 15-oct sigue en 79. Todo número de cuenta regresiva de esta edición sale de hoy, nunca de la pieza vieja.
 
 *Dos — los nombres oficiales de las tiendas:* la lista se cita con la grafía actual del hub (HONOR App Market, OPPO App Market), que difiere del acostumbrado casero («HONOR Store», «OPPO Store»). Detalle fino; registro fino.
 
@@ -484,7 +499,7 @@ La pieza madre quedó sellada como historia; esta es su relevo. Cinco novedades 
 
 ───────────────────
 
-❓ PREGUNTAS FRECUENTES
+*❓ PREGUNTAS FRECUENTES*
 
 *¿El 30 de septiembre me bloquea instalar APKs a mano?*
 No. Ese hito alcanza a las siete tiendas participantes en cuatro países (Brasil, Indonesia, Singapur, Tailandia), en distribución nueva. El sideload directo y F-Droid siguen igual — tu reloj serio, si estás fuera del piloto, es 2027.
@@ -514,10 +529,9 @@ La campaña lo subraya: entregar identificación gubernamental a una corporació
 Los pasos del registro son secuenciales y cada uno queda asentado; la consola no es un patio de pruebas. Lee toda la guía de tu consola primero; los pasos 5 y 7 del flujo (APIs y revisión) son los que menos se improvisan.
 
 *¿Dónde leo las fuentes sin la intermediación de nadie?*
-En la sección 🔗 de abajo: hub, guías, FAQ, centros de ayuda y blogs del lado de Google; carta, FAQ, contador y banner del lado de la campaña; análisis completo del lado de F-Droid. Todo se abre hoy, 22-sep-2026, a la fecha de esta nota.
+En la sección 🔗 de abajo: hub, guías, FAQ, centros de ayuda y blogs del lado de Google; carta, FAQ, contador y banner del lado de la campaña; análisis completo del lado de F-Droid. Todo se abrió re-verificado hoy 15-oct-2026, a la fecha de esta nota.
 
-
-📖 HISTORIA CORTA: DEL PATIO ABIERTO A LA PUERTA CON PAPILÓN
+*📖 HISTORIA CORTA: DEL PATIO ABIERTO A LA PUERTA CON PAPILÓN*
 
 Hubo un tiempo en que Android se vendía con una palabra que lo distinguía del teléfono de la manzanita: abierto. Era la palabra de entrada y la palabra de orgullo. Cualquiera podía armar una app en su cuarto, sacarla al mundo por la vía que le diera la gana — su propia página, una tienda libre, el correo del grupo de la familia — y el sistema no le pedía permiso a nadie para correrla. Ese trato, sencillo y antiguo, fue la razón por la que media comunidad del software libre echó raíces ahí: F-Droid creció quince años sobre esa palabra.
 
@@ -529,7 +543,7 @@ El calendario que siguió tiene su lógica fría y se lee en el hub: primero, ab
 
 ───────────────────
 
-🎙️ LAS VOCES DEL TEMA, UNA POR UNA (citas con casillero y fecha)
+*🎙️ LAS VOCES DEL TEMA, UNA POR UNA (citas con casillero y fecha)*
 
 Esta sección pone a cada actor con su propio micrófono, sin mezclar sus ingresos con los nuestros. Seis voces; sus enlaces viven en la sección 🔗.
 
@@ -551,11 +565,11 @@ Seis voces, cero inventario sonoro: cada frase sale de su fuente abierta hoy. El
 
 ───────────────────
 
-🗺️ CÓMO LEER LAS FUENTES SIN PERDER EL PIE (mini-método por sitio)
+*🗺️ CÓMO LEER LAS FUENTES SIN PERDER EL PIE (mini-método por sitio)*
 
 No basta con dar enlaces: hay que enseñar a abrirlos. Estas son las lecturas recomendadas por orden de llegada, y qué mirar en cada una:
 
-*Hub oficial (developer.android.com/developer-verification).* Mira primero la línea del siguiente hito — hoy lleva la fecha del 30-sep-2026 — y después la lista de tiendas participantes: esa lista se mueve con el tiempo y es la pieza que más titulares malos genera. Cierra con las dos consolas: cada una lleva su guía dedicada y su centro de ayuda.
+*Hub oficial (developer.android.com/developer-verification).* Mira primero la línea del hito — hoy 15-oct sigue mostrando el 30-sep ya pasado: el reloj del hub duerme — y después la lista de tiendas participantes: esa lista se mueve con el tiempo y es la pieza que más titulares malos genera. Cierra con las dos consolas: cada una lleva su guía dedicada y su centro de ayuda.
 
 *Guía de distribución limitada.* Si tienes un aula o un taller, aquí está tu futuro: fechas clave, qué puede hacer la cuenta, costo, cómo funciona compartir, si es para ti. Léela entera antes de crear cualquier cuenta: es corta y salva sorpresas.
 
@@ -565,7 +579,7 @@ No basta con dar enlaces: hay que enseñar a abrirlos. Estas son las lecturas re
 
 *El análisis de F-Droid.* Léelo como lo que es: la posición del afectado directo — no una noticia neutra, y tampoco un grito al aire. Está argumentado sección por sección; la fecha importa (29-sep-2025) porque todo lo que siguió (mar/jun/ago-2026) le dio parcialmente la razón en los hechos del calendario.
 
-*La regla de sellado:* cualquier número que alguien te repita de esta guía — incluido «8 días» — reábrelo antes de repetirlo. Los contadores corren: el reloj de ocho días de hoy será de dos días el lunes que viene. Verifica con fecha, cita con fecha, actúa con fecha.
+*La regla de sellado:* cualquier número que alguien te repita de esta guía — incluido el «79 días» — reábrelo antes de repetirlo. Los contadores corren: el reloj de ocho días de hoy será de dos días el lunes que viene. Verifica con fecha, cita con fecha, actúa con fecha.
 
 ───────────────────
 *¿Las app que ya tengo instaladas se seguirán actualizando igual?*
@@ -579,7 +593,7 @@ El piloto solo nombra a las siete participantes declaradas. Las demás tiendas �
 
 ───────────────────
 
-📖 GLOSARIO DEL TEMA (dieciocho términos, sin tecnicismos de salón)
+*📖 GLOSARIO DEL TEMA (dieciocho términos, sin tecnicismos de salón)*
 
 *APK.* El paquete instalable de Android: el «saco» con la app dentro. Instalar el saco a mano es el sideload de toda la vida.
 
@@ -619,7 +633,7 @@ El piloto solo nombra a las siete participantes declaradas. Las demás tiendas �
 
 ───────────────────
 
-😄 EL MEME DE LA PIEZA
+*😄 EL MEME DE LA PIEZA*
 
 Original de la casa, horneado anoche en este horno: un meme que nace DEL tema, ríe CON el lector, no DE nadie.
 
@@ -656,11 +670,11 @@ Esta guía sigue la vara del Tratado V.0.05 y el protocolo del Manual V2.1: cada
 
 *Paso cuatro — la vara del cierre.* Conteo final con len() de Python sobre este texto nativo de WhatsApp (nunca bytes), lectura de orillas (ni una doble estrella impresa jamás como marcado, secciones con aire de siete líneas máximo), y revisión de que no hay ni un solo número sin fecha o sin fuente. El conteo final se anuncia abajo, en la firma, como manda la casa.
 
-*Paso cinco — la humildad de la fecha.* Esta pieza envejece rápido por diseño del propio tema: el hito del 30-sep-2026 ocurrirá ocho días después de su publicación. El día después del hito, los datos principales se reabrirán y esta pieza se actualizará con acta — lo que cambie dirá «cambió», lo que aguante dirá «aguantó». La fecha manda; la pieza obedece.
+*Paso cinco — la humildad de la fecha.* Esta pieza envejece rápido por diseño del propio tema: el hito del 30-sep-2026 sonó quince días después de la edición madre — y esta edición es la re-apertura prometida, con acta. Lo que cambió dice «cambió» (el reloj, los contadores, el calendario); lo que aguanta dice «aguantó» (el sideload, F-Droid, la puerta chica). La fecha manda; la pieza obedece.
 
 ───────────────────
 
-🔗 ENLACES (hub y F-Droid abiertos 22-sep · campaña y estado re-abiertos 15-oct)
+*🔗 ENLACES (hub y F-Droid abiertos 22-sep · campaña y estado re-abiertos 15-oct)*
 
 *Lado de Google:*
 • Hub del programa — https://developer.android.com/developer-verification
@@ -671,7 +685,9 @@ Esta guía sigue la vara del Tratado V.0.05 y el protocolo del Manual V2.1: cada
 • Ayuda Android Developer Console — https://support.google.com/android-developer-console
 • Ayuda Play Console — https://support.google.com/googleplay/android-developer#topic=16689288
 • Blog: apertura a todos (mar-2026) — https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html
+
 • Blog: el piloto y las APIs (jun-2026) — https://android-developers.googleblog.com/2026/06/android-developer-verification.html
+
 • Blog: el flujo avanzado (mar-2026) — https://android-developers.googleblog.com/2026/03/android-developer-verification.html
 
 *Lado de la campaña:*
@@ -686,22 +702,30 @@ Esta guía sigue la vara del Tratado V.0.05 y el protocolo del Manual V2.1: cada
 
 *Voces citadas del análisis:*
 • EFF sobre gatekeeping (nov-2025) — https://www.eff.org/deeplinks/2025/11/application-gatekeeping-ever-expanding-pathway-internet-censorship
+
 • Doctorow, «Darth Android» (sep-2025) — https://pluralistic.net/2025/09/01/fulu/
 • Ars Technica (mar-2026) — https://arstechnica.com/gadgets/2026/03/with-developer-verification-googles-apple-envy-threatens-to-dismantle-androids-open-legacy/
 
 ───────────────────
 
-📝 NOTA DE VERIFICACIÓN (15-oct-2026; anteriores: 22-sep, 14-oct)
+*PULSO AL CORTE — 15-OCT ~15:30 (mapa vivo #2)*
+
+```
+ FreeDroidWarn  ★3.633 -> ★3.633  (15-OCT)
+```
+Re-pulsado en vivo esta tarde: quieto. El resto de la pieza vigila DOCUMENTOS (padrón, cronograma), no repos: sin movimiento que contar. Caja apilada; nada borrado (mapa-maestro).
+
+*📝 NOTA DE VERIFICACIÓN (15-oct-2026; anteriores: 22-sep, 14-oct)*
 
 El 22-sep se abrieron completos: el hub oficial, el análisis de F-Droid y la portada de la campaña. Hoy, 15-oct: portada re-abierta (79; segundo día) y estado constado — el hito se cumplió el 30-sep en los cuatro países; 2027 sigue sin día ni mes; el flujo avanzado vive: nueve pasos, espera de 24 horas, «7 días o indefinido». De ellos salen los datos duros de esta pieza: hito 30-sep-2026 con 7 tiendas y 4 países, plan global 2027, puerta chica de 20 dispositivos sin ID ni tarifa, contador en 79 días, carta con 71 firmantes de 23 países, petición citada con más de 100.000, flujo avanzado de 9 pasos con espera de 24 horas (una sola vez), y el «under threat» vigente de F-Droid. Las cinco citas de voces públicas (Doctorow, EFF, Ars, blogs de marzo y junio de Google) se reconfirmaron localizables desde sus páginas madre hoy; sus textos completos no se reabrieron hoy y así se declara. Las computaciones de días (8 para el hito, reloj a la baja) se calcularon con la fecha de hoy en America/Santo_Domingo. Todo número sin fuente de hoy lleva su clase de duda a la vista; nada vive de la memoria.
 
 ───────────────────
 
-✍️ FIRMA Y DESPEDIDA
+*✍️ FIRMA Y DESPEDIDA*
 
 Pieza 03 de La Bandita, edición dominicano-español, verificada con la vara de la casa el 15 de octubre de 2026 (contadores y estado re-pisados hoy; lo demás conserva su fecha). Conteo final: esta guía cerró dentro de la banda de su clase (WhatsApp, 62 000–64 000 caracteres) — el número exacto sale en el registro vivo de hoy, con nombre y firma.
 
-Esa es la noticia entera, dominicana: hay un censo que empieza en ocho días por allá afuera, y que nos toca la puerta en 2027 por aquí. Entretanto: saber, guardar y sembrar tranquilo. Tu mata es tuya hasta que alguien demuestre lo contrario — con fecha, por favor.
+Esa es la noticia entera, dominicana: hay un censo que ya sonó en cuatro países por allá afuera, y que nos toca la puerta en 2027 por aquí. Entretanto: saber, guardar y sembrar tranquilo. Tu mata es tuya hasta que alguien demuestre lo contrario — con fecha, por favor.
 
 Busca más, y cuida la mata. 🌱
 

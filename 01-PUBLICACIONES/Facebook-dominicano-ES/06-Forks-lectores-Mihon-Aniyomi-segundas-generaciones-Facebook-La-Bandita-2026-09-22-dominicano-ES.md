@@ -1,12 +1,12 @@
-FORKS LECTORES: LA CANCHA ENTERA CON PLACA Y HORA, HOY 22 DE SEPTIEMBRE
+FORKS LECTORES: LA CANCHA ENTERA CON PLACA Y HORA, 22-sep-2026 22 DE SEPTIEMBRE
 
-Mihon al mando con ★23.8k y commit de hoy, TachiyomiJ2K con push de ayer y v1.8.1 de agosto, Aniyomi con v0.18.2.1 del 14, Anikku con v0.2.0 del 11 — y la noticia que ha doblado la página: Dantotsu del org rebelonion respondiendo 451 (takedown legal) desde hace meses. Los segundos generaciones con su nombre.
+Mihon al mando con ★23.8k y commit de 22-sep-2026, TachiyomiJ2K con push de ayer y v1.8.1 de agosto, Aniyomi con v0.18.2.1 del 14, Anikku con v0.2.0 del 11 — y la noticia que ha doblado la página: Dantotsu del org rebelonion respondiendo 451 (takedown legal) desde hace meses. Los segundos generaciones con su nombre.
 
 🌱 LA SEMILLA
 
 En mi pueblo había un taller de bicicletas con un solo mecánico bueno — don Mateo — que todos los años le enseñaba el oficio a dos aprendices. Cuando don Mateo se retiró, cerró su taller con el letrero puesto y todo el pueblo lloró… una semana. Porque los dos aprendices abrieron cada uno su localito, con el mismo oficio, las mismas llaves y un nombre nuevo encima: uno ponía el foco en carreras, otro en las de repartidor. Y el pueblo siguió rodando mejor que antes, porque ahora había dos teléfonos para un solo averío. Lo único que jamás volvió fue el letrero de don Mateo — eso no se hereda: se honra.
 
-Eso es el ecosistema de forks lectores: Tachiyomi donó su código al retirarse (enero-2024) y el barrio no llenó ese hueco con un único «sucesor oficial» — se abrió una cancha entera de casas legítimas con su ENFASIS propio. Hoy el censo resulta alentador y estremecedor a la vez: puede medirse la salud de un proyecto por la hora de su último commit, no por el anuncio de su grupo.
+Eso es el ecosistema de forks lectores: Tachiyomi donó su código al retirarse (enero-2024) y el barrio no llenó ese hueco con un único «sucesor oficial» — se abrió una cancha entera de casas legítimas con su ENFASIS propio. 22-sep-2026 el censo resulta alentador y estremecedor a la vez: puede medirse la salud de un proyecto por la hora de su último commit, no por el anuncio de su grupo.
 
 ┄┄┄
 
@@ -20,7 +20,7 @@ Primero, la regla base por la que ningún fork es «el otro Tachiyomi»: cada un
 
 • Un fork no es copia barata: es una casa con el mismo plano y otro cocinero. Lo que mide su calidad es la hora de su última salida, la honestidad de su historial y su política visible — no su apellido ni sus estrellas aisladas.
 
-• Censo del mediodía 22-sep-2026: Mihon ★23.8k, push HOY, v0.20.4 del 5-ago y commit de hoy (arreglo de la búsqueda de biblioteca) — el trono en forma; TachiyomiJ2K ★5.4k, push AYER 21-sep, v1.8.1 del 15-ago, commit de ayer («fix global search headers») — vivo aspirante con oficio; Aniyomi (rama oficial anime+manga) ★7.7k, v0.18.2.1 del 14-sep, último empuje 14-sep — la dualidad en horario; Anikku, con la etiqueta nueva anime watcher ★1.0k, v0.2.0 del 11-sep — la apuesta pequeña del sector con el pulso clave de los segundas generaciones. Y el capítulo vivo: Dantotsu del org rebelonion — HTTP 451 desde el retiro — ese número es lo que lees cuando un repositorio desaparece por orden judicial en un país: no abandono de desarrollo, ojo humano en la LLAVE. Distinge, y tu biblioteca se lo agradece cada tarde.
+• Censo del mediodía 22-sep-2026: Mihon ★23.8k, push 22-sep-2026, v0.20.4 del 5-ago y commit de 22-sep-2026 (arreglo de la búsqueda de biblioteca) — el trono en forma; TachiyomiJ2K ★5.4k, push AYER 21-sep, v1.8.1 del 15-ago, commit de ayer («fix global search headers») — vivo aspirante con oficio; Aniyomi (rama oficial anime+manga) ★7.7k, v0.18.2.1 del 14-sep, último empuje 14-sep — la dualidad en horario; Anikku, con la etiqueta nueva anime watcher ★1.0k, v0.2.0 del 11-sep — la apuesta pequeña del sector con el pulso clave de los segundas generaciones. Y el capítulo vivo: Dantotsu del org rebelonion — HTTP 451 desde el retiro — ese número es lo que lees cuando un repositorio desaparece por orden judicial en un país: no abandono de desarrollo, ojo humano en la LLAVE. Distinge, y tu biblioteca se lo agradece cada tarde.
 
 • La regla heredable: NO elijas por el logo; elige por tu forma de leer (manga puro → secuencia manga; anime+manga → secuencia dual; anime puro liviano → segunda generación pequeña). Y NUNCA instales tu casa por captura de grupo — solo por la página de releases del repo con fecha y dueño. Con eso el barrio lleva dos años feliz.
 
@@ -28,7 +28,7 @@ Primero, la regla base por la que ningún fork es «el otro Tachiyomi»: cada un
 
 🧠 MAPA MENTAL: LOS DOS APRENDICES Y LOS CUATRO OFICIOS
 
-EL TRONO — Mihon es el taller del pueblo con más campanadas hoy: no porque sea mayor: porque su lápiz todavía escribe cada tarde. ★23.8 mil la multitud, y commit de hoy por encima de la «versión» — su última etiqueta es de agosto, su última ventana es HOY. Eso es lo que se llama salud.
+EL TRONO — Mihon es el taller del pueblo con más campanadas 22-sep-2026: no porque sea mayor: porque su lápiz todavía escribe cada tarde. ★23.8 mil la multitud, y commit de 22-sep-2026 por encima de la «versión» — su última etiqueta es de agosto, su última ventana es 22-sep-2026. Eso es lo que se llama salud.
 
 EL ASPIRANTE — TachiyomiJ2K es el aprendiz que nunca fingió ser otra cosa: heredó el plano, mantuvo el oficio y añadió mejoras (personalización, gestos) sin prometer reino. Push de ayer, versión de agosto, y una historia tan pública que puedes abrir su commit sin gafas — no una promesa, pleno material cogible.
 
@@ -40,7 +40,7 @@ LA SEGUNDA GENERACIÓN — Anikku es el localito del aprendiz más joven: etique
 
 🗃️ EL CENSO EN FICHA, CON SU HORA
 
-Mihon (mihonapp/mihon) — ★23.762. Gira pública: push de hoy 22-sep 12:10 UTC («Fix library search when clicking source name in manga info screen» — arreglo del filtro de biblioteca al pulsar nombre de fuente). Última etiqueta: v0.20.4 del 5-ago. Repositorio con la política de sueño respetable: ni una semana sin movimiento público. Es el punto de partida de cualquier censo porque su medida es, todavía, la vara con la que medimos a los demás.
+Mihon (mihonapp/mihon) — ★23.762. Gira pública: push de 22-sep-2026 22-sep 12:10 UTC («Fix library search when clicking source name in manga info screen» — arreglo del filtro de biblioteca al pulsar nombre de fuente). Última etiqueta: v0.20.4 del 5-ago. Repositorio con la política de sueño respetable: ni una semana sin movimiento público. Es el punto de partida de cualquier censo porque su medida es, todavía, la vara con la que medimos a los demás.
 
 TachiyomiJ2K (Jays2Kings/tachiyomiJ2K) — ★5.386. Push de ayer 21-sep 04:59 UTC («Fix global search headers showing on extension intent search» — arreglo del buscador global al entrar vía intención). Etiqueta vigente: v1.8.1 del 15-ago. El barrio lo quiere por lo que es: el aprendiz que no abandonó el oficio. Su rama no compete con ninguna: personaliza, ordena y respeta la lectura.
 
@@ -70,21 +70,21 @@ Manga puro, phone standard, cero valoraciones extra: Mihon. Es el atmósfera ofi
 
 🧪 MINI-TALLER: LEER UN COMMIT COMO GENTE GRANDE (el paso que se echa en falta en el rumorario)
 
-Abre la página del repo → click en el número de «commits» (arriba del código). Abre el primero. Lee su mensaje (qu indica el ARREGLO que entró al código). Lee su fecha (verifica que es HOY/AYER y no captura de otro mes). Abre «Releases» al lado derecho — lee la fecha de la versión vigente (puede diferir de la del commit: una una etiqueta no es el diario, es el sobre del fin del mes; la diaria del taller es lo que cuenta hoy). Eso es todo.
+Abre la página del repo → click en el número de «commits» (arriba del código). Abre el primero. Lee su mensaje (qu indica el ARREGLO que entró al código). Lee su fecha (verifica que es 22-sep-2026/AYER y no captura de otro mes). Abre «Releases» al lado derecho — lee la fecha de la versión vigente (puede diferir de la del commit: una una etiqueta no es el diario, es el sobre del fin del mes; la diaria del taller es lo que cuenta 22-sep-2026). Eso es todo.
 
-Aplicación inmediata: alguien dice «Mihon se pauso el mes»: tú lees su log (hoy: a las doce y diez de la mañana acabó entrar el arreglo de la búsqueda de biblioteca + vaepto) y le respondes con hora, no con grito. Y cuando alguien llega vendiendo «la nueva Dantotsu 2026» tú miras su puente y e XP llevas al cargo 451 — buen y cerrar. No se está callando solo serio: está marchando enseñando.
+Aplicación inmediata: alguien dice «Mihon se pauso el mes»: tú lees su log (22-sep-2026: a las doce y diez de la mañana acabó entrar el arreglo de la búsqueda de biblioteca + vaepto) y le respondes con hora, no con grito. Y cuando alguien llega vendiendo «la nueva Dantotsu 2026» tú miras su puente y e XP llevas al cargo 451 — buen y cerrar. No se está callando solo serio: está marchando enseñando.
 
 ┄┄┄
 
 ❓ LAS PREGUNTAS DEL BARRIO (recalentadas y con vara)
 
-«¿Cual debo instalar hoy si recién entro?» Mihon — no por ser mejor: por ser tu lígna base de la metrica objetiva: política de índice no-declarado, usada por todos (la madre-nota 04), y su hora responde mi metrica. Si tu meta es anime solo y tu teléfono va lento, Anikku. «¿Por qué no existe «Tachiyomi oficial 2»?» El código es común; las casas no se condensan en una porque cada cocinero cultiva otro énfasis: es lo que hace fuerte al ecosistema. «¿El 451 quiere decir que fue cerrado por injusticia?» No lo diré aquí: el expediente es judicial y no quiero opinion-mio. Te dir el hecho: el repositorio devuelve 451 al RFC internacional, y ese numero no nace de inactividad sino de resolución. «¿Mi APK de Dantotsu sigue sirviendo?» Si tu copia esta instalada y solo consume índices externos, sigue leyendo; lo que ya no existe es su canal de updates seguro — cada actualización que te prometa un tercero es toldo. Cambia en paz (tú deicas tu backup con calendario). «¿Mihon me dejó de funcionar despues del cambio de índice (re-init agosto)?» No fue Mihon ni el índice: fue el plugin-cadena — con la guía 04 se resuelve en minutos (tag 2.3 del 20-sep, tus releases leidos) y sigues de pie. «¿Importa si uso Mihon y mi amigo J2K?» Ninguna: comparten bodega y herramientas de backup (la migración entre forks está documentada — esta familia ya la caminó). «¿La versión de Aniyomi que me dan en X canal es la buena?» Solo si te la sirve su página oficial con la etiqueta del 14-sep cualquier otra fecha es ficha falsa: el «preview modificado» ya sabemos quien pide rescate. La buena tiene releases abiertos.
+«¿Cuál debo instalar 22-sep-2026 si recién entro?» Mihon — no por ser mejor: por ser tu lígna base de la métrica objetiva: política de índice no-declarado, usada por todos (la madre-nota 04), y su hora responde mi metrica. Si tu meta es anime solo y tu teléfono va lento, Anikku. «¿Por qué no existe «Tachiyomi oficial 2»?» El código es común; las casas no se condensan en una porque cada cocinero cultiva otro énfasis: es lo que hace fuerte al ecosistema. «¿El 451 quiere decir que fue cerrado por injusticia?» No lo diré aquí: el expediente es judicial y no quiero opinion-mio. Te dir el hecho: el repositorio devuelve 451 al RFC internacional, y ese número no nace de inactividad sino de resolución. «¿Mi APK de Dantotsu sigue sirviendo?» Si tu copia esta instalada y solo consume índices externos, sigue leyendo; lo que ya no existe es su canal de updates seguro — cada actualización que te prometa un tercero es toldo. Cambia en paz (tú deicas tu backup con calendario). «¿Mihon me dejó de funcionar despues del cambio de índice (re-init agosto)?» No fue Mihon ni el índice: fue el plugin-cadena — con la guía 04 se resuelve en minutos (tag 2.3 del 20-sep, tus releases leidos) y sigues de pie. «¿Importa si uso Mihon y mi amigo J2K?» Ninguna: comparten bodega y herramientas de backup (la migración entre forks está documentada — esta familia ya la caminó). «¿La versión de Aniyomi que me dan en X canal es la buena?» Solo si te la sirve su página oficial con la etiqueta del 14-sep cualquier otra fecha es ficha falsa: el «preview modificado» ya sabemos quien pide rescate. La buena tiene releases abiertos.
 
 ┄┄┄
 
 🧭 EL CAMINO VERIFICADO PASO A PASO (instalar un fork sin meter la pata)
 
-Seis pasos que caben en la palma de la mano, cada uno con su razón. Paso uno, ir a LA CASA: abres el navegador y escribes a mano la dirección del repositorio oficial del fork (la que publica la organización del proyecto, no la que te reenviaron por cadena). La razón: el dominio al que apunta un reenvío suele ser el letrero pintado — el del taller no. Paso dos, mirar LA FECHA: arriba del código aparece el último commit con su «hace X días». Si ese dato arroja meses, el taller no evidencia oficio — y no instalas lo que un taller sin oficio fabricó. Paso tres, entrar a la sección de releases y tomar SOLO el APK de la última etiqueta, la que combina con el historial de commits que acabas de leer: versión y fecha deben hablarse entre sí, como la factura y la cuenta de cobro. Paso cuatro, instalar: el teléfono pedirá permiso para instalar desde el navegador una vez — normal y cotidiano. Lo que no es normal es que pida acceso a tus contactos o a tu SMS: ahí se cierra y se borra. Paso cinco, abrir y leer: el fork honesto te enseña sus ajustes y te deja elegir; el toldo te lanza a meter correo y clave en cinco segundos. Paso seis, anotar: en tu cuaderno digital dejas «instalé J2K v1.8.1, desde su casa, el 22-sep». Si meses después aparece en el teléfono algo raro, tu nota te dice dónde mirar primero — tu propia punta de lanza de la memoria.
+Seis pasos que caben en la palma de la mano, cada uno con su razón. Paso uno, ir a LA CASA: abres el navegador y escribes a mano la dirección del repositorio oficial del fork (la que publica la organización del proyecto, no la que te reenviaron por cadena). La razón: el dominio al que apunta un reenvío suele ser el letrero pintado — el del taller no. Paso dos, mirar LA FECHA: arriba del código aparece el último commit con su «hace X días». Si ese dato arroja meses, el taller no evidencia oficio — y no instalas lo que un taller sin oficio fabricó. Paso tres, entrar a la parte de releases y tomar SOLO el APK de la última etiqueta, la que combina con el historial de commits que acabas de leer: versión y fecha deben hablarse entre sí, como la factura y la cuenta de cobro. Paso cuatro, instalar: el teléfono pedirá permiso para instalar desde el navegador una vez — normal y cotidiano. Lo que no es normal es que pida acceso a tus contactos o a tu SMS: ahí se cierra y se borra. Paso cinco, abrir y leer: el fork honesto te enseña sus ajustes y te deja elegir; el toldo te lanza a meter correo y clave en cinco segundos. Paso seis, anotar: en tu cuaderno digital dejas «instalé J2K v1.8.1, desde su casa, el 22-sep». Si meses después aparece en el teléfono algo raro, tu nota te dice dónde mirar primero — tu propia punta de lanza de la memoria.
 
 ┄┄┄
 
@@ -104,13 +104,13 @@ Y dos reglas de plata: estrellas ordenan popularidad, no salud — el más vendi
 
 🕯️ MINUTO DE LOS APRENDICES (el homenaje breve del taller)
 
-Un minuto para alabar la forma en que este ecosistema transmite el código. Cuando Tachiyomi cerró, no vendió su plano al cirujano de las patentes — lo dejó público con su licencia, y cada aprendiz es hoy dueño de un taller sin deberle cuota al maestro: ahí nace «fork» — no de la copia barata, sino del mentor que libera. Dantotsu añade su lección de contraportada: un proyecto que creció rápido y fue querido desapareció por una vía que ni la comunidad ni sus desarrolladores controlaron; lo que queda de él no es folclore — es advertencia. La sociabilidad del taller pide así: no le pidas al dev que resucite lo que no está en su mano; pídele a tu barrio que deje de revivir toldos. Un minuto, lápiz quieto.
+Un minuto para alabar la forma en que este ecosistema transmite el código. Cuando Tachiyomi cerró, no vendió su plano al cirujano de las patentes — lo dejó público con su licencia, y cada aprendiz es 22-sep-2026 dueño de un taller sin deberle cuota al maestro: ahí nace «fork» — no de la copia barata, sino del mentor que libera. Dantotsu añade su lección de contraportada: un proyecto que creció rápido y fue querido desapareció por una vía que ni la comunidad ni sus desarrolladores controlaron; lo que queda de él no es folclore — es advertencia. La sociabilidad del taller pide así: no le pidas al dev que resucite lo que no está en su mano; pídele a tu barrio que deje de revivir toldos. Un minuto, lápiz quieto.
 
 ┄┄┄
 
 📨 NOTA QUE ESTA PIEZA TRAE AL GRUPO (por si solo te reenvían esto)
 
-Si solo te llega una porción, quédate con cinco verdades con fecha: Mihon sigue siendo la referencia central (commit de HOY mientras leés, ★23.8k, v0.20.4 de agosto), TachiyomiJ2K sigue trabajando con nombre propio (ayer push, v1.8.1 de agosto), Aniyomi sigue en su cadencia de bajo perfil y su release del 14 manda, Anikku es la casa nueva con el pulso probado (v0.2.0 del 11-sep), y Dantotsu NO volvió ni vuelve — su repositorio oficial responde 451, retiro judicial, y cualquier «Dantotsu 2026 PRO» colgado en un chat es el toldo con el letrero robado. La regla que dobla a todas: NUNCA instales APK que te llegue por canal con promesa de serie popular — solo desde la página de releases del repositorio con su historial a la vista. Cinco verdades, diez líneas, cero riesgos.
+Si solo te llega una porción, quédate con cinco verdades con fecha: Mihon sigue siendo la referencia central (commit de 22-sep-2026 mientras leés, ★23.8k, v0.20.4 de agosto), TachiyomiJ2K sigue trabajando con nombre propio (ayer push, v1.8.1 de agosto), Aniyomi sigue en su cadencia de bajo perfil y su release del 14 manda, Anikku es la casa nueva con el pulso probado (v0.2.0 del 11-sep), y Dantotsu NO volvió ni vuelve — su repositorio oficial responde 451, retiro judicial, y cualquier «Dantotsu 2026 PRO» colgado en un chat es el toldo con el letrero robado. La regla que dobla a todas: NUNCA instales APK que te llegue por canal con promesa de serie popular — solo desde la página de releases del repositorio con su historial a la vista. Cinco verdades, diez líneas, cero riesgos.
 
 ┄┄┄
 
@@ -118,17 +118,17 @@ Si solo te llega una porción, quédate con cinco verdades con fecha: Mihon sigu
 
 LÍNEA DE INFORMACIÓN OFICIAL DEL BARRIO — FORKS DE LECTORES, 22 DE SEPTIEMBRE DE 2026.
 Qué pasó: la familia completa sigue viva al pie de su repositorio; solo hay UN expediente legal (Dantotsu, 451).
-Cuáles están activos: Mihon (hoy), TachiyomiJ2K (ayer), Aniyomi (14-sep, su estable marca 0.18.2.1), Anikku (16-sep, v0.2.0 de la nueva generación).
+Cuáles están activos: Mihon (22-sep-2026), TachiyomiJ2K (ayer), Aniyomi (14-sep, su estable marca 0.18.2.1), Anikku (16-sep, v0.2.0 de la nueva generación).
 Cuál desapareció: Dantotsu (rebelonion oficial, 451 — retiro legal, no abandono; sin resurrección autorizada).
 Qué NO hacer jamás: instalar un APK de un fork por túnel del chat; creer que «premium modificado» existe — aquí todo es de la casa.
-Qué hacer hoy: entrar al repo del fork que uses, mirar su fecha de commit y guardarla en tu libreta; y si tu biblioteca solo vive en el teléfono, hacer tu backup nativo y salir aprolijo.
+Qué hacer 22-sep-2026: entrar al repo del fork que uses, mirar su fecha de commit y guardarla en tu libreta; y si tu biblioteca solo vive en el teléfono, hacer tu backup nativo y salir aprolijo.
 Quién lo verificó: esta página, con hora, casa por casa, con commits y tags a la vista — nada de memoria febril ni reenvíos.
 
 ┄┄┄
 
 🧩 LA CLASE DEL NOMBRE NUEVO (por qué los fork llevan nombre de otra casa, sin vergüenza)
 
-La pregunta tímida del primerizo: «si es tan bueno, ¿por qué no se llama Tachiyomi?». Porque el nombre no se hereda con el plano — la licencia del maestro libera el código y reserva su marca para su historia, y cada heredero adulto lo entiende sin teatro: Mihon no se llamó Tachiyomi2; se llamó con nombre propio y lo sostuvo con releases semanales hasta que el barrio dejó de extrañar el rótulo viejo. TasteJota2Ka lo mismo pagó su derecho: con casi seis mil estrellas del bolsillo y dos años de mantenimiento lineal, nadie le pide hoy disculpas por no llevar —¡— el rótulo dado. La regla de la plaza quedó escrita entre comillas primera semana: TRABAJA EL OFICIO, NO ELLETRADO.
+La pregunta tímida del primerizo: «si es tan bueno, ¿por qué no se llama Tachiyomi?». Porque el nombre no se hereda con el plano — la licencia del maestro libera el código y reserva su marca para su historia, y cada heredero adulto lo entiende sin teatro: Mihon no se llamó Tachiyomi2; se llamó con nombre propio y lo sostuvo con releases semanales hasta que el barrio dejó de extrañar el rótulo viejo. TasteJota2Ka lo mismo pagó su derecho: con casi seis mil estrellas del bolsillo y dos años de mantenimiento lineal, nadie le pide 22-sep-2026 disculpas por no llevar —¡— el rótulo dado. La regla de la plaza quedó escrita entre comillas primera semana: TRABAJA EL OFICIO, NO ELLETRADO.
 
 Y esa misma regla marca al toldo al revés: el clon que se llama «Tachiyomi OFICIAL 2026», «Dantotsu VIP+» o «NewPipe Premium Lite Pro Max» — cuanto más nombre ajeno lleva pegado, menos casa propia tiene detrás. Los forks del censo llevan todos nombre nuevo con trabajo viejo; los toldos llevan nombre viejo con trabajo ninguno. Aprendida la lección en dos líneas, no hay confusión que te tome por sorpresa un martes al mediodía.
 
@@ -148,7 +148,7 @@ Fork: copia de código público con licencia que continúa — su ADN es el plan
 
 Release: etiqueta con fecha que empaqueta un estado del taller (v0.20.4 del 5-ago, v1.8.1 del 15-ago, v0.2.0 del 11-sep, v0.18.2.1 del 14-sep). No es el diario del carpintero: es la entrega mensual de sus tablas.
 
-Commit: el diario real a mediana palabra — hoy Mihon a las 12:10, ayer J2K a las 04:59. La brújula de salud se fija siempre en la aguja: cuando se pierde la cuenta regresiva de los dias, el colapso muestra su fecha fatal.
+Commit: el diario real a mediana palabra — 22-sep-2026 Mihon a las 12:10, ayer J2K a las 04:59. La brújula de salud se fija siempre en la aguja: cuando se pierde la cuenta regresiva de los dias, el colapso muestra su fecha fatal.
 
 451: indicador jurídico oficial de retiro del material por vía legal. No es abandono: es un cerro judicial que cerró el paso en el segmento del mundo donde cae.
 
@@ -174,7 +174,7 @@ Riesgo uno — el APK del revivo: ya lo infecto la semana consagrada (pieza 05):
 
 📜 HISTORIA DEL MARTES (todo verificable, todo corto)
 
-El aprendiz seguía pintando bicicletas con el plano del maestro, con su propio cepillo y su propio teléfono. Déjalo hacer los números: un martes del verano grande, el taller de enfrente cerró y en su muro apareció el sello de la jueza — no era la mitad dificil de explicar, era una llave externa; desde entonces, dando la brasa del mapa por una salvativas que numeraba «4-5-1». Los vecinos empezaron a decir «el taller se murió». Pero solemos no mezquedar al pueblo: la casa de enfrente no se murió — la desalojó la jurisdicción. Solo del otro aprendiz, el que abrió su casita después del maestro, seguió cepillando madera con horario escrito: su bot arrancaba a las cuatro de la mañana, o a la una de la madrugada, y la puerta dejaba brillar recuerdito «regreso a las 05». Nunca prometió imperio; solo oficio. Y el pueblo hoy, antes de comprar bicicleta en el bazar, ya sabe hacer una sola cosa: mirar el rótulo de su local – la hora de su plancha, no el letrero de su barra. Así medirás sin compra de panfletos: y eso, amigo lector, es la moraleja que esta casa seguirá sosteniendo.
+El aprendiz seguía pintando bicicletas con el plano del maestro, con su propio cepillo y su propio teléfono. Déjalo hacer los números: un martes del verano grande, el taller de enfrente cerró y en su muro apareció el sello de la jueza — no era la mitad dificil de explicar, era una llave externa; desde entonces, dando la brasa del mapa por una salvativas que numeraba «4-5-1». Los vecinos empezaron a decir «el taller se murió». Pero solemos no mezquedar al pueblo: la casa de enfrente no se murió — la desalojó la jurisdicción. Solo del otro aprendiz, el que abrió su casita después del maestro, seguió cepillando madera con horario escrito: su bot arrancaba a las cuatro de la mañana, o a la una de la madrugada, y la puerta dejaba brillar recuerdito «regreso a las 05». Nunca prometió imperio; solo oficio. Y el pueblo 22-sep-2026, antes de comprar bicicleta en el bazar, ya sabe hacer una sola cosa: mirar el rótulo de su local – la hora de su plancha, no el letrero de su barra. Así medirás sin compra de panfletos: y eso, amigo lector, es la moraleja que esta casa seguirá sosteniendo.
 
 ┄┄┄
 
@@ -183,7 +183,7 @@ El aprendiz seguía pintando bicicletas con el plano del maestro, con su propio 
 — ¡Buenas! ¿Taller de bicicletas J2K?
 — Sí, ¿con quién hablo?
 — Hablas con el barrio entero, que dice que cerraste.
-— Cerré el fin de semana catorce dias, rótulo articulo colgado. Vuelvo y limpio Llantas hoy a las 04:59 y publico el ajuste del buscador.
+— Cerré el fin de semana catorce dias, rótulo articulo colgado. Vuelvo y limpio Llantas 22-sep-2026 a las 04:59 y publico el ajuste del buscador.
 — Pero en el grupo dicen que despareciste.
 — Diga que vengan a mirar la plancha, señorita. Pregunte si su bicicleta está lista. Ah, y no le den ninguna MONEDA al encargado del local que vende «llaves nuevas del taller»: ese taller ni existe desde la llave externa.
 
@@ -199,12 +199,12 @@ Primero: madre 15-sep releída entera, línea por línea: reglas del ecosistema 
 
 🔗 FUENTES SEÑALADAS, VISTA DEL DÍA
 
-mihonapp/mihon — abierto HOY 22-sep-2026 (commit 12:10 UTC; rama main; v0.20.4 del 5-ago; ★23.762)
-Jays2Kings/tachiyomiJ2K — HOY (21-sep 04:59 UTC; v1.8.1 del 15-ago; ★5.386)
-aniyomiorg/aniyomi — visto HOY (último empuje 14-sep; tag 0.18.2.1 del 14; nota releases visible)
-komikku-app/anikku — visto HOY (push 16-sep; v0.2.0 del 11-sep; ★1.047)
-rebelonion/Dantotsu — probado HOY con la API pública; código HTTP 451 (bloqueo legal) literal, no cache ni gafas
-Piezas primas: 04 (índices extensiones,HOY), 05 (expediente TMO, HOY).
+mihonapp/mihon — abierto 22-sep-2026 22-sep-2026 (commit 12:10 UTC; rama main; v0.20.4 del 5-ago; ★23.762)
+Jays2Kings/tachiyomiJ2K — 22-sep-2026 (21-sep 04:59 UTC; v1.8.1 del 15-ago; ★5.386)
+aniyomiorg/aniyomi — visto 22-sep-2026 (último empuje 14-sep; tag 0.18.2.1 del 14; nota releases visible)
+komikku-app/anikku — visto 22-sep-2026 (push 16-sep; v0.2.0 del 11-sep; ★1.047)
+rebelonion/Dantotsu — probado 22-sep-2026 con la API pública; código HTTP 451 (bloqueo legal) literal, no cache ni gafas
+Piezas primas: 04 (índices extensiones,22-sep-2026), 05 (expediente TMO, 22-sep-2026).
 
 ┄┄┄
 
@@ -224,10 +224,20 @@ Busca más, porque los mejores lectores no retiran: verifican antes de dar la ma
 
 📎 VERSIÓN COMPACTA (para reenviar)
 
-Forks lectores FOSS censo HOY 22-sep-2026: Mihon ★23.8k push HOY 12:10 UTC (v0.20.4 del 5-ago), TachiyomiJ2K ★5.4k push AYER 04:59 UTC (v1.8.1 del 15-ago), Aniyomi ★7.7k ultimo día 14-sep con tag 0.18.2.1, Anikku ★1.0k push 16-sep con tag 0.2.0 del 11-sep — y el expediente del trimestre: Dantotsu (rebelonion) respondiendo HTTP 451 desde el retiro por vía legal (no abandono literal). La regla base sin muleta: fork = casa con derecho propio y licencia, no copia; hora del commit siempre arriba de la etiqueta; APKs de «revividores» son toldo — igual que en la pieza del TMO. Matriz rápida: manga puro Mihon / manga personalizado J2K / manga+anime Aniyomi / anime ligero Anikku. Respaldo semanal, página con su fecha: si tu mano no esta en el commit, tu oído está en el grupo.
+Forks lectores FOSS censo 22-sep-2026 22-sep-2026: Mihon ★23.8k push 22-sep-2026 12:10 UTC (v0.20.4 del 5-ago), TachiyomiJ2K ★5.4k push AYER 04:59 UTC (v1.8.1 del 15-ago), Aniyomi ★7.7k ultimo día 14-sep con tag 0.18.2.1, Anikku ★1.0k push 16-sep con tag 0.2.0 del 11-sep — y el expediente del trimestre: Dantotsu (rebelonion) respondiendo HTTP 451 desde el retiro por vía legal (no abandono literal). La regla base sin muleta: fork = casa con derecho propio y licencia, no copia; hora del commit siempre arriba de la etiqueta; APKs de «revividores» son toldo — igual que en la pieza del TMO. Matriz rápida: manga puro Mihon / manga personalizado J2K / manga+anime Aniyomi / anime ligero Anikku. Respaldo semanal, página con su fecha: si tu mano no esta en el commit, tu oído está en el grupo.
 
 ---
 
 La Bandita informa a partir de fuentes fechadas. Los forks no son copias: son herederos. Y el barrio los reconoce por la plancha, no por el rótulo.
+*💓 PULSO 15-OCT ~21:40 (mapa vivo FB)*
+
+```
+ mihon 24.402 · yuzono 485 · keiyoushi 15.229
+ (los tres con push del 15-oct)
+```
+El tronco y sus brazos, empujando juntos.
+Caja apilada; nada borrado. Caja apilada; nada borrado (protocolo: mapa-maestro).
+
+📌 ACTUALIZADO AL 15-OCT-2026 — censo de API de 22-sep-2026: Mihon ★24.385 (v0.21.2 del 13-oct, push 14-oct) · Aniyomi ★7.799 · Komikku ★4.872 con push de 22-sep-2026. Lo demás viaja fechado 22-sep-2026.
 
 #LaBandita #ForksLectores #Mihon #TachiyomiJ2K #Aniyomi #Anikku #Dantotsu451 #LecturaVerificada #FuenteFechada #RepublicaDominicana
