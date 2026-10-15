@@ -84,6 +84,9 @@ chica obligatoria (riesgos, condiciones). Toda advertencia viaja VISIBLE, nunca 
 ☐ 1 emoji por cabecera; total emojis razonable  ☐ mapa con minutos reales del script
 ☐ ⏱️ total en portada  ☐ tags 8-10  ☐ fuentes fechadas  ☐ línea de banda al cierre
 ☐ barrido de caracteres extranjeros/corruptos  ☐ sello SHA-256 al acta
+☐ SIN meta-comentarios de IA ni autorreferencias de fabricación: la
+  pieza no habla de sí misma, de cómo fue hecha ni de sus herramientas
+  (v1.0.1, 15-oct, orden del dueño tras revisar el prototipo WA 11)
 ☐ banda D-002 medida en el mismo script
 
 ## 9. VIGENCIA

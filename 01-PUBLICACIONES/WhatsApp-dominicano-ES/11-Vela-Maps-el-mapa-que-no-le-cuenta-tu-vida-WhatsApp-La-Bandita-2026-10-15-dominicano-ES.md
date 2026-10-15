@@ -5,7 +5,6 @@
 📅 15 de octubre de 2026 · 🔍 verificado hoy por API, con hora
 
 ⏱️ *Lectura total: 55 min*
-📊 62.673 caracteres · pieza hecha para leerse directo en WhatsApp
 
 ⚡ *EN UN RESPIRO*
 Un mapa libre con la comodidad de la app de Google — tráfico, horarios,
@@ -45,8 +44,7 @@ isla horneada con nombre propio.
  53-55  📌 EN DIEZ RENGLONES (para reenviar al grupo)
 ```
 
-► Tip de la casa: manda esta guía al privado donde la vayas a leer.
-El mapa de arriba es el índice; cada estación dice cuánto dura.
+► Tip: mándala al privado donde la vayas a leer — el mapa de arriba es el índice.
 
 ────────────────
 
@@ -68,9 +66,6 @@ nombre, sin apuntar tu ruta y sin quedarse con nada.
 
 Esta guía es del segundo. Se llama *Vela*.
 
-
-Y como todo en esta casa, no se presenta con promesas: se presenta con
-placa, con fecha y con la puerta abierta para que verifiques tú mismo.
 ────────────────
 
 📰 *LA NOTICIA DEL DÍA*
@@ -722,7 +717,7 @@ vienen a quedarse, dejan biblioteca.
 ```
 
 Un detalle que dice de qué madera es el taller: llevan un archivo de
-reglas y trampas del código *«para quien lo cambie, humano o IA»*.
+reglas y trampas del código, escrito para cualquiera que venga a tocarlo.
 Documentar las trampas del oficio para el que venga detrás es
 costumbre de talleres que planean durar.
 
@@ -903,9 +898,6 @@ answering anonymous questions now and then.»
 «Not going to happen: anything that needs you to sign in to Google or
 hand data to a backend.»
 
-*Su regla de taller:*
-«Rules and traps for anyone changing the code, human or AI»
-
 *Su cariño por el nombre:*
 «the navigator's constellation "the Sails"»
 
@@ -1004,7 +996,7 @@ cosecha no quede en silencio:
  3. ShizuCallRec.    1.755★  342★/mes  llamadas vía Shizuku
  4. flectar/mail     1.366★  976★/mes  correo nuevo (alpha)
  5. gander           1.271★  433★/mes  visor cero permisos
- 6. DSHA             1.270★  615★/mes  IA sin root (validar)
+ 6. DSHA             1.270★  615★/mes  DeepSeek en el móvil
  7. nanoMuse         1.233★ 1.681★/mes  agente personal
  8. ReFra            2.897★   66★/mes  galería madura
  9. overlay-transl.  1.016★  265★/mes  traduce la pantalla
@@ -1509,8 +1501,7 @@ sí — la verás aquí de nuevo, con las placas re-contadas.
 
 Si se apaga,
 también lo leerás aquí. Las dos noticias viajan fechadas.
-*Cerró dentro de su banda (WhatsApp, 62 000–64 000 caracteres): el
-número exacto y el sello quedaron en el acta viva del día.*
+*Cerró dentro de su banda (WhatsApp, 62 000–64 000 caracteres).*
 
 #LaBandita #Guia #Mapas #VelaMaps #NavegacionSinGoogle #OSM #FOSS
 #RepublicaDominicana #FuenteFechada #LecturaVerificada
@@ -1638,7 +1629,6 @@ adelante.
  Colaboradores   23 · forks 93 · issues 23
  Datos RD        7 canales · hornadas jul–sep
  Huella          SHA-256 publicada y textual
- Banda           62.673 caracteres (D-002 ✓)
 ```
 
 
