@@ -1,8 +1,8 @@
 ───────────────────
 
-*LA LISTA: el ecosistema libre, guía por guía — el mapa entero de la biblioteca, corte del 2 de octubre*
+*LA LISTA: el ecosistema libre, guía por guía — el mapa entero de la biblioteca, corte del 14 de octubre*
 
-*La Bandita · 2 de octubre de 2026 · edición dominicano-español*
+*La Bandita · 14 de octubre de 2026 · edición dominicano-español*
 
 ───────────────────
 
@@ -20,7 +20,7 @@ Esta guía es el mapa entero: las guías de la casa, una por una, con lo que hay
 2. *🏛️ La Fundación* — guías 01 a 20
 3. *🧱 El Muro* — guías 21 a 47
 4. *⛏️ La Mina* — guías 48 a 79
-5. *🆕 Lo nuevo del corte* (2 de octubre)
+5. *🆕 Lo nuevo del corte* (14 de octubre)
 6. *🗂️ Los catálogos* — el mapa de los mapas
 7. *❓ Preguntas de la lista*
 8. *📚 Glosario de la casa*
@@ -76,7 +76,7 @@ El bloque fundador: las veinte primeras guías de la casa, donde están las tien
 
 *15 — Rama J2K.* El abuelo volvió: tachiyomiJ2K publicó dos versiones en agosto tras dos años y medio de silencio. Yōkai, el tronco, soltó la v1.10.2 el 23 de septiembre; Rokku mantiene; Reikai une manga y novelas en una biblioteca; y Hayai — el fantasma — tiene casa.
 
-*16 — Rama SY/Komikku.* El clásico que sigue (SY) y el rehijo con organización (Komikku, con su fork Houri publicando v1.23.2 el 1 de octubre). Las dos escuelas de fork, y la capa que el grafo esconde: los forks rebasados con casa nueva.
+*16 — Rama SY/Komikku.* El clásico que sigue (SY) y el rehijo con organización (Komikku, con su fork Houri en racha: de la v1.23.2 (1-oct) a la v1.23.21 (14-oct) sin freno). Las dos escuelas de fork, y la capa que el grafo esconde: los forks rebasados con casa nueva.
 
 *17 — La capa de inmersión.* Los que enseñan japonés mientras lees: Chimahon (el fork que mina Anki), Hoshi (el EPUB con mil herramientas), Yomikai (OCR y voces), Yomi Reader (el triple), Koharia (tu servidor Komga en el bolsillo). Estrellas chicas, talleres grandes.
 
@@ -217,17 +217,17 @@ Del archivo del dueño salió una mina que «salió muy mal» la primera vez —
 
 ───────────────────
 
-*🆕 LO NUEVO DEL CORTE — 2 DE OCTUBRE*
+*🆕 LO NUEVO DEL CORTE — 14 DE OCTUBRE*
 
-*El barrido del corte.* Para esta LISTA, la casa pasó la vara por 560 repositorios del ecosistema: 538 contestaron vivos al primer toque, y el resto se reparte entre mudanzas, archivos y muertas — cada uno con su acta y su fecha. El barrido no es trámite burocrático: es la diferencia entre un mapa y un deseo. Lo que aquí se lee de fresco, se pisó antes de escribirse.
+*El barrido del corte.* Para esta LISTA, la casa pasó la vara por 560 repositorios del ecosistema (barrido completo al 2 de octubre) y re-abrió una por una las casas nombradas aquí, con fecha de este corte: 538 contestaron vivos al primer toque, y el resto se reparte entre mudanzas, archivos y muertas — cada uno con su acta y su fecha. El barrido no es trámite burocrático: es la diferencia entre un mapa y un deseo. Lo que aquí se lee de fresco, se pisó antes de escribirse.
 
-*Lo recién nacido.* Kototoro entregó la v2.2.6 el 1 de octubre: tres cajones que no descansan — manga, novelas y vídeo, pulidos en la misma semana que salió esta guía. Y AniZen soltó la v0.5.215 el 30 de septiembre: la beta sigue viva y con su contador de releases a la vista, como le gusta a esta casa.
+*Lo recién nacido.* Kototoro no para: v2.2.6 el 1 de octubre, v2.2.9 el 9 — tres cajones que se pulen semana a semana (manga, novelas y vídeo). Y AniZen mantiene la v0.5.215 del 30 de septiembre con pushes hasta el 11: la beta sigue viva, con su contador de releases a la vista, como le gusta a esta casa.
 
-*La mudanza.* Animiru estrenó organización propia esta quincena: misma obra, misma app, dirección nueva — verificada el día de la mudanza y anotada en el mapa (guía 14). Las mudanzas no se castigan ni se disimulan: se anotan, porque el que busca por la dirección vieja merece encontrar la nueva.
+*La mudanza.* Animiru estrenó organización propia esta quincena: misma obra, misma app, dirección nueva — verificada el día de la mudanza y anotada en el mapa (guía 14). Hoy respira: v0.20.0.1 y código empujado el mismo día de este corte. Las mudanzas no se castigan ni se disimulan: se anotan, porque el que busca por la dirección vieja merece encontrar la nueva.
 
-*La quietud de los troncos.* Mihon sigue en la v0.20.4. Aniyomi en la v0.18.2.1. Komikku en la v1.14.1. Tres troncos grandes sin movimiento en este corte — y la quietud se anota igual que el movimiento, porque el mapa honesto dice lo que hay, no lo que uno quisiera que hubiera. Silencio no es muerte: es pausa con fecha.
+*La quietud y el despertar.* Mihon rompió el silencio: la v0.21.2 salió el 13 de octubre y el tronco mayor empuja código el mismo día de este corte — el movimiento se anota con aplauso y fecha. Aniyomi mantiene la v0.18.2.1 y Komikku la v1.14.1: quietud anotada, que no es muerte — es pausa con fecha. El mapa honesto dice lo que hay, no lo que uno quisiera que hubiera.
 
-*Las bajas del corte, con nombre y fila.* Dos puertas contestaron muertas en el barrido: los dos sozo del profesor — que no deben confundirse con nada que use su nombre después de muerto. Y cuatro casas grandes pasaron al archivo en este corte: Venera (★11.025), Kotatsu (★8.858), ViMusic (★9.477) y RiMusic (★3.901). Ninguna se borra: el mapa no nombra archivados como vivos, pero el Registro los conserva con su fila, su fecha y su firma — la regla de oro de esta casa. Si uno de ellos resucita mañana, vuelve al mapa con verificación nueva. Aquí no se celebra la muerte de nadie: se anota.
+*Las bajas del corte, con nombre y fila.* Dos puertas contestaron muertas en el barrido: los dos sozo del profesor — que no deben confundirse con nada que use su nombre después de muerto. Y cuatro casas grandes están en el archivo, re-constatadas hoy: Venera (★11.191), Kotatsu (★8.923), ViMusic (★9.465) y RiMusic (★3.899). Ninguna se borra: el mapa no nombra archivados como vivos, pero el Registro los conserva con su fila, su fecha y su firma — la regla de oro de esta casa. Si uno de ellos resucita mañana, vuelve al mapa con verificación nueva. Aquí no se celebra la muerte de nadie: se anota.
 
 *Los huecos del corte.* El barrido no es infinito: hubo esquinas que el corte no alcanzó a sondear y fronteras que quedaron anotadas para la próxima hornada. Un mapa que dijera «está todo» estaría mintiendo por orgullo. Esta LISTA dice lo que verificó, cuándo lo verificó y qué falta — con la misma calma con que un pescador dice cuánto trajo y qué quedó en el mar.
 
@@ -241,7 +241,7 @@ Antes de las preguntas y del glosario, los mapas que alimentan este mapa: los ca
 
 *FMHY — la wiki de pistas.* El índice más grande del ecosistema libre, mantenido a pulso por la comunidad. No es un catálogo de verdades: es un catálogo de sospechas útiles — te dice dónde puede estar la puerta, pero entrar y verificar te toca a ti. Descubrimiento ≠ verificación: el embudo completo vive en la guía 12 de esta LISTA.
 
-*Miyomi — el catálogo del anime y el vídeo.* 133 apps extraídas por su API y contestadas al ciento por ciento en este corte: fichadas las vivas, constatadas las muertas, confirmados los huecos. Su toplist se ordena por movimiento, no por fama — y revela una verdad del ecosistema: la segmentación ya vive dentro de las apps, con las multi-contenido a la cabeza. La puerta grande de esta casa (guías 37 y 47) se construyó sobre ese catálogo.
+*Miyomi — el catálogo del anime y el vídeo.* 133 apps extraídas por su API y contestadas al ciento por ciento en el censo que funda este corte: fichadas las vivas, constatadas las muertas, confirmados los huecos. Su toplist se ordena por movimiento, no por fama — y revela una verdad del ecosistema: la segmentación ya vive dentro de las apps, con las multi-contenido a la cabeza. La puerta grande de esta casa (guías 37 y 47) se construyó sobre ese catálogo.
 
 *EverythingMoe — el índice cultural.* La toplist en veinticuatro secciones que demuestra otra cosa que esta casa sospechaba: la cultura libre también se ordena — música, lectura, vídeo, talleres, herramientas — por categorías y no por moda. No se abre para copiar: se abre para descubrir qué sección del mapa propio está despoblada.
 
@@ -609,6 +609,6 @@ Si llegaste hasta aquí, ya tienes lo que hace falta: el mapa entero en el bolsi
 
 Nos vemos en el próximo corte.
 
-*— La Bandita · 2 de octubre de 2026 · edición dominicano-español*
+*— La Bandita · 14 de octubre de 2026 · edición dominicano-español*
 
 ───────────────────
