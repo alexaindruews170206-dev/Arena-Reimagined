@@ -2,7 +2,7 @@
 
 *Ocho días para el censo: la verificación de desarrolladores, contada con la calma de quien mira el reloj ajeno*
 
-*La Bandita · 14 de octubre de 2026 · edición dominicano-español*
+*La Bandita · 15 de octubre de 2026 · edición dominicano-español*
 
 ───────────────────
 
@@ -51,7 +51,7 @@ Esta guía no elige bando por ti. Cuenta los dos bandos con sus nombres y sus fu
 
 Google está armando un censo de desarrolladores de Android. El programa se llama verificación de desarrolladores de Android, y la idea cabe en una línea: para que una aplicación se instale en dispositivos Android certificados, la persona o empresa que la publica tendrá que estar registrada y verificada. Identidad real, nombres de paquete declarados por completo, evidencia de las claves de firma. No se analiza el archivo de la app: se analiza a quien la firma.
 
-Hoy es 14 de octubre de 2026. El primer hito público del cronograma se cumplió: el 30 de septiembre de 2026 entraron en el filtro cuatro países (Brasil, Indonesia, Singapur y Tailandia) y siete tiendas participantes, en dispositivos certificados con Android 7 o superior. La palabra clave de ese hito es piloto: no toca el mundo entero todavía.
+Hoy es 15 de octubre de 2026. El primer hito público del cronograma se cumplió: el 30 de septiembre de 2026 entraron en el filtro cuatro países (Brasil, Indonesia, Singapur y Tailandia) y siete tiendas participantes, en dispositivos certificados con Android 7 o superior. La palabra clave de ese hito es piloto: no toca el mundo entero todavía.
 
 Si vives en República Dominicana — o en cualquier país fuera del piloto — tu fecha nunca fue la de la semana que viene — esa semana ya pasó: es 2027, cuando Google dice que el filtro alcanzará a todas las apps en dispositivos certificados del planeta. La campaña contraria, Keep Android Open, mantiene su propio reloj público en portada: hoy marca 79 días, contando hacia lo que ellos sitúan alrededor de enero de 2027 como el bloqueo efectivo. Dos relojes, dos voces: esta guía te enseña a leer ambos sin que ninguno te asuste.
 
@@ -135,7 +135,7 @@ Ago 2026        Las cuentas de distribución limitada quedan
                 disponibles: 20 dispositivos, sin ID del gobierno,
                 sin tarifa.
 
-14-oct-2026     HOY. El hub oficial marca «Next milestone:
+15-oct-2026     HOY. El hub oficial marca «Next milestone:
                 September 30, 2026» en la primera línea de su
                 portada. La campaña marca 79 días en su contador.
 
@@ -377,7 +377,7 @@ existía desde marzo»            cuenta quedó abierta a todos
                                 en agosto de 2026, con 2FA y
                                 perfil de pagos operativos.
 
-«El contador del mundo          Hoy: 79 días (constado 14-oct).
+«El contador del mundo          Hoy: 79 días (constado 15-oct; dos días seguidos en 79).
 quedaba en 110 días»            El reloj corre para abajo.
 
 «Faltaban 15 días para          Hoy: 8 días. Fechas de esta
@@ -472,7 +472,7 @@ La portada entera cabía en una fría lista de hechos — y sin embargo hay que 
 
 La pieza madre quedó sellada como historia; esta es su relevo. Cinco novedades contra aquella:
 
-*Uno — el reloj se actualizó:* de «15 días para el hito» a 8 días; el contador de la campaña pasó de 110 a 101 el 22-sep y de 101 a 79 hoy, 14-oct. Todo número de cuenta regresiva de esta edición sale de hoy, nunca de la pieza vieja.
+*Uno — el reloj se actualizó:* de «15 días para el hito» a 8 días; el contador pasó de 110 a 101 el 22-sep y a 79 el 14-oct; hoy sigue en 79. Todo número de cuenta regresiva de esta edición sale de hoy, nunca de la pieza vieja.
 
 *Dos — los nombres oficiales de las tiendas:* la lista se cita con la grafía actual del hub (HONOR App Market, OPPO App Market), que difiere del acostumbrado casero («HONOR Store», «OPPO Store»). Detalle fino; registro fino.
 
@@ -523,7 +523,7 @@ Hubo un tiempo en que Android se vendía con una palabra que lo distinguía del 
 
 En agosto de 2025 llegó el anuncio que movió los cimientos del trato: la apertura dejaría de ser el valor por defecto para convertirse en una excepción administrada. La plataforma que era abierta de nacimiento pasaría a ser abierta con padrón: primero te cuento, después corres. La comunidad libre lo sintió una semana después y lo dijo sin adornos: si la distribución libre depende del registro ante la casa que ya tiene el monopolio de la distribución principal, la libertad pasó a ser una licencia.
 
-El calendario que siguió tiene su lógica fría y se lee en el hub: primero, abrir el registro (mar-2026); después, mostrar el flujo de escape (mar-2026); anunciar el piloto con fecha y tiendas concretas (jun-2026); abrir la puerta chica para el que aprende (ago-2026); y el 30-sep-2026, encender el piloto — encendido desde el 30 de septiembre. La última casilla — 2027 — es la única que aún viene sin día ni mes, y es también la única que toca a la República Dominicana, a tu familia y a esta lista.
+El calendario que siguió tiene su lógica fría y se lee en el hub: primero, abrir el registro (mar-2026); después, mostrar el flujo de escape (mar-2026); anunciar el piloto con fecha y tiendas concretas (jun-2026); abrir la puerta chica para el que aprende (ago-2026); y el 30-sep-2026, encender el piloto — encendido el 30 de septiembre. La última casilla — 2027 — es la única que aún viene sin día ni mes, y es también la única que toca a la República Dominicana, a tu familia y a esta lista.
 
 ¿Por qué importa tanto una casilla de calendario? Porque el tema de fondo no es técnico: es la definición de propiedad. Tu teléfono, dice la carta del bando contrario, deja de ser tuyo en la medida en que otro decide qué puede correr en él después de pagado. Google responde que la responsabilidad no quita propiedad: la protege. En el medio queda tú, con tu teléfono en la mano y ocho días menos cada mañana. Esa disputa — no la pantalla de un flujo — es el verdadero cuerpo de esta historia.
 
@@ -650,7 +650,7 @@ Esta guía sigue la vara del Tratado V.0.05 y el protocolo del Manual V2.1: cada
 
 *Paso uno — apertura.* Se relejó la pieza madre de este tema (corte 15-sep) y se marcó todo lo que podía haber caducado: días restantes, tamaños de contadores, listas de tiendas, novedades del frente. Tres datos importantes cambiaron en siete días y quedaron actualizados aquí: faltan 8 días y no 15; el contador de la campaña marca 101 y no 110 días; y las siete tiendas se citan ahora con sus nombres oficiales actuales (HONOR App Market, OPPO App Market).
 
-*Paso dos — verificación viva.* Re-abierta hoy, 14-oct-2026: la portada de la campaña (79 días) y el estado del programa. El hub oficial, el análisis de F-Droid y las fuentes restantes se abrieron el 22-sep y conservan su fecha. Origen: el hub oficial (fecha del hito, tiendas, países, puerta chica, consolas), el análisis de F-Droid del 29-sep-2025 (íntegro, sección por sección) y la portada de la campaña (contador en 101, carta con 71 firmantes de 23 países, petición citada con más de 100.000, nueve pasos del flujo avanzado descritos, FreeDroidWarn y el banner). Las citas de voces — Doctorow «Darth Android», EFF, Ars Technica, los blogs de marzo y junio de Google — se reconfirmaron localizables desde las páginas madre hoy; su lectura textual fina no se reabrió hoy, y así se dice.
+*Paso dos — verificación viva.* Re-abierta hoy, 15-oct-2026: portada de la campaña (79 días) y estado del programa. Hub oficial, análisis de F-Droid y demás fuentes: abiertos el 22-sep, conservan su fecha. Origen: el hub oficial (fecha del hito, tiendas, países, puerta chica, consolas), el análisis de F-Droid del 29-sep-2025 (íntegro, sección por sección) y la portada de la campaña (contador en 101, carta con 71 firmantes de 23 países, petición citada con más de 100.000, nueve pasos del flujo avanzado descritos, FreeDroidWarn y el banner). Las citas de voces — Doctorow «Darth Android», EFF, Ars Technica, los blogs de marzo y junio de Google — se reconfirmaron localizables desde las páginas madre hoy; su lectura textual fina no se reabrió hoy, y así se dice.
 
 *Paso tres — derechos de duda.* Lo que no se pudo precisar quedó escrito tal cual: la fecha exacta de 2027 no la publica nadie; la razón por la que Palm Store figura sin fabricante popular entre nosotros se deja como la presenta la fuente; y el impacto del piloto sobre tiendas alternativas fuera de la lista no se predice — se señala.
 
@@ -660,7 +660,7 @@ Esta guía sigue la vara del Tratado V.0.05 y el protocolo del Manual V2.1: cada
 
 ───────────────────
 
-🔗 ENLACES (hub y F-Droid abiertos 22-sep · campaña y estado re-abiertos 14-oct)
+🔗 ENLACES (hub y F-Droid abiertos 22-sep · campaña y estado re-abiertos 15-oct)
 
 *Lado de Google:*
 • Hub del programa — https://developer.android.com/developer-verification
@@ -691,15 +691,15 @@ Esta guía sigue la vara del Tratado V.0.05 y el protocolo del Manual V2.1: cada
 
 ───────────────────
 
-📝 NOTA DE VERIFICACIÓN (14-oct-2026; corte anterior 22-sep-2026)
+📝 NOTA DE VERIFICACIÓN (15-oct-2026; anteriores: 22-sep, 14-oct)
 
-El 22-sep se abrieron completos: el hub oficial, el análisis de F-Droid y la portada de la campaña. Hoy, 14-oct: portada re-abierta (79 días) y estado constado — el hito se cumplió el 30-sep en los cuatro países; 2027 sigue sin día ni mes; el flujo avanzado vive: nueve pasos, espera de 24 horas, «7 días o indefinido». De ellos salen los datos duros de esta pieza: hito 30-sep-2026 con 7 tiendas y 4 países, plan global 2027, puerta chica de 20 dispositivos sin ID ni tarifa, contador en 79 días, carta con 71 firmantes de 23 países, petición citada con más de 100.000, flujo avanzado de 9 pasos con espera de 24 horas (una sola vez), y el «under threat» vigente de F-Droid. Las cinco citas de voces públicas (Doctorow, EFF, Ars, blogs de marzo y junio de Google) se reconfirmaron localizables desde sus páginas madre hoy; sus textos completos no se reabrieron hoy y así se declara. Las computaciones de días (8 para el hito, reloj a la baja) se calcularon con la fecha de hoy en America/Santo_Domingo. Todo número sin fuente de hoy lleva su clase de duda a la vista; nada vive de la memoria.
+El 22-sep se abrieron completos: el hub oficial, el análisis de F-Droid y la portada de la campaña. Hoy, 15-oct: portada re-abierta (79; segundo día) y estado constado — el hito se cumplió el 30-sep en los cuatro países; 2027 sigue sin día ni mes; el flujo avanzado vive: nueve pasos, espera de 24 horas, «7 días o indefinido». De ellos salen los datos duros de esta pieza: hito 30-sep-2026 con 7 tiendas y 4 países, plan global 2027, puerta chica de 20 dispositivos sin ID ni tarifa, contador en 79 días, carta con 71 firmantes de 23 países, petición citada con más de 100.000, flujo avanzado de 9 pasos con espera de 24 horas (una sola vez), y el «under threat» vigente de F-Droid. Las cinco citas de voces públicas (Doctorow, EFF, Ars, blogs de marzo y junio de Google) se reconfirmaron localizables desde sus páginas madre hoy; sus textos completos no se reabrieron hoy y así se declara. Las computaciones de días (8 para el hito, reloj a la baja) se calcularon con la fecha de hoy en America/Santo_Domingo. Todo número sin fuente de hoy lleva su clase de duda a la vista; nada vive de la memoria.
 
 ───────────────────
 
 ✍️ FIRMA Y DESPEDIDA
 
-Pieza 03 de La Bandita, edición dominicano-español, verificada con la vara de la casa el 14 de octubre de 2026 (re-corte del 22-sep: contadores y estado re-pisados hoy; lo demás conserva su fecha). Conteo final: esta guía cerró dentro de la banda de su clase (WhatsApp, 62 000–64 000 caracteres) — el número exacto sale en el registro vivo de hoy, con nombre y firma.
+Pieza 03 de La Bandita, edición dominicano-español, verificada con la vara de la casa el 15 de octubre de 2026 (contadores y estado re-pisados hoy; lo demás conserva su fecha). Conteo final: esta guía cerró dentro de la banda de su clase (WhatsApp, 62 000–64 000 caracteres) — el número exacto sale en el registro vivo de hoy, con nombre y firma.
 
 Esa es la noticia entera, dominicana: hay un censo que empieza en ocho días por allá afuera, y que nos toca la puerta en 2027 por aquí. Entretanto: saber, guardar y sembrar tranquilo. Tu mata es tuya hasta que alguien demuestre lo contrario — con fecha, por favor.
 

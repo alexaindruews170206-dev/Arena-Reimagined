@@ -2,7 +2,7 @@
 
 *Miyorare: el lector nuevo que llegó al barrio con sus propios sobres de semillas*
 
-*La Bandita · 22 de septiembre de 2026 · edición dominicano-español*
+*La Bandita · 15 de octubre de 2026 · edición dominicano-español*
 
 > *Semilla de esta guía (léela entero, te sirve para todo):* imagina que en tu barrio llevan años las mismas tres colmado-librerías donde todo el mundo compra sus novelas y sus cómics. Un día abre frente a tu casa un cuarto colmado, pequeño todavía, pero con dos detalles que hoy no veías en ninguno: trae *sus propios sobres de semillas* —paquetes de fuentes que él mismo cultiva, revisa y empaca— y vende las plantas de los colmados viejos también, porque aprendió a hablar con todos. ¿Le compras? No de inmediato: primero le miras el registro, le preguntas de dónde saca la mercancía y esperas a ver si abre mañana. Eso es lo que esta guía hace contigo y con *Miyorare*: mirarle el pulso al lector nuevo del barrio, antes de sentarte a leer en su mostrador.
 
@@ -41,7 +41,7 @@
 
 Lo que lo hace noticia dentro del ecosistema: *sus Source Packs oficiales* —paquetes de fuentes que el proyecto cura, compila, verifica y distribuye aparte de la app— y una *compatibilidad declarada* con cinco ecosistemas a la vez (Kotatsu, Mihon, Keiyoushi, UMA y Gekkoushi). Además existe en dos vías: *estable* y *beta*, instalables lado a lado porque usan identificaciones distintas.
 
-Estado contado a 22-sep-2026: versión *v1.4.3*, licencia *GPL-3.0*, ★11 estrellas, 1 fork, 3.561 commits, 40 etiquetas y último empuje de código el *21-sep-2026* —un día antes de esta verificación—. Joven en fama, activo en el taller. Su declaración honesta: el aviso de Play Protect no quiere decir malware, y el APK oficial solo se baja de su GitHub. La nuestra: su «README» no declara todavía paquete de fuentes en español al día de hoy — se dice como está, sin adornarlo.
+Estado contado a 15-oct-2026: versión *v1.4.9* (publicada el 13-oct), licencia *GPL-3.0*, ★13 estrellas, 40 etiquetas y último empuje de código de HOY mismo, día de esta verificación. (El 22-sep contaba: v1.4.3, ★11, 1 fork, 3.561 commits, 40 etiquetas, empuje 21-sep.) Joven en fama, activo en el taller. Su declaración honesta: el aviso de Play Protect no quiere decir malware, y el APK oficial solo se baja de su GitHub. La nuestra: su «README» no declara todavía paquete de fuentes en español al día de hoy — se dice como está, sin adornarlo.
 
 *Para quién es esta guía:* para quien lee manga/cómics/novelas en el teléfono y quiere saber si el vecino nuevo merece mostrador, y para quien quiere aprender a medirle el pulso a cualquier app nueva con la misma vara.
 
@@ -317,7 +317,7 @@ Arriba del listado de archivos hay una línea con el último “paso” del tall
 
 *Cartel 3 — La pestaña Releases (la tienda de versiones)*
 
-Ahí viven las entregas oficiales: v1.4.3 (la estable a 22-sep), sus notas y sus archivos (el APK vive ahí si el proyecto lo hace por la vía sana — como Miyorare declara). Regla práctica: *si el APK no está donde vive el código, el APK no es de la casa*.
+Ahí viven las entregas oficiales: v1.4.9 (la estable a 15-oct; a 22-sep lo era la v1.4.3), sus notas y sus archivos (el APK vive ahí si el proyecto lo hace por la vía sana — como Miyorare declara). Regla práctica: *si el APK no está donde vive el código, el APK no es de la casa*.
 
 ───────────────────
 
@@ -572,7 +572,7 @@ Esta ficha es hermana de la familia completa — no una isla nueva —. Mapa rá
 *🧊 Mitos que caen con la vara*
 
 *Mito 1: «Pocas estrellas en GitHub = app mala o peligrosa.»*
-Las estrellas de GitHub miden *fama*, no *salud*. Al día de verificación: ★11 y 3.561 commits con empuje de ayer. La vara mira el taller en marcha, la licencia visible y los límites escritos; la fama ya vendrá o no vendrá — eso es el vecino el que va ganando clientela, no el código. Al contrario también es verdad: miles de estrellas en un archivo muerto (el caso ViMusic, ya contado en esta serie) no salvan a una app que dejó de respirar. Estrellas ≠ salud, en ambas direcciones.
+Las estrellas de GitHub miden *fama*, no *salud*. Al día de verificación (15-oct): ★13 con release v1.4.9 del 13-oct y empuje de hoy. La vara mira el taller en marcha, la licencia visible y los límites escritos; la fama ya vendrá o no vendrá — eso es el vecino el que va ganando clientela, no el código. Al contrario también es verdad: miles de estrellas en un archivo muerto (el caso ViMusic, ya contado en esta serie) no salvan a una app que dejó de respirar. Estrellas ≠ salud, en ambas direcciones.
 
 *Mito 2: «El aviso de Play Protect quiere decir virus.»*
 Dicho por el propio proyecto y corroborado por lo que declara hacer (permisos avanzados: instalar extensiones, almacenamiento, apps instaladas, Shizuku): el aviso puede aparecer por *permisos sensibles*, no por malicia. La calibración es: ¿el proyecto explicó por escrito por qué pide lo que pide? Miyorare lo explica en su SECURITY.md. Eso cambia el aviso de alarma a aviso acompañado.
@@ -653,7 +653,7 @@ Depende del ritmo: el historial constatado muestra trabajo continuo y temas seri
 
 *🗒️ Nota de verificación de La Bandita (22-sep-2026)*
 
-Todo número de esta ficha se contó hoy en la casa pública del proyecto: versión *v1.4.3*, licencia *GPL-3.0* (LICENCIA con guía ampliada retocada abril-2026), ★11 · 1 fork · *3.561 commits* · *40 tags* · *204 ramas* · último commit *21-sep-2026*; canales stable/beta con IDs distintas; Source Packs oficiales *ID y EN* curados y distribuidos aparte; compatibilidad declarada con Kotatsu, Mihon, Keiyoushi, UMA y Gekkoushi; archivos locales *CBZ/ZIP/EPUB/PDF*; biblioteca con favoritos/categorías/marcadores/notas/historial; respaldo/restauración; soporte Shizuku; explicación propia del aviso de Play Protect; y la propia franqueza del proyecto sobre «oficial ≠ dueño del contenido». 
+Todo número de esta ficha se contó hoy en la casa pública del proyecto: versión *v1.4.9*, licencia *GPL-3.0* (LICENCIA con guía ampliada retocada abril-2026), ★13 · *40 tags* · último commit de HOY (15-oct). Constancia del 22-sep: v1.4.3, ★11 · 1 fork · 3.561 commits · 40 tags · 204 ramas · commit 21-sep; canales stable/beta con IDs distintas; Source Packs oficiales *ID y EN* curados y distribuidos aparte; compatibilidad declarada con Kotatsu, Mihon, Keiyoushi, UMA y Gekkoushi; archivos locales *CBZ/ZIP/EPUB/PDF*; biblioteca con favoritos/categorías/marcadores/notas/historial; respaldo/restauración; soporte Shizuku; explicación propia del aviso de Play Protect; y la propia franqueza del proyecto sobre «oficial ≠ dueño del contenido». 
 
 *Incertidumbres marcadas al fuego:* (1) su documentación no declara linaje de fork — se trate como trata, así se fichó; (2) no consta paquete de fuentes en español al 22-sep — se dijo sin adornarlo; (3) compatibilidad declarada ≠ promesa cerrada, dicho por la propia casa y dicho otra vez aquí. Lo que no consta no se pinta; se anota y se visita el día exacto que conste.
 
@@ -690,3 +690,5 @@ La familia lectora del barrio no se cierra con esta pieza: Mihon y Kotatsu sigue
 ───────────────────
 
 #LaBandita #Miyorare #LectorAndroid #MangaYNovelas #SourcePacks #GPL3 #VerificaAntesDeInstalar #EcosistemaLibre #Shizuku #FuenteFechada #LecturaEnEspañol #OpenSource
+
+📝 *RE-CORTE 15-oct-2026 (censo de API).* El joven del barrio está en racha: de la v1.4.3 que esta guía retrató el 22-sep a la *v1.4.9* del 13-oct — con v1.4.7 (10-oct) y v1.4.8 (11-oct) en medio —, ★11 → ★13, y código empujado el día mismo de este re-corte. Los Source Packs oficiales conservan su constancia declarada.

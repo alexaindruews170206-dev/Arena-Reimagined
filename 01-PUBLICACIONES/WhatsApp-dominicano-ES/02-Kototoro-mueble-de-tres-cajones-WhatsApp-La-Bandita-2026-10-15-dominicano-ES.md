@@ -2,7 +2,7 @@
 
 *Kototoro: el mueble de tres cajones que hoy se hizo dos veces en un día*
 
-*La Bandita · 22 de septiembre de 2026 · edición dominicano-español*
+*La Bandita · 15 de octubre de 2026 · edición dominicano-español*
 
 > *Semilla de esta guía:* en tu cuarto había tres muebles: el casillero del manga, el librero de las novelas y la mesita del televisor. Un día llega un carpintero del barrio con *un solo mueble de tres cajones* que cabe en el espacio de uno. Oferta tentadora — pero la pregunta adulta no es «¿cabe?» sino «¿el carpintero firma su trabajo y abre el taller?». Hoy, 22 de septiembre de 2026, este carpintero entregó *dos muebles nuevos esta misma tarde*, con su libreta de obra a la vista: la *v2.1.4 a las 15:05* y la *v2.1.5 a las 17:04*. Esa libreta — no la oferta — es lo que esta guía abre contigo, página por página.
 
@@ -55,7 +55,7 @@
 
 *Kototoro* es una aplicación Android libre y abierta, licencia *Apache-2.0*, que reúne *manga, novelas y vídeo en un solo lector*. La describe su propia casa así: _«open-source Android app that brings manga, novels, and video into one reader… with local OCR + translation, video super-resolution, and WebDAV-based multi-device sync»_. Traducido al patio: una app donde lees tu manga, lees tu novela larga y ves tu vídeo sin cambiar de mueble; traduce en el propio teléfono con OCR de modelos descargables; mejora la imagen del vídeo con super-resolución (Anime4K/NCNN); y sincroniza tu biblioteca entre dispositivos por WebDAV.
 
-*La noticia del día, con hora:* hoy 22 de septiembre de 2026 salieron *dos versiones* de la serie 2.1: la *v2.1.4 a las 15:05* (un paquete grande dedicado por entero al lector: mosaicos decodificados sin esperar al dedo, fin del ventilador de carga fantasma, doble toque y zoom programático en lectura horizontal, bandejas nuevas en el inicio) y la *v2.1.5 a las 17:04* (dos retoques finos del flujo: el botón de «seguir leyendo» ya no se pelea con la barra de desplazamiento, y las tarjetas sin dato remoto heredan la identidad guardada). Son *seis versiones en doce días*: 2.1.0 (11-sep), 2.1.1 (13-sep), 2.1.2 (14-sep), 2.1.3 (15-sep), 2.1.4 (22-sep), 2.1.5 (22-sep).
+*La noticia del día, con hora:* aquel 22 de septiembre de 2026 salieron *dos versiones* de la serie 2.1: la *v2.1.4 a las 15:05* (un paquete grande dedicado por entero al lector: mosaicos decodificados sin esperar al dedo, fin del ventilador de carga fantasma, doble toque y zoom programático en lectura horizontal, bandejas nuevas en el inicio) y la *v2.1.5 a las 17:04* (dos retoques finos del flujo: el botón de «seguir leyendo» ya no se pelea con la barra de desplazamiento, y las tarjetas sin dato remoto heredan la identidad guardada). Son *seis versiones en doce días*: 2.1.0 (11-sep), 2.1.1 (13-sep), 2.1.2 (14-sep), 2.1.3 (15-sep), 2.1.4 (22-sep), 2.1.5 (22-sep).
 
 *El pulso contado hoy en su casa pública:* ★581 estrellas, 46 forks, 9 ramas, 200 etiquetas y *7.139 commits* — el 13-sep eran unos 6.950: esto es un metro de obra diario, no un taller dormido.
 
@@ -414,11 +414,11 @@ Decir «todavía no» también es servir al vecino: el barrio lector no necesita
 Los lectores del ecosistema, cada número *con su fecha de constancia*:
 
 ```
-Mihon     ★23.601  v0.20.4 · push 15-sep   [constado 15-sep]  manga
-Aniyomi   ★7.683   push 14-sep             [constado 15-sep]  manga+anime
-Komikku   ★4.721   v1.14.1 · push 11-sep   [constado 15-sep]  manga
+Mihon     ★24.385  v0.21.2 (13-oct) · push 14-oct  [constado 15-oct]  manga
+Aniyomi   ★7.799   push 14-sep             [constado 15-oct]  manga+anime
+Komikku   ★4.872   v1.14.1 · push 15-oct   [constado 15-oct]  manga
 Tadami    ★260     v0.62 (12-sep)          [constado 15-sep]  manga+anime+ranobe
-Kototoro  ★581     v2.1.5 HOY              [constado 22-sep]  manga+novelas+vídeo
+Kototoro  ★621     v2.2.9 (9-oct) · push HOY  [constado 15-oct]  manga+novelas+vídeo
 ```
 
 Regla de la vecindad: las extensiones de un árbol no sirven en el otro (las fuentes de Kotatsu/Usagi son otro tronco y otra familia de guías), y *ninguna app es «la mejor» en abstracto*: la buena es la que cubre lo que tú lees, con la casa viva hoy. El vecindario completo, con su vara y sus fechas, lo lleva la serie; esta pieza solo se asegura de que el mueble de tres cajones quede sentado en la silla correcta del mapa — independiente por cédula propia, host del idioma de los demás por compatibilidad declarada.
@@ -730,3 +730,5 @@ Ocho días después del censo original volvimos al repositorio con la libreta ab
 ───────────────────
 
 #LaBandita #Kototoro #MangaYNovelas #LectorAndroid #ComposeFirst #Apache2 #VerificaAntesDeInstalar #EcosistemaLibre #FuenteFechada #OpenSource #TVBox #WebDAV
+
+📝 *RE-CORTE 15-oct-2026.* El carpintero no paró desde aquella tarde de dos versiones: *v2.2.6 (1-oct), v2.2.8 (7-oct) y v2.2.9 (9-oct)*, con código empujado el mismo día de este re-corte (★621). El Nightly sigue vivo (push 14-oct). Tabla del vecindario re-pisada hoy con censo de API; *Tadami conserva su constancia del 15-sep* (no re-verificado hoy). Lo demás conserva su fecha.

@@ -384,3 +384,5 @@ La caja de oficio 2026, 22-sep, medida hoy al mediodía: Fossify viva entera (Ga
 La Bandita informa a partir de fuentes fechadas. Las herramientas que cuidas te cuidan. El barrio que verifica cada push, nunca dormirá con la puerta abierta al toldo.
 
 #LaBandita #HerramientasFOSS #Fossify #KeePassDX #Aegis #LocalSend #TermuxApp #AppManager #Shizuku #OrganicMaps #Obtainium #Orbot #LecturaVerificada #FuenteFechada #RepublicaDominicana
+
+📝 *RE-CORTE 15-oct-2026 (censo de API).* Las casas de la caja, re-pisadas hoy: App Manager ★9.237 con push del 14-oct · Termux ★62.664 (26-sep) · Obtainium ★20.428 (14-oct) · Shizuku sigue sin push desde 18-jun-2025 — dieciséis meses quieto, y la conversación honesta de esta caja sigue vigente al día de hoy. Los cajones no cambiaron: la lista de quince es la misma. Fichas citadas de ediciones anteriores conservan su fecha.

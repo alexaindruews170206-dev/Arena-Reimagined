@@ -2,7 +2,7 @@ FORKS DE LECTORES: EL MAPA VIVO DE MIHON, ANIYOMI Y SUS SEGUNDAS GENERACIONES
 
 Cuándo un fork es proyecto y cuándo solo es una foto del padre — el censo de hoy, con estrellas contadas esta misma mañana repo por repo.
 
-*Edición de La Bandita del 22 de septiembre de 2026. Sustituye a la edición del 15-sep: todas las placas principales re-contadas hoy sobre las casas oficiales. Sin afiliación con ningún proyecto vinculado; no recomendamos instalar nada desde fuera de sus propios repos.*
+*Edición de La Bandita del 15 de octubre de 2026. Sustituye a las ediciones del 15-sep y del 22-sep: las placas principales re-contadas hoy sobre las casas oficiales; lo no re-contado conserva su fecha declarada. Sin afiliación con ningún proyecto vinculado; no recomendamos instalar nada desde fuera de sus propios repos.*
 
 ───────────────────
 
@@ -32,9 +32,9 @@ Después lo que pocos cuentan: la infraestructura que nadie ve (SyncYomi y el se
 
 • Tachiyomi — el lector de manga libre que marcó una época — cerró su núcleo en enero de 2024. Lo que quedó NO es «Tachiyomi con otro nombre»: es una familia de proyectos distintos, con dueños, ritmos y licencias propias. Ninguna estrella instala nada; ningún parentesco garantiza nada.
 
-• Censo manga contado HOY, 22-sep-2026: Mihon ★23.8 mil con commit de hace 14 horas, 8.020 commits acumulados — el sucesor de hecho. TachiyomiSY ★4.2 mil, master al 21-jul, versión 1.13.2 del 13-jul; su grafo Ya declara el bisabuelo (TachiyomiAZ) a la vista. Komikku ★4.8 mil, master al 17-jul, 10.617 commits. Neko ★2.8 mil, commit de hace 7 horas — el especialista MangaDex en plena migración de su lector a Compose (fase 1 integrada el 25-ago).
+• Censo manga re-contado HOY, 15-oct-2026: Mihon ★24.4 mil con release v0.21.2 firmada el 13-oct y empuje del 14, 8.020 commits acumulados — el sucesor de hecho. TachiyomiSY ★4.2 mil, master al 21-jul, versión 1.13.2 del 13-jul; su grafo Ya declara el bisabuelo (TachiyomiAZ) a la vista. Komikku ★4.8 mil, master al 17-jul, 10.617 commits. Neko ★2.8 mil, commit de hace 7 horas — el especialista MangaDex en plena migración de su lector a Compose (fase 1 integrada el 25-ago).
 
-• Censo anime contado HOY: Aniyomi ★7.7 mil, commit del 14-sep añadiendo soporte a extensions-lib v17 — la rama madre cavando la versión siguiente, aún sin release estable pero viva. Anikku ★1.0 mil, release r8944 del 16-sep — la rama anime más movida del mes. Tadami ★266, con v0.63.0 del 16-sep y 2.062 commits por delante de su madre — manga, anime y ranobe. Animetail queda a su fecha del 15-sep (★579), marcado como no re-contado hoy.
+• Censo anime re-contado HOY: Aniyomi ★7.8 mil, empuje sigue del 14-sep añadiendo soporte a extensions-lib v17 — la rama madre cavando la versión siguiente, aún sin release estable pero viva. Anikku ★1.0 mil, release r8944 del 16-sep — la rama anime más movida del mes. Tadami ★266, con v0.63.0 del 16-sep y 2.062 commits por delante de su madre — manga, anime y ranobe. Animetail queda a su fecha del 15-sep (★579), marcado como no re-contado hoy.
 
 • La infraestructura invisible también respira: SyncYomi ★718, commit de hace 3 horas probando bibliotecas gigantes, versión v1.5.6 del 18-sep. Y su propia portada regala la blunt más honesta del mapa: declara que el cliente Mihon dedicado probablemente nunca se implementará — los límites del dueño, escritos por el dueño.
 
@@ -89,7 +89,7 @@ Con esas cuatro puertas, el mapa se reduce solo: decenas de forks se quedan fuer
 🌳 EL ÁRBOL COMPLETO DE HOY (censo del 22-sep)
 
 EL TRONCO MANGA (linaje Tachiyomi → Mihon)
-• Mihon — ★23.8 mil · commit HOY (14 h) · 8.020 commits · Apache-2.0 — el sucesor de hecho
+• Mihon — ★24.4 mil · v0.21.2 (13-oct) · push 14-oct · Apache-2.0 — el sucesor de hecho
 • TachiyomiSY — ★4.2 mil · master al 21-jul · v1.13.2 (13-jul) · Apache-2.0 — el clásico con nombre viejo
 • TachiyomiSYPreview — ★492 (a su fecha) · r6332 (14-ago) · host de pruebas
 • Komikku — ★4.8 mil · master al 17-jul · 10.617 commits · Apache-2.0 — el rehijo con casa propia
@@ -97,7 +97,7 @@ EL TRONCO MANGA (linaje Tachiyomi → Mihon)
 • (Decenas de forks sin proyecto propio: no se listan — la regla)
 
 LA RAMA ANIME (manga + anime + primos)
-• Aniyomi — ★7.7 mil · commit 14-sep (extensions-lib v17) · 8.135 commits · Apache-2.0 — la rama madre
+• Aniyomi — ★7.8 mil · empuje 14-sep (extensions-lib v17) · 8.135 commits · Apache-2.0 — la rama madre
 • Aniyomi-preview — host de pruebas (a su fecha de la edición vieja)
 • Anikku — ★1.0 mil · release r8944 (16-sep) · 8.935 commits · Apache-2.0 — anime, org Komikku
 • Tadami — ★266 · v0.63.0 (16-sep) · 2.062 commits adelante de su madre · Apache-2.0 — manga+anime+ranobe
@@ -113,9 +113,9 @@ EL ÁRBOL VECINO — Kotatsu/Usagi (GPL, parsers propios): otra gramática, otra
 
 📱 FICHA POR FICHA: LOS VIVOS DEL CENSO (contadas hoy)
 
-*Mihon — el tronco.* https://github.com/mihonapp/mihon — ★23.8 mil contadas esta mañana (la edición anterior contaba 23.601: el tronco sigue creciendo) · forks 1.5 mil · 8,020 commits · etiquetas 105 · ÚLTIMO COMMIT HOY, hace 14 horas: PR #4002 arreglando la búsqueda de la biblioteca al tocar el nombre de la fuente · licencia Apache-2.0. Su comunidad de traducciones empuja a diario; su versión estable vigente marcaba el 5 de agosto en nuestra edición anterior, y hoy consta que la rama sigue barriendo sin anunciar APK nueva — el oficio hecho rutina. Keiyoushi lo nombra primero entre sus apps soportadas, y en este ecosistema esa mención es la recomendación que vale.
+*Mihon — el tronco.* https://github.com/mihonapp/mihon — ★24.4 mil contadas hoy (la edición del 22-sep contaba 23.8 mil: el tronco sigue creciendo; release v0.21.2 firmada el 13-oct) · forks 1.5 mil · 8,020 commits · etiquetas 105 · ÚLTIMO COMMIT HOY, hace 14 horas: PR #4002 arreglando la búsqueda de la biblioteca al tocar el nombre de la fuente · licencia Apache-2.0. Su comunidad de traducciones empuja a diario; su versión estable vigente marcaba el 5 de agosto en nuestra edición anterior, y hoy consta que la rama sigue barriendo sin anunciar APK nueva — el oficio hecho rutina. Keiyoushi lo nombra primero entre sus apps soportadas, y en este ecosistema esa mención es la recomendación que vale.
 
-*Un apunte de la ficha que enseña a leer:* el push de hoy NO significa versión nueva. Mihon lleva semanas siendo el ejemplo vivo de «pushed_at ≠ release» — taller barriendo todos los días, vitrina cambiando cuando sale tag. Aprende la diferencia aquí y la tendrás para todos los repos de tu vida.
+*Un apunte de la ficha que enseña a leer:* el push no significa versión nueva — y este re-corte lo demuestra en ambas direcciones: Mihon lleva semanas siendo el ejemplo vivo de «pushed_at ≠ release», y el 13-oct la vitrina por fin alcanzó al taller: v0.21.2 firmada. Taller barriendo todos los días, vitrina cambiando cuando sale tag. Aprende la diferencia aquí y la tendrás para todos los repos de tu vida.
 
 *TachiyomiSY — el vivo con el nombre viejo.* https://github.com/jobobby04/TachiyomiSY — ★4.2 mil contadas hoy · 9.935 commits · master con último empuje del 21 de julio (PR #1629, migración asíncrona del ordenamiento) · versión vigente 1.13.2 del 13 de julio · Apache-2.0. La portada de hoy deja legible un dato que antes pedía excavar: el grafo lo declara fork de TachiyomiAZ — el linaje con bisabuelo visible, para alegría de la taxonomía. Su julio incluyó subida del SDK mínimo y release firmada; desde entonces, silencio de taller pausado — no muerto: la regla de la casa marca la diferencia, y los dos años de historial sólido mandan más que dos meses de calma.
 
@@ -125,7 +125,7 @@ EL ÁRBOL VECINO — Kotatsu/Usagi (GPL, parsers propios): otra gramática, otra
 
 *Neko — el especialista.* https://github.com/nekomangaorg/Neko — ★2.8 mil contadas hoy · 8.476 commits · 351 tags · COMMIT DE HOY hace 7 horas (PR #3425: el motor de precarga del nuevo lector corrigiendo su propio test) · «Unofficial MangaDex Reader for Android 8+». Su temporada es la obra gruesa de la familia: el 25 de agosto integró la FASE 1 de la migración de todo su lector a Jetpack Compose — actividad, visores y capas reescritos a la vista — y el 14-sep actualizó su CI a JDK 21. Es del linaje de los forks de Tachiyomi, pero su propósito propio no se discute: una sola fuente, hecha mejor que nadie. Para quien vive en MangaDex es ficha aparte; para el resto, un martillo con forma de destornillador — la frase de la edición vieja sigue sirviendo.
 
-*Aniyomi — la rama madre del manga+anime.* https://github.com/aniyomiorg/aniyomi — ★7.7 mil contadas hoy · 8.135 commits · empuje del 14-sep que dice la frase del mes en estas ramas: «feat: Add support for extensions-lib v17». Léela otra vez: la convención que la pieza 04 documentó como la era siguiente YA vive en la rama madre de los lectores. Casi un año sin release estable y cavando sin pausa — madura y trabajando, no cadáver; su propio README ha llevado meses diciendo justamente eso a quien pregunta. Su host Aniyomi-preview sigue para quien prueba y reporta.
+*Aniyomi — la rama madre del manga+anime.* https://github.com/aniyomiorg/aniyomi — ★7.8 mil contadas hoy · 8.135 commits · empuje del 14-sep que dice la frase del mes en estas ramas: «feat: Add support for extensions-lib v17». Léela otra vez: la convención que la pieza 04 documentó como la era siguiente YA vive en la rama madre de los lectores. Casi un año sin release estable y cavando sin pausa — madura y trabajando, no cadáver; su propio README ha llevado meses diciendo justamente eso a quien pregunta. Su host Aniyomi-preview sigue para quien prueba y reporta.
 
 *Anikku — el anime-client activo.* https://github.com/komikku-app/anikku — ★1.0 mil contadas hoy · 8.935 commits · 18 tags · release r8944 del 16-sep, con un detalle que este mapa premia por encima de cualquier campaña: compatibilidad con los enlaces «añadir repo» de Aniyomi (PR #245). Antes de eso, la lib 16 integrada con paciencia (release candidates cherry-picados uno a uno) más el sistema de temporadas heredado de la rama madre. La más movida de la rama anime en septiembre — igual que en la edición anterior; algunos récords se repiten solos.
 
@@ -326,11 +326,11 @@ La moraleja la regala la pieza anterior de esta serie: el ecosistema que sobrevi
 
 ```
 CASO / TALLER      PLACA HOY     SEÑAL VIVA                NOTA
-Mihon              ★23.8 mil     commit HOY 14 h           tronco al día
+Mihon    ★24.4 mil  v0.21.2 (13-oct)      tronco al día
 TachiyomiSY        ★4.2 mil      master al 21-jul          clásico, verano
 Komikku            ★4.8 mil      master al 17-jul          rehijo, verano
 Neko               ★2.8 mil      commit HOY 7 h            obra gruesa
-Aniyomi            ★7.7 mil      commit 14-sep (v17)       rama madre, cava
+Aniyomi  ★7.8 mil  commit 14-sep (v17)  rama madre, cava
 Anikku             ★1.0 mil      release r8944 (16-sep)    la más movida
 Tadami             ★266          v0.63.0 (16-sep)          el joven, corre
 Animetail          ★579 (15-sep) push 7-sep (fecha)        a su fecha
@@ -710,7 +710,7 @@ Abiertos hoy y medidos en su propia página: Mihon, Aniyomi, TachiyomiSY, Tachiy
 
 ✍️ FIRMA Y DESPEDIDA
 
-Pieza 06 de La Bandita, edición dominicano-español, verificada con la vara de la casa el 22 de septiembre de 2026. Cerró dentro de su banda (WhatsApp, 62 000–64 000 caracteres): el número exacto quedó en el acta viva del día.
+Pieza 06 de La Bandita, edición dominicano-español, verificada con la vara de la casa el 15 de octubre de 2026 (re-corte: placas re-contadas hoy; lo no re-contado conserva su fecha). Cerró dentro de su banda (WhatsApp, 62 000–64 000 caracteres): el número exacto quedó en el acta viva del día.
 
 El maestro cerró su taller hace casi tres años, y los aprendices levantaron los suyos — unos con la persiana subida esta misma mañana, otros con el martillo todavía en la mano del verano. No compres apellidos: mira quién barre. Instala desde Releases con tag y fecha, respalda con liturgia y elige el taller por la materia que lees — no por el nombre que supiste.
 
@@ -721,3 +721,5 @@ Busca más, y que tu taller levante la persiana contigo.
 ───────────────────
 
 #LaBandita #LectoresLibres #Mihon #Aniyomi #NekoMangaDex #Komikku #ForksSaludables #GitHubDeConfianza #VerificaAntesDeInstalar #FuenteFechada #EcosistemaLibre #RepublicaDominicana
+
+📝 *RE-CORTE 15-oct-2026 (censo de API).* Mihon ★24.385 · v0.21.2 (13-oct) · push 14-oct · Aniyomi ★7.799 (empuje 14-sep) · Komikku ★4.872, v1.14.1 con push de hoy · *Houri v1.24.0 publicada hoy* (racha: 1.23.2 el 1-oct → 1.24.0 el 15) · *AniZen v0.5.217 publicada hoy* · Animiru ★893, v0.20.0.1, push de hoy. Animetail, Tadami, Yōkai, Reikai, Rokku y Hayai conservan su constancia declarada (no re-verificadas hoy).

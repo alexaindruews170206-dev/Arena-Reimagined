@@ -2,7 +2,7 @@
 
 *Los almacenes de las bombillas: extensiones, hubs vivos y la feria donde venden funditas que no encienden*
 
-*La Bandita · 22 de septiembre de 2026 · edición dominicano-español*
+*La Bandita · 15 de octubre de 2026 · edición dominicano-español*
 
 ───────────────────
 
@@ -51,10 +51,10 @@ Las extensiones son la capa que conecta un lector libre — Mihon, Komikku y sus
 Los datos de esta mañana, abiertos hoy:
 
 ```
-Keiyoushi extensions          ★15.0 mil  bot empujó HOY     el hub
+Keiyoushi extensions          ★15.2 mil  bot empujó HOY     el hub
   (su repositorio se re-inicializó el 13-ago-2026 como
    almacén basado en releases — ciclo nuevo)
-Keiyoushi extensions-source   vivo (★4.7 mil al 15-sep)     el código
+Keiyoushi extensions-source   vivo (★4.8 mil al 15-oct)     el código
 Yūzōnō anime-extensions       ★439       commit hace 3 h    anime
   (su core recibió el 17-sep el «Keiyoushi Network Import»:
    el árbol oficial se injerta en el árbol de la familia)
@@ -237,7 +237,7 @@ Y una aclaración de honestidad técnica, porque la vara marca la diferencia: la
 
 El directorio comunitario que cataloga apps, almacenes y guías del ecosistema entero. Novedades de fondo desde la madre de esta pieza:
 
-Primera — cambio de casa legal: el repositorio migró su titularidad a una organización propia, visible en el propio historial («changed repo owner», jun-2026) y hoy se lee bajo esa org. Segunda — cambio de licencia y de marca: pasó de Apache-2.0 a AGPL-3.0 con una cláusula de marca registrada añadida el 30-jun-2026, pidiendo que los forks y clones alojados no usen el nombre «Miyomi» para presentarse. Tercera — la placa de hoy: 188 estrellas, último empuje el 31-ago (moderación y estados limpios del panel de administración) — vivo, con ritmo más lento que los almacenes porque su trabajo es de vitrina y de catálogo, no de paquetería diaria.
+Primera — cambio de casa legal: el repositorio migró su titularidad a una organización propia, visible en el propio historial («changed repo owner», jun-2026) y hoy se lee bajo esa org. Segunda — cambio de licencia y de marca: pasó de Apache-2.0 a AGPL-3.0 con una cláusula de marca registrada añadida el 30-jun-2026, pidiendo que los forks y clones alojados no usen el nombre «Miyomi» para presentarse. Tercera — la placa de hoy: 201 estrellas, último empuje el 31-ago (moderación y estados limpios del panel de administración) — vivo, con ritmo más lento que los almacenes porque su trabajo es de vitrina y de catálogo, no de paquetería diaria.
 
 Lo que no cambió y sigue mandando: el proyecto declara que no aloja contenido y que no garantiza la seguridad ni la legalidad de lo que cataloga. Esa frase es justamente lo que lo hace útil si se lee bien: Miyomi es el cartel del mercado, no el inspector del mercado. «Aprobado» en su vitrina significa «está en su catálogo hoy» — no significa aval de nadie, y la diferencia entre esas dos frases es toda la defensa que el usuario necesita contra la cadena de WhatsApp.
 
@@ -415,9 +415,9 @@ Censo del barrio tomado esta mañana, leyendo cada casa en su propia página. Lo
 
 ```
 ALMACÉN O CASA             SEÑAL VIVA HOY            PLACA
-Keiyoushi (hub)            empuje del bot: 19 h      ★15.0 mil
+Keiyoushi (hub) empuje del bot: hoy ★15.2 mil
 └ Re-init release-based    hecho: 13-ago-2026        —
-Keiyoushi (código)         vivo entre semana         ★4.7 mil (15-sep)
+Keiyoushi (código)         vivo entre semana         ★4.8 mil (15-oct)
 Yūzōnō anime               empuje: hace 3 h          ★439 · 5.548 commits
 └ Core injertado Keiyoushi hecho: 17-sep (#952)      —
 └ Capa LegacySource        hecho: 1-sep              —
@@ -601,7 +601,7 @@ Por eso aquí van enlaces a las casas y jamás la receta. La casa dice: lee las 
 
 🆕 QUÉ TRAE NUEVA ESTA EDICIÓN (contra la madre del 15-sep)
 
-*Uno — el censo rehecho de hoy:* hub empujando hoy (bot, 19 h), Yūzōnō hace 3 horas, manga-repo ayer, con placas actualizadas (★15.0 mil · 439 · 451). La madre decía «push del 14-sep» como novedad; hoy la novedad es el pulso de las últimas tres horas.
+*Uno — el censo rehecho de hoy:* hub empujando hoy (censo de API), Yūzōnō hace 3 horas, manga-repo ayer, con placas actualizadas (★15.2 mil · 439 · 451). La madre decía «push del 14-sep» como novedad; hoy la novedad es el pulso de las últimas tres horas.
 
 *Dos — la mudanza de agosto documentada:* el hub pasó a almacén basado en releases el 13-ago-2026, con la anatomía completa de sus siete archivos explicada. La madre no conocía ese ciclo: se quedaba en el antes; esta guía nombra el después.
 
@@ -760,7 +760,7 @@ Toda guía de la casa cierra declarando su techo, y esta no es excepción:
 
 *No aplica a todos los árboles.* El árbol Usagi/Kotatsu y los ecosistemas de Apple viven otra gramática de parsers (y otras reglas, y otros riesgos). Todo lo de esta pieza aplica al árbol Mihon y su capa servidor — lo dice el título y lo repite cada capítulo.
 
-*No presume eternidad.* La placa del hub de hoy (★15.0 mil, bot con empuje a las 19 horas) tiene ya veinticuatro horas de vieja cuando tú la leas mañana. La vara está puesta: re-contar antes de repetir. Esa es toda la honestidad posible en un tema que empuja a diario.
+*No presume eternidad.* La placa del hub de hoy (★15.2 mil, bot con empuje de este mismo re-corte) tiene ya veinticuatro horas de vieja cuando tú la leas mañana. La vara está puesta: re-contar antes de repetir. Esa es toda la honestidad posible en un tema que empuja a diario.
 
 Y lo que este mapa sí persigue: que instalado tu almacén como manda la guía oficial, nunca más en tu historia de lector vuelvas a depender de un post — ni siquiera de este.
 
@@ -794,7 +794,7 @@ El chiste defiende su tema: el impostor no teme tus preguntas técnicas — teme
 
 *Paso uno — la madre re-leída.* Se leyó completa la guía del 15-sep (11.257 c) y se marcó su inventario de caducables: nueve almacenes en placa, tres archivos de museo, la convención citada, la camada de impostores, las reglas de lectura. Todo lo mundano (estrellas, empujes) fue a re-contarse hoy; todo lo estructural (re-init, migraciones, licencia) fue a confirmarse en su historial.
 
-*Paso dos — verificación viva de hoy.* Abiertos hoy, 22-sep-2026: el hub Keiyoushi (bot hace 19 h, raíz de siete archivos, re-init ago-13 visible, placa 15.0 mil), Yūzōnō anime (commit hace 3 h, placa 439, 5.548 commits, el injerto #952 del 17-sep, la capa Legacy del 1-sep, los bumps lib 16 recientes), manga-repo (☆451, empuje del 21-sep, y el README que instruye conservar la receta bajo la dirección yuzono/manga-repo), y Miyomi (☆188, org «miyomiorg», licencia AGPL-3.0 con cláusula de marca, último empuje 31-ago). Las placas no re-contadas hoy llevan su fecha al lado, a la vista: código Keiyoushi (★4,7 mil al 15-sep), Copymanga-CN (v1.4.85 al 8-sep), uchiyomi (v0.33.0 al 14-sep), segundo estante adulto (3-ago), Suwayomi (12-sep).
+*Paso dos — verificación viva de hoy.* Abiertos hoy, 22-sep-2026: el hub Keiyoushi (bot hace 19 h, raíz de siete archivos, re-init ago-13 visible, placa 15.0 mil), Yūzōnō anime (commit hace 3 h, placa 439, 5.548 commits, el injerto #952 del 17-sep, la capa Legacy del 1-sep, los bumps lib 16 recientes), manga-repo (☆451, empuje del 21-sep, y el README que instruye conservar la receta bajo la dirección yuzono/manga-repo), y Miyomi (☆201, org «miyomiorg», licencia AGPL-3.0 con cláusula de marca, último empuje 31-ago). Las placas no re-contadas hoy llevan su fecha al lado, a la vista: código Keiyoushi (★4,7 mil al 15-sep), Copymanga-CN (v1.4.85 al 8-sep), uchiyomi (v0.33.0 al 14-sep), segundo estante adulto (3-ago), Suwayomi (12-sep).
 
 *Paso tres — lo no comprobado, dicho tal cual.* La conversación «KeiSource 1.6 → lib 16» se describe desde commits y mensajes de PR públicos; no existe papel de diseño central que la anuncie — y así se dijo en la sección de la convención. El recuento preciso de fuentes del hub no se re-contó (vive en el índice, se cita desde la madre como «más de mil», marcada a su fecha). Los canales CN no se re-abrieron hoy (actividad de hace unos días basta para el mapa; se marcan).
 
@@ -835,13 +835,13 @@ El chiste defiende su tema: el impostor no teme tus preguntas técnicas — teme
 
 📝 NOTA DE VERIFICACIÓN (22-sep-2026)
 
-Abiertos hoy y leídos en su propia página: el almacén Keiyoushi, el repositorio de anime Yūzōnō, manga-repo y Miyomi. De ellos salen: el empuje del bot de hoy, la re-inicialización release-based del 13-ago-2026, el commit de hace 3 h de Yūzōnō, el injerto del core del 17-sep (#952), la capa LegacySource del 1-sep, los commits «lib 16» de la semana, la migración de la receta de manga-repo declarada en su README, y la mudanza de Miyomi a org + AGPL-3.0. Placas re-contadas hoy: ★15.0 mil, 439, 451, 188. Placas citadas a su fecha (no re-contadas hoy): código Keiyoushi ★4,7 mil (15-sep), Copymanga-CN v1.4.85 (8-sep), uchiyomi v0.33.0 (14-sep), Suwayomi (12-sep), segundo estante adulto (3-ago), ZGQ (★1,2 mil, 14-sep). Los datos de museo (ene/feb/ago-2024, may-2026) son fechas históricas constadas en sus días. Todo número sin fuente de hoy lleva su fecha al lado; nada sale de la memoria.
+Abiertos hoy y leídos en su propia página: el almacén Keiyoushi, el repositorio de anime Yūzōnō, manga-repo y Miyomi. De ellos salen: el empuje del bot de hoy, la re-inicialización release-based del 13-ago-2026, el commit de hace 3 h de Yūzōnō, el injerto del core del 17-sep (#952), la capa LegacySource del 1-sep, los commits «lib 16» de la semana, la migración de la receta de manga-repo declarada en su README, y la mudanza de Miyomi a org + AGPL-3.0. Placas re-contadas hoy, 15-oct: ★15.2 mil (hub) y 201 (Miyomi); las 439 y 451 (Yūzōnō) conservan su constancia del 22-sep. Placas citadas a su fecha (no re-contadas hoy): código Keiyoushi ★4,7 mil (15-sep), Copymanga-CN v1.4.85 (8-sep), uchiyomi v0.33.0 (14-sep), Suwayomi (12-sep), segundo estante adulto (3-ago), ZGQ (★1,2 mil, 14-sep). Los datos de museo (ene/feb/ago-2024, may-2026) son fechas históricas constadas en sus días. Todo número sin fuente de hoy lleva su fecha al lado; nada sale de la memoria.
 
 ───────────────────
 
 ✍️ FIRMA Y DESPEDIDA
 
-Pieza 04 de La Bandita, edición dominicano-español, verificada con la vara de la casa el 22 de septiembre de 2026. Esta completa cerró dentro de su banda (WhatsApp, 62 000–64 000 caracteres) — el número exacto, en el registro vivo del día.
+Pieza 04 de La Bandita, edición dominicano-español, verificada con la vara de la casa el 15 de octubre de 2026 (re-corte: placas re-contadas hoy). Esta completa cerró dentro de su banda (WhatsApp, 62 000–64 000 caracteres) — el número exacto, en el registro vivo del día.
 
 El vecindario de las bombillas no tiene alcalde: tiene bodegas con camión puntuando cada mañana y una feria que siempre intentará parecerse al mercado. Tu criterio es el recibo. Actualiza tranquilo, reporta bien, y nunca instales lo que venga sin casa.
 
@@ -852,3 +852,5 @@ Busca más, y que la bombilla te llegue con papeles. 💡
 ───────────────────
 
 #LaBandita #ExtensionesMihon #Keiyoushi #MangaYAnime #LectorAndroid #KeiSourceLib16 #GitHubDeConfianza #VerificaAntesDeInstalar #EcosistemaLibre #FuenteFechada #SoftwareLibre #RepublicaDominicana
+
+📝 *RE-CORTE 15-oct-2026 (censo de API).* hub keiyoushi/extensions ★15.226 con push de HOY · código extensions-source ★4.790, push de HOY · Miyomi ★201 (empuje 31-ago, sin cambios). Yūzōnō, manga-repo y demás ramas conservan su constancia del 22-sep (no re-verificadas hoy).

@@ -20,9 +20,9 @@ Primero, la cadena completa en tres actos: qué cerró, qué se descontinuó y q
 
 ⚡ LA GUÍA EN UNA PÁGINA
 
-• Usagi, censo de HOY 22-sep-2026: ★259, rama con señal de esta misma mañana (traducción francesa 100% integrada hace horas), organización de dieciséis repos viva, versión firme única 1.0 del 10-sep, sin banner de archivado, en F-Droid. Viva: lo archivado fue la capa vieja de plugins; lo muerto hace meses, Yukimi — dos lutos distintos que los pasillos fundieron en uno.
+• Usagi, censo de HOY 15-oct-2026: ★273, rama con señal del 14-oct (la traducción francesa que esta guía vio integrarse en vivo, ya es historia de la casa), organización de dieciséis repos viva, versión firme única 1.0 del 10-sep, sin banner de archivado, en F-Droid. Viva: lo archivado fue la capa vieja de plugins; lo muerto hace meses, Yukimi — dos lutos distintos que los pasillos fundieron en uno.
 
-• Los cuatro vivos, medidos hoy: Kotatsu-Redo ★891, app v9.8.4 (17-sep), README revisado el 19-sep — el heredero del nombre, con fork declarado del original. Futon ★431, empuje del 19-sep (reinicio inteligente de capítulos nuevos, configurable) — y su bomba senior: soporte de extensiones Mihon integrado desde abril, contado abajo. Kototoro ★581, empuje de esta mañana subiendo versión a v2.1.5 — el más movido del árbol, manga+novelas+vídeo. Usagi, ya dicho.
+• Los cuatro vivos, medidos hoy: Kotatsu-Redo ★940, app v9.8.4 (17-sep), README revisado el 19-sep — el heredero del nombre, con fork declarado del original. Futon ★431, empuje del 19-sep (reinicio inteligente de capítulos nuevos, configurable) — y su bomba senior: soporte de extensiones Mihon integrado desde abril, contado abajo. Kototoro ★581, empuje de esta mañana subiendo versión a v2.1.5 — el más movido del árbol, manga+novelas+vídeo. Usagi, ya dicho.
 
 • El andamio archivado (la fuente del luto falso): la organización UsagiApp congeló core-parsers y core-exts — la arquitectura vieja de plugins — mientras Tsuki, TsukiMix y el sándwich completo siguen empujando; TsukiMix se tocó el 16-sep.
 
@@ -120,11 +120,11 @@ Tres lecturas de la ficha para principiantes de la vara. Primera: el primer comm
 
 🌳 LOS CUATRO VIVOS, MEDIDOS ESTA MAÑANA
 
-*Kotatsu-Redo — el heredero del nombre.* github.com/Kotatsu-Redo/Kotatsu-Redo — ★891 · 104 bifurcaciones · 5.069 empujes · fork DECLARADO del maestro (su rama va 120 commits por delante del original archivado). La app firmó el 17-sep su v9.8.4 (la serie 9.8.x se cuenta desde agosto: 9.8.0 el 13-jul, 9.8.2 el 25-ago, 9.8.3 el 5-sep), y dos días después, el 19-sep, el autor revisaba el README «para clarificar los objetivos del proyecto» — el gesto exacto de una casa joven que ya se da nombre propio. Su organización sostiene sus parsers (kotatsu-parsers-redo), telemetría y sincronización; y su metadata cuenta, desde diciembre, el camino a F-Droid con los parsers nuevos. Si tu corazón es el modelo del original con su mantenimiento vivo, este es el heredero que el barrio nombra primero — hoy, con placa.
+*Kotatsu-Redo — el heredero del nombre.* github.com/Kotatsu-Redo/Kotatsu-Redo — ★940 · 104 bifurcaciones · 5.069 empujes · fork DECLARADO del maestro (su rama va 120 commits por delante del original archivado). La app firmó el 17-sep su v9.8.4 (la serie 9.8.x se cuenta desde agosto: 9.8.0 el 13-jul, 9.8.2 el 25-ago, 9.8.3 el 5-sep), y dos días después, el 19-sep, el autor revisaba el README «para clarificar los objetivos del proyecto» — el gesto exacto de una casa joven que ya se da nombre propio. Su organización sostiene sus parsers (kotatsu-parsers-redo), telemetría y sincronización; y su metadata cuenta, desde diciembre, el camino a F-Droid con los parsers nuevos. Si tu corazón es el modelo del original con su mantenimiento vivo, este es el heredero que el barrio nombra primero — 22-sep, con placa.
 
-*Futon — el motor mestizo.* github.com/AppFuton/Futon — ★431 · 39 bifurcaciones · 5.128 empujes · fork declarado del maestro (179 por delante), último empuje del 19-sep: el reinicio inteligente de capítulos nuevos, configurable (#112). Su vitrina: v9.8.1 del 16-ago, nacida de un arreglo del manejador de extensiones (#104). Y su sección aparte va abajo — porque este taller guarda la bomba del trimestre: desde abril soporta extensiones de la familia Mihon ADEMÁS de sus parsers. El puente entre los dos árboles existe; se llama Futon; lo cuentan sus propios commits.
+*Futon — el motor mestizo.* github.com/AppFuton/Futon — ★448 · 39 bifurcaciones · 5.128 empujes · fork declarado del maestro (179 por delante), último empuje del 19-sep: el reinicio inteligente de capítulos nuevos, configurable (#112). Su vitrina: v9.8.1 del 16-ago, nacida de un arreglo del manejador de extensiones (#104). Y su sección aparte va abajo — porque este taller guarda la bomba del trimestre: desde abril soporta extensiones de la familia Mihon ADEMÁS de sus parsers. El puente entre los dos árboles existe; se llama Futon; lo cuentan sus propios commits.
 
-*Kototoro — el triple materia.* github.com/Kototoro-app/Kototoro — ★581 · 46 bifurcaciones · 7.139 empujes · doscientas versiones etiquetadas — y esta misma mañana, hace diez horas, subió su numeración a v2.1.5. Manga, novelas ligeras y vídeo en una sola app, licencia Apache-2.0 (declarada en su licencia misma), el compilador a la última (Gradle 9.7 desde agosto) y el taller cuidando hasta sus manuales internos — hace cuatro días retiró una familia entera de habilidades de diseño que ya no usaba, «para no enseñar lo que el repo prohíbe»: el taller que limpia hasta las paredes internas. Su serie de versiones de septiembre completa su propia pieza de esta familia (la 02, fechada).
+*Kototoro — el triple materia.* github.com/Kototoro-app/Kototoro — ★621 · 46 bifurcaciones · 7.139 empujes · doscientas versiones etiquetadas — y esta misma mañana, hace diez horas, subió su numeración a v2.1.5. Manga, novelas ligeras y vídeo en una sola app, licencia Apache-2.0 (declarada en su licencia misma), el compilador a la última (Gradle 9.7 desde agosto) y el taller cuidando hasta sus manuales internos — hace cuatro días retiró una familia entera de habilidades de diseño que ya no usaba, «para no enseñar lo que el repo prohíbe»: el taller que limpia hasta las paredes internas. Su serie de versiones de septiembre completa su propia pieza de esta familia (la 02, fechada).
 
 *Usagi — la ficha de arriba.* La cuarta y más ligera: sin fuentes integradas por diseño declarado — esa decisión es, probablemente, por lo que camina tranquila donde otras tropezaron con la bodega ferroviaria. Y su cadena de herramientas se mide abajo.
 
@@ -433,7 +433,7 @@ F-Droid: la tienda con proceso — publicación con paquete registrado (org.drak
 
 Obtainium: actualizador cercano a F-Droid que re-teje desde el propio repo — mencionado en el README de Usagi.
 
-Weblate: la plataforma donde se traduce la app — hoy cerró el francés 100% (959 cadenas, PR #126).
+Weblate: la plataforma donde se traduce la app — 22-sep cerró el francés 100% (959 cadenas, PR #126).
 
 Archivo público: cuando el cuentadante del rótulo eres tú; la piedra se revisa cada mañana en la puerta.
 
@@ -555,7 +555,7 @@ Familia, sin susto: si su APK de Kotatsu (la original) aún abre, congraciátnse
 🧾 LA FICHA RESUMEN (la nota de dieciséis líneas)
 
 ```
-¿USAGI?         Viva: merge 7 hoy, ★259, F-Droid,
+¿USAGI?         Viva: ★273, push 14-oct, F-Droid,
                 única estable 1.0 (10-sep).
 ¿KOTATSU?       Museo declarado 4-nov-2025, sin
                 indicio de vuelta; legado abierto.
@@ -686,19 +686,19 @@ Moraleja para archivarlo junto al chiste: la feligresía de un ecosistema libre 
 
 🔗 FUENTES SEÑALADAS Y FECHADAS
 
-github.com/UsagiApp/Usagi — hoy ·github.com/orgs/UsagiApp/repositories — hoy (16 repos) · github.com/Kotatsu-Redo/Kotatsu-Redo — hoy · github.com/AppFuton/Futon — hoy · github.com/Kototoro-app/Kototoro — hoy · github.com/Gekkoushi/plugin-source — hoy · github.com/InvalidDavid/UMA — hoy · github.com/KotatsuApp/Kotatsu — hoy (verificación del museo). A fecha 14/15-sep sin reconteo: Gekkoushi/plugin (1.3k, congelado) y f-droid.org/en/packages/org.draken.usagi/. La pieza vecina del tronco: 06 (el árbol Miyomí), esta jornada. La pieza del triple materia: 02 (Kototoro), fechada el 15-sep. La certera: la guía de almacenes de extensiones, pieza 04 de esta familia.
+github.com/UsagiApp/Usagi — 22-sep ·github.com/orgs/UsagiApp/repositories — 22-sep (16 repos) · github.com/Kotatsu-Redo/Kotatsu-Redo — 22-sep · github.com/AppFuton/Futon — 22-sep · github.com/Kototoro-app/Kototoro — 22-sep · github.com/Gekkoushi/plugin-source — 22-sep · github.com/InvalidDavid/UMA — 22-sep · github.com/KotatsuApp/Kotatsu — 22-sep (verificación del museo). A fecha 14/15-sep sin reconteo: Gekkoushi/plugin (1.3k, congelado) y f-droid.org/en/packages/org.draken.usagi/. La pieza vecina del tronco: 06 (el árbol Miyomí), esta jornada. La pieza del triple materia: 02 (Kototoro), fechada el 15-sep. La certera: la guía de almacenes de extensiones, pieza 04 de esta familia.
 
 ───────────────────
 
 📝 NOTA DE VERIFICACIÓN — 22 DE SEPTIEMBRE DE 2026
 
-Abiertos hoy y medidos de frente: siete repos del vecino más su página de organización. De ahí salen: Usagi ★259 (merge del francés 100%, ~7 h), Kotatsu-Redo ★891 (app 17-sep; README 19-sep; +120 del maestro; 5.069 commits), Futon ★431 (#112 19-sep; #104 16-ago; el puente, PR #52, abril; +179; 5.128), Kototoro ★581 (v2.1.5 ~10 h; 7.139), UMA ★68 (merge #92 20-sep; 910), plugin-source ★90 (13-sep; 2.416; migración Tsuki 10-ago) y la organización UsagiApp con dieciséis repos (actualizada ~3 h; TsukiMix 16-sep; los archivados core-parsers/core-exts señalados por nombre y función). El museo verificado en su rótulo: archivado 4-nov-2025, «Update readme» del mismo 4-nov-2025 como última frase. A su fecha sin reconteo: kit congelado 1.3k (14-sep), F-Droid (14-sep), Yukimi (crónica de su época), la camada (13-sep). Los hechos noviembre-abril se citan a su día. Cada placa lleva recibo: GitHub de las casas y este barrillero con hora.
+Abiertos el 22-sep y medidos de frente: siete repos del vecino más su página de organización. De ahí salen: Usagi ★259 (merge del francés 100%, ~7 h), Kotatsu-Redo ★891 (app 17-sep; README 19-sep; +120 del maestro; 5.069 commits), Futon ★431 (#112 19-sep; #104 16-ago; el puente, PR #52, abril; +179; 5.128), Kototoro ★581 (v2.1.5 ~10 h; 7.139), UMA ★68 (merge #92 20-sep; 910), plugin-source ★90 (13-sep; 2.416; migración Tsuki 10-ago) y la organización UsagiApp con dieciséis repos (actualizada ~3 h; TsukiMix 16-sep; los archivados core-parsers/core-exts señalados por nombre y función). El museo verificado en su rótulo: archivado 4-nov-2025, «Update readme» del mismo 4-nov-2025 como última frase. A su fecha sin reconteo: kit congelado 1.3k (14-sep), F-Droid (14-sep), Yukimi (crónica de su época), la camada (13-sep). Los hechos noviembre-abril se citan a su día. Cada placa lleva recibo: GitHub de las casas y este barrillero con hora.
 
 ───────────────────
 
 ✍️ CIERRE
 
-Pieza séptima de La Bandita, edición dominicano-español, verificada esta mañana con la vara de la casa. El difunto no está en la sala: está empujando traducciones desde la madrugada. Los cuatro vivos hacen la fila con sus placas en la mano; el maestro descansa en su pablla con la puerta abierta y la lección completa; y el puente entre los dos árboles ya fue pateado por una obra que el barrio creía imposible.
+Pieza séptima de La Bandita, edición dominicano-español, re-verificada esta mañana del 15 de octubre de 2026 con la vara de la casa (censo de API de las placas; lo demás conserva su fecha del 22-sep). El difunto no está en la sala: está empujando traducciones desde la madrugada. Los cuatro vivos hacen la fila con sus placas en la mano; el maestro descansa en su pablla con la puerta abierta y la lección completa; y el puente entre los dos árboles ya fue pateado por una obra que el barrio creía imposible.
 
 Busca más, asómate siempre a la casa antes de prender velas, y que tu lector vivo amanezca cada día con su hora nueva.
 
@@ -713,3 +713,5 @@ Usagi está viva: merge de 7 hoy, ★259, F-Droid — lo archivado fue el andami
 *La Bandita informa a partir de fuentes fechadas. Un fork es un dato, no una promesa — y un luto sin persiana es chisme con vela.*
 
 #LaBandita #Kotatsu #Usagi #MangaLibre #Futon #KotatsuRedo #Kototoro #LectoresLibres #VerificaAntesDeInstalar #FuenteFechada #EcosistemaLibre #RepublicaDominicana
+
+📝 *RE-CORTE 15-oct-2026 (censo de API).* LA SEMANA EN DELTA, segunda vuelta (22-sep → 15-oct): Usagi ★259 → ★273 (push 14-oct) · Kotatsu-Redo ★891 → ★940 (push 19-sep) · Futon ★431 → ★448 (push 9-oct) · Kototoro ★581 → ★621 (push HOY, v2.2.9 el 9-oct) · UMA ★68 → ★76 (push 13-oct) · plugin-source ★90 → ★92 (push 14-sep) · Kotatsu, archivado, ★8.923. El difunto sigue empujando traducciones — y el heredero del nombre, ganando veinticuatro estrellas por semana.

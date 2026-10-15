@@ -2,7 +2,7 @@
 
 *Tiendas de APK: la tienda con dueño, el letrero de mods y el reloj que ya está corriendo*
 
-*La Bandita · 22 de septiembre de 2026 · edición dominicano-español*
+*La Bandita · 15 de octubre de 2026 · edición dominicano-español*
 
 > *Semilla de esta guía (léela entero, vale para todo):* imagina que cada aplicación es una _semilla_. Una semilla buena crece en lo que dice ser. Una semilla pintada crece en otra cosa. La tienda legal te entrega la semilla *con su etiqueta y con el nombre del campesino que la crió*: si sale mal, sabes a quién reclamarle. El sitio de mods te entrega una semilla pintada y te dice «es la misma, confía» — y cuando abres la mano, a veces es la semilla de otra planta, con espinas que no pediste. Esta guía enseña a reconocer la etiqueta y al campesino, y a no creerle al que pinta semillas.
 
@@ -54,7 +54,7 @@ Esta pieza es la *versión completa* (la de WhatsApp). Su hermana de Facebook es
 
 Una tienda de APK es un lugar con dueño conocido que te deja instalar aplicaciones fuera de la tienda oficial del teléfono. Las hay que revisan, firman y se hacen responsables; y las hay que viven de mods, donde el «premium gratis» llega con sorpresa adentro.
 
-Esta guía recorre las tiendas legítimas del ecosistema libre, una por una, con su estado real a *22 de septiembre de 2026*: cuál está bajo amenaza real, cuál estrenó versión ayer, cuál cambió de casa hace días. Y termina con el reloj: la política de verificación de desarrolladores de Google ya tiene fecha de cumplimiento pública, y el primer hito cae el *30 de septiembre de 2026*, a ocho días de hoy.
+Esta guía recorre las tiendas legítimas del ecosistema libre, una por una, con su estado real a *15 de octubre de 2026* (re-corte del 22-sep; lo no re-verificado conserva su fecha): cuál está bajo amenaza real, cuál estrenó versión ayer, cuál cambió de casa hace días. Y termina con el reloj: la política de verificación de desarrolladores de Google ya tiene fecha de cumplimiento pública, y el primer hito cae el *30 de septiembre de 2026*, a ocho días de hoy.
 
 Si entraste buscando «Spotify premium gratis» o «juegos con todo desbloqueado», esta guía no te acompaña: eso no es una tienda, es un anzuelo con cartera. Aquí lo que se vende es *método*, no atajo.
 
@@ -459,7 +459,7 @@ Aquí *no van enlaces*. El nombre ya cumple su función: si te aparece en un gru
 
 *🕐 El reloj que ya corre — 30 de septiembre de 2026 (y lo que eso significa de verdad)*
 
-El marco que cambia todo esto tiene fecha y reloj públicos. Y el reloj, a 22 de septiembre de 2026, marca *8 días* para el primer hito.
+El marco que cambia todo esto tiene fecha y reloj públicos. Y el reloj, a 15 de octubre de 2026: el primer hito quedó atrás — se encendió el 30 de septiembre en los cuatro países del piloto (constado hoy); el reloj vivo es el de 2027, sin día ni mes aún.
 
 *La regla, en una sola respiración:* desde el *30 de septiembre de 2026*, en cuatro países (Brasil, Indonesia, Singapur y Tailandia), las apps instaladas en *dispositivos certificados* deben estar registradas por un desarrollador verificado. «Certificado» quiere decir: con los servicios de Google (GMS) — que son la inmensa mayoría de los Android que se venden fuera de China. La verificación es una comprobación de identidad más el registro de cada nombre de paquete contra la huella SHA-256 de su clave de firma. La expansión global llega en *2027*.
 
@@ -474,7 +474,7 @@ El marco que cambia todo esto tiene fecha y reloj públicos. Y el reloj, a 22 de
 
 ```
 El reloj, en tres líneas (verificado 22-sep-2026)
-Hoy:        22 de septiembre de 2026
+Hoy:        15 de octubre de 2026
 Primer hito: 30 de septiembre de 2026 — 4 países, 7 tiendas, Android 7+
 2027:        la verificación llega a todos los dispositivos certificados
 ADB y MDM:   fuera del filtro, confirmado por Google
@@ -781,7 +781,7 @@ Porque una captura es la foto del momento; el dato que cuenta es el enlace y la 
 
 ```
 El reloj en limpio
-Hoy:              22 de septiembre de 2026
+Hoy:              15 de octubre de 2026
 Primer hito:      30 de septiembre de 2026 (4 países, 7 tiendas, Android 7+)
 ADB / MDM:        fuera del filtro
 Advanced flow:    modo dev + 24h + biométrica
@@ -916,3 +916,5 @@ La Bandita informa a partir de fuentes fechadas. Nada de lo aquí escrito se da 
 ───────────────────
 
 #LaBandita #TiendasAPK #AndroidLibre #FDroid #Sideloading #VerificaAntesDeInstalar #EcosistemaLibre #Shizuku #NoAlMod #KeepAndroidOpen #FuenteFechada
+
+📝 *RE-CORTE 15-oct-2026.* Re-abiertos hoy: portada de la campaña y estado del programa (hito cumplido el 30-sep; 2027 sin día ni mes). Casas de tiendas re-pisadas hoy por censo de API: Droid-ify (push 12-sep), Neo-Store (1-oct), Accrescent (13-oct), Obtainium (14-oct), y el hallazgo de oficio: el GitHub de Aurora Store se declara ESPEJO del GitLab (casa madre allá; el espejo no es el repo). Las tiendas Shizuku y Appteka conservan su verificación del 22-sep.
