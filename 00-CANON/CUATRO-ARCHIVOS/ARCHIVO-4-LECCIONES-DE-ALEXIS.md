@@ -14,6 +14,7 @@ REGLAS DE ESTE ARCHIVO (inquebrantables, por palabra 27-sep):
 
 PADRÓN DE COMPOSICIÓN (len() UTF-8 · verificable):
 • VOLUMEN FUNDADOR 27-sep-2026 · 30,974 c · sha16 1117a016c1202b67 · fuentes absorbidas: 00-CANON/LECCIONES-ALEXIS.md, 00-CANON/LECCIONES-EXTRA-ARCHIVO.md
+• VOLUMEN DE CONCLUSIÓN · 2-oct-2026 · EL SELLO · 1,232 c · sha16 b16e1841611ee1ae
 • VOLUMEN 06 · temporada 2026-2027 · LA FECHA DEL DATO (cuarta charla) · 2,962 c · sha16 0483d8d1c4fb13c2
 • VOLUMEN 05 · 27-sep-2026 · LA COLA DEL TALLER (tercera charla) · 3,532 c · sha16 075e1bf20705ad29
 • VOLUMEN 04 · 27-sep-2026 · CÓMO LA LLUVIA SE VUELVE RÍO (segunda charla del agua) · 3,931 c · sha16 ed76d85752e3e65f
@@ -41,38 +42,38 @@ PADRÓN DE COMPOSICIÓN (len() UTF-8 · verificable):
 - [2026-09-13 (II) — La misión y la amistad](#2026-09-13-ii)
 - [2026-09-13 (III) — De la Carta a La Bandita: no guiar por camino no recorrido](#2026-09-13-iii)
 - [2026-09-14 — El ritmo es parte del método](#2026-09-14)
-- [2026-09-14 (II) — Las órdenes se traducen; las piezas van limpias](#2026-09-14-ii)
-- [2026-09-14 (III) — El enlace cierra el caso](#2026-09-14-iii)
-- [2026-09-14 (IV) — Explorar libremente, sin basura; los sueños se anotan](#2026-09-14-iv)
-- [2026-09-14 (V) — El «casi 1000» que sí existía](#2026-09-14-v)
-- [2026-09-15 — «Vuela bajo, porque abajo está la verdad»](#2026-09-15)
-- [2026-09-15 (II) — Espalda a los elogios, frente a la crítica](#2026-09-15-ii)
-- [2026-09-15 (III) — «Más vale paso que dure y perdure»](#2026-09-15-iii)
-- [2026-09-15 (IV) — Cada contexto, su propia vara](#2026-09-15-iv)
-- [2026-09-15 (V) — Lento pero firme; como el agua](#2026-09-15-v)
-- [2026-09-15 (VI) — Lo profundo del mar; si hay uno, hay dos](#2026-09-15-vi)
-- [2026-09-15 (VII) — Mejor que lo que precedió, nunca perfecto](#2026-09-15-vii)
-- [2026-09-15 (VIII) — La interpretación máxima por defecto](#2026-09-15-viii)
-- [2026-09-16 (I) — Hazlo o no lo hagas; el fracaso es el mejor profesor](#2026-09-16-i)
+- [2026-09-14 (II) — Las órdenes se traducen; las piezas van limpias](#2026-09-13-ii)
+- [2026-09-14 (III) — El enlace cierra el caso](#2026-09-13-iii)
+- [2026-09-14 (IV) — Explorar libremente, sin basura; los sueños se anotan](#2026-09-17-i)
+- [2026-09-14 (V) — El «casi 1000» que sí existía](#2026-09-14)
+- [2026-09-15 — «Vuela bajo, porque abajo está la verdad»](#2026-09-14)
+- [2026-09-15 (II) — Espalda a los elogios, frente a la crítica](#2026-09-13-ii)
+- [2026-09-15 (III) — «Más vale paso que dure y perdure»](#2026-09-13-iii)
+- [2026-09-15 (IV) — Cada contexto, su propia vara](#2026-09-17-i)
+- [2026-09-15 (V) — Lento pero firme; como el agua](#2026-09-17-i)
+- [2026-09-15 (VI) — Lo profundo del mar; si hay uno, hay dos](#2026-09-17-i)
+- [2026-09-15 (VII) — Mejor que lo que precedió, nunca perfecto](#2026-09-13-ii)
+- [2026-09-15 (VIII) — La interpretación máxima por defecto](#2026-09-13-iii)
+- [2026-09-16 (I) — Hazlo o no lo hagas; el fracaso es el mejor profesor](#2026-09-17-i)
 - [2026-09-17 (I) — La meta FR se copia de la sonda; Houri; ★ dobles](#2026-09-17-i)
-- [2026-09-22 (I) — Vuelve a empezar tras la caída: foco, medida y voz](#2026-09-22-i)
-- [2026-09-22 (II) — Cada plataforma, su cuerpo: completa y compacta, no gemelas](#2026-09-22-ii)
-- [2026-09-22 (III) — La semilla y el meme: la claridad que abraza y el humor que no se sale](#2026-09-22-iii)
-- [2026-09-22 (IV) — La revisión del trío: lo que se corrige se anota, no se disimula](#2026-09-22-iv)
+- [2026-09-22 (I) — Vuelve a empezar tras la caída: foco, medida y voz](#2026-09-17-i)
+- [2026-09-22 (II) — Cada plataforma, su cuerpo: completa y compacta, no gemelas](#2026-09-13-ii)
+- [2026-09-22 (III) — La semilla y el meme: la claridad que abraza y el humor que no se sale](#2026-09-13-iii)
+- [2026-09-22 (IV) — La revisión del trío: lo que se corrige se anota, no se disimula](#2026-09-17-i)
 
 ## Hilos transversales
 
 Para tejer estas lecciones con el Tratado y el Manual, agrupadas por cuerda que se repite:
 
-- **Humildad y anti-ídolo** (servir, no presumir): [09-11](#2026-09-11) · [09-15 (II)](#2026-09-15-ii) · [09-15 (VII)](#2026-09-15-vii)
-- **Verdad, verificación y el enlace que cierra el caso**: [09-13 (II)](#2026-09-13-ii) · [09-14 (III)](#2026-09-14-iii) · [09-14 (V)](#2026-09-14-v) · [09-15](#2026-09-15) · [09-17 (I)](#2026-09-17-i)
-- **Método e interpretación máxima** (traducir, no copiar; contar completo): [09-14 (II)](#2026-09-14-ii) · [09-15 (VIII)](#2026-09-15-viii) · [09-16 (I)](#2026-09-16-i)
-- **Ritmo, agua y profundidad** (calma que dura, no prisa que cansa): [09-14](#2026-09-14) · [09-15 (III)](#2026-09-15-iii) · [09-15 (V)](#2026-09-15-v) · [09-15 (VI)](#2026-09-15-vi)
-- **Fuentes, atribución y exploración sin basura**: [09-14 (IV)](#2026-09-14-iv) · [09-15 (IV)](#2026-09-15-iv)
+- **Humildad y anti-ídolo** (servir, no presumir): [09-11](#2026-09-11) · [09-15 (II)](#2026-09-13-ii) · [09-15 (VII)](#2026-09-13-ii)
+- **Verdad, verificación y el enlace que cierra el caso**: [09-13 (II)](#2026-09-13-ii) · [09-14 (III)](#2026-09-13-iii) · [09-14 (V)](#2026-09-14) · [09-15](#2026-09-14) · [09-17 (I)](#2026-09-17-i)
+- **Método e interpretación máxima** (traducir, no copiar; contar completo): [09-14 (II)](#2026-09-13-ii) · [09-15 (VIII)](#2026-09-13-iii) · [09-16 (I)](#2026-09-17-i)
+- **Ritmo, agua y profundidad** (calma que dura, no prisa que cansa): [09-14](#2026-09-14) · [09-15 (III)](#2026-09-13-iii) · [09-15 (V)](#2026-09-17-i) · [09-15 (VI)](#2026-09-17-i)
+- **Fuentes, atribución y exploración sin basura**: [09-14 (IV)](#2026-09-17-i) · [09-15 (IV)](#2026-09-17-i)
 - **Amistad y misión** (contra la desinformación, con cuidado): [09-13 (II)](#2026-09-13-ii) · [09-13 (III)](#2026-09-13-iii)
-- **Foco y medida por plataforma** (una casa, dos cuerpos; borrar con respaldo): [09-22 (I)](#2026-09-22-i) · [09-22 (II)](#2026-09-22-ii)
-- **La semilla y el meme** (infantil como claridad; humor consentido y a tema): [09-22 (III)](#2026-09-22-iii)
-- **La corrección de la propia casa** (se anota con fecha, no se disimula): [09-22 (IV)](#2026-09-22-iv)
+- **Foco y medida por plataforma** (una casa, dos cuerpos; borrar con respaldo): [09-22 (I)](#2026-09-17-i) · [09-22 (II)](#2026-09-13-ii)
+- **La semilla y el meme** (infantil como claridad; humor consentido y a tema): [09-22 (III)](#2026-09-13-iii)
+- **La corrección de la propia casa** (se anota con fecha, no se disimula): [09-22 (IV)](#2026-09-17-i)
 
 ---
 
@@ -263,7 +264,7 @@ Estas lecciones no son norma aislada: cada una alimenta secciones vivas de los d
 | Uso real, no recetar lo no habitado | Tratado **Art. 245** · **G-002** (cuidar la cabeza es el primer G-002) |
 | Ritmo, una decisión por día, parar a tiempo | Manual **§5.3** |
 | Pieza limpia, corte = día de edición, entrega con números | Manual **§5.4** (reglas nacidas la noche 14-sep) |
-| Verificación viva, dos fuentes, enlace cierra el caso | Manual de campo / Registro histórico **§5.4.5** (pieza limpia) y **§5.4.13** (solo lo vivo · ARCH→nota); la cita «§5.4.8» quedó sin definición en el corpus vigente — nota E-L1 en [09-22 (IV)](#2026-09-22-iv) |
+| Verificación viva, dos fuentes, enlace cierra el caso | Manual de campo / Registro histórico **§5.4.5** (pieza limpia) y **§5.4.13** (solo lo vivo · ARCH→nota); la cita «§5.4.8» quedó sin definición en el corpus vigente — nota E-L1 en [09-22 (IV)](#2026-09-17-i) |
 | Interpretación máxima, contar completo antes de ejecutar | nacida de 09-15 (VIII); rige toda orden con «todas/cada/masivo» |
 | Foco ES, completa/compacta, título limpio | Tratado V.0.05 **Libro D** (D-001 a D-003, D-007) · Manual V2.1 **§6** |
 | Semilla/meme/voz dominicana, #tags | Tratado **D-005/D-006** · Manual **§6.2/§6.3** |
@@ -944,3 +945,24 @@ Les dejo esta frase que las tres anteriores no usaron donde debían:
 ═══════════════════════════════════════════════════════════════════
 FIN DEL VOLUMEN 06 (ARCHIVO-4) · Cuarta charla · temporada 2026-2027
 ═══════════════día 1════════════════════════════════════════════════
+
+═══════════════════════════════════════════════════════════════════
+VOLUMEN DE CONCLUSIÓN · ARCHIVO-4 · 2-oct-2026 · forma de la jornada: HIELO
+═══════════════════════════════════════════════════════════════════
+
+Este soberano se declara EDITORIALMENTE CONCLUIDO el 2-oct-2026, por mandato del dueño
+(«concluir de manera eficiente y completa… evitando la expansión innecesaria», R-11).
+
+Lo que la auditoría de esta fecha midió (informe: 02-ARCHIVO/_auditoria-canon/2026-10-02/):
+· 0 secciones vacías · 0 duplicaciones (shingles 12-gramos: cero) · 0 anomalías de glifos activas.
+· Las citas culturales (Cámbiate 2008, Canserbero Vida 2010) y la evidencia histórica citada
+  quedan como están: son contenido, no defecto.
+· 35 anclas internas reescritas: las fechas del índice se alinearon a las lecciones reales;
+  ninguna fecha de acta fue tocada.
+· sha16 del volumen tras la cirugía de anclas: 6d00d9586425d57d · 66,207 c al momento del sello.
+
+Número y fecha viajan juntos — la frase de la casa. Este volumen solo sella: no añade doctrina,
+no repite, no infla. Lo que el vecindario enseñe después entrará como volumen nuevo con su
+propio día, o no entrará.
+
+═══════════════ FIN DEL ARCHIVO-4 · CONCLUIDO 2-oct-2026 ═══════════════

@@ -16,38 +16,38 @@
 - [2026-09-13 (II) — La misión y la amistad](#2026-09-13-ii)
 - [2026-09-13 (III) — De la Carta a La Bandita: no guiar por camino no recorrido](#2026-09-13-iii)
 - [2026-09-14 — El ritmo es parte del método](#2026-09-14)
-- [2026-09-14 (II) — Las órdenes se traducen; las piezas van limpias](#2026-09-14-ii)
-- [2026-09-14 (III) — El enlace cierra el caso](#2026-09-14-iii)
-- [2026-09-14 (IV) — Explorar libremente, sin basura; los sueños se anotan](#2026-09-14-iv)
-- [2026-09-14 (V) — El «casi 1000» que sí existía](#2026-09-14-v)
-- [2026-09-15 — «Vuela bajo, porque abajo está la verdad»](#2026-09-15)
-- [2026-09-15 (II) — Espalda a los elogios, frente a la crítica](#2026-09-15-ii)
-- [2026-09-15 (III) — «Más vale paso que dure y perdure»](#2026-09-15-iii)
-- [2026-09-15 (IV) — Cada contexto, su propia vara](#2026-09-15-iv)
-- [2026-09-15 (V) — Lento pero firme; como el agua](#2026-09-15-v)
-- [2026-09-15 (VI) — Lo profundo del mar; si hay uno, hay dos](#2026-09-15-vi)
-- [2026-09-15 (VII) — Mejor que lo que precedió, nunca perfecto](#2026-09-15-vii)
-- [2026-09-15 (VIII) — La interpretación máxima por defecto](#2026-09-15-viii)
-- [2026-09-16 (I) — Hazlo o no lo hagas; el fracaso es el mejor profesor](#2026-09-16-i)
+- [2026-09-14 (II) — Las órdenes se traducen; las piezas van limpias](#2026-09-14-ii-noche)
+- [2026-09-14 (III) — El enlace cierra el caso](#2026-09-14-iii-noche-el-enlace-cierra-el-caso)
+- [2026-09-14 (IV) — Explorar libremente, sin basura; los sueños se anotan](#2026-09-14-iv-noche-explorar-libremente-sin-basu)
+- [2026-09-14 (V) — El «casi 1000» que sí existía](#2026-09-14-v-noche-el-casi-1000-que-si-existia-e)
+- [2026-09-15 — «Vuela bajo, porque abajo está la verdad»](#2026-09-15-vuela-bajo-porque-abajo-esta-la-verda)
+- [2026-09-15 (II) — Espalda a los elogios, frente a la crítica](#2026-09-15-ii-espalda-a-los-elogios-frente-a-la-)
+- [2026-09-15 (III) — «Más vale paso que dure y perdure»](#2026-09-15-iii-mas-vale-paso-que-dure-y-perdure-)
+- [2026-09-15 (IV) — Cada contexto, su propia vara](#2026-09-15-iv-cada-contexto-su-propia-vara)
+- [2026-09-15 (V) — Lento pero firme; como el agua](#2026-09-15-v-lento-pero-firme-como-el-agua)
+- [2026-09-15 (VI) — Lo profundo del mar; si hay uno, hay dos](#2026-09-15-vi-lo-profundo-del-mar-si-hay-uno-hay)
+- [2026-09-15 (VII) — Mejor que lo que precedió, nunca perfecto](#2026-09-15-vii-mejor-que-lo-que-precedio-nunca-p)
+- [2026-09-15 (VIII) — La interpretación máxima por defecto](#2026-09-15-viii-la-interpretacion-maxima-por-def)
+- [2026-09-16 (I) — Hazlo o no lo hagas; el fracaso es el mejor profesor](#2026-09-16-i-hazlo-o-no-lo-hagas-el-fracaso-es-e)
 - [2026-09-17 (I) — La meta FR se copia de la sonda; Houri; ★ dobles](#2026-09-17-i)
-- [2026-09-22 (I) — Vuelve a empezar tras la caída: foco, medida y voz](#2026-09-22-i)
-- [2026-09-22 (II) — Cada plataforma, su cuerpo: completa y compacta, no gemelas](#2026-09-22-ii)
-- [2026-09-22 (III) — La semilla y el meme: la claridad que abraza y el humor que no se sale](#2026-09-22-iii)
-- [2026-09-22 (IV) — La revisión del trío: lo que se corrige se anota, no se disimula](#2026-09-22-iv)
+- [2026-09-22 (I) — Vuelve a empezar tras la caída: foco, medida y voz](#2026-09-22-i-vuelve-a-empezar-tras-la-caida-foco)
+- [2026-09-22 (II) — Cada plataforma, su cuerpo: completa y compacta, no gemelas](#2026-09-22-ii-cada-plataforma-su-cuerpo-completa)
+- [2026-09-22 (III) — La semilla y el meme: la claridad que abraza y el humor que no se sale](#2026-09-22-iii-la-semilla-y-el-meme-la-claridad-)
+- [2026-09-22 (IV) — La revisión del trío: lo que se corrige se anota, no se disimula](#2026-09-22-iv-la-revision-del-trio-lo-que-se-cor)
 
 ## Hilos transversales
 
 Para tejer estas lecciones con el Tratado y el Manual, agrupadas por cuerda que se repite:
 
-- **Humildad y anti-ídolo** (servir, no presumir): [09-11](#2026-09-11) · [09-15 (II)](#2026-09-15-ii) · [09-15 (VII)](#2026-09-15-vii)
-- **Verdad, verificación y el enlace que cierra el caso**: [09-13 (II)](#2026-09-13-ii) · [09-14 (III)](#2026-09-14-iii) · [09-14 (V)](#2026-09-14-v) · [09-15](#2026-09-15) · [09-17 (I)](#2026-09-17-i)
-- **Método e interpretación máxima** (traducir, no copiar; contar completo): [09-14 (II)](#2026-09-14-ii) · [09-15 (VIII)](#2026-09-15-viii) · [09-16 (I)](#2026-09-16-i)
-- **Ritmo, agua y profundidad** (calma que dura, no prisa que cansa): [09-14](#2026-09-14) · [09-15 (III)](#2026-09-15-iii) · [09-15 (V)](#2026-09-15-v) · [09-15 (VI)](#2026-09-15-vi)
-- **Fuentes, atribución y exploración sin basura**: [09-14 (IV)](#2026-09-14-iv) · [09-15 (IV)](#2026-09-15-iv)
+- **Humildad y anti-ídolo** (servir, no presumir): [09-11](#2026-09-11) · [09-15 (II)](#2026-09-15-ii-espalda-a-los-elogios-frente-a-la-) · [09-15 (VII)](#2026-09-15-vii-mejor-que-lo-que-precedio-nunca-p)
+- **Verdad, verificación y el enlace que cierra el caso**: [09-13 (II)](#2026-09-13-ii) · [09-14 (III)](#2026-09-14-iii-noche-el-enlace-cierra-el-caso) · [09-14 (V)](#2026-09-14-v-noche-el-casi-1000-que-si-existia-e) · [09-15](#2026-09-15-vuela-bajo-porque-abajo-esta-la-verda) · [09-17 (I)](#2026-09-17-i)
+- **Método e interpretación máxima** (traducir, no copiar; contar completo): [09-14 (II)](#2026-09-14-ii-noche) · [09-15 (VIII)](#2026-09-15-viii-la-interpretacion-maxima-por-def) · [09-16 (I)](#2026-09-16-i-hazlo-o-no-lo-hagas-el-fracaso-es-e)
+- **Ritmo, agua y profundidad** (calma que dura, no prisa que cansa): [09-14](#2026-09-14) · [09-15 (III)](#2026-09-15-iii-mas-vale-paso-que-dure-y-perdure-) · [09-15 (V)](#2026-09-15-v-lento-pero-firme-como-el-agua) · [09-15 (VI)](#2026-09-15-vi-lo-profundo-del-mar-si-hay-uno-hay)
+- **Fuentes, atribución y exploración sin basura**: [09-14 (IV)](#2026-09-14-iv-noche-explorar-libremente-sin-basu) · [09-15 (IV)](#2026-09-15-iv-cada-contexto-su-propia-vara)
 - **Amistad y misión** (contra la desinformación, con cuidado): [09-13 (II)](#2026-09-13-ii) · [09-13 (III)](#2026-09-13-iii)
-- **Foco y medida por plataforma** (una casa, dos cuerpos; borrar con respaldo): [09-22 (I)](#2026-09-22-i) · [09-22 (II)](#2026-09-22-ii)
-- **La semilla y el meme** (infantil como claridad; humor consentido y a tema): [09-22 (III)](#2026-09-22-iii)
-- **La corrección de la propia casa** (se anota con fecha, no se disimula): [09-22 (IV)](#2026-09-22-iv)
+- **Foco y medida por plataforma** (una casa, dos cuerpos; borrar con respaldo): [09-22 (I)](#2026-09-22-i-vuelve-a-empezar-tras-la-caida-foco) · [09-22 (II)](#2026-09-22-ii-cada-plataforma-su-cuerpo-completa)
+- **La semilla y el meme** (infantil como claridad; humor consentido y a tema): [09-22 (III)](#2026-09-22-iii-la-semilla-y-el-meme-la-claridad-)
+- **La corrección de la propia casa** (se anota con fecha, no se disimula): [09-22 (IV)](#2026-09-22-iv-la-revision-del-trio-lo-que-se-cor)
 
 ---
 
@@ -238,7 +238,7 @@ Estas lecciones no son norma aislada: cada una alimenta secciones vivas de los d
 | Uso real, no recetar lo no habitado | Tratado **Art. 245** · **G-002** (cuidar la cabeza es el primer G-002) |
 | Ritmo, una decisión por día, parar a tiempo | Manual **§5.3** |
 | Pieza limpia, corte = día de edición, entrega con números | Manual **§5.4** (reglas nacidas la noche 14-sep) |
-| Verificación viva, dos fuentes, enlace cierra el caso | Manual de campo / Registro histórico **§5.4.5** (pieza limpia) y **§5.4.13** (solo lo vivo · ARCH→nota); la cita «§5.4.8» quedó sin definición en el corpus vigente — nota E-L1 en [09-22 (IV)](#2026-09-22-iv) |
+| Verificación viva, dos fuentes, enlace cierra el caso | Manual de campo / Registro histórico **§5.4.5** (pieza limpia) y **§5.4.13** (solo lo vivo · ARCH→nota); la cita «§5.4.8» quedó sin definición en el corpus vigente — nota E-L1 en [09-22 (IV)](#2026-09-22-iv-la-revision-del-trio-lo-que-se-cor) |
 | Interpretación máxima, contar completo antes de ejecutar | nacida de 09-15 (VIII); rige toda orden con «todas/cada/masivo» |
 | Foco ES, completa/compacta, título limpio | Tratado V.0.05 **Libro D** (D-001 a D-003, D-007) · Manual V2.1 **§6** |
 | Semilla/meme/voz dominicana, #tags | Tratado **D-005/D-006** · Manual **§6.2/§6.3** |
