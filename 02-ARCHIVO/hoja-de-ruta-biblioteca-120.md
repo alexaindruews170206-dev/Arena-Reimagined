@@ -98,3 +98,10 @@ El censo vivo (506 repos, censo-ecosistema-2026-10-15.tsv) reorganiza la campañ
 - ⏳ Contraste con el repo privado «…-axmanager-Next» (zip + código descomprimido que subió el dueño): requiere token o repo público.
 - ✅ PUSH #1 ejecutado con token del dueño: `61ca938..b324a59dd430 main` (119 cambios; zip del módulo como evidencia; webroot extraído excluido por .gitignore, regenerable).
 - ✅ Identidad repo «Next» probada: 10/10 blobs + zip byte-exactos contra mi despiece — no hay código distinto que desarmar.
+
+## COLA NUEVA IV (23:25) — SERIE 21-178 (FB fuera, orden del dueño)
+- ✅ Pieza 21 «cosecha musical» 62.174c `1420a7f4b76d2e59` — v6 maxP 378, 0>380, pulso #10 con hora. BORRADOR EN BANDA (baterías+cert pendientes).
+- ✅ mapa-serie-21-180.md + montador-serie.py (cadena de producción de la serie).
+- ⏳ Serie: 1/157 nacidas. Próximas en cola por mapa: 22 lectura (koreader/koodo/nomad), 23 sala (SmartTube/cloudstream/IPTV).
+- ⏳ Certificación de las nacidas: v4+v5+fuzz → quirujano sinAire → sin-anotar → sellos FINALES (misma orden, siguiente bloque).
+- ⚖️ Ley nueva del dueño: la serie 21+ NO tiene gemelas FB.
