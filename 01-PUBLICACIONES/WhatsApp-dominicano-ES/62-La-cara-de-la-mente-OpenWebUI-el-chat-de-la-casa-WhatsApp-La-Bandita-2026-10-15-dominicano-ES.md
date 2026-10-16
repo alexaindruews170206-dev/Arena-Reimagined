@@ -27,7 +27,7 @@ El chat de la tienda: alquila la cara. El propio: la monta.
 
 La web del chat y su hermana de bolsillo — la pareja de la cara, medida HOY.
 
-*La cara — Open WebUI.* `open-webui/open-webui` ★155.917 (pulso 16-oct-2026), nacida el 6-oct-2023, con aire hasta HOY, con su placa por firmar en el espejo (NOASSERTION — la firma de su hogar, la del proyecto vivo: se lee en su casa). **LA SEGUNDA PLACA MAYOR DE LA OBRA** (tras la mente de la 61: la cara del chat, la segunda faena más firmada del planeta).
+*La cara — Open WebUI.* `open-webui/open-webui` ★155.917 (pulso 16-oct-2026), nacida el 6-oct-2023, con aire hasta HOY, con su placa por firmar en el espejo (NOASSERTION — la firma de su hogar, la del proyecto vivo: se lee en su casa). **LA TERCERA PLACA MÁS ALTA DEL CENSO DE LA OBRA** (tras la mente ★183.478 y la casa de los pensares ★167.766 — pulso 16-oct-2026: la cara del chat libre, la cima de su mesa).
 
 El oficio completo: la web del chat pa toda la casa (cada quien, su cuenta y SU historial), hablando con la mente local (61: la pareja madre-hija del bloque) o con cualquier mente firmada, y los extras del taller (los documentos de la casa leídos por la mente: el RAG del oficio — la 59 con su pareja).
 
@@ -35,7 +35,7 @@ El oficio completo: la web del chat pa toda la casa (cada quien, su cuenta y SU 
 
 La hermana chiquita del chat: la web ligera (el chat directo, sin extras — pa la caja modesta) con su modo de bolsillo (la app del teléfono pa el paseo: el chat de la casa, viajando por el túnel de la 58). La pareja de la cara: la completa (la casa grande) y la ligera (la casa chiquita) — ambas firmadas con la ley de la mano abierta.
 
-*La lectura del censo, con la vara de la fila: las dos caras del chat suman 244.768 — la segunda pareja más alta de la obra (tras la mente-motor de la 61: 314.881). El bloque de la IA propia (61-62): las DOS cimas más altas de la obra en dos piezas — la década de la IA, abriendo por el podio completo.*
+*La lectura del censo, con la vara de la fila: las dos caras del chat suman 244.768 — la segunda pareja más alta de la obra (tras la mente-motor de la 61: 314.881). El bloque de la IA propia (61-62): las DOS cimas de su primera tanda en dos piezas — la década de la IA, abriendo por el podio de la fila.*
 
 *🏛 LAS TRES CAPAS DE LA CARA*
 
@@ -229,7 +229,7 @@ La lectura fina del parte: la cara es la placa más viva de la obra tras la ment
 
 Tres medidas finas de la noche.
 
-La primera: el podio duplicado. La fila 61-62 firma las DOS cimas más altas de la obra (la mente: 183k; la cara: 155k) — la medida del momento: el bloque de la IA propia, abriendo con el podio completo del planeta. La década de la IA: firmada por el taller libre.
+La primera: el podio duplicado. La fila 61-62 abrió con las DOS cimas de su tanda (la mente: 183k; la cara: 155k) — la medida del momento: el bloque de la IA propia, abriendo por el podio (el censo completo de la 68 sumó la casa de los pensares: ★167.766, entre las dos). La década de la IA: firmada por el taller libre.
 
 La segunda: el año mágico. Las tres placas del bloque (el motor: 10-mar-2023; la mente: 26-jun-2023; la cara: 6-oct-2023) — nacidas en UN año: la medida fina de la historia: la generación que montó la IA de la casa en doce meses (el mundo entero esperando; el taller libre: entregando).
 

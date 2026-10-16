@@ -29,11 +29,11 @@ La norma del oficio y su catálogo — la pareja de las manos, medida HOY.
 
 La norma abierta que firmó la década: cómo habla una mente con una mano (el enchufe universal del oficio: cualquier mente, cualquier mano — la norma de la casa).
 
-*El catálogo — MCP Servers.* `modelcontextprotocol/servers` ★91.311 (pulso 16-oct-2026), nacida el 19-nov-2024, con aire reciente (push de la semana), con su letra por leer en su hogar. **LA TERCERA PLACA MAYOR DE LA OBRA** (¡la trinidad del podio: mente 183k, cara 155k, manos 91k — el bloque de la IA propia, con las tres cimas!).
+*El catálogo — MCP Servers.* `modelcontextprotocol/servers` ★91.311 (pulso 16-oct-2026), nacida el 19-nov-2024, con aire reciente (push de la semana), con su letra por leer en su hogar. **LA CUARTA PLACA MÁS ALTA DEL CENSO DE LA OBRA** (tras la mente ★183.478, la casa de los pensares ★167.766 — pulso 16-oct-2026 — y la cara ★155.917: el podio de la fila IA, con la cuarta firma).
 
 El catálogo de las manos: los servidores oficiales del oficio (el archivo, el calendario, la memoria, el navegador, el buscador — cada mano, su servidor de referencia, firmado por la forja de la norma).
 
-*La lectura del censo, con la vara de la fila: la fila 61-63 firma las TRES cimas de la obra en TRES piezas (183k, 155k, 91k) — el podio completo del planeta libre, en una fila. Y la vara de la norma: dos años de vida (2024) y ya la firma del mundo — la norma más adoptada de la historia reciente del oficio.*
+*La lectura del censo, con la vara de la fila: la fila 61-63 abrió con las tres primeras firmas de la fila IA (183k, 155k, 91k) — el podio que la casa de los pensares (★167.766, pulso 16-oct-2026) completó entre las dos primeras. Y la vara de la norma: dos años de vida (2024) y ya la firma del mundo — la norma más adoptada de la historia reciente del oficio.*
 
 *🏛 LAS TRES CAPAS DE LAS MANOS*
 
@@ -185,7 +185,7 @@ Montaje: la mano del despacho guardando las planillas (el permiso: «leer y actu
 
 *🏭 LA DESPENSA DE DATOS (todo lo medido, en una repisa)*
 
-*Las placas (censo 16-oct-2026):* la norma ★9.461 (letra viva en su hogar) · el catálogo ★91.311 — **LA TERCERA PLACA MAYOR DE LA OBRA**: la trinidad del podio completa (183k, 155k, 91k).
+*Las placas (censo 16-oct-2026):* la norma ★9.461 (letra viva en su hogar) · el catálogo ★91.311 — **LA CUARTA PLACA MÁS ALTA DEL CENSO DE LA OBRA**: tras la mente (183k), la casa de los pensares (167k) y la cara (155k).
 
 *La edad:* la norma, nacida el 24-sep-2024 (dos años de oficio — la norma más adoptada de la historia reciente); el catálogo, del 19-nov-2024.
 
@@ -239,7 +239,7 @@ La lectura fina del parte: las manos son la norma más joven y más adoptada del
 
 Tres medidas finas de la noche.
 
-La primera: la trinidad del podio. La fila 61-63 firma las TRES cimas de la obra (la mente: 183k, la cara: 155k, las manos: 91k) — el podio completo del planeta libre, en TRES piezas. La medida del momento: el bloque de la IA propia, dueño absoluto del censo — la década, firmada por el taller libre.
+La primera: la trinidad de la fila. La fila 61-63 firmó las tres primeras placas de la fila IA (la mente: 183k, la cara: 155k, las manos: 91k) — el podio que el censo completo de la 68 (la casa de los pensares: ★167.766) completó entre la primera y la segunda. La medida del momento: el bloque de la IA propia, dueño absoluto del censo — la década, firmada por el taller libre.
 
 La segunda: la norma de 24 meses. Dos años del enchufe universal (2024-2026): de la firma de la forja al estándar del mundo — la adopción más rápida del oficio (la ley MIT de la mente: tres años pa la cima; la norma: dos pa el estándar). La medida fina de la época: el mundo libre, adoptando por consenso — la velocidad de la década.
 
@@ -517,7 +517,7 @@ Las manos: con acta — como toda casa seria.
 
 Manos de la mente|Los servidores MCP en tu taller: la IA de la casa pasando de contestar a hacer. La acción — bajo tu llave, con tu enter.
 
-Trinidad del podio|La de la fila 61-63: mente (183k), cara (155k), manos (91k) — el podio completo del planeta, en tres piezas. La década: firmada por el taller libre.
+Trinidad de la fila|La de la fila 61-63: mente (183k), cara (155k), manos (91k) — las tres primeras firmas de la fila IA (el censo de la 68 sumó la casa de los pensares: 167k). La década: firmada por el taller libre.
 
 Norma universal|La de MCP: cómo habla una mente con una mano — el enchufe del oficio, dos años y ya estándar del mundo. La adopción más rápida de la historia.
 
@@ -617,7 +617,7 @@ Gira del chat|La de la casa: el historial leído por su dueño, los modos al dí
 
 *📎 LOS APÉNDICES DE LAS MANOS (lo que queda de la noche)*
 
-Apéndice A — el mapa de las manos, al corte. La fila 61-70 con su trinidad del podio: la mente (61) piensa, la cara (62) muestra, las manos (esta) hacen — las parejas del taller sirviendo: el despacho (59) ordenado por la mano del archivo, el calendario de la casa agendado, el tablero (60) vigilando los servidores, el cofre (56) guardando las llaves de las manos.
+Apéndice A — el mapa de las manos, al corte. La fila 61-70 con su trinidad de la fila: la mente (61) piensa, la cara (62) muestra, las manos (esta) hacen — las parejas del taller sirviendo: el despacho (59) ordenado por la mano del archivo, el calendario de la casa agendado, el tablero (60) vigilando los servidores, el cofre (56) guardando las llaves de las manos.
 
 La casa: pensando, mostrando y haciendo — el bloque completo de la IA propia.
 
@@ -651,7 +651,7 @@ Apéndice E — la fila que viene. La 64 firma la compañera de la casa (la IA c
 
 *Respuestas al revés (léelas de atrás para adelante):*
 
-REV|.sazeip sert ne ,atenalp led otelpmoc oidop le :)113.19★( sonam sal y )719.551★( arac al ,)874.381★( etnem aL
+REV|.AI alif al ed samrif saremirp sert sal :)113.19★( sonam sal y )719.551★( arac al ,)874.381★( etnem aL
 
 REV|.erba es sámaj euq nóicpecxe al ,otcerid y onamuh erpmeis :ogap le — orenid lE
 
