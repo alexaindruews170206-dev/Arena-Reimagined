@@ -105,3 +105,9 @@ El censo vivo (506 repos, censo-ecosistema-2026-10-15.tsv) reorganiza la campañ
 - ⏳ Serie: 1/157 nacidas. Próximas en cola por mapa: 22 lectura (koreader/koodo/nomad), 23 sala (SmartTube/cloudstream/IPTV).
 - ⏳ Certificación de las nacidas: v4+v5+fuzz → quirujano sinAire → sin-anotar → sellos FINALES (misma orden, siguiente bloque).
 - ⚖️ Ley nueva del dueño: la serie 21+ NO tiene gemelas FB.
+
+## COLA NUEVA V (madrugada) — noche de serie
+- ✅ 21 `1420a7f4b76d2e59` · 22 `9e8473f2dd6fddca` · 23 `08c4ff4c43d2ef99` — las tres 62k banda, v6 aire, placas fechadas. BORRADOR EN BANDA (baterías pendientes).
+- ✅ Fábrica probada: placas-censo + gen-piece + montador + glosario de familia. Cadena ~6-8 llamadas por pieza.
+- ⏳ Serie: 3/157. Cola por mapa: 24 escudo (v2rayNG ★64k, Shadowrocket-rules ★31k, lantern ★16k), 25 taller-herramientas (Shizuku ★31k quietud-jun-2025, AppManager ★9.2k, Gopeed ★26.9k), 26 sótano (syncthing ★89.4k).
+- ⏳ Cert 21-23: v4+v5+fuzz → sin-anotar → sellos FINALES.
