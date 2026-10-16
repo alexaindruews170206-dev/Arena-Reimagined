@@ -64,7 +64,7 @@ for l in L:
 if cur: blocks.append("\n".join(cur))
 real=[b for b in blocks if not (len(b.split("\n"))==1 and (b.startswith("REV|") or b.startswith("(Las respuestas")))]
 over=[b for b in real if len(b)>380]
-sindate=[l for l in L if "★" in l and re.search(r"★\s*\d", l) and not any(y in l for y in ("2023","2024","2025","2026"))]
+sindate=[l for l in L if (not l.startswith("REV|")) and "★" in l and re.search(r"★\s*\d", l) and not any(y in l for y in ("2023","2024","2025","2026"))]
 heads=[l for l in L if re.match(r"^\*[^*\n]+\*$", l)]
 fe0f=[h for h in heads if "\ufe0f" in h]
 c=Counter()
@@ -77,6 +77,7 @@ dec=[l[4:][::-1] for l in qs]
 ok = 62000<=len(tf)<=64000 and len(over)==0 and len(sindate)==0 and len(fe0f)==0 and len(lits)==1 and lits[0][0]==("No","dice") and len(qs)==5
 print(f"pieza {NN}: {len(tf)}c · >380:{len(over)} · ★sinFecha:{len(sindate)} · FE0F:{len(fe0f)} · litanías:{lits} · REV|:{len(qs)}")
 for b in over[:4]: print("  OVER:",len(b),repr(b[:90]))
+for l in sindate: print("  STARFANTASMA:",repr(l[:120]))
 if not ok:
     print("REVISAR ✗"); sys.exit(1)
 dest=f"/home/user/Arena-Reimagined/01-PUBLICACIONES/WhatsApp-dominicano-ES/{NN}-{SLUG}-WhatsApp-La-Bandita-2026-10-15-dominicano-ES.md"
