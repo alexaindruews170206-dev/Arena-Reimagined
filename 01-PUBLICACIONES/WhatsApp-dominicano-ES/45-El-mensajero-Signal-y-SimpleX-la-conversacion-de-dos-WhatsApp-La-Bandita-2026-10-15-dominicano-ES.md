@@ -121,7 +121,7 @@ La prueba del taller: apaga los datos y manda — el sobre espera en Signal-Serv
 
 *«El WhatsApp del barrio ya es privado».* A medias, que es como se miente mejor. El candado: sí, el de Signal (la ironía firmada). El taller: NO — el sobre llega abierto a la nube del negocio, con tu conversación como inventario. Candado ajeno con taller abierto: la letra viaja bien y aterriza mal. La mudanza es de la casa, no del candado — la regla uno.
 
-*«Telegram es igual de seguro».* El chat del侏 nube: los grupos y el chat normal viven en la nube del taller ABIERTA (cifrada pa la calle, legible pa la casa del taller — y su dueño lo firma sin vergüenza). Solo su «chat secreto» firma punta a punta — y ni está por defecto ni está en grupos.
+*«Telegram es igual de seguro».* El chat de la nube: los grupos y el chat normal viven en la nube del taller ABIERTA (cifrada pa la calle, legible pa la casa del taller — y su dueño lo firma sin vergüenza). Solo su «chat secreto» firma punta a punta — y ni está por defecto ni está en grupos.
 
 La vara de la doctrina: pregunta dónde llega el sobre — y la respuesta de Telegram es: al taller, abierto.
 
