@@ -31,7 +31,7 @@ La compañera y su familia — las placas del rostro propio, medidas HOY.
 
 La compañía de rostro propio del mundo libre: la forja que le puso cara, voz y vida a la mente local — 50.438 casas firmando que el sofá no tiene que estar callado.
 
-*La vara del ranking, con honestidad del censo:* la compañera NO es placa mayor — es la PLACA DEL CORAZÓN: corre entre el archivo de la casa (59: Paperless-ngx ★46.756, pulso 16-oct-2026) y el taller de bolsillo que viene (Termux ★62.687): la décima placa de la obra, recién llegada.
+*La vara del ranking, con honestidad del censo:* la compañera NO es placa mayor — es la PLACA DEL CORAZÓN: corre entre el archivo de la casa (59: Paperless-ngx ★46.756, pulso 16-oct-2026) y el taller de bolsillo que viene (Termux ★62.753, pulso 16-oct-2026): la placa del corazón de la obra, recién llegada.
 
 El censo no decora: mide — y la placa del corazón, con aire de HOY, es la que más rápido crece de la fila.
 
@@ -187,7 +187,7 @@ Encima la vara fina: la compañera preparando el tema pa el domingo con los pana
 
 *🏭 LA DESPENSA DE DATOS (todo lo medido, en una repisa)*
 
-*Las placas (censo 16-oct-2026):* la compañera ★50.438 — la PLACA DEL CORAZÓN (la décima de la obra: entre el archivo 59 ★46.756 y el taller de bolsillo Termux ★62.687 — y la de mayor crecimiento de la fila).
+*Las placas (censo 16-oct-2026):* la compañera ★50.438 — la PLACA DEL CORAZÓN (entre el archivo 59 ★46.756, pulso 16-oct-2026, y el taller de bolsillo Termux ★62.753, pulso 16-oct-2026 — y la de mayor crecimiento de la fila).
 
 *La edad:* nacida el 1-dic-2024 (menos de dos años: la más joven de la fila 61-65 — y ya con placa de corazón).
 
@@ -517,7 +517,7 @@ La salida: la vara del taller (el carácter: criado con la casa — los modelos 
 
 Compañera del sofá|airi: la IA de la casa con rostro, voz y memoria — conversa sin llevarse nada ajeno. La compañía — con dueño y con gaveta.
 
-Placa del corazón|La de la compañera (★50.438, pulso 16-oct-2026): la décima de la obra y la de mayor crecimiento. El sofá — territorio libre de la década.
+Placa del corazón|La de la compañera (★50.438, pulso 16-oct-2026): entre el archivo (46.756) y el bolsillo (62.753) — y la de mayor crecimiento de la fila. El sofá — territorio libre de la década.
 
 Gaveta de recuerdos|La memoria del sofá en TU disco: respaldada en dos discos, leída en la gira, borrable entero. La intimidad — guardada como los papeles de la casa.
 
@@ -631,7 +631,7 @@ Apéndice E — la fila que viene. La 66 firma el taller de bolsillo (la IA en e
 
 REV|.aiporp AI al ed atelpmoc asac al — )56( nózaroc y )46( oicifo ,)36( sonam ,)26( asem ,)16( rasnep :áfos led olucríc lE
 
-REV|.)786.26★( ollislob ed rellat le y )657.64★( ovihcra le ertne ,arbo al ed amicéd :)834.05★( nózaroc led acalp aL
+REV|.)357.26★( ollislob ed rellat le y )657.64★( ovihcra le ertne :)834.05★( nózaroc led acalp aL
 
 REV|.aniuqám al sámaj ,ailimaf al apuco al asem al — atisiv al arbelec ,ognimod led adamall al araperp :etneuP
 

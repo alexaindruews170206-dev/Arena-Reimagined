@@ -35,7 +35,7 @@ El censo del bolsillo y su familia — las placas, medidas HOY.
 
 *La despensa del taller chico — Termux Packages.* `termux/termux-packages` ★17.176 (pulso 16-oct-2026), con aire del MISMO DÍA (push de hoy): la despensa que alimenta el taller (los paquetes: python, ssh, git, el ollama del bolsillo — cada herramienta, compilada pa tu mano). La pareja de once años: la app y su despensa — la forja más constante del censo.
 
-*La vara del ranking, con honestidad del censo:* el taller chico NO es placa mayor — es la PLACA DEL BOLSILLO: corre por encima de la forja (57: Gitea ★58.533, pulso 16-oct-2026) y del cine de casa (53: Jellyfin ★58.141, pulso 16-oct-2026), por debajo de la sincronía (45: syncthing ★89.442). La novena placa de la obra: once años, sin un solo año en pausa.
+*La vara del ranking, con honestidad del censo:* el taller chico NO es placa mayor — es la PLACA DEL BOLSILLO: corre por encima de la forja (57: Gitea ★58.533, pulso 16-oct-2026) y del cine de casa (53: Jellyfin ★58.141, pulso 16-oct-2026), por debajo de la sincronía (45: syncthing ★89.442). La placa del bolsillo: once años, sin un solo año en pausa.
 
 El censo no decora: mide.
 
@@ -185,7 +185,7 @@ El apagón del barrio: vivido con taller en la mano — la casa oscura: jamás s
 
 *🏭 LA DESPENSA DE DATOS (todo lo medido, en una repisa)*
 
-*Las placas (censo 16-oct-2026):* el taller chico ★62.753 — la PLACA DEL BOLSILLO (la 9ª de la obra: sobre la forja 57 ★58.533 y el cine 53 ★58.141; bajo la sincronía 45 ★89.442) · la despensa ★17.176 (push de HOY).
+*Las placas (censo 16-oct-2026):* el taller chico ★62.753 — la PLACA DEL BOLSILLO (sobre la forja 57 ★58.533 y el cine 53 ★58.141; bajo la sincronía 45 ★89.442) · la despensa ★17.176 (push de HOY).
 
 *La edad:* nacida el 23-oct-2015 — **LA VETERANA DE LA FILA** (once años: la más vieja del bloque entero; cumple 11 años esta semana misma).
 
@@ -515,7 +515,7 @@ La salida: la gira mensual del caminante (la despensa emparejada: un comando; la
 
 Taller de bolsillo|Termux: la terminal de Linux corriendo en tu Android — sin root, sin jaula rota. El teléfono — de juguete a taller; la calle — contestando al momento.
 
-Placa del bolsillo|La del taller chico (★62.753, pulso 16-oct-2026): la 9ª de la obra — sobre la forja y el cine, bajo la sincronía. Once años: la VETERANA de la fila.
+Placa del bolsillo|La del taller chico (★62.753, pulso 16-oct-2026): sobre la forja y el cine, bajo la sincronía. Once años: la VETERANA de la fila.
 
 Pareja de once años|La de la app y su despensa (62.753 + 17.176): nacidas en 2015, faenando juntas HOY. El matrimonio técnico más largo del censo.
 
