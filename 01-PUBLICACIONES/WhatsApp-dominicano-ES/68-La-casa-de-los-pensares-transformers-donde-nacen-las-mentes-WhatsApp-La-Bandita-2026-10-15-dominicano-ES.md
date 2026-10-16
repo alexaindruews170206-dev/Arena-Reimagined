@@ -39,7 +39,7 @@ La casa de los pensares y su familia — las placas del origen, medidas HOY.
 
 Su vara fina del censo: la casa NO es la gaveta (es el IDIOMA: la lengua en que cada pensa se define, se compara y se corre — la despensa pública: el estante; transformers: la gramática de lo que hay en el estante).
 
-*La vara del ranking, con honestidad del censo:* la casa NO necesita podio: lo TIENE (la segunda más alta del censo entero, por una placa entera de 11.850 sobre la cara de la 62). El censo no decora: mide — y la forja madre: midiendo desde 2018.
+*La vara del ranking, con honestidad del censo:* la casa NO necesita podio: lo TIENE (la segunda más alta del censo entero, por una placa entera de 11.849 sobre la cara de la 62). El censo no decora: mide — y la forja madre: midiendo desde 2018.
 
 *La familia de la fila:* la mente (61: Ollama ★183.478, pulso 16-oct-2026 — la cocina que corre las recetas de esta casa), la aprendiz (64: ★68.589 — la que usa el idioma pa faenar), la de entrenar fino que viene. La pareja madre: la casa de los pensares (DONDE nace) y la mente (61: CÓMO corre) — el nacimiento y la cocina, la fila entera entre las dos.
 
@@ -193,7 +193,7 @@ El liceo del barrio: con el mito del oráculo — desmontado en 45 minutos.
 
 *🏭 LA DESPENSA DE DATOS (todo lo medido, en una repisa)*
 
-*Las placas (censo 16-oct-2026):* la casa ★167.766 — **LA SEGUNDA MÁS ALTA DEL CENSO COMPLETO** (tras la mente ★183.478; encima de la cara ★155.917 por 11.850). Apache-2.0.
+*Las placas (censo 16-oct-2026):* la casa ★167.766 — **LA SEGUNDA MÁS ALTA DEL CENSO COMPLETO** (tras la mente ★183.478; encima de la cara ★155.917 por 11.849). Apache-2.0.
 
 *La edad:* nacida el 29-oct-2018 — **LA FUNDACIÓN DE LA FILA** (ocho años: existía cuando la fila ni se soñaba; la forja que sostenía el oficio ANTES de la moda).
 

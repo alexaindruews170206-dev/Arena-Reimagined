@@ -29,7 +29,9 @@ La norma del oficio y su catálogo — la pareja de las manos, medida HOY.
 
 La norma abierta que firmó la década: cómo habla una mente con una mano (el enchufe universal del oficio: cualquier mente, cualquier mano — la norma de la casa).
 
-*El catálogo — MCP Servers.* `modelcontextprotocol/servers` ★91.311 (pulso 16-oct-2026), nacida el 19-nov-2024, con aire reciente (push de la semana), con su letra por leer en su hogar. **LA CUARTA PLACA MÁS ALTA DEL CENSO DE LA OBRA** (tras la mente ★183.478, la casa de los pensares ★167.766 — pulso 16-oct-2026 — y la cara ★155.917: el podio de la fila IA, con la cuarta firma).
+*El catálogo — MCP Servers.* `modelcontextprotocol/servers` ★91.311 (pulso 16-oct-2026), nacida el 19-nov-2024, con aire reciente (push de la semana), con su letra por leer en su hogar. **LA PLACA DE LAS MANOS DE LA FILA IA** (por encima corren la mente ★183.478, la casa de los pensares ★167.766 — pulso 16-oct-2026 — y la cara ★155.917).
+
+En el censo entero, encima suyo también: el alambre ★94.549, el pulso del taller ★92.557 y la casa que piensa ★91.562 — por narices finas.
 
 El catálogo de las manos: los servidores oficiales del oficio (el archivo, el calendario, la memoria, el navegador, el buscador — cada mano, su servidor de referencia, firmado por la forja de la norma).
 
@@ -185,7 +187,7 @@ Montaje: la mano del despacho guardando las planillas (el permiso: «leer y actu
 
 *🏭 LA DESPENSA DE DATOS (todo lo medido, en una repisa)*
 
-*Las placas (censo 16-oct-2026):* la norma ★9.461 (letra viva en su hogar) · el catálogo ★91.311 — **LA CUARTA PLACA MÁS ALTA DEL CENSO DE LA OBRA**: tras la mente (183k), la casa de los pensares (167k) y la cara (155k).
+*Las placas (censo 16-oct-2026):* la norma ★9.461 (letra viva en su hogar) · el catálogo ★91.311 — **LA PLACA DE LAS MANOS DE LA FILA IA**: por encima, la mente (183k), la casa de los pensares (167k) y la cara (155k); y en el censo entero, el alambre (94.5k), el pulso del taller (92.5k) y la casa que piensa (91.5k) — por narices finas.
 
 *La edad:* la norma, nacida el 24-sep-2024 (dos años de oficio — la norma más adoptada de la historia reciente); el catálogo, del 19-nov-2024.
 

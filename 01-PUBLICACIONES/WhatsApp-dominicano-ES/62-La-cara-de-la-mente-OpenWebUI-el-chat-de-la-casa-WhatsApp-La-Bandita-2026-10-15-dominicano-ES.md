@@ -27,7 +27,9 @@ El chat de la tienda: alquila la cara. El propio: la monta.
 
 La web del chat y su hermana de bolsillo — la pareja de la cara, medida HOY.
 
-*La cara — Open WebUI.* `open-webui/open-webui` ★155.917 (pulso 16-oct-2026), nacida el 6-oct-2023, con aire hasta HOY, con su placa por firmar en el espejo (NOASSERTION — la firma de su hogar, la del proyecto vivo: se lee en su casa). **LA TERCERA PLACA MÁS ALTA DEL CENSO DE LA OBRA** (tras la mente ★183.478 y la casa de los pensares ★167.766 — pulso 16-oct-2026: la cara del chat libre, la cima de su mesa).
+*La cara — Open WebUI.* `open-webui/open-webui` ★155.917 (pulso 16-oct-2026), nacida el 6-oct-2023, con aire hasta HOY, con su placa por firmar en el espejo (NOASSERTION — la firma de su hogar, la del proyecto vivo: se lee en su casa). **LA TERCERA PLACA MÁS ALTA DEL CENSO DE LA OBRA** (tras la mente ★183.478 y la casa de los pensares ★167.766 — pulso 16-oct-2026).
+
+La cara del chat libre: la cima de su mesa.
 
 El oficio completo: la web del chat pa toda la casa (cada quien, su cuenta y SU historial), hablando con la mente local (61: la pareja madre-hija del bloque) o con cualquier mente firmada, y los extras del taller (los documentos de la casa leídos por la mente: el RAG del oficio — la 59 con su pareja).
 

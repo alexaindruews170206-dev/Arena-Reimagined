@@ -33,3 +33,11 @@ Estado al cierre de cada bloque de producción se anota en hoja-de-ruta (append-
 - Pieza 40 RESTAURADA del repo (8f903fa00df74b5e ✓ byte-idéntica). Inventario de integridad OK (piezas, packs, hoja-de-ruta, doctrina, censo, glos-base ✓).
 - Serie: 21-60 nacidas (40/158). Catálogo v4 re-horneado: 4.726.661b · 62 WA · build 16-oct 16:25.
 - SIGUE: fila 61-70 (IA II) — pulsos 17-20 reservados (MCP ★91.288, NextChat, airi, Jan ★44.958 en actas).
+
+## BITÁCORA — 16-oct-2026 20:00 (noche V, sesión continua — CIERRE DE LA FILA IA)
+- **FILA 61-70 (IA DE LA CASA) CERRADA Y CERTIFICADA**: 10 piezas nacidas (61-70) · CERT 10/10×3 (v6 aire · v5-mut 27/27 · v5-fuzz 58/58, sem 20261015) — CERO FALSOS APROBADOS. Placas: Ollama ★183.478 (LA MAYOR) · transformers ★167.766 (2ª DEL CENSO) · Open WebUI ★155.917 (3ª) · MCP ★91.311 · unsloth ★78.122 · AnythingLLM ★67.208 · Open Interpreter ★68.589 · airi ★50.438 · Termux ★62.753 · Magisk ★63.307. Compañeros: llama.cpp ★131.403 · spec MCP ★9.461 · packages ★17.176.
+- Las diez piezas: mente 61 · cara 62 · manos 63 · aprendiz 64 · compañera 65 · bolsillo 66 · raíz 67 · casa 68 · sazón 69 · cerebro 70 — el círculo completo del pensar con dueño (pensar, mostrar, hacer, faenar, acompañar, caminar, decidir, definir, educar, recordar).
+- Cirugías de la fila: 62 (podio ×3/3 + respiro re-partido `d2e296146208991f`) · 63 (titulares → «LA PLACA DE LAS MANOS DE LA FILA IA», vecinos nombrados, `1ab0288d2ea0a812`) · 65+66 (ordinales→comparativos) · 68 (aritmética 11.849, `99a5642e23edfafa`). LEY: comparativo contra TABLA COMPLETA, jamás ordinal absoluto.
+- Incidente snapshot #2: piezas 40-60 soltadas del workspace live — restauradas 21/21 desde el repo remoto (sellos verificados). LEY: el repo remoto = fuente de verdad del contenido.
+- Serie: **21-70 nacidas (50/158)** · CERT de cinco bloques (21-40 20/20 · 41-50 · 51-60 · 61-70). Catálogo v4 re-horneado: **5.448.220 bytes · 73 WA** · build 16-oct 20:00.
+- SIGUE: fila 71-80 (EMULADORES II — el taller de consolas: Termux ya consumido en 66; candidatos de pulso: emulación on-device, frontend de consolas, Wine/box64 en la fila) · después 82-95 root II → 96-110 fotografía → 111-125 día a día → 126-140 developer → 141-155 oficio II → 156-178 cierres.
