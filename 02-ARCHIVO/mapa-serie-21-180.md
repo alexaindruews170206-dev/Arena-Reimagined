@@ -27,3 +27,9 @@ Estado al cierre de cada bloque de producción se anota en hoja-de-ruta (append-
 - [16-oct 01:15 · arnés] CERT 21-35 COMPLETA: v4 banda 15/15 · mutación 28/28 · fuzz 58/58 (semilla 20261015) · cero falsos aprobados. Catálogo v4: 3.145.939b · 38 WA · build 01:19.
 
 - [16-oct 15:52] **BLOQUE REDES 41-50 CERRADO Y CERTIFICADO** (10/10×3 arnés; cert oficial en registro). Piezas 41-50 nacidas (21-50 = 30/158). Incidente snapshot (41-49 volaron del workspace): restauradas 9/9 byte-idénticas desde GitHub — ley nueva: inventario de integridad al abrir cada turno. Catálogo v4 re-horneado: 52 WA · 4.070.011b. SIGUE: 51-60 selfhosted II (el taller propio: resolver/seedbox/cola/estación propios — lo prometido en 42/43/44/45/48).
+
+## BITÁCORA — 16-oct-2026 16:25 (noche V, sesión continua)
+- **FILA 51-60 (TALLER PROPIO) CERRADA Y CERTIFICADA**: 10 piezas nacidas (51-60) · CERT 10/10×3 (v4 · v5-mut 27/27 · v5-fuzz 58/58) — CERO FALSOS APROBADOS. La fila con MÁS PLACAS EN EL PODIO de la obra (7 cimas: 116k, 92k, 91k, 69k, 61k, 58k, 58k). Uptime Kuma ★92.557 = NUEVA 2ª PLACA MAYOR DE LA OBRA (pasó al cerebro). Immich ★116.408 = PLACA MAYOR (piezas 52).
+- Pieza 40 RESTAURADA del repo (8f903fa00df74b5e ✓ byte-idéntica). Inventario de integridad OK (piezas, packs, hoja-de-ruta, doctrina, censo, glos-base ✓).
+- Serie: 21-60 nacidas (40/158). Catálogo v4 re-horneado: 4.726.661b · 62 WA · build 16-oct 16:25.
+- SIGUE: fila 61-70 (IA II) — pulsos 17-20 reservados (MCP ★91.288, NextChat, airi, Jan ★44.958 en actas).
