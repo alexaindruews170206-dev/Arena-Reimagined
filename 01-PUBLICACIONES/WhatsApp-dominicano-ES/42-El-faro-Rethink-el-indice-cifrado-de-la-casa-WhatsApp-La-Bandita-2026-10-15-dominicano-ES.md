@@ -665,6 +665,24 @@ La segunda: la ley doble nueva. Apache-2.0 + MPL-2.0 — las dos primeras firmas
 
 La tercera: el ahorro medible. El faro es el ÚNICO mueble de la serie que cobra a favor (los bites del guiso jamás descargados: el plan ahorrando). La medida fina pa el barrio: los muebles del sistema protegen (se paga en tranquilidad); el faro protege Y FACTURA — la cuenta del plan, la primera póliza con saldo positivo.
 
+*📎 LOS APÉNDICES DEL FARO (lo que queda de la noche)*
+
+Apéndice A — el mapa del aire, al corte. La fila del aire en una línea: el mueble invisible que todo lo ve (la 31) abrió la sala; el candado (38) guardó las llaves; la ventana (41) mostró sin reportar; y este faro (42) mudó el índice. Cuatro faenas, una casa: la sala del aire completa.
+
+Lo que falta tiene fecha: el viaje (la 43) y la mudanza completa del índice al taller propio (51-60).
+
+Apéndice B — las cinco preguntas del mostrador, en una línea cada una. ¿Qué hace? Cifra el índice y bloquea el guiso. ¿Qué no hace? No oculta el destino — lo muestra cifrado. ¿Cuánto cuesta? Nada: la app libre, el resolver montable, las listas del taller. ¿Cuánto tarda? Diez minutos y una tarde de prueba. ¿Y si se cae? La pausa ensayada — el plan B escrito antes de la falla.
+
+Apéndice C — la página en blanco. La que la forja deja abierta a propósito: el nombre del primer dominio que TU registro bloqueó esta semana. Ese dato — el tuyo, fechado en tu sala — vale más que todas las placas del censo: es la vara midiendo TU casa. La obra no termina en la lectura: termina cuando el registro de tu teléfono empieza a hablar.
+
+Apéndice D — la sala de los errores. Las tres fallas posibles y su salida. Si una app deja de cargar: el registro del faro la delata en segundos (el dominio bloqueado de más — la lista blanca lo devuelve, con fecha y motivo). Si el wifi del trabajo se queja: el perfil por red existe — el faro afloja donde la red es de la casa, aprieta donde es ajena.
+
+Si todo se siente lento: el resolver del taller propio es la salida (el índice contestado por tu casa, no por la ajena) — la vara completa tiene dirección en la obra.
+
+Apéndice E — la fila que viene. La 43 abre el viaje (el túnel cifrado del café, la VPN que muda el CASERÓN entero); la 44 tiende el alambre (la sincronía de la casa, prometida desde la 36); y después, el taller completo (51-60): el resolver propio en la nube — el índice de la casa contestado por la casa, la vara completa de este faro. La forja no improvisa: programa.
+
+Y la noche firma: el aire de la casa, cada vez más de la casa.
+
 *🎯 EL MINIQUIZ DEL FARO*
 
 Cinco preguntas de la pieza. Las respuestas van AL REVÉS al pie (leídas de atrás para adelante), para que nadie las palmee sin pensarse el plato.
@@ -728,21 +746,3 @@ Enciende el faro. Prueba el índice una tarde. Libera la web del vecino. Y cuand
 ───────────────────
 
 #LaBandita #ElFaro #RethinkDNS #FOSS #DominicanoES
-
-*📎 LOS APÉNDICES DEL FARO (lo que queda de la noche)*
-
-Apéndice A — el mapa del aire, al corte. La fila del aire en una línea: el mueble invisible que todo lo ve (la 31) abrió la sala; el candado (38) guardó las llaves; la ventana (41) mostró sin reportar; y este faro (42) mudó el índice. Cuatro faenas, una casa: la sala del aire completa.
-
-Lo que falta tiene fecha: el viaje (la 43) y la mudanza completa del índice al taller propio (51-60).
-
-Apéndice B — las cinco preguntas del mostrador, en una línea cada una. ¿Qué hace? Cifra el índice y bloquea el guiso. ¿Qué no hace? No oculta el destino — lo muestra cifrado. ¿Cuánto cuesta? Nada: la app libre, el resolver montable, las listas del taller. ¿Cuánto tarda? Diez minutos y una tarde de prueba. ¿Y si se cae? La pausa ensayada — el plan B escrito antes de la falla.
-
-Apéndice C — la página en blanco. La que la forja deja abierta a propósito: el nombre del primer dominio que TU registro bloqueó esta semana. Ese dato — el tuyo, fechado en tu sala — vale más que todas las placas del censo: es la vara midiendo TU casa. La obra no termina en la lectura: termina cuando el registro de tu teléfono empieza a hablar.
-
-Apéndice D — la sala de los errores. Las tres fallas posibles y su salida. Si una app deja de cargar: el registro del faro la delata en segundos (el dominio bloqueado de más — la lista blanca lo devuelve, con fecha y motivo). Si el wifi del trabajo se queja: el perfil por red existe — el faro afloja donde la red es de la casa, aprieta donde es ajena.
-
-Si todo se siente lento: el resolver del taller propio es la salida (el índice contestado por tu casa, no por la ajena) — la vara completa tiene dirección en la obra.
-
-Apéndice E — la fila que viene. La 43 abre el viaje (el túnel cifrado del café, la VPN que muda el CASERÓN entero); la 44 tiende el alambre (la sincronía de la casa, prometida desde la 36); y después, el taller completo (51-60): el resolver propio en la nube — el índice de la casa contestado por la casa, la vara completa de este faro. La forja no improvisa: programa.
-
-Y la noche firma: el aire de la casa, cada vez más de la casa.
