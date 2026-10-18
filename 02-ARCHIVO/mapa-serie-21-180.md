@@ -62,3 +62,8 @@ Estado al cierre de cada bloque de producción se anota en hoja-de-ruta (append-
 - **FB 80+81+82 nacidas** (familia del muro, adaptativas): casa nueva `01-PUBLICACIONES/Facebook-dominicano-ES/`.
 - Catálogo v4 re-horneado con TODAS las WA (orden del dueño: juntar todas en el HTML).
 - Serie: **21-82 nacidas (61/158)** + FB 80-82. Cola: 83-94 familias root → 95 mapa → 96-110 fotografía → 111-125 día a día → 126-140 developer → 141-155 oficio II → 156-178.
+
+### Bitácora 18-oct tarde-noche — nacimientos fila root II
+- **83 LA TIENDA (MMRL)** nacida: 62.184c · sha16 `c7a3562af5b135bd` · lupa v6 exit 0 · push `bc242a4` · pack-83 (43.575c, PACK LIMPIO) a `_fuentes-serie/` · acta 83 en registro.
+- **84 EL ESCONDITE (Zygisk-Assistant)** nacida: 62.454c · sha16 `f0fd279822079ea8` · lupa v6 exit 0 · push `4110886` · pack-84 (44.273c, PACK LIMPIO, 4 engordes) a `_fuentes-serie/` · acta 84 en registro · cicatriz: rotador come colones (reparar tras CADA tanda) + variantes se agrupan por bigrama (leyes #1/#2 refrendadas).
+- SIGUE: **85 Pixel en mano (PixelXpert ★2.447)** → 86 fábrica (revanced ★7.691) → 87-94 → 95 mapa de la fila → 96-110 foto → 111-125 día a día → 126-140 developer → 141-155 oficio II → 156-180.
