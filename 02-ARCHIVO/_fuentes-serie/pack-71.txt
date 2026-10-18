@@ -1,6 +1,6 @@
 =====S01=====
 *71 — LA SALA DE LAS CONSOLAS*
-*libretro/RetroArch ★14.367 (pulso 18-oct-2026) es el mueble donde cuelgan TODAS las consolas de una vez: los núcleos del mundo libre corriendo en tu caja — un salón, veinte máquinas, y la ley del juego propio mandando (WhatsApp · La Bandita · dominicano-ES)*
+*libretro/RetroArch ★14.370 (pulso 18-oct-2026) es el mueble donde cuelgan TODAS las consolas de una vez: los núcleos del mundo libre corriendo en tu caja — un salón, veinte máquinas, y la ley del juego propio mandando (WhatsApp · La Bandita · dominicano-ES)*
 
 ───────────────────
 
@@ -21,13 +21,13 @@ La escena del cajón de aparatos: la casa que quiso jugar lo de ayer (la negra c
 
 El mueble y su familia — las placas del salón, medidas HOY.
 
-*El padre del salón — RetroArch.* `libretro/RetroArch` ★14.367 (pulso 18-oct-2026), nacida el 27-may-2010 — **LA FORJA MÁS VIEJA DE TODA LA OBRA: 16 AÑOS** (más vieja que la mente, que la casa de los pensares, que el taller de bolsillo: la abuela del censo entero). Con aire del MISMO DÍA (push de hoy), con su letra GPL-3.0 — **LETRA DE OFICIO CON COPIA LEGAL** (la misma escuela de la raíz de la 67). El mueble donde el mundo libre cuelga sus consolas: la API del núcleo (la técnica del oficio: cada máquina, un módulo que el mismo salón corre).
+*El padre del salón — RetroArch.* `libretro/RetroArch` ★14.370 (pulso 18-oct-2026), nacida el 27-may-2010 — **LA FORJA MÁS VIEJA DE TODA LA OBRA: 16 AÑOS** (más vieja que la mente, que la casa de los pensares, que el taller de bolsillo: la abuela del censo entero). Con aire del MISMO DÍA (push 10-16-oct), con su letra GPL-3.0 — **LETRA DE OFICIO CON COPIA LEGAL** (la misma escuela de la raíz de la 67). El mueble donde el mundo libre cuelga sus consolas: la API del núcleo (la técnica del oficio: cada máquina, un módulo que el mismo salón corre).
 
-*El ranking, con honestidad del censo:* el mueble padre NO es placa mayor — es LA FORJA MADRE DEL SALÓN: por estrellas corre debajo de tres hermanas de su propia fila (el windows de la mesa ★19.519 (pulso 18-oct-2026), el cubo ★15.681 y la bolsilla ★14.680 — por trescientas trece narices finas). En el censo entero: debajo del router del aire ★28.760 (pulso 18-oct-2026). La lección del censo: la casa más vieja no es la más alta — es la que SOSTIENE.
+*El ranking, con honestidad del censo:* el mueble padre NO es placa mayor — es LA FORJA MADRE DEL SALÓN: por estrellas corre debajo de tres hermanas de su propia fila (el windows de la mesa ★19.523 (pulso 18-oct-2026), el cubo ★15.683 y la bolsilla ★14.681 — por trescientas trece narices finas). En el censo entero: debajo del router del aire ★28.760 (pulso 18-oct-2026). La lección del censo: la casa más vieja no es la más alta — es la que SOSTIENE.
 
 Dieciséis años de push: ninguna forja de esta fila tiene ese historial. El censo no decora: mide.
 
-*La familia de la fila:* el windows de la mesa (72: Winlator ★19.519, pulso 18-oct-2026 — la oficina en la caja), el cubo (73: Dolphin ★15.681), la bolsilla (74: PPSSPP ★14.680), la negra chiquita (75: DuckStation ★10.856), el cartucho eterno (76: mGBA ★7.507). Y la pareja del mueble: los NÚCLEOS (los módulos de cada consola: del estante del mueble, con la misma vara de faena que la despensa de la 68).
+*La familia de la fila:* el windows de la mesa (72: Winlator ★19.523, pulso 18-oct-2026 — la oficina en la caja), el cubo (73: Dolphin ★15.683), la bolsilla (74: PPSSPP ★14.681), la negra chiquita (75: DuckStation ★10.856), el cartucho eterno (76: mGBA ★7.508). Y la pareja del mueble: los NÚCLEOS (los módulos de cada consola: del estante del mueble, con la misma vara de faena que la despensa de la 68).
 
 =====S03=====
 *🏛 LAS TRES CAPAS DE LA SALA*
@@ -98,7 +98,7 @@ Cómo se arma sin equivocarse:*
 
 *¿Y los juegos modernos — corre la máquina de HOY?* No — con vara honesta: el mueble padre corre las consolas VIEJAS (hasta la era del cubo y la doble pantalla: la frontera del mueble — las máquinas modernas piden otra escala). La otra vara fina: para lo moderno, la fila tiene piezas hermanas (el windows de la mesa de la 72: los juegos de PC de antes en la caja — cada pieza, su escala). Suma la vara mayor: la honestidad del sofá (el salón de la casa: la nostalgia — el juego del HOY: en su consola propia o su PC; la casa no confunde recuerdos con compras). El mueble: corre los recuerdos — el presente: tiene su mesa.
 
-*¿Qué placa es la del mueble — y por qué celebro que no sea alta?* La forja madre — con vara fina: ★14.367 (pulso 18-oct-2026), la cuarta de SU fila por estrellas (debajo del windows ★19.519, el cubo ★15.681 y la bolsilla ★14.680 — por trescientas trece narices). Encima la vara mayor: 16 años de push (2010-2026: la forja más vieja de la obra — más vieja que TODAS las placas mayores del censo: la mente nació 2023, la casa 2018, el taller de bolsillo 2015). La lectura fina: la altura se compra — la VEJEZ SANA se gana (16 años de aire fresco cada semana: la seriedad, probada como ninguna). El censo no decora: mide — y la vejez con aire: la medida más fina.
+*¿Qué placa es la del mueble — y por qué celebro que no sea alta?* La forja madre — con vara fina: ★14.370 (pulso 18-oct-2026), la cuarta de SU fila por estrellas (debajo del windows ★19.523, el cubo ★15.683 y la bolsilla ★14.681 — por trescientas trece narices). Encima la vara mayor: 16 años de push (2010-2026: la forja más vieja de la obra — más vieja que TODAS las placas mayores del censo: la mente nació 2023, la casa 2018, el taller de bolsillo 2015). La lectura fina: la altura se compra — la VEJEZ SANA se gana (16 años de aire fresco cada semana: la seriedad, probada como ninguna). El censo no decora: mide — y la vejez con aire: la medida más fina.
 
 *¿Los núcleos se actualizan solos — o la gira los revisa?* La gira los revisa — con vara fina: el mueble de la casa (la versión instalada: la que la casa eligió y probó — la actualización del estante se aplica CUANDO la gira lo dice, no a mitad de la partida). Su vara fina seria: la prueba después de actualizar (el juego de siempre, probado de nuevo: la vara de la faena — el núcleo nuevo, re-anotado con fecha). El estante: mejorando con gira — jamás por sorpresa.
 
@@ -121,7 +121,7 @@ Cómo se arma sin equivocarse:*
 =====S08=====
 *🏭 LA DESPENSA DE DATOS (todo lo medido, en una repisa)*
 
-*Las placas (censo 18-oct-2026):* el mueble padre ★14.367 — LA FORJA MADRE DEL SALÓN (cuarta de su fila: debajo del windows ★19.519, el cubo ★15.681 y la bolsilla ★14.680 — por trescientas trece narices; debajo del router ★28.760 en el censo). GPL-3.0.
+*Las placas (censo 18-oct-2026):* el mueble padre ★14.370 — LA FORJA MADRE DEL SALÓN (cuarta de su fila: debajo del windows ★19.523, el cubo ★15.683 y la bolsilla ★14.681 — por trescientas trece narices; debajo del router ★28.760 en el censo). GPL-3.0.
 
 *La edad:* nacida el 27-may-2010 — **16 AÑOS: LA FORJA MÁS VIEJA DE TODA LA OBRA** (más vieja que la mente 2023, la casa 2018, el bolsillo 2015, la raíz 2016).
 
@@ -288,7 +288,7 @@ La app del tacho, en su anuncio: «MIL JUEGOS RETRO GRATIS — DESCARGA AHORA, S
 
 >>>REV>>> Por faena — probado con TU juego en TU caja una tarde, anotado con fecha y motivo: la gira del mueble. El primero del estante — jamás.
 
->>>REV>>> La forja madre del salón: ★14.367 (pulso 18-oct-2026), 16 años — LA MÁS VIEJA DE TODA LA OBRA; por estrellas, debajo del windows ★19.519, el cubo ★15.681 y la bolsilla ★14.680 (por trescientas trece narices).
+>>>REV>>> La forja madre del salón: ★14.370 (pulso 18-oct-2026), 16 años — LA MÁS VIEJA DE TODA LA OBRA; por estrellas, debajo del windows ★19.523, el cubo ★15.683 y la bolsilla ★14.681 (por trescientas trece narices).
 
 >>>REV>>> Saves, volcados y BIOS — en dos discos junto al despacho de la 59: la copia probada. La partida de meses no la pierde un teléfono mojado.
 
@@ -306,7 +306,7 @@ La app del tacho, en su anuncio: «MIL JUEGOS RETRO GRATIS — DESCARGA AHORA, S
 
 *🪡 LA ÚLTIMA AGUJA (cosida al pie, como la casa cose)*
 
-Si esta pieza sirvió para algo más que leer, fue para esto: dejar escrito que la memoria de una casa también se juega — libretro/RetroArch ★14.367 (pulso 18-oct-2026), la forja madre del salón, 16 años (la más vieja de toda la obra) con su letra GPL-3.0: el mueble donde las consolas del cajón vuelven a la tele.
+Si esta pieza sirvió para algo más que leer, fue para esto: dejar escrito que la memoria de una casa también se juega — libretro/RetroArch ★14.370 (pulso 18-oct-2026), la forja madre del salón, 16 años (la más vieja de toda la obra) con su letra GPL-3.0: el mueble donde las consolas del cajón vuelven a la tele.
 
 La forja lo midió con el pulso de HOY y lo firma: la ley del juego propio (el cartucho de la casa, volcado con respeto), el núcleo por faena (la gira del mueble), el oro con póliza — y la regla cosida: la dosis del sofá, mandando.
 
@@ -319,7 +319,7 @@ Busca el cartucho del cajón. Pide el volcador. Haz la primera partida. Y cuando
 =====GLOS=====
 Sala de las consolas|RetroArch: el mueble que cuelga TODAS las máquinas viejas — un salón, veinte consolas, un control. La forja madre: 16 años, la más vieja de la obra.
 
-Forja madre|La del mueble (★14.367, pulso 18-oct-2026): nacida 27-may-2010 — la forja más vieja jamás medida en la obra. Dieciséis años de push — con aire de HOY.
+Forja madre|La del mueble (★14.370, pulso 18-oct-2026): nacida 27-may-2010 — la forja más vieja jamás medida en la obra. Dieciséis años de push — con aire de HOY.
 
 Núcleo|El módulo de cada consola en el mueble: la negra chiquita, el cartucho eterno, la doble pantalla. Un núcleo por consola — elegido por faena, jamás el primero del estante.
 
@@ -345,7 +345,7 @@ Clase del save|La del liceo: el volcado en vivo del cartucho didáctico — la l
 
 Cofre de la herencia|El de los volcados del abuelo: cartuchos de joven, archivos con año y nombre. Los nietos — heredando jugando; la póliza — eterna.
 
-Windows de la mesa|La placa mayor del salón (72: ★19.519, pulso 18-oct-2026): los juegos de PC de antes en la caja. La pareja del mueble — núcleos y programas, la misma vara.
+Windows de la mesa|La placa mayor del salón (72: ★19.523, pulso 18-oct-2026): los juegos de PC de antes en la caja. La pareja del mueble — núcleos y programas, la misma vara.
 
 Vejez sana|La que el censo celebra: 16 años de push semanal — continuidad, no museo. La forja más vieja de la obra — midiendo como ninguna.
 

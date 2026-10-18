@@ -1,5 +1,5 @@
 *66 — EL TALLER DE BOLSILLO*
-*Termux ★62.753 (pulso 16-oct-2026) le quita la jaula a tu teléfono: el taller de Linux completo en el bolsillo — la terminal, los scripts de la casa y el puente al taller grande, caminando contigo (WhatsApp · La Bandita · dominicano-ES)*
+*Termux ★62.914 (pulso 18-oct-2026) le quita la jaula a tu teléfono: el taller de Linux completo en el bolsillo — la terminal, los scripts de la casa y el puente al taller grande, caminando contigo (WhatsApp · La Bandita · dominicano-ES)*
 
 ───────────────────
 
@@ -29,7 +29,7 @@ Los scripts de la casa (64): en tu bolsillo, el puente ssh a la caja (el taller 
 
 El censo del bolsillo y su familia — las placas, medidas HOY.
 
-*El taller chico — Termux.* `termux/termux-app` ★62.753 (pulso 16-oct-2026), nacida el 23-oct-2015, con aire de la semana (push de hace tres semanas), con su letra por leer en su hogar (NOASSERTION en el espejo: la firma viva del oficio — se lee ANTES de instalar, la vara del censo).
+*El taller chico — Termux.* `termux/termux-app` ★62.914 (pulso 18-oct-2026), nacida el 23-oct-2015, con aire de la semana (push de hace tres semanas), con su letra por leer en su hogar (NOASSERTION en el espejo: la firma viva del oficio — se lee ANTES de instalar, la vara del censo).
 
 **LA VETERANA DE LA FILA**: once años de oficio (la más vieja del bloque entero: 2015 — cuando la IA propia ni se soñaba, el bolsillo ya caminaba).
 
@@ -185,7 +185,7 @@ El apagón del barrio: vivido con taller en la mano — la casa oscura: jamás s
 
 *🏭 LA DESPENSA DE DATOS (todo lo medido, en una repisa)*
 
-*Las placas (censo 16-oct-2026):* el taller chico ★62.753 — la PLACA DEL BOLSILLO (sobre la forja 57 ★58.533 y el cine 53 ★58.141; bajo la sincronía 45 ★89.442) · la despensa ★17.176 (push de HOY).
+*Las placas (censo 18-oct-2026):* el taller chico ★62.914 — la PLACA DEL BOLSILLO (sobre la forja 57 ★58.533 y el cine 53 ★58.141; bajo la sincronía 45 ★89.442) · la despensa ★17.176 (push 10-16-oct).
 
 *La edad:* nacida el 23-oct-2015 — **LA VETERANA DE LA FILA** (once años: la más vieja del bloque entero; cumple 11 años esta semana misma).
 
@@ -383,7 +383,7 @@ La salida: la gira mensual del caminante (la despensa emparejada: un comando; la
 
 *Firma.* La marca criptográfica del taller en su release. La tienda legal la verifica por ti; el APK de grupo, nadie sabe quién la puso. Sin firma verificable, no hay confianza — hay fe, y la casa no trabaja con fe.
 
-*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.351, 15-oct-2026) — el mueble clásico vestido de esta década.
+*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.357, 18-oct-2026) — el mueble clásico vestido de esta década.
 
 *Etiqueta.* La información adentro del archivo de música: título, artista, álbum, número, año. El reproductor lee la etiqueta, no el nombre del archivo — peinar etiquetas es peinar la biblioteca entera.
 
@@ -395,7 +395,7 @@ La salida: la gira mensual del caminante (la despensa emparejada: un comando; la
 
 *Scrobble.* El hábito del detective: registrar lo que suenas para amarrar historial y descubrimiento. muffon lo trae de fábrica — el reproductor que también lleva el cuaderno de campo.
 
-*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Multi-fuente.* La casa que no se casa con un río: consulta varios provedores y te sirve la versión que esté limpia. Spotube, Namida y muffon viven de esa libertad — con sus licencias mirándose dos veces.
 
@@ -467,7 +467,7 @@ La salida: la gira mensual del caminante (la despensa emparejada: un comando; la
 
 *Coleccionista.* El que suena, guarda, etiqueta y copia. No necesita FLAC de colección para empezar: necesita la rutina — maestro en PC, copia en teléfono, lista exportada. La estructura antes que el volumen.
 
-*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Bitrate.* Los kilobits por segundo del audio: la medida de cuánto archivo pesa una canción. A más bitrate, más fidelidad hasta donde el oído y el altavoz alcancen a distinguir — el 320 del MP3 es el techo práctico del bolsillo.
 
@@ -515,7 +515,7 @@ La salida: la gira mensual del caminante (la despensa emparejada: un comando; la
 
 Taller de bolsillo|Termux: la terminal de Linux corriendo en tu Android — sin root, sin jaula rota. El teléfono — de juguete a taller; la calle — contestando al momento.
 
-Placa del bolsillo|La del taller chico (★62.753, pulso 16-oct-2026): sobre la forja y el cine, bajo la sincronía. Once años: la VETERANA de la fila.
+Placa del bolsillo|La del taller chico (★62.914, pulso 18-oct-2026): sobre la forja y el cine, bajo la sincronía. Once años: la VETERANA de la fila.
 
 Pareja de once años|La de la app y su despensa (62.753 + 17.176): nacidas en 2015, faenando juntas HOY. El matrimonio técnico más largo del censo.
 
@@ -655,7 +655,7 @@ Pero el bolsillo no exige saber: exige COPIAR (el primer mes: corriendo las rece
 
 *🪡 LA ÚLTIMA AGUJA (cosida al pie, como la casa cose)*
 
-Si esta pieza sirvió para algo más que leer, fue para esto: dejar escrito que la calle también tiene taller — Termux ★62.753 (pulso 16-oct-2026), la placa del bolsillo, once años de oficio con su despensa en faena de HOY: la forja más constante del censo.
+Si esta pieza sirvió para algo más que leer, fue para esto: dejar escrito que la calle también tiene taller — Termux ★62.914 (pulso 18-oct-2026), la placa del bolsillo, once años de oficio con su despensa en faena de HOY: la forja más constante del censo.
 
 La forja lo midió con el pulso de esta semana y lo firma: la llave con cerrojo (la contraseña en la ssh, la revocación en un comando), el puente por el túnel (jamás vitrina), la mochila de la forja (instalada de la fuente, leída antes) — y la regla cosida: lo liviano en la mano, lo pesado en casa.
 

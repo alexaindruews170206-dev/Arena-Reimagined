@@ -1,6 +1,6 @@
 =====S01=====
 *60 — EL TABLERO DE LA CASA*
-*Uptime Kuma ★92.557 (pulso 16-oct-2026) firma el vigía del taller y Homepage ★33.188 el mapa vivo: las diez faenas de la casa, en una pantalla — y avisando al teléfono si algo respira mal (WhatsApp · La Bandita · dominicano-ES)*
+*Uptime Kuma ★92.609 (pulso 18-oct-2026) firma el vigía del taller y Homepage ★33.188 el mapa vivo: las diez faenas de la casa, en una pantalla — y avisando al teléfono si algo respira mal (WhatsApp · La Bandita · dominicano-ES)*
 
 ───────────────────
 
@@ -21,11 +21,11 @@ La escena del «¿se habrá caído?»: la casa con su taller propio en pie (las 
 
 El vigía y el mapa — la pareja del cierre, medida HOY.
 
-*El vigía — Uptime Kuma.* `louislam/uptime-kuma` ★92.557 (pulso 16-oct-2026), nacida el 3-jul-2021, con aire hasta HOY, bajo MIT. **LA SEGUNDA PLACA MAYOR DE TODA LA OBRA** (¡pasando al cerebro de la 54!: la casa que vigila, por encima de la casa que piensa — la faena más universal del taller propio: TODO taller quiere vigía). El monitor completo: cada faena (la nube, el álbum, el cine, el cofre...) con su latido (el chequeo cada minuto: «¿responde?»), su historial (el respiro del taller: los baches del mes, dibujados), y los avisos al teléfono (el telegrama del vigía: «caído a las 3:14» — y su hermano gemelo: «levantado a las 3:16»: el taller, resucitando avisado). La firma fina: un solo forjador con una comunidad gigante — la placa más alta del oficio nacida de UNA persona.
+*El vigía — Uptime Kuma.* `louislam/uptime-kuma` ★92.609 (pulso 18-oct-2026), nacida el 3-jul-2021, con aire hasta HOY, bajo MIT. **LA SEGUNDA PLACA MAYOR DE TODA LA OBRA** (¡pasando al cerebro de la 54!: la casa que vigila, por encima de la casa que piensa — la faena más universal del taller propio: TODO taller quiere vigía). El monitor completo: cada faena (la nube, el álbum, el cine, el cofre...) con su latido (el chequeo cada minuto: «¿responde?»), su historial (el respiro del taller: los baches del mes, dibujados), y los avisos al teléfono (el telegrama del vigía: «caído a las 3:14» — y su hermano gemelo: «levantado a las 3:16»: el taller, resucitando avisado). La firma fina: un solo forjador con una comunidad gigante — la placa más alta del oficio nacida de UNA persona.
 
 *El mapa — Homepage.* `gethomepage/homepage` ★33.188 (pulso 16-oct-2026), nacida el 24-ago-2022, con aire hasta HOY, bajo GPL-3.0. La puerta de la casa: la página de inicio del taller (cada faena, su tarjeta con su botón — la nube, el álbum, el cine: el taller entero, a un clic), los estados en vivo (cada tarjeta, su semáforo: verde la viva, roja la caída — el mapa y el vigía, conversando), y las medidas del taller (el disco, la memoria, el aire de la caja: la vara de la bodega, visible). La pareja del cierre: el mapa (dónde está todo) + el vigía (si todo respira) — el tablero de la casa, en dos forjas hermanas.
 
-*La lectura del censo, con la vara de la fila: el vigía (★92.557, pulso 16-oct-2026) firma el CIERRE de la fila con la segunda placa mayor de la obra — la fila 51-60: siete cimas en el podio (116k, 92k, 91k, 69k, 61k, 58k, 58k): la fila más alta jamás montada en la serie. Y el vigía más firmado de la obra (92k) vigila la faena más humilde — el taller se mide por cómo cuida lo que ya tiene.*
+*La lectura del censo, con la vara de la fila: el vigía (★92.609, pulso 18-oct-2026) firma el CIERRE de la fila con la segunda placa mayor de la obra — la fila 51-60: siete cimas en el podio (116k, 92k, 91k, 69k, 61k, 58k, 58k): la fila más alta jamás montada en la serie. Y el vigía más firmado de la obra (92k) vigila la faena más humilde — el taller se mide por cómo cuida lo que ya tiene.*
 
 =====S03=====
 *🏛 LAS TRES CAPAS DEL TABLERO*
@@ -123,7 +123,7 @@ Cómo se arma sin equivocarse:*
 =====S08=====
 *🏭 LA DESPENSA DE DATOS (todo lo medido, en una repisa)*
 
-*Las placas (censo 16-oct-2026):* el vigía ★92.557 · el mapa ★33.188 — la pareja del cierre, con aire de HOY las dos.
+*Las placas (censo 18-oct-2026):* el vigía ★92.609 · el mapa ★33.188 — la pareja del cierre, con aire de HOY las dos.
 
 *La edad:* el vigía, nacida el 3-jul-2021 (cinco años del oficio — la placa segunda mayor de la obra, nacida de UN forjador); el mapa, del 24-ago-2022.
 
@@ -165,7 +165,7 @@ La lectura fina del parte: el vigía es LA placa de la consistencia — cinco a�
 
 Tres medidas finas de la noche.
 
-La primera: la placa que pasó al cerebro. ★92.557 (pulso 16-oct-2026): el vigía firma la SEGUNDA placa mayor de la obra — pasando a la casa que piensa (91.562): la medida del momento: la casa que VIGILA (la faena más universal del taller: todo taller quiere vigía) por encima de la que PIENSA — el cuidar, por encima del pensar. La fila de la obra: las tres cimas (la memoria ★116k pulso 16-oct-2026, el vigía ★92k pulso 16-oct-2026, el cerebro ★91k) — las tres: del taller propio.
+La primera: la placa que pasó al cerebro. ★92.609 (pulso 18-oct-2026): el vigía firma la SEGUNDA placa mayor de la obra — pasando a la casa que piensa (91.562): la medida del momento: la casa que VIGILA (la faena más universal del taller: todo taller quiere vigía) por encima de la que PIENSA — el cuidar, por encima del pensar. La fila de la obra: las tres cimas (la memoria ★116k pulso 18-oct-2026, el vigía ★92k pulso 18-oct-2026, el cerebro ★91k) — las tres: del taller propio.
 
 La segunda: la placa de un solo forjador. La segunda placa mayor de la obra: nacida de UNA persona (2021) — la vara del oficio: la necesidad íntima de una casa, firmada por el mundo entero. La medida fina de la forja: lo que montas pa tu casa — si es de veras, lo monta el barrio.
 
@@ -302,7 +302,7 @@ El servicio ajeno de monitoreo, en su anuncio: «TU INFRAESTRUCTURA, MONITORIZAD
 
 >>>REV>>> El disco al 80% («la bodega respirando poco») — y el calor del verano: el telegrama del taller caliente.
 
->>>REV>>> La segunda placa mayor de toda la obra (★92.557 — pasó al cerebro) — nacida de UN solo forjador en 2021.
+>>>REV>>> La segunda placa mayor de toda la obra (★92.609 — pasó al cerebro) — nacida de UN solo forjador en 2021.
 
 *💌 LAS CARTAS AL LECTOR*
 
@@ -314,7 +314,7 @@ El servicio ajeno de monitoreo, en su anuncio: «TU INFRAESTRUCTURA, MONITORIZAD
 
 *🪡 LA ÚLTIMA AGUJA (cosida al pie, como la casa cose)*
 
-Si esta pieza sirvió para algo más que leer, fue para esto: dejar escrito que la casa tiene tablero con placa — Uptime Kuma ★92.557 (pulso 16-oct-2026), la segunda placa mayor de toda la obra, nacida de un solo forjador, y Homepage ★33.188, su mapa: la pareja del cierre.
+Si esta pieza sirvió para algo más que leer, fue para esto: dejar escrito que la casa tiene tablero con placa — Uptime Kuma ★92.609 (pulso 18-oct-2026), la segunda placa mayor de toda la obra, nacida de un solo forjador, y Homepage ★33.188, su mapa: la pareja del cierre.
 
 La forja lo midió con el pulso del mismo día en que nace esta pieza, y lo firma: los nueve latidos (cada faena, su vara), el telegrama con criterio (calla lo que no importa, grita lo que sí), el chequeo de profundidad (el aviso antes del ahogo) — y la regla cosida: el telegrama que llega, se lee; el tablero, tras el candado de la casa.
 
@@ -327,7 +327,7 @@ Monta tu tablero. Firma tus latidos. Jubila tu nerviosismo. Y cuando la tienda t
 =====GLOS=====
 Tablero de la casa|La pantalla que junta y vigila el taller: Homepage (el mapa) + Uptime Kuma (el vigía). Las diez faenas — de un vistazo, cuidadas sin mirar.
 
-Vigía|Uptime Kuma (★92.557, pulso 16-oct-2026, 2021): cada faena, un latido por minuto — el aviso al bolsillo. La segunda placa mayor de la obra: nacida de un solo forjador.
+Vigía|Uptime Kuma (★92.609, pulso 18-oct-2026, 2021): cada faena, un latido por minuto — el aviso al bolsillo. La segunda placa mayor de la obra: nacida de un solo forjador.
 
 Mapa|Homepage (★33.188, pulso 16-oct-2026, 2022): cada faena, su tarjeta con su botón y su semáforo. La puerta de la casa — en una pantalla, jamás diez favoritos sueltos.
 

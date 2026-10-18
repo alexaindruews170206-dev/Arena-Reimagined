@@ -23,7 +23,7 @@ Tres placas y una historia de relevo — la familia del alambre, medida hoy.
 
 *El motor — Syncthing.* La placa mayor de la fila de REDES: `syncthing/syncthing` ★89.442 (pulso 16-oct-2026), nacida el 26-nov-2013, con aire hasta el 13-oct-2026 (ayer mismo), bajo MPL-2.0. Trece años de oficio continuo, ochenta y nueve mil firmas, y el motor que la casa entera del alambre corre por dentro — en Go, multiplataforma, y con una vara que la forja firma: la sincronía continua de verdad (los archivos viajan apenas cambian, sin botón de «subir»).
 
-*La puerta que se retiró — syncthing-android.* El wrapper oficial del Android: `syncthing/syncthing-android` ★4.286 (pulso 16-oct-2026), nacida el 22-feb-2014, bajo MPL-2.0 — y ARCHIVADA: la casa la retiró con dignidad (su último aire, finales de 2024). La obra no borra las placas retiradas: se visitan (la 40 enseñó el oficio) — y esta firma la lección de la serie: la casa que se retira AVISA, deja el espejo en pie y no suelta el nombre a cualquiera.
+*La puerta que se retiró — syncthing-android.* El wrapper oficial del Android: `syncthing/syncthing-android` ★4.287 (pulso 18-oct-2026), nacida el 22-feb-2014, bajo MPL-2.0 — y ARCHIVADA: la casa la retiró con dignidad (su último aire, finales de 2024). La obra no borra las placas retiradas: se visitan (la 40 enseñó el oficio) — y esta firma la lección de la serie: la casa que se retira AVISA, deja el espejo en pie y no suelta el nombre a cualquiera.
 
 *El relevo — Syncthing-Fork.* La placa nueva que tomó la puerta del bolsillo: `researchxxl/syncthing-android` ★3.076 (pulso 16-oct-2026), nacida el 29-oct-2025, con aire hasta el 14-oct-2026 — AYER, la noche antes de esta pieza — bajo MPL-2.0. El wrapper que sigue la tradición del fork viejo y querido (Syncthing-Fork de Catfriend1, la puerta del Android pa los que quisieron la app sin esperar a nadie), ahora con casa propia y aire fresco. El relevo del alambre: la puerta cambió de manos — el oficio, jamás.
 
@@ -118,7 +118,7 @@ Cómo se arma sin equivocarse:*
 =====S08=====
 *🏭 LA DESPENSA DE DATOS (todo lo medido, en una repisa)*
 
-*El motor, por placas (censo 16-oct-2026):* el motor ★89.442 · la puerta retirada ★4.286 · el relevo ★3.076 — la placa mayor de toda la fila de REDES.
+*El motor, por placas (censo 18-oct-2026):* el motor ★89.442 · la puerta retirada ★4.287 · el relevo ★3.076 — la placa mayor de toda la fila de REDES.
 
 *El motor, por edad:* nacida el 26-nov-2013 — trece años de oficio continuo, con aire hasta AYER (push 13-oct-2026). La constancia como vara.
 
@@ -160,7 +160,7 @@ La lectura fina del parte: el relevo es la pieza más joven con aire más fresco
 
 Tres medidas finas de la noche.
 
-La primera: el peso del relevo. ★3.076 (pulso 16-oct-2026) la puerta nueva contra ★4.286 (pulso 16-oct-2026) la retirada — el heredero arranca con el 72% de la firma de la casa que duerme. La medida fina: los usuarios del fork viejo siguiendo la puerta por su nombre (Syncthing-Fork) — la confianza viaja con el oficio, no con el dueño.
+La primera: el peso del relevo. ★3.076 (pulso 18-oct-2026) la puerta nueva contra ★4.287 (pulso 18-oct-2026) la retirada — el heredero arranca con el 72% de la firma de la casa que duerme. La medida fina: los usuarios del fork viejo siguiendo la puerta por su nombre (Syncthing-Fork) — la confianza viaja con el oficio, no con el dueño.
 
 La segunda: la pirámide invertida. ★89.442 (pulso 16-oct-2026) el motor contra ★3.076 (pulso 16-oct-2026) la puerta: el 3% — la brecha más grande de la fila de REDES. La medida de la forja: en el alambre, el estrellado mide el MOTOR (el que corre en laptops, servidores y cajas del mundo entero); la puerta del bolsillo es la entrada chiquita a una casa enorme. En la 43 la placa mayor era la de las fábricas — aquí, la del corazón.
 

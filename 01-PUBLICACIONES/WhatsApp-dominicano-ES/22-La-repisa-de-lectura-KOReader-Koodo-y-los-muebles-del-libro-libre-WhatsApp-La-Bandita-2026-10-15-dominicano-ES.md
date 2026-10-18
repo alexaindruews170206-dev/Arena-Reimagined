@@ -7,7 +7,7 @@
 
 La música ya tiene su cosecha (la pieza 21). Esta es la de la LECTURA: la repisa donde viven los lectores de libros de verdad — EPUB, PDF, lo que la librería del barrio no vende en versión libre.
 
-Seis casas midió la forja en el censo del 15-oct-2026, y la repisa trae novedad de peso: **Project NOMAD**, una biblioteca de conocimiento offline con ★40.252 (censo 15-oct-2026) que se subió a la familia grande del corte, y la pareja de gigantes AGPL — **KOReader** (★30.341) y **Koodo** (★28.513) — empujando las DOS el mismo día del censo.
+Seis casas midió la forja en el censo del 18-oct-2026, y la repisa trae novedad de peso: **Project NOMAD**, una biblioteca de conocimiento offline con ★40.515 (censo 18-oct-2026) que se subió a la familia grande del corte, y la pareja de gigantes AGPL — **KOReader** (★30.409) y **Koodo** (★28.559) — empujando las DOS el mismo día del censo.
 
 También trae su quietud con acta: BookReader, dormida desde el 24-abr-2023, la lección de lo que pasa cuando el mueble no deja testamento claro.
 
@@ -35,15 +35,15 @@ La pregunta de la pieza no es «¿cuál es el mejor lector del mundo?» — es: 
 
 Las placas completas, tal como el censo de la tarde del 15-oct-2026 las contestó. Cada línea: estrellas con fecha, último empuje, licencia con nombre.
 
-*Project NOMAD* — Crosstalk-Solutions/project-nomad · ★40.252 (censo 15-oct-2026) · push del 8-oct · Apache-2.0. La casa más famosa de la repisa y la más rara: no es un lector, es un SERVIDOR de conocimiento offline — Wikipedia completa, miles de libros, cursos — para llevar a lugares sin señal. Escuela propia, más abajo tiene su capítulo.
+*Project NOMAD* — Crosstalk-Solutions/project-nomad · ★40.515 (censo 18-oct-2026) · push del 8-oct · Apache-2.0. La casa más famosa de la repisa y la más rara: no es un lector, es un SERVIDOR de conocimiento offline — Wikipedia completa, miles de libros, cursos — para llevar a lugares sin señal. Escuela propia, más abajo tiene su capítulo.
 
-*KOReader* — koreader/koreader · ★30.341 (censo 15-oct-2026) · push del MISMO día del censo · AGPL-3.0. El lector de oficio: PDF, DjVu, EPUB, FB2 y la lista sigue. El que usan los que leen en pantallas de tinta electrónica y en teléfonos viejos con la misma naturalidad.
+*KOReader* — koreader/koreader · ★30.409 (censo 18-oct-2026) · push del MISMO día del censo · AGPL-3.0. El lector de oficio: PDF, DjVu, EPUB, FB2 y la lista sigue. El que usan los que leen en pantallas de tinta electrónica y en teléfonos viejos con la misma naturalidad.
 
-*Koodo Reader* — koodo-reader/koodo-reader · ★28.513 (censo 15-oct-2026) · push del MISMO día · AGPL-3.0. El lector moderno con gestión: sincroniza y respalda tu biblioteca entre Windows, macOS, Linux y el teléfono. La casa de los que leen en tres aparatos a la vez.
+*Koodo Reader* — koodo-reader/koodo-reader · ★28.559 (censo 18-oct-2026) · push del MISMO día · AGPL-3.0. El lector moderno con gestión: sincroniza y respalda tu biblioteca entre Windows, macOS, Linux y el teléfono. La casa de los que leen en tres aparatos a la vez.
 
-*BookReader* — smuyyh/BookReader · ★6.953 (censo 15-oct-2026) · push del 24-abr-2023 · Apache-2.0 · QUIETUD LARGA anotada. El lector de novelas con efectos de página que fue escuela en su momento — su acta completa vive más abajo.
+*BookReader* — smuyyh/BookReader · ★6.955 (censo 18-oct-2026) · push del 24-abr-2023 · Apache-2.0 · QUIETUD LARGA anotada. El lector de novelas con efectos de página que fue escuela en su momento — su acta completa vive más abajo.
 
-*Voice* — PaulWoitaschek/Voice · ★3.180 (censo 15-oct-2026) · push del MISMO día · GPL-3.0. El oyente de audiolibros: simple, firme, GPL — el único de su escuela en la repisa al corte.
+*Voice* — PaulWoitaschek/Voice · ★3.187 (censo 18-oct-2026) · push del MISMO día · GPL-3.0. El oyente de audiolibros: simple, firme, GPL — el único de su escuela en la repisa al corte.
 
 *Biblioteca de libros de programación* — justjavac/free-programming-books-zh_CN · ★119.215 (censo 15-oct-2026) · push del 29-jul · GPL-3.0. No es un mueble: es la ESTANTERÍA — la lista de recursos libres más famosa del mundo chino. Entra en esta pieza como la repisa más grande del censo, con su lección propia.
 
@@ -91,7 +91,7 @@ Lo que la vara NO dice: que AGPL sea garantía de calidad. Firma el CONTRATO, no
 
 *🕰 QUIETUDES CON FECHA*
 
-*BookReader — ★6.953 (censo 15-oct-2026) · push del 24-abr-2023 · Apache-2.0*
+*BookReader — ★6.955 (censo 18-oct-2026) · push del 24-abr-2023 · Apache-2.0*
 
 Tres años, cinco meses y veintiún días de silencio al corte. BookReader fue el lector de novelas de las efectos bonitos — página que se dobla en 3D, wifi para pasar libros, la experiencia de mueble chino más copiada de su generación. Su licencia Apache SÍ dejó testamento: cualquier heredero puede tomar la línea con la cabeza alta.
 
@@ -151,7 +151,7 @@ Antes del censo, el oficio: qué tiene que tener un lector para que la forja lo 
 
 El censo guarda también la fecha de nacimiento de cada casa, y en la repisa cuenta una historia de paciencia. KOReader nació el 24-mar-2013: trece años de taller al corte. Voice nació el 2-ago-2014: doce años de oído. La estantería grande, el 4-nov-2013: casi la edad de KOReader. BookReader, el 3-ago-2016: diez años de historia con tres y medio de silencio.
 
-Koodo, el 5-mar-2020, es la menor de las viejas — seis años. Y NOMAD, el 24-jun-2025, es el BEBÉ del censo: dieciséis meses de vida con ★40.252.
+Koodo, el 5-mar-2020, es la menor de las viejas — seis años. Y NOMAD, el 24-jun-2025, es el BEBÉ del censo: dieciséis meses de vida con ★40.515.
 
 Lo que esta columna enseña: la fama no es edad — NOMAD creció en dieciséis meses lo que talleres de una década construyeron en años, porque su obra (biblioteca donde no hay señal) toca una necesidad que el mundo entero siente. Y la longevidad no es garantía — BookReader es de 2016 y lleva su quietud desde 2023.
 
@@ -193,9 +193,9 @@ Tu mano decide en dos días; no hay discusión que la reemplace.
 
 Las seis placas del censo del 15-oct-2026 (tarde), listas para copiar y verificar:
 
-NOMAD · Crosstalk-Solutions/project-nomad · ★40.252 · nacida 24-jun-2025 · push 8-oct-2026 · Apache-2.0. KOReader · koreader/koreader · ★30.341 · nacida 24-mar-2013 · push 15-oct-2026 · AGPL-3.0. Koodo · koodo-reader/koodo-reader · ★28.513 · nacida 5-mar-2020 · push 15-oct-2026 · AGPL-3.0.
+NOMAD · Crosstalk-Solutions/project-nomad · ★40.515 · nacida 24-jun-2025 · push 8-oct-2026 · Apache-2.0. KOReader · koreader/koreader · ★30.409 · nacida 24-mar-2013 · push 18-oct-2026 · AGPL-3.0. Koodo · koodo-reader/koodo-reader · ★28.559 · nacida 5-mar-2020 · push 18-oct-2026 · AGPL-3.0.
 
-BookReader · smuyyh/BookReader · ★6.953 · nacida 3-ago-2016 · push 24-abr-2023 · Apache-2.0 · quietud larga. Voice · PaulWoitaschek/Voice · ★3.180 · nacida 2-ago-2014 · push 15-oct-2026 · GPL-3.0. Estantería de libros libres · justjavac/free-programming-books-zh_CN · ★119.215 · nacida 4-nov-2013 · push 29-jul-2026 · GPL-3.0.
+BookReader · smuyyh/BookReader · ★6.955 · nacida 3-ago-2016 · push 24-abr-2023 · Apache-2.0 · quietud larga. Voice · PaulWoitaschek/Voice · ★3.187 · nacida 2-ago-2014 · push 18-oct-2026 · GPL-3.0. Estantería de libros libres · justjavac/free-programming-books-zh_CN · ★119.215 · nacida 4-nov-2013 · push 29-jul-2026 · GPL-3.0.
 
 Fuente: censo vivo de la casa (5.684 repos, tarde del 15-oct-2026). Dato viaja FECHADO al censo de la tarde — el re-pulso nocturno de la familia musical (pulso #10) no pasó por esta repisa; el próximo pulso de la casa la toma.
 
@@ -205,7 +205,7 @@ Fuente: censo vivo de la casa (5.684 repos, tarde del 15-oct-2026). Dato viaja F
 
 Primera: la repisa tiene pocas casas al corte — seis contra las catorce de la música. No es pobreza del territorio: es la vara. Media familia de «lectores» del censo es de escritorio o de China continental con placa en su idioma, y la forja prefirió traer las de uso dominicano real con placa completa. La segunda fila va anotada más abajo.
 
-Segunda: la forja confiesa su espanto con NOMAD — ★40.252 (censo 15-oct-2026) y push del 8-oct es fama de gigante, pero es un mueble SERVER: pide más oficio que un lector. Lo dejamos en la repisa porque su obra es de lectura, con la advertencia de escuela por delante.
+Segunda: la forja confiesa su espanto con NOMAD — ★40.515 (censo 18-oct-2026) y push del 8-oct es fama de gigante, pero es un mueble SERVER: pide más oficio que un lector. Lo dejamos en la repisa porque su obra es de lectura, con la advertencia de escuela por delante.
 
 Tercera: el glosario de esta pieza es el de la FAMILIA cosecha (el mismo oficio que la 21 cosió) más las entradas propias de la repisa. La forja lo declara sin pelos: es la misma lengua del mismo barrio.
 
@@ -223,7 +223,7 @@ La serie vive de fronteras limpias — y la repisa tiene tres que dejar clavadas
 
 *Con los frontends.* Piped y la familia de alternativas de front-end viven en el censo con placa al 15-oct-2026 — pero su oficio es el video y la frontera de la pieza 16. En la repisa solo entran cuando el libro es el plato (NOMAD lleva Wikipedia, no streams).
 
-*Con el sótano.* La sincronía pesada de bibliotecas (Syncthing y su familia, ★89.412 al censo del 15-oct-2026) es oficio de la pieza del sótano de la serie. Aquí se nombra como camino — allá se mide como taller.
+*Con el sótano.* La sincronía pesada de bibliotecas (Syncthing y su familia, ★89.497 al censo del 18-oct-2026) es oficio de la pieza del sótano de la serie. Aquí se nombra como camino — allá se mide como taller.
 
 ───────────────────
 
@@ -323,7 +323,7 @@ Clávalo donde leas:
 
 — El APK del grupo: *«SUPER LECTOR PREMIUM, todos los formatos, sin anuncios, ¡descarga crackeada!»* 💸
 
-— KOReader real: *★30.341 (censo 15-oct-2026), push del mismo día, AGPL-3.0 firmado, y ni un letrero de «premium» en ninguna parte* 🧐
+— KOReader real: *★30.409 (censo 18-oct-2026), push del mismo día, AGPL-3.0 firmado, y ni un letrero de «premium» en ninguna parte* 🧐
 
 — El del grupo, pidiendo permiso de contactos «para mejorar tu experiencia de lectura»: 🪦
 
@@ -403,7 +403,7 @@ Clávalo donde leas:
 
 *Firma.* La marca criptográfica del taller en su release. La tienda legal la verifica por ti; el APK de grupo, nadie sabe quién la puso. Sin firma verificable, no hay confianza — hay fe, y la casa no trabaja con fe.
 
-*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.351, 15-oct-2026) — el mueble clásico vestido de esta década.
+*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.357, 18-oct-2026) — el mueble clásico vestido de esta década.
 
 *Etiqueta.* La información adentro del archivo de música: título, artista, álbum, número, año. El reproductor lee la etiqueta, no el nombre del archivo — peinar etiquetas es peinar la biblioteca entera.
 
@@ -415,7 +415,7 @@ Clávalo donde leas:
 
 *Scrobble.* El hábito del detective: registrar lo que suenas para amarrar historial y descubrimiento. muffon lo trae de fábrica — el reproductor que también lleva el cuaderno de campo.
 
-*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Multi-fuente.* La casa que no se casa con un río: consulta varios provedores y te sirve la versión que esté limpia. Spotube, Namida y muffon viven de esa libertad — con sus licencias mirándose dos veces.
 
@@ -487,7 +487,7 @@ Clávalo donde leas:
 
 *Coleccionista.* El que suena, guarda, etiqueta y copia. No necesita FLAC de colección para empezar: necesita la rutina — maestro en PC, copia en teléfono, lista exportada. La estructura antes que el volumen.
 
-*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Bitrate.* Los kilobits por segundo del audio: la medida de cuánto archivo pesa una canción. A más bitrate, más fidelidad hasta donde el oído y el altavoz alcancen a distinguir — el 320 del MP3 es el techo práctico del bolsillo.
 
@@ -589,7 +589,7 @@ CBZ|El cómic empacado como archivo: los lectores del censo lo abren, pero la ca
 
 Tinta electrónica|La pantalla que no alumbra: la de los aparatos de lectura puros. KOReader nació ahí (24-mar-2013) y su oficio se nota — trece años de taller al corte.
 
-Creada|La fecha de nacimiento de la casa en el censo. Edad y pulso son columnas distintas: NOMAD tiene dieciséis meses y ★40.252; BookReader, diez años y una quietud desde 2023 — la placa se lee junta.
+Creada|La fecha de nacimiento de la casa en el censo. Edad y pulso son columnas distintas: NOMAD tiene dieciséis meses y ★40.515; BookReader, diez años y una quietud desde 2023 — la placa se lee junta.
 
 Favoritos|La lista del lector: libros por leer, leídos, recomendados. Que se exporte — la ley del inquilino vale igual en la repisa que en la cosecha.
 

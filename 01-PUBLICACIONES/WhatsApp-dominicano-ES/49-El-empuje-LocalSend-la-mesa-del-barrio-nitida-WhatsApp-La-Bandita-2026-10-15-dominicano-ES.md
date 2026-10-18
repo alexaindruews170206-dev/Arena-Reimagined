@@ -1,5 +1,5 @@
 *49 — EL EMPUJE*
-*LocalSend ★94.549 (pulso 16-oct-2026) firma el empuje libre de la casa: la foto pasa de tu teléfono al de la mesa EN SECONDS — sin nube, sin cuenta, sin compresión — y su placa es la mayor de todo el censo (WhatsApp · La Bandita · dominicano-ES)*
+*LocalSend ★94.808 (pulso 18-oct-2026) firma el empuje libre de la casa: la foto pasa de tu teléfono al de la mesa EN SECONDS — sin nube, sin cuenta, sin compresión — y su placa es la mayor de todo el censo (WhatsApp · La Bandita · dominicano-ES)*
 
 ───────────────────
 
@@ -27,11 +27,11 @@ El AirDrop del manzana lo inventó pa su ecosistema; el empuje libre lo abrió p
 
 La placa única y gigante — el mueble del empuje, medido HOY.
 
-*El empuje — LocalSend.* `localsend/localsend` ★94.549 (pulso 16-oct-2026), nacida el 16-dic-2022, con aire hasta AYER (push 15-oct-2026), bajo Apache-2.0. La placa mayor de la fila de REDES — y de TODO el censo hasta HOY: noventa y cuatro mil quinientas firmas en TRES AÑOS Y MEDIO de vida (la placa joven más grande del censo por velocidad y por tamaño).
+*El empuje — LocalSend.* `localsend/localsend` ★94.808 (pulso 18-oct-2026), nacida el 16-dic-2022, con aire hasta AYER (push 18-oct-2026), bajo Apache-2.0. La placa mayor de la fila de REDES — y de TODO el censo hasta HOY: noventa y cuatro mil quinientas firmas en TRES AÑOS Y MEDIO de vida (la placa joven más grande del censo por velocidad y por tamaño).
 
 El mueble que habla todos los idiomas: Android, iPhone, Windows, macOS, Linux — el empuje de la sala, libre y sin dueño.
 
-La placa única del censo (como la del radar, la 47): el oficio del empuje es de UN mueble bien hecho — y su lectura fina, con la vara de la fila: ★94.549 (pulso 16-oct-2026) supera al alambre (★89.442), al motor de la IA del censo viejo, a todo lo firmado hasta hoy — y lo hizo en la tercera parte de edad que cualquiera de ellos.
+La placa única del censo (como la del radar, la 47): el oficio del empuje es de UN mueble bien hecho — y su lectura fina, con la vara de la fila: ★94.808 (pulso 18-oct-2026) supera al alambre (★89.442), al motor de la IA del censo viejo, a todo lo firmado hasta hoy — y lo hizo en la tercera parte de edad que cualquiera de ellos.
 
 La placa que la casa firmó con los pies: la mesa entera del barrio, empujándose las fotos.
 
@@ -169,7 +169,7 @@ El gol, en su calidad de gol.
 
 *🏭 LA DESPENSA DE DATOS (todo lo medido, en una repisa)*
 
-*La placa, por censo (16-oct-2026):* el empuje ★94.549 — la placa mayor de la fila de REDES y de TODO el censo hasta hoy. La mesa del barrio, votando.
+*La placa, por censo (18-oct-2026):* el empuje ★94.808 — la placa mayor de la fila de REDES y de TODO el censo hasta hoy. La mesa del barrio, votando.
 
 *La placa, por edad:* nacida el 16-dic-2022 — tres años y medio pa la cima del censo: la placa joven más grande por velocidad de adopción de toda la obra.
 
@@ -215,7 +215,7 @@ La lectura fina del parte: la pareja del aire fresco — el alambre con su motor
 
 Tres medidas finas de la noche.
 
-La primera: la cima en tres años. ★94.549 (pulso 16-oct-2026) en la placa de 2022: la velocidad de adopción más rápida de toda la obra — el alambre tardó once en llegar a ochenta y nueve; el empuje, tres y medio pa noventa y cuatro. La medida fina: la idea EXACTA (pa todos los muebles, sin cuenta) se firma sin resistencia — la mesa esperaba el mueble.
+La primera: la cima en tres años. ★94.808 (pulso 18-oct-2026) en la placa de 2022: la velocidad de adopción más rápida de toda la obra — el alambre tardó once en llegar a ochenta y nueve; el empuje, tres y medio pa noventa y cuatro. La medida fina: la idea EXACTA (pa todos los muebles, sin cuenta) se firma sin resistencia — la mesa esperaba el mueble.
 
 La segunda: la brecha de la muralla. El AirDrop (2011, cerrado) contra el empuje libre (2022, abierto): once años de mesa mixta sin poder empujarse — y tres pa firmar la cima. La medida de la forja: la muralla del ecosistema cobra once años; la puerta abierta, los cobra de vuelta en tres.
 
@@ -375,7 +375,7 @@ La regla de la bodega: el empuje pide estante — el que recibe, avisado.
 
 *Firma.* La marca criptográfica del taller en su release. La tienda legal la verifica por ti; el APK de grupo, nadie sabe quién la puso. Sin firma verificable, no hay confianza — hay fe, y la casa no trabaja con fe.
 
-*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.351, 15-oct-2026) — el mueble clásico vestido de esta década.
+*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.357, 18-oct-2026) — el mueble clásico vestido de esta década.
 
 *Etiqueta.* La información adentro del archivo de música: título, artista, álbum, número, año. El reproductor lee la etiqueta, no el nombre del archivo — peinar etiquetas es peinar la biblioteca entera.
 
@@ -387,7 +387,7 @@ La regla de la bodega: el empuje pide estante — el que recibe, avisado.
 
 *Scrobble.* El hábito del detective: registrar lo que suenas para amarrar historial y descubrimiento. muffon lo trae de fábrica — el reproductor que también lleva el cuaderno de campo.
 
-*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Multi-fuente.* La casa que no se casa con un río: consulta varios provedores y te sirve la versión que esté limpia. Spotube, Namida y muffon viven de esa libertad — con sus licencias mirándose dos veces.
 
@@ -459,7 +459,7 @@ La regla de la bodega: el empuje pide estante — el que recibe, avisado.
 
 *Coleccionista.* El que suena, guarda, etiqueta y copia. No necesita FLAC de colección para empezar: necesita la rutina — maestro en PC, copia en teléfono, lista exportada. La estructura antes que el volumen.
 
-*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Bitrate.* Los kilobits por segundo del audio: la medida de cuánto archivo pesa una canción. A más bitrate, más fidelidad hasta donde el oído y el altavoz alcancen a distinguir — el 320 del MP3 es el techo práctico del bolsillo.
 
@@ -545,7 +545,7 @@ Boletín empujado|El del templo: el PDF dominical nítido en la fila de los mayo
 
 Línea del reparto|La de la página del taller: chat, alambre, empuje, cargador — cada mueble, su mesa. La casa que reparte, jamás duplica.
 
-Cima del censo|La del empuje: ★94.549 (pulso 16-oct-2026) en tres años y medio — la placa mayor de la obra. La mesa votando con los pies — la idea exacta, firmada sin resistencia.
+Cima del censo|La del empuje: ★94.808 (pulso 18-oct-2026) en tres años y medio — la placa mayor de la obra. La mesa votando con los pies — la idea exacta, firmada sin resistencia.
 
 Bluetooth de la mesa|El abuelo: lento como el domino, firme en la idea. El gesto de la mesa, firmado hace dos décadas.
 
@@ -690,7 +690,7 @@ Tu mesa no necesita taller: la sala es tuya — y la placa del censo lo firma co
 
 *🪡 LA ÚLTIMA AGUJA (cosida al pie, como la casa cose)*
 
-Si esta pieza sirvió para algo más que leer, fue para esto: dejar escrito que la mesa de la casa tiene empuje con placa — LocalSend ★94.549 (pulso 16-oct-2026), la placa mayor de todo el censo, firmada en tres años y medio: la mesa del barrio votando con los pies pa el envío directo, libre y de todos los muebles.
+Si esta pieza sirvió para algo más que leer, fue para esto: dejar escrito que la mesa de la casa tiene empuje con placa — LocalSend ★94.808 (pulso 18-oct-2026), la placa mayor de todo el censo, firmada en tres años y medio: la mesa del barrio votando con los pies pa el envío directo, libre y de todos los muebles.
 
 La forja lo midió con el pulso del mismo día en que nace esta pieza, y lo firma: la foto original sin compresión, el texto volando, la sala de muchos, la puerta con su sí — y la frontera cosida: lo de ahora, por la sala; lo que vive, por el alambre.
 

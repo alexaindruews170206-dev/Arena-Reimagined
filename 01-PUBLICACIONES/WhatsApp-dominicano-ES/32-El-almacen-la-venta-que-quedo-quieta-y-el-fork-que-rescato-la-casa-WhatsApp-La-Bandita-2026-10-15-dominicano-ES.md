@@ -417,7 +417,7 @@ El llenado no avisa con ruido: avisa con fallos — y ya es tarde cuando avisa.
 
 *Firma.* La marca criptográfica del taller en su release. La tienda legal la verifica por ti; el APK de grupo, nadie sabe quién la puso. Sin firma verificable, no hay confianza — hay fe, y la casa no trabaja con fe.
 
-*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.351, 15-oct-2026) — el mueble clásico vestido de esta década.
+*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.357, 18-oct-2026) — el mueble clásico vestido de esta década.
 
 *Etiqueta.* La información adentro del archivo de música: título, artista, álbum, número, año. El reproductor lee la etiqueta, no el nombre del archivo — peinar etiquetas es peinar la biblioteca entera.
 
@@ -429,7 +429,7 @@ El llenado no avisa con ruido: avisa con fallos — y ya es tarde cuando avisa.
 
 *Scrobble.* El hábito del detective: registrar lo que suenas para amarrar historial y descubrimiento. muffon lo trae de fábrica — el reproductor que también lleva el cuaderno de campo.
 
-*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Multi-fuente.* La casa que no se casa con un río: consulta varios provedores y te sirve la versión que esté limpia. Spotube, Namida y muffon viven de esa libertad — con sus licencias mirándose dos veces.
 
@@ -501,7 +501,7 @@ El llenado no avisa con ruido: avisa con fallos — y ya es tarde cuando avisa.
 
 *Coleccionista.* El que suena, guarda, etiqueta y copia. No necesita FLAC de colección para empezar: necesita la rutina — maestro en PC, copia en teléfono, lista exportada. La estructura antes que el volumen.
 
-*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Bitrate.* Los kilobits por segundo del audio: la medida de cuánto archivo pesa una canción. A más bitrate, más fidelidad hasta donde el oído y el altavoz alcancen a distinguir — el 320 del MP3 es el techo práctico del bolsillo.
 

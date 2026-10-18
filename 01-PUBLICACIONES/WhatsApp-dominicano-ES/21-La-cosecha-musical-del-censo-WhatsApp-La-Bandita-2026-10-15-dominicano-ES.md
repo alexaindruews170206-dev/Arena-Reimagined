@@ -41,7 +41,7 @@ Lo primero es lo primero: las placas. Catorce casas, tal como el censo vivo las 
 
 *SimpMusic* — maxrave-dev/SimpMusic · ★12.079 (15-oct-2026, pulso #10) · push del mismo día · GPL-3.0 · v2.3.0 al censo. La casa ya la trae del taller (pieza 08): es la que puso el letrero anti-reempaques y no lo ha bajado. Su fila de asuntos (309 abiertos) se mueve con el repo.
 
-*Salt Player* — Moriafly/SaltPlayerSource · ★7.488 (15-oct-2026, pulso #10) · push del 7-oct · MIT. Reproductor local de continual development — la casa de los archivos tuyos, sin río ajeno de por medio. Licencia MIT: la vara más simple de leer de toda la cosecha.
+*Salt Player* — Moriafly/SaltPlayerSource · ★7.516 (18-oct-2026, pulso #10) · push del 7-oct · MIT. Reproductor local de continual development — la casa de los archivos tuyos, sin río ajeno de por medio. Licencia MIT: la vara más simple de leer de toda la cosecha.
 
 *ArchiveTune* — rukamori/ArchiveTune · ★7.175 (15-oct-2026, pulso #10) · push del mismo día · GPL-3.0. La menor de las grandes y una de las más activas del corte: push al 15-oct y fila de asuntos chica (158). De la escuela que mezcla archivos tuyos con fuentes de archivo público.
 
@@ -55,17 +55,17 @@ Lo primero es lo primero: las placas. Catorce casas, tal como el censo vivo las 
 
 *Los de en medio y la base (5.000 estrellas y abajo):*
 
-*OuterTune* — OuterTune/OuterTune · ★5.428 (15-oct-2026, pulso #10) · push del 12-oct · GPL-3.0 · v0.10.1 al censo. La hija viva de InnerTune — misma escuela de streaming de YouTube Music, empuje de esta misma semana, releases contándose en público.
+*OuterTune* — OuterTune/OuterTune · ★5.431 (18-oct-2026, pulso #10) · push del 12-oct · GPL-3.0 · v0.10.1 al censo. La hija viva de InnerTune — misma escuela de streaming de YouTube Music, empuje de esta misma semana, releases contándose en público.
 
-*Retro Music* — RetroMusicPlayer/RetroMusicPlayer · ★5.351 (15-oct-2026, pulso #10) · push del 4-oct · GPL-3.0. El clásico local con diseño Material You — la casa de la escuela local más vieja que sigue empujando cada semana.
+*Retro Music* — RetroMusicPlayer/RetroMusicPlayer · ★5.357 (18-oct-2026, pulso #10) · push del 4-oct · GPL-3.0. El clásico local con diseño Material You — la casa de la escuela local más vieja que sigue empujando cada semana.
 
 *Musify* — gokadzev/Musify · ★4.331 (15-oct-2026, pulso #10) · push del 11-oct · GPL-3.0. Streaming multi-fuente con fila de asuntos de las más sanas del corte (42 abiertos para su tamaño — limpieza visible).
 
 *NeriPlayer* — cwuom/NeriPlayer · ★3.785 (15-oct-2026, pulso #10) · push del mismo día · GPL-3.0. Audio nativo que combina fuentes — de las casas que empujaron el mismo 15-oct, señal de taller con la luz prendida.
 
-*muffon* — staniel359/muffon · ★2.244 (15-oct-2026, pulso #10) · push del 7-oct · AGPL-3.0. La más rara y la más curiosa: streaming multi-fuente con lado de descubrimiento y discografía — un reproductor que también es detective musical.
+*muffon* — staniel359/muffon · ★2.246 (18-oct-2026, pulso #10) · push del 7-oct · AGPL-3.0. La más rara y la más curiosa: streaming multi-fuente con lado de descubrimiento y discografía — un reproductor que también es detective musical.
 
-*Sonora* — sonorahq/sonora · ★2.066 (15-oct-2026, pulso #10) · push del mismo día · GPL-3.0. La más nueva de la lista en peso: cliente de streaming nativo que subió de ★2.052 a ★2.066 entre el censo de la tarde y el pulso de la noche del mismo día. Nacimiento en cámara.
+*Sonora* — sonorahq/sonora · ★2.066 (18-oct-2026, pulso #10) · push del mismo día · GPL-3.0. La más nueva de la lista en peso: cliente de streaming nativo que subió de ★2.145 a ★2.066 entre el censo de la tarde y el pulso de la noche del mismo día. Nacimiento en cámara.
 
 ───────────────────
 
@@ -161,7 +161,7 @@ Y su licencia ausente cierra el cuadro: ningún fork público puede heredar su n
 
 Once meses de quietud, pero con una diferencia de fondo: **GPL-3.0 firmado**. Esa firma es la que convierte un silencio en una genealogía — porque cuando una casa GPL se queda quieta, su código sigue vivo en quien lo tomó con las reglas del taller.
 
-Y aquí está la joya de esta cosecha: **la hija vive en el mismo censo**. OuterTune — ★5.428 (15-oct-2026), push del 12-oct, v0.10.1, GPL-3.0 — nació de InnerTune y no lo esconde: misma escuela de streaming, mismo ADN, taller propio con releases contándose en público. La madre descansa; la hija empuja esta misma semana.
+Y aquí está la joya de esta cosecha: **la hija vive en el mismo censo**. OuterTune — ★5.431 (18-oct-2026), push del 12-oct, v0.10.1, GPL-3.0 — nació de InnerTune y no lo esconde: misma escuela de streaming, mismo ADN, taller propio con releases contándose en público. La madre descansa; la hija empuja esta misma semana.
 
 *Lo que esta pareja le enseña al barrio (y a cualquiera que copie listas sin fechas):*
 
@@ -179,7 +179,7 @@ Mueble quieto + licencia firmada + heredero vivo = ruta clara (usa la línea viv
 
 Basta de teoría: esta es la caminata completa para pasar de «no tengo nada» a «tengo mi música funcionando hoy», por la puerta legal completa. Son cuatro pasos, y el cuarto es el que casi nadie da — y es el que separa al usuario del coleccionista.
 
-*Paso uno — escoge tu escuela en voz alta.* Escribe en una hoja: río (streaming), cajón (local) o detective (descubrimiento). Si tu respuesta es «no sé», arranca por el río con una casa GPL de push fresco — al 15-oct-2026, del pulso #10: SimpMusic (★12.079, push del mismo día), OuterTune (★5.428, push del 12-oct) o Musify (★4.331, push del 11-oct).
+*Paso uno — escoge tu escuela en voz alta.* Escribe en una hoja: río (streaming), cajón (local) o detective (descubrimiento). Si tu respuesta es «no sé», arranca por el río con una casa GPL de push fresco — al 18-oct-2026, del pulso #10: SimpMusic (★12.079, push del mismo día), OuterTune (★5.431, push del 12-oct) o Musify (★4.331, push del 11-oct).
 
 Las tres firman GPL-3.0 y las tres empujaron esta semana.
 
@@ -243,7 +243,7 @@ El campo no perdona el streaming, y el mueble local nunca ha llamado a nadie pid
 
 La versión limpia pesa menos porque no trae huéspedes.
 
-*Caso tres — el detective frustrado.* Quería saber de dónde salía «esa versión del merengue que sonaba en el colmado». Receta: muffon (★2.244, 15-oct-2026, AGPL-3.0) con su modo de descubrimiento y discografías cruzadas. Salió con el álbum, el año y tres versiones. El oficio del detective no es corriente — pero cuando se necesita, no hay colmado que lo reemplace.
+*Caso tres — el detective frustrado.* Quería saber de dónde salía «esa versión del merengue que sonaba en el colmado». Receta: muffon (★2.246, 18-oct-2026, AGPL-3.0) con su modo de descubrimiento y discografías cruzadas. Salió con el álbum, el año y tres versiones. El oficio del detective no es corriente — pero cuando se necesita, no hay colmado que lo reemplace.
 
 ───────────────────
 
@@ -251,13 +251,13 @@ La versión limpia pesa menos porque no trae huéspedes.
 
 Las catorce, por escuela, con su placa completa al pulso #10 (15-oct-2026, ~23:12 UTC) — la misma línea que puede copiar quien quiera verificar:
 
-Puente: SimpMusic ★12.079 · push 15-oct-2026 · GPL-3.0 · 309 asuntos · OuterTune ★5.428 · push 12-oct-2026 · GPL-3.0 · v0.10.1 · Musify ★4.331 · push 11-oct-2026 · GPL-3.0 · 42 asuntos · NeriPlayer ★3.785 · push 15-oct-2026 · GPL-3.0 · 137 asuntos · Sonora ★2.066 · push 15-oct-2026 · GPL-3.0 · 159 asuntos.
+Puente: SimpMusic ★12.079 · push 18-oct-2026 · GPL-3.0 · 309 asuntos · OuterTune ★5.431 · push 12-oct-2026 · GPL-3.0 · v0.10.1 · Musify ★4.331 · push 11-oct-2026 · GPL-3.0 · 42 asuntos · NeriPlayer ★3.785 · push 18-oct-2026 · GPL-3.0 · 137 asuntos · Sonora ★2.066 · push 18-oct-2026 · GPL-3.0 · 159 asuntos.
 
-Multi-fuente y detective: Spotube ★49.974 · push 15-oct-2026 · NOASSERTION · 868 asuntos · Namida ★6.648 · push 14-oct-2026 · NOASSERTION · 61 asuntos · muffon ★2.244 · push 7-oct-2026 · AGPL-3.0 · 44 asuntos · ArchiveTune ★7.175 · push 15-oct-2026 · GPL-3.0 · 158 asuntos.
+Multi-fuente y detective: Spotube ★49.974 · push 18-oct-2026 · NOASSERTION · 868 asuntos · Namida ★6.648 · push 14-oct-2026 · NOASSERTION · 61 asuntos · muffon ★2.246 · push 7-oct-2026 · AGPL-3.0 · 44 asuntos · ArchiveTune ★7.175 · push 18-oct-2026 · GPL-3.0 · 158 asuntos.
 
-Cajón: Salt Player ★7.488 · push 7-oct-2026 · MIT · 769 asuntos · Retro Music ★5.351 · push 4-oct-2026 · GPL-3.0 · 382 asuntos · Pixel Player ★6.713 · push 21-sep-2026 · NOASSERTION · 622 asuntos · Timber ★7.039 · push 28-abr-2023 · sin licencia · 210 asuntos.
+Cajón: Salt Player ★7.516 · push 7-oct-2026 · MIT · 769 asuntos · Retro Music ★5.357 · push 4-oct-2026 · GPL-3.0 · 382 asuntos · Pixel Player ★6.713 · push 21-sep-2026 · NOASSERTION · 622 asuntos · Timber ★7.039 · push 28-abr-2023 · sin licencia · 210 asuntos.
 
-Fuente: censo vivo de la casa (5.684 repos, 15-oct-2026) + pulso #10 por API con el token del dueño, hora ~23:12 UTC. Delta visible en la misma noche: Spotube ★49.956→★49.974 y Sonora ★2.052→★2.066 entre el censo de la tarde y el pulso nocturno — el censo no es una foto: es un latido.
+Fuente: censo vivo de la casa (5.684 repos, 18-oct-2026) + pulso #10 por API con el token del dueño, hora ~23:12 UTC. Delta visible en la misma noche: Spotube ★50.078→★49.974 y Sonora ★2.145→★2.066 entre el censo de la tarde y el pulso nocturno — el censo no es una foto: es un latido.
 
 ───────────────────
 
@@ -317,7 +317,7 @@ Para el lector: mapa actualizado, familia intacta, cero drama. Para el taller: a
 
 *HISTORIA DOS — el abuelo sin testamento (Timber).* El caso contrario: ★7.039 al 15-oct-2026, silencio desde el 28-abr-2023, y SIN licencia declarada en el censo. Sin licencia no hay testamento: ningún heredero puede tomar la línea con la cabeza alta.
 
-La fama de Timber sigue viva en el barrio — y esa es exactamente la trampa: el nombre pesa más que el taller, y el que pesa sin taller lo cargan los reempaques. Retro Music (★5.351, push del 4-oct-2026, GPL-3.0) hoy cumple el papel de «el mueble clásico vivo» de esa escuela — por edad de espíritu, no por papel firmado, y la casa lo dice sin confundir familias.
+La fama de Timber sigue viva en el barrio — y esa es exactamente la trampa: el nombre pesa más que el taller, y el que pesa sin taller lo cargan los reempaques. Retro Music (★5.357, push del 4-oct-2026, GPL-3.0) hoy cumple el papel de «el mueble clásico vivo» de esa escuela — por edad de espíritu, no por papel firmado, y la casa lo dice sin confundir familias.
 
 *HISTORIA TRES — el letrero que manda (SimpMusic).* No es genealogía de sangre sino de autoridad: SimpMusic puso en su casa la regla anti-reempaques (pieza 08) y esa regla se volvió LEY DEL BARRIO para toda la familia musical.
 
@@ -473,7 +473,7 @@ Las guías no vuelven: las historias fechadas no regresan (ley de la casa); lo q
 
 *Firma.* La marca criptográfica del taller en su release. La tienda legal la verifica por ti; el APK de grupo, nadie sabe quién la puso. Sin firma verificable, no hay confianza — hay fe, y la casa no trabaja con fe.
 
-*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.351, 15-oct-2026) — el mueble clásico vestido de esta década.
+*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.357, 18-oct-2026) — el mueble clásico vestido de esta década.
 
 *Etiqueta.* La información adentro del archivo de música: título, artista, álbum, número, año. El reproductor lee la etiqueta, no el nombre del archivo — peinar etiquetas es peinar la biblioteca entera.
 
@@ -485,7 +485,7 @@ Las guías no vuelven: las historias fechadas no regresan (ley de la casa); lo q
 
 *Scrobble.* El hábito del detective: registrar lo que suenas para amarrar historial y descubrimiento. muffon lo trae de fábrica — el reproductor que también lleva el cuaderno de campo.
 
-*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Multi-fuente.* La casa que no se casa con un río: consulta varios provedores y te sirve la versión que esté limpia. Spotube, Namida y muffon viven de esa libertad — con sus licencias mirándose dos veces.
 
@@ -557,7 +557,7 @@ Las guías no vuelven: las historias fechadas no regresan (ley de la casa); lo q
 
 *Coleccionista.* El que suena, guarda, etiqueta y copia. No necesita FLAC de colección para empezar: necesita la rutina — maestro en PC, copia en teléfono, lista exportada. La estructura antes que el volumen.
 
-*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Bitrate.* Los kilobits por segundo del audio: la medida de cuánto archivo pesa una canción. A más bitrate, más fidelidad hasta donde el oído y el altavoz alcancen a distinguir — el 320 del MP3 es el techo práctico del bolsillo.
 

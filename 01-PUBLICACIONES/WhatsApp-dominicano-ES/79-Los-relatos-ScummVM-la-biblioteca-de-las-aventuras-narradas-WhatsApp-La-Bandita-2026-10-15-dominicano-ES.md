@@ -1,5 +1,5 @@
 *79 — LOS RELATOS*
-*scummvm/scummvm ★2.858 (pulso 18-oct-2026) es la biblioteca de las aventuras narradas: los juegos que eran CUENTOS con clics — de la compu del ciber a la tele del salón, leyéndose otra vez en familia (WhatsApp · La Bandita · dominicano-ES)*
+*scummvm/scummvm ★2.860 (pulso 18-oct-2026) es la biblioteca de las aventuras narradas: los juegos que eran CUENTOS con clics — de la compu del ciber a la tele del salón, leyéndose otra vez en familia (WhatsApp · La Bandita · dominicano-ES)*
 
 ───────────────────
 
@@ -9,7 +9,7 @@ Los relatos es ScummVM: los juegos de aventura narrada (los que se JUGABAN como 
 
 *🗺 MAPA DE ESTA GUÍA*
 
-La fila del salón (71-80) firma su novena pieza: la era del cuento jugable — esta pieza septuagintanovena trae los relatos a la casa (la novena placa: debajo de la doble pantalla ★5.122 (pulso 18-oct-2026) — por 2.264 — y encima de la décima que cierra).
+La fila del salón (71-80) firma su novena pieza: la era del cuento jugable — esta pieza septuagintanovena trae los relatos a la casa (la novena placa: debajo de la doble pantalla ★5.125 (pulso 18-oct-2026) — por 2.265 — y encima de la décima que cierra).
 
 El recorrido: la escena del cuento con clics (la de toda casa que leyó jugando), el censo de los relatos, las tres capas del relato, la vara de la letra propia, la doctrina del juego propio (la frontera con el robo), la receta por pisos, los mitos, las preguntas, seis casos, las despensas, los riesgos con fecha, el ritual de siete días y las cartas de la mesa.
 
@@ -27,15 +27,15 @@ Y el juego que corre: el que la casa LEGITIMA (el CD propio, la compra propia �
 
 Los relatos y su familia — las placas de la era narrada, medidas HOY.
 
-*Los relatos — ScummVM.* `scummvm/scummvm` ★2.858 (pulso 18-oct-2026), nacida en 2001 (VEINTICINCO AÑOS de forja — LA FORJA MAYOR DEL SALÓN: más vieja que el mueble padre mismo). Con aire del MISMO DÍA (push de hoy). Con su letra por leer en su hogar (GPL-3.0 en la casa de la forja: la firma fuerte — se lee ANTES de montar, como manda la vara de la 58).
+*Los relatos — ScummVM.* `scummvm/scummvm` ★2.860 (pulso 18-oct-2026), nacida en 2001 (VEINTICINCO AÑOS de forja — LA FORJA MAYOR DEL SALÓN: más vieja que el mueble padre mismo). Con aire del MISMO DÍA (push 10-15-oct). Con su letra por leer en su hogar (GPL-3.0 en la casa de la forja: la firma fuerte — se lee ANTES de montar, como manda la vara de la 58).
 
-*La compañía del horno:* DOSBox Staging (★1.815, pulso 18-oct-2026 — «modern continuation of DOSBox»: el horno de DOS afinado por la hornada nueva; los relatos anteriores a la era del CD: calentándose en SU horno). La pareja del relato: el salón de las aventuras + el horno de las más viejas — una sola tarde de lectura.
+*La compañía del horno:* DOSBox Staging (★1.817, pulso 18-oct-2026 — «modern continuation of DOSBox»: el horno de DOS afinado por la hornada nueva; los relatos anteriores a la era del CD: calentándose en SU horno). La pareja del relato: el salón de las aventuras + el horno de las más viejas — una sola tarde de lectura.
 
-*El ranking, con honestidad del censo:* los relatos son LA NOVENA PLACA DEL SALÓN (★2.858, pulso 18-oct-2026: debajo de la doble pantalla ★5.122 (pulso 18-oct-2026) — por 2.264 — y encima de la décima que cierra la fila). En el censo entero: debajo del router del aire ★28.760 (pulso 18-oct-2026).
+*El ranking, con honestidad del censo:* los relatos son LA NOVENA PLACA DEL SALÓN (★2.860, pulso 18-oct-2026: debajo de la doble pantalla ★5.125 (pulso 18-oct-2026) — por 2.265 — y encima de la décima que cierra la fila). En el censo entero: debajo del router del aire ★28.760 (pulso 18-oct-2026).
 
 La lección del censo: VEINTICINCO AÑOS guardando los CUENTOS del juego — la forja bibliotecaria (la más vieja y la más leída). El censo no decora: mide.
 
-*La familia del salón:* el mueble padre (71: RetroArch ★14.367, pulso 18-oct-2026), el windows de la mesa (72: ★19.519), el cubo (73: ★15.681), la bolsilla (74: ★14.680), la negra chiquita (75: ★10.856), el cartucho eterno (76: ★7.507), el traductor (77: ★5.679), la doble (78: ★5.122). Y los relatos: la BIBLIOTECA — la era en que jugar se parecía a leer.
+*La familia del salón:* el mueble padre (71: RetroArch ★14.370, pulso 18-oct-2026), el windows de la mesa (72: ★19.523), el cubo (73: ★15.683), la bolsilla (74: ★14.681), la negra chiquita (75: ★10.856), el cartucho eterno (76: ★7.508), el traductor (77: ★5.679), la doble (78: ★5.125). Y los relatos: la BIBLIOTECA — la era en que jugar se parecía a leer.
 
 El salón de la casa: con su biblioteca — el cuento, jugándose en familia.
 
@@ -137,7 +137,7 @@ Suma la vara fina: la mezcla fina (el mando pa caminar, el ratón pa el acertijo
 
 Y la vara fina del horno: la honestidad (SU letra y SU forja: leyéndose igual — el horno: como toda la casa). (SU letra y SU forja: leyéndose igual — el horno: como toda la casa). El relato viejo: al horno — el cuento: se sirve.
 
-*¿Qué placa es la de los relatos — entre quiénes corre y con qué edad?* La novena placa del salón — con vara fina: ★2.858 (pulso 18-oct-2026), debajo de la doble pantalla ★5.122 (por 2.264) y encima de la décima que cierra la fila, debajo del router ★28.760 (pulso 18-oct-2026) en el censo.
+*¿Qué placa es la de los relatos — entre quiénes corre y con qué edad?* La novena placa del salón — con vara fina: ★2.860 (pulso 18-oct-2026), debajo de la doble pantalla ★5.125 (por 2.265) y encima de la décima que cierra la fila, debajo del router ★28.760 (pulso 18-oct-2026) en el censo.
 
 Encima la vara mayor: VEINTICINCO AÑOS de forja (2001-2026: LA FORJA MAYOR DEL SALÓN — más vieja que el mueble padre), y la lectura fina: la forja bibliotecaria (veinticinco años guardando cuentos: la constancia — como oficio). El censo no decora: mide — y veinticinco años: la medida de la biblioteca.
 
@@ -169,7 +169,7 @@ Montaje: el cofre ordenado (carpetas por gente: los del hermano, los del papá),
 
 *🏭 LA DESPENSA DE DATOS (todo lo medido, en una repisa)*
 
-*Las placas (censo 18-oct-2026):* los relatos ★2.858 — LA NOVENA PLACA DEL SALÓN (debajo de la doble pantalla ★5.122 por 2.264; encima de la décima que cierra; debajo del router ★28.760 en el censo). La compañía: DOSBox Staging ★1.815 (pulso 18-oct-2026). Letra GPL-3.0: leer en su hogar.
+*Las placas (censo 18-oct-2026):* los relatos ★2.860 — LA NOVENA PLACA DEL SALÓN (debajo de la doble pantalla ★5.125 por 2.265; encima de la décima que cierra; debajo del router ★28.760 en el censo). La compañía: DOSBox Staging ★1.817 (pulso 18-oct-2026). Letra GPL-3.0: leer en su hogar.
 
 *La edad:* nacida en 2001 — VEINTICINCO AÑOS de forja (LA FORJA MAYOR DEL SALÓN).
 
@@ -199,7 +199,7 @@ No dice que sea museo — dice la forja bibliotecaria: motores de toda la era na
 
 No dice que el remake la reemplace — dice la honestidad del cuento: el remake es OTRO relato — el CD propio: con SU voz y SU acertijo.
 
-No dice que sea placa mayor del censo — dice la vara fina: 2.858, la novena de su fila — debajo de la doble por 2.264, encima de la décima que cierra.
+No dice que sea placa mayor del censo — dice la vara fina: 2.860, la novena de su fila — debajo de la doble por 2.265, encima de la décima que cierra.
 
 No dice que leer aburra — dice la prueba del lector: el muchacho leyendo por resolver — el cuento: criando lectores.
 
@@ -383,7 +383,7 @@ Otra vara fina: la pizarra del taller (la ley del horno: escrita junto a la del 
 
 *Firma.* La marca criptográfica del taller en su release. La tienda legal la verifica por ti; el APK de grupo, nadie sabe quién la puso. Sin firma verificable, no hay confianza — hay fe, y la casa no trabaja con fe.
 
-*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.351, 15-oct-2026) — el mueble clásico vestido de esta década.
+*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.357, 18-oct-2026) — el mueble clásico vestido de esta década.
 
 *Etiqueta.* La información adentro del archivo de música: título, artista, álbum, número, año. El reproductor lee la etiqueta, no el nombre del archivo — peinar etiquetas es peinar la biblioteca entera.
 
@@ -395,7 +395,7 @@ Otra vara fina: la pizarra del taller (la ley del horno: escrita junto a la del 
 
 *Scrobble.* El hábito del detective: registrar lo que suenas para amarrar historial y descubrimiento. muffon lo trae de fábrica — el reproductor que también lleva el cuaderno de campo.
 
-*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Multi-fuente.* La casa que no se casa con un río: consulta varios provedores y te sirve la versión que esté limpia. Spotube, Namida y muffon viven de esa libertad — con sus licencias mirándose dos veces.
 
@@ -467,7 +467,7 @@ Otra vara fina: la pizarra del taller (la ley del horno: escrita junto a la del 
 
 *Coleccionista.* El que suena, guarda, etiqueta y copia. No necesita FLAC de colección para empezar: necesita la rutina — maestro en PC, copia en teléfono, lista exportada. La estructura antes que el volumen.
 
-*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Bitrate.* Los kilobits por segundo del audio: la medida de cuánto archivo pesa una canción. A más bitrate, más fidelidad hasta donde el oído y el altavoz alcancen a distinguir — el 320 del MP3 es el techo práctico del bolsillo.
 
@@ -513,7 +513,7 @@ Otra vara fina: la pizarra del taller (la ley del horno: escrita junto a la del 
 
 *Oído del barrio.* El que escucha antes de opinar: prueba dos muebles, mira dos placas y pregunta en la fila antes de palomear. No nace sabido — se hace con una semana de ritual bien dada.
 
-Relatos|ScummVM: la biblioteca de las aventuras narradas — la novena placa del salón (★2.858, pulso 18-oct-2026). Veinticinco años de forja guardando los cuentos.
+Relatos|ScummVM: la biblioteca de las aventuras narradas — la novena placa del salón (★2.860, pulso 18-oct-2026). Veinticinco años de forja guardando los cuentos.
 
 Ley del cuento legítimo|La del CD propio: se lee de SU disco o SU compra — la única copia que la biblioteca reconoce. El «400 crackeados» del tacho: jamás.
 
@@ -527,7 +527,7 @@ Oro narrativo|El del save con historia: la aventura a medias del hermano — pau
 
 Capítulo 12|El del save pausado hace años: el cuento que el hermano dejó al irse — terminándose un domingo en la tele. La historia — heredándose.
 
-Horno de DOS|DOSBox Staging (★1.815, pulso 18-oct-2026): el horno moderno de los relatos anteriores a los CD — montado de SU forja, con SU letra. La biblioteca — sin grietas.
+Horno de DOS|DOSBox Staging (★1.817, pulso 18-oct-2026): el horno moderno de los relatos anteriores a los CD — montado de SU forja, con SU letra. La biblioteca — sin grietas.
 
 Tarde del estante|La de la compu leyendo SU disco: los CDs de la era copiándose con respeto. El leído comunitario del club — de oficio.
 
@@ -663,7 +663,7 @@ La historia perdida: no vuelve — la próxima: jamás se pierde.
 
 *🪡 LA ÚLTIMA AGUJA (cosida al pie, como la casa cose)*
 
-Si esta pieza sirvió para algo más que leer, fue para esto: dejar escrito que los cuentos de una casa también se heredan — scummvm/scummvm ★2.858 (pulso 18-oct-2026), la novena placa del salón, veinticinco años de forja guardando la era narrada: los CDs del estante, de vuelta en la tele.
+Si esta pieza sirvió para algo más que leer, fue para esto: dejar escrito que los cuentos de una casa también se heredan — scummvm/scummvm ★2.860 (pulso 18-oct-2026), la novena placa del salón, veinticinco años de forja guardando la era narrada: los CDs del estante, de vuelta en la tele.
 
 La forja lo midió con el pulso de HOY y lo firma: la ley del cuento legítimo (el CD del estante, leído con respeto), la lectura en familia (la letra agrandada, el capítulo por rato), el cofre del oro narrativo — y la regla cosida: la historia a medias, sagrada.
 

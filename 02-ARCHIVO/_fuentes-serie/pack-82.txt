@@ -31,9 +31,9 @@ La familia entera del enchufe — las placas de la fila 82-95, medidas HOY.
 
 *La placa mayor de la fila.* La regleta (Dr-TSNG/ZygiskNext ★10.634, pulso 18-oct-2026): la implementación standalone de Zygisk — nacida el 28-ene-2023 (TRES AÑOS de forja), con aire del MISMO DÍA del pulso (push 15-oct-2026). Es la forja que alimenta a todas las demás: sin enchufe no hay módulo vivo.
 
-*Las placas que se enchufan a la regleta (la fila root II, medida HOY).* El parche del kernel (bmax121/APatch ★8.069, pulso 18-oct-2026, 21-ago-2023 — el root nuevo que parcha el sistema: GPL-3.0, push 16-oct). La fábrica de módulos (j-hc/revanced-magisk-module ★7.691, pulso 18-oct-2026, push de HOY — el builder diario de módulos ReVanced: GPL-3.0). El mapa del root (awesome-android-root/awesome-android-root ★5.226, pulso 18-oct-2026, push de HOY — la guía MIT de apps root, Magisk, KernelSU y módulos LSPosed). El espejo transparente (PerformanC/ReZygisk ★4.072, pulso 18-oct-2026 — la otra implementación de Zygisk: GPL-3.0). El asistente del escondite (snake-4/Zygisk-Assistant ★2.643, pulso 18-oct-2026 — el módulo que oculta el root en el banco: MIT). El Pixel en mano (siavash79/PixelXpert ★2.447, pulso 18-oct-2026 — el módulo Xposed+Magisk pa personalizar Pixel: GPL-3.0). La tienda de módulos (MMRLApp/MMRL ★2.209, pulso 18-oct-2026, push de HOY — la app que gestiona y comparte módulos: GPL-3.0).
+*Las placas que se enchufan a la regleta (la fila root II, medida HOY).* El parche del kernel (bmax121/APatch ★8.069, pulso 18-oct-2026, 21-ago-2023 — el root nuevo que parcha el sistema: GPL-3.0, push 16-oct). La fábrica de módulos (j-hc/revanced-magisk-module ★7.691, pulso 18-oct-2026, push 10-11-oct — el builder diario de módulos ReVanced: GPL-3.0). El mapa del root (awesome-android-root/awesome-android-root ★5.227, pulso 18-oct-2026, push 10-15-oct — la guía MIT de apps root, Magisk, KernelSU y módulos LSPosed). El espejo transparente (PerformanC/ReZygisk ★4.072, pulso 18-oct-2026 — la otra implementación de Zygisk: GPL-3.0). El asistente del escondite (snake-4/Zygisk-Assistant ★2.643, pulso 18-oct-2026 — el módulo que oculta el root en el banco: MIT). El Pixel en mano (siavash79/PixelXpert ★2.447, pulso 18-oct-2026 — el módulo Xposed+Magisk pa personalizar Pixel: GPL-3.0). La tienda de módulos (MMRLApp/MMRL ★2.209, pulso 18-oct-2026, push 10-16-oct — la app que gestiona y comparte módulos: GPL-3.0).
 
-*Las restas de la fila (verificadas en el pulso del 18-oct-2026):* 10.634−8.069=2.565 · 8.069−7.691=378 · 7.691−5.226=2.465 · 5.226−4.072=1.154 · 4.072−2.643=1.429 · 2.643−2.447=196 · 2.447−2.209=238. En el censo entero: la regleta corre debajo del router del aire ★28.760 (pulso 18-oct-2026) y encima de la familia de los relatos (ScummVM ★2.858, pulso 18-oct-2026): por 7.776. La lección del censo: la fila root II es joven (2021-2024: las hornadas del módulo) — y empuja TODA.
+*Las restas de la fila (verificadas en el pulso del 18-oct-2026):* 10.634−8.069=2.565 · 8.069−7.691=378 · 7.691−5.226=2.465 · 5.226−4.072=1.154 · 4.072−2.643=1.429 · 2.643−2.447=196 · 2.447−2.209=238 En el censo entero: la regleta corre debajo del router del aire ★28.760 (pulso 18-oct-2026) y encima de la familia de los relatos (ScummVM ★2.860, pulso 18-oct-2026): por 7.776. La lección del censo: la fila root II es joven (2021-2024: las hornadas del módulo) — y empuja TODA.
 
 =====S03=====
 *🏛 LAS TRES CAPAS DE LA REGLETA*
@@ -189,7 +189,7 @@ Otra clave mayor: el ensayo ANTES (el piso dos: el reinicio y la salida — prac
 =====S08=====
 *🏭 LA DESPENSA DE DATOS (todo lo medido, en una repisa)*
 
-*Las placas (censo 18-oct-2026):* ZygiskNext ★10.634 · APatch ★8.069 · revanced-magisk-module ★7.691 · awesome-android-root ★5.226 · ReZygisk ★4.072 · Zygisk-Assistant ★2.643 · PixelXpert ★2.447 · MMRL ★2.209 — la fila root II: 43.291 estrellas de forja seria.
+*Las placas (censo 18-oct-2026):* ZygiskNext ★10.634 · APatch ★8.069 · revanced-magisk-module ★7.691 · awesome-android-root ★5.227 · ReZygisk ★4.072 · Zygisk-Assistant ★2.643 · PixelXpert ★2.447 · MMRL ★2.209 — la fila root II: 42.992 estrellas de forja seria.
 
 *Las edades:* regleta 3 (2023) · parche 3 (2023) · fábrica 4 (2022) · mapa 2 (2024) · espejo 2 (2024) · asistente 2 (2024) · Pixel 4 (2022) · tienda 4 (2022) — la fila joven del root, TODA viva.
 
@@ -229,7 +229,7 @@ No dice que la fila root II esté completa — dice el mapa: la regleta abre (82
 
 *🩺 LA SALUD DE LA FILA AL CORTE (el parte de la regleta)*
 
-El parte del 18-oct-2026: la fila root II con aire de HOY (la regleta con push del 15-oct, media fila con push de HOY: la fábrica, el mapa, la tienda), las letras leyéndose en sus hogares (siete de ocho con SPDX en la puerta: GPL-3.0 y MIT — la regleta: la puerta sin letrero, bajo vara de la 58), 43.291 estrellas de forja seria en la fila.
+El parte del 18-oct-2026: la fila root II con aire de HOY (la regleta con push del 15-oct, media fila con push 10-15-oct: la fábrica, el mapa, la tienda), las letras leyéndose en sus hogares (siete de ocho con SPDX en la puerta: GPL-3.0 y MIT — la regleta: la puerta sin letrero, bajo vara de la 58), 42.992 estrellas de forja seria en la fila.
 
 Su lectura fina del parte: la fila del root al corte (la hornada joven: dos a cuatro años de forja — las familias del módulo: creciendo sobre el enchufe) — la fila 82-95: la más joven de la obra, y de las más vivas. La salud de la regleta: la del enchufe universal — corriendo en todas las paredes del root.
 
@@ -367,7 +367,7 @@ La lectura fina: la diferencia con el rebaño («todos la usan» no es ley de la
 
 *🪧 EL CARTEL DEL ENCHUFE*
 
-*El root de la casa, enchufado como gente — una regleta, una familia a la vez y 43.291 estrellas de fila joven midiendo la pared.*
+*El root de la casa, enchufado como gente — una regleta, una familia a la vez y 42.992 estrellas de fila joven midiendo la pared.*
 
 *El módulo legítimo — zip de SU forja con SU fecha: la raíz sin huérfanos, el tacho fuera de la casa.*
 
@@ -400,7 +400,7 @@ El fanático del laboratorio, presumiendo: «YO TENGO 12 MÓDULOS INSTALADOS DE 
 
 >>>REV>>> La gira mensual del primer domingo: regleta y familia re-pulsadas con fecha — y la poda honesta: el módulo que no faena, desenchufado. El enchufe vivo: jamás un museo de zips.
 
->>>REV>>> 43.291 estrellas en las ocho placas (censo 18-oct-2026) — y la puerta sin letrero: la propia regleta (sin SPDX en la API): bajo vara de la 58, el árbol se lee ANTES de montar.
+>>>REV>>> 42.992 estrellas en las ocho placas (censo 18-oct-2026) — y la puerta sin letrero: la propia regleta (sin SPDX en la API): bajo vara de la 58, el árbol se lee ANTES de montar.
 
 >>>REV>>> Una familia a la vez, con la prueba del día entero: 24 horas de llamadas, datos y madrugada — la libreta anotando, y la salida de cada módulo ensayada ANTES de la desgracia.
 

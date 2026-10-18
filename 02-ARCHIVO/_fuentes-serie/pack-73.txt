@@ -1,6 +1,6 @@
 =====S01=====
 *73 — EL SALÓN DEL CUBO*
-*dolphin-emu/dolphin ★15.681 (pulso 18-oct-2026) es la era de los controles con movimiento volviendo al sofá: el GameCube y la Wii corriendo en tu caja — los discos propios volcados, el mando en la mano y el torneo del barrio en la tele (WhatsApp · La Bandita · dominicano-ES)*
+*dolphin-emu/dolphin ★15.683 (pulso 18-oct-2026) es la era de los controles con movimiento volviendo al sofá: el GameCube y la Wii corriendo en tu caja — los discos propios volcados, el mando en la mano y el torneo del barrio en la tele (WhatsApp · La Bandita · dominicano-ES)*
 
 ───────────────────
 
@@ -10,7 +10,7 @@ El salón del cubo es Dolphin: la era del cubo y la wii (los discos chiquitos de
 
 *🗺 MAPA DE ESTA GUÍA*
 
-La fila del salón (71-80) firma su tercera pieza: la era del movimiento — esta pieza septuagésimatercera trae el cubo y la wii a la caja (la tercera placa del salón: debajo del windows de la mesa ★19.519 (pulso 18-oct-2026) — por 3.838 — y encima de la bolsilla ★14.680 — por 1.001). El recorrido: la escena de la consola vendida (la de toda casa que creció en los 2000), el censo del cubo, las tres capas del salón, la vara de la letra propia, la doctrina del disco propio (la frontera con el robo), la receta por pisos, los mitos, las preguntas, seis casos, las despensas, los riesgos con fecha, el ritual de siete días y las cartas de la mesa.
+La fila del salón (71-80) firma su tercera pieza: la era del movimiento — esta pieza septuagésimatercera trae el cubo y la wii a la caja (la tercera placa del salón: debajo del windows de la mesa ★19.523 (pulso 18-oct-2026) — por 3.838 — y encima de la bolsilla ★14.681 — por 1.001). El recorrido: la escena de la consola vendida (la de toda casa que creció en los 2000), el censo del cubo, las tres capas del salón, la vara de la letra propia, la doctrina del disco propio (la frontera con el robo), la receta por pisos, los mitos, las preguntas, seis casos, las despensas, los riesgos con fecha, el ritual de siete días y las cartas de la mesa.
 
 *🌱 LA SEMILLA*
 
@@ -21,11 +21,11 @@ La escena de la consola vendida: la casa de los 2000 (el cubo de la infancia con
 
 El salón del cubo y su familia — las placas de la era, medidas HOY.
 
-*El salón del cubo — Dolphin.* `dolphin-emu/dolphin` ★15.681 (pulso 18-oct-2026), nacida el 22-jul-2013 (trece años de forja — la hornada del medio: más joven que el mueble padre 2010 y la bolsilla 2012, más vieja que la negra chiquita 2019). Con aire del MISMO DÍA (push de hoy), con su letra por leer en su hogar (NOASSERTION en el índice — la firma se lee en la casa de la forja: el oficio de la 58, aplicado a las letras). La forja de la era del movimiento: el cubo y la wii en un mismo salón.
+*El salón del cubo — Dolphin.* `dolphin-emu/dolphin` ★15.683 (pulso 18-oct-2026), nacida el 22-jul-2013 (trece años de forja — la hornada del medio: más joven que el mueble padre 2010 y la bolsilla 2012, más vieja que la negra chiquita 2019). Con aire del MISMO DÍA (push 10-15-oct), con su letra por leer en su hogar (NOASSERTION en el índice — la firma se lee en la casa de la forja: el oficio de la 58, aplicado a las letras). La forja de la era del movimiento: el cubo y la wii en un mismo salón.
 
-*El ranking, con honestidad del censo:* el salón del cubo es LA TERCERA PLACA DEL SALÓN (★15.681, pulso 18-oct-2026: debajo del windows de la mesa ★19.519 — por 3.838 — y encima de la bolsilla ★14.680 — por 1.001 — y del mueble padre ★14.367). En el censo entero: debajo del router del aire ★28.760 (pulso 18-oct-2026). La lección del censo: trece años de push constante — la forja que pulió la era completa sin apurarla. El censo no decora: mide.
+*El ranking, con honestidad del censo:* el salón del cubo es LA TERCERA PLACA DEL SALÓN (★15.683, pulso 18-oct-2026: debajo del windows de la mesa ★19.523 — por 3.840 — y encima de la bolsilla ★14.681 — por 1.002 — y del mueble padre ★14.370). En el censo entero: debajo del router del aire ★28.760 (pulso 18-oct-2026). La lección del censo: trece años de push constante — la forja que pulió la era completa sin apurarla. El censo no decora: mide.
 
-*La familia del salón:* el mueble padre (71: RetroArch ★14.367, pulso 18-oct-2026 — las consolas de cartucho), el windows de la mesa (72: Winlator ★19.519 — los programas), la bolsilla (74: PPSSPP ★14.680 — la era portátil), la negra chiquita (75: DuckStation ★10.856). El salón de la casa: armando por eras — una sola ley del disco propio.
+*La familia del salón:* el mueble padre (71: RetroArch ★14.370, pulso 18-oct-2026 — las consolas de cartucho), el windows de la mesa (72: Winlator ★19.523 — los programas), la bolsilla (74: PPSSPP ★14.681 — la era portátil), la negra chiquita (75: DuckStation ★10.856). El salón de la casa: armando por eras — una sola ley del disco propio.
 
 =====S03=====
 *🏛 LAS TRES CAPAS DE LA ERA DEL MOVIMIENTO*
@@ -94,7 +94,7 @@ Cómo se arma sin equivocarse:*
 
 *¿El salón pide mucha caja — mi teléfono sirve?* Sirve — con vara fina: la era del cubo es liviana HOY (trece años de forja: la caja media del teléfono corre el catálogo con sobra — la hornada del teléfono-suficiente). La otra vara fina seria: los discos exigidos (el catálogo tiene bichos: SU perfil en la gira — anotado con fecha: la vara del faena-juego). Con la vara mayor: el sofá completo (el teléfono a la tele, los controles bluetooth: el torneo del sábado — sin una sola pieza nueva de guerra). La caja de la casa: basta — el gasto: en discos que faltan volcar.
 
-*¿Qué placa es la del salón del cubo — entre quiénes corre y con qué edad?* La tercera placa del salón — con vara fina: ★15.681 (pulso 18-oct-2026), debajo del windows de la mesa ★19.519 (por 3.838) y encima de la bolsilla ★14.680 (por 1.001) y del mueble padre ★14.367, y en el censo entero debajo del router ★28.760 (pulso 18-oct-2026). Encima la vara mayor: TRECE AÑOS de forja (2013-2026: la hornada del medio del salón — más joven que el mueble, más vieja que la negra chiquita). Su lectura fina: la forja del pulido (trece años sin apurar la era: el catálogo entero, girado y re-girado). El censo no decora: mide — y la paciencia: se mide en años.
+*¿Qué placa es la del salón del cubo — entre quiénes corre y con qué edad?* La tercera placa del salón — con vara fina: ★15.683 (pulso 18-oct-2026), debajo del windows de la mesa ★19.523 (por 3.840) y encima de la bolsilla ★14.681 (por 1.002) y del mueble padre ★14.370, y en el censo entero debajo del router ★28.760 (pulso 18-oct-2026). Encima la vara mayor: TRECE AÑOS de forja (2013-2026: la hornada del medio del salón — más joven que el mueble, más vieja que la negra chiquita). Su lectura fina: la forja del pulido (trece años sin apurar la era: el catálogo entero, girado y re-girado). El censo no decora: mide — y la paciencia: se mide en años.
 
 *🧪 CASOS DEL BARRIO*
 
@@ -113,7 +113,7 @@ Cómo se arma sin equivocarse:*
 =====S08=====
 *🏭 LA DESPENSA DE DATOS (todo lo medido, en una repisa)*
 
-*Las placas (censo 18-oct-2026):* el salón del cubo ★15.681 — LA TERCERA PLACA DEL SALÓN (debajo del windows ★19.519 por 3.838; encima de la bolsilla ★14.680 por 1.001 y del mueble ★14.367; debajo del router ★28.760 en el censo). Letra por leer en su hogar.
+*Las placas (censo 18-oct-2026):* el salón del cubo ★15.683 — LA TERCERA PLACA DEL SALÓN (debajo del windows ★19.523 por 3.840; encima de la bolsilla ★14.681 por 1.002 y del mueble ★14.370; debajo del router ★28.760 en el censo). Letra por leer en su hogar.
 
 *La edad:* nacida el 22-jul-2013 — TRECE AÑOS de forja (la hornada del medio: entre el mueble 2010 y la negra chiquita 2019).
 
@@ -280,7 +280,7 @@ La app del tacho, en su anuncio: «TODA LA ERA GAMECUBE + WII EN UN APK — 4000
 
 >>>REV>>> La pizarra: la ley del disco propio (cada jugador con SU volcado — quien no trae, arbitra). La gira: el perfil por juego — cada disco exigido con SU ajuste, anotado con fecha.
 
->>>REV>>> La tercera placa del salón: ★15.681 (pulso 18-oct-2026) — debajo del windows ★19.519 (por 3.838), encima de la bolsilla ★14.680 (por 1.001) y del mueble ★14.367: TRECE AÑOS de forja (2013-2026).
+>>>REV>>> La tercera placa del salón: ★15.683 (pulso 18-oct-2026) — debajo del windows ★19.523 (por 3.840), encima de la bolsilla ★14.681 (por 1.002) y del mueble ★14.370: TRECE AÑOS de forja (2013-2026).
 
 >>>REV>>> Los saves nuevos + la memory card vieja volcada: un cofre, dos discos — junto al despacho de la 59. La partida del 2005: continuando; el campeón del sábado: eterno.
 
@@ -298,7 +298,7 @@ La app del tacho, en su anuncio: «TODA LA ERA GAMECUBE + WII EN UN APK — 4000
 
 *🪡 LA ÚLTIMA AGUJA (cosida al pie, como la casa cose)*
 
-Si esta pieza sirvió para algo más que leer, fue para esto: dejar escrito que el torneo de una familia también se hereda — dolphin-emu/dolphin ★15.681 (pulso 18-oct-2026), la tercera placa del salón, trece años de forja puliendo la era del movimiento: el cubo y la wii, de vuelta en la tele de la casa.
+Si esta pieza sirvió para algo más que leer, fue para esto: dejar escrito que el torneo de una familia también se hereda — dolphin-emu/dolphin ★15.683 (pulso 18-oct-2026), la tercera placa del salón, trece años de forja puliendo la era del movimiento: el cubo y la wii, de vuelta en la tele de la casa.
 
 La forja lo midió con el pulso de HOY y lo firma: la ley del chiquito (el disco propio, volcado con respeto), el sofá de pie con su metro (la era honrándose), el cofre del oro (saves + memory card, dos discos) — y la regla cosida: el torneo con pizarra y con acta.
 
@@ -309,7 +309,7 @@ Busca la caja de los discos chiquitos. Pide la memory card de la infancia. Despe
 #LaBandita #ElSalonDelCubo #Dolphin #SelfHosted #FOSS #DominicanoES
 
 =====GLOS=====
-Salón del cubo|Dolphin: la era del GameCube y la Wii en la caja de la casa — la tercera placa del salón (★15.681, pulso 18-oct-2026). Trece años de forja puliendo la era del movimiento.
+Salón del cubo|Dolphin: la era del GameCube y la Wii en la caja de la casa — la tercera placa del salón (★15.683, pulso 18-oct-2026). Trece años de forja puliendo la era del movimiento.
 
 Ley del chiquito|La del disco pequeño del cubo: se volca por lector específico o consola propia — la única rom que la casa firma. El tacho de los rincones: jamás.
 

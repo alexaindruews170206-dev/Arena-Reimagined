@@ -8,7 +8,7 @@
 
 El mayordomo (29) dejó la casa trabajando. Esta pieza mide lo PRIMERO que tocas al despertar: la cara del teléfono — el lanzador que muestra el escritorio y el teclado que escribe cada mensaje del día. Diez piezas ha durado el bloque de las cosechas; esta lo cierra midiendo el territorio más personal de todos, al censo del 15-oct-2026.
 
-Las placas: **Lawnchair** — ★13.713 (censo 15-oct-2026), nacida el 3-mar-2017: el escritorio estilo Pixel que la comunidad adoptó como suyo, con su placa SIN testamento marcada. **Kvaesitso** — ★5.268, GPL-3.0, el lanzador-buscador que busca en TODO antes que en las tiendas. **FlorisBoard** — ★8.704, Apache-2.0, empujando EL MISMO día del censo. **fcitx5** — ★5.761 (censo 15-oct-2026), LGPL-2.1, el teclado multilingüe de la escuela china. Y **FUTO Keyboard** — ★3.357, el teclado con dictado por voz que corre SIN nube.
+Las placas: **Lawnchair** — ★13.727 (censo 18-oct-2026), nacida el 3-mar-2017: el escritorio estilo Pixel que la comunidad adoptó como suyo, con su placa SIN testamento marcada. **Kvaesitso** — ★5.270, GPL-3.0, el lanzador-buscador que busca en TODO antes que en las tiendas. **FlorisBoard** — ★8.704, Apache-2.0, empujando EL MISMO día del censo. **fcitx5** — ★5.770 (censo 18-oct-2026), LGPL-2.1, el teclado multilingüe de la escuela china. Y **FUTO Keyboard** — ★3.357, el teclado con dictado por voz que corre SIN nube.
 
 El marco honesto: la cara del teléfono es el territorio de la identificación — aquí la gente no pregunta «cuál es mejor»: pregunta «cuál se parece a mí». La pieza mide las cinco casas con la vara de siempre y deja que la cara la elija el dueño.
 
@@ -57,13 +57,13 @@ Y su vara es la del detalle: la cara del teléfono no falla ruidoso — falla en
 
 Las placas completas, tal como el censo de la tarde del 15-oct-2026 las contestó:
 
-*Lawnchair* — LawnchairLauncher/lawnchair · ★13.713 (censo 15-oct-2026) · push del 13-oct · SIN LICENCIA DECLARADA en el censo · nacida el 3-mar-2017. El escritorio libre más querido de Android: la cara estilo Pixel — el buscador, las paletas de iconos, los widgets bien puestos. Nueve años y siete meses de taller — y su placa en blanco anotada con vara: la casa más famosa con testamento pendiente de la noche.
+*Lawnchair* — LawnchairLauncher/lawnchair · ★13.727 (censo 18-oct-2026) · push del 13-oct · SIN LICENCIA DECLARADA en el censo · nacida el 3-mar-2017. El escritorio libre más querido de Android: la cara estilo Pixel — el buscador, las paletas de iconos, los widgets bien puestos. Nueve años y siete meses de taller — y su placa en blanco anotada con vara: la casa más famosa con testamento pendiente de la noche.
 
-*Kvaesitso* — MM2-0/Kvaesitso · ★5.268 (censo 15-oct-2026) · push del 13-oct · GPL-3.0 · nacida el 18-sep-2021. El lanzador-buscador: el escritorio que busca PRIMERO — en tus apps, tus archivos, tus contactos, tu calendario y la web — antes de preguntar qué icono tocaste. Cinco años y un mes: la cara más joven y más pensada del censo.
+*Kvaesitso* — MM2-0/Kvaesitso · ★5.270 (censo 18-oct-2026) · push del 13-oct · GPL-3.0 · nacida el 18-sep-2021. El lanzador-buscador: el escritorio que busca PRIMERO — en tus apps, tus archivos, tus contactos, tu calendario y la web — antes de preguntar qué icono tocaste. Cinco años y un mes: la cara más joven y más pensada del censo.
 
 *FlorisBoard* — florisboard/florisboard · ★8.704 (censo 15-oct-2026) · push del MISMO día del censo · Apache-2.0 · nacida el 8-abr-2020. El teclado de la comunidad: completo, con predicción local y diseño propio — el teclado libre de referencia del ecosistema. Seis años y seis meses, empujando el mismo día en que la forja lo midió.
 
-*fcitx5 (Android)* — fcitx5-android/fcitx5-android · ★5.761 (censo 15-oct-2026) · push del 13-oct · LGPL-2.1 · nacida el 10-jun-2021. El teclado multilingüe de la escuela seria: heredero del ecosistema fcitx de Linux, trae idiomas que los teclados grandes ni saben que existen. Cinco años y cuatro meses.
+*fcitx5 (Android)* — fcitx5-android/fcitx5-android · ★5.770 (censo 18-oct-2026) · push del 13-oct · LGPL-2.1 · nacida el 10-jun-2021. El teclado multilingüe de la escuela seria: heredero del ecosistema fcitx de Linux, trae idiomas que los teclados grandes ni saben que existen. Cinco años y cuatro meses.
 
 *FUTO Keyboard* — futo-org/android-keyboard · ★3.357 (censo 15-oct-2026) · push del 23-sep · SIN LICENCIA DECLARADA en el censo (el repo se declara espejo del código oficial del taller FUTO) · nacida el 7-may-2024. El teclado del dictado local: voz a texto SIN nube — la escuela de los modelos on-device en tu bolsillo. Dos años y cinco meses: la cara más nueva del censo, con su placa espejo anotada.
 
@@ -94,7 +94,7 @@ El corte de la cara al 15-oct-2026: tres firmas completas, dos placas en blanco 
 
 *Con firma completa:* Kvaesitso con **GPL-3.0**, FlorisBoard con **Apache-2.0**, fcitx5 con **LGPL-2.1** — la firma de biblioteca: el ecosistema fcitx protege su núcleo sin cerrar la puerta a las mezclas. Tres leyes distintas, tres escuelas, cero huecos.
 
-*En blanco:* **Lawnchair** (★13.713 al censo del 15-oct-2026 — la casa más famosa del censo) y **FUTO** (★3.357 — con el agravante del repo espejo: el código oficial vive fuera de GitHub, en el git del taller). La lectura completa de la forja: Lawnchair es históricamente GPLv3 y su código es público y auditado por años — pero el censo del 15-oct-2026 le marca la placa y la vara es la vara: SE ESPERA LA FIRMA, como con KeePassXC (27) y las otras de la noche. FUTO lleva el detalle doble: placa en blanco Y espejo — el taller se declara abierto de buena fe, pero el censo firma lo que ve: espejo sin testamento.
+*En blanco:* **Lawnchair** (★13.727 al censo del 18-oct-2026 — la casa más famosa del censo) y **FUTO** (★3.357 — con el agravante del repo espejo: el código oficial vive fuera de GitHub, en el git del taller). La lectura completa de la forja: Lawnchair es históricamente GPLv3 y su código es público y auditado por años — pero el censo del 18-oct-2026 le marca la placa y la vara es la vara: SE ESPERA LA FIRMA, como con KeePassXC (27) y las otras de la noche. FUTO lleva el detalle doble: placa en blanco Y espejo — el taller se declara abierto de buena fe, pero el censo firma lo que ve: espejo sin testamento.
 
 *La vara, aplicada:* push vivo ✓ (el 13-oct y el 15-oct en cuatro de cinco), filas vivas ✓ (las cinco comunidades contestan), instalación del repo o tienda legal ✓. Y la lectura fina de la noche: la cara es el territorio donde la placa en blanco pesa MENOS que en el tronco — porque el escritorio y el teclado no guardan secretos: muestran la pantalla y escriben lo que tú dictas. La vara de la noche se matiza: no baja — se lee con contexto del oficio. La placa sigue pendiente; el riesgo, acotado.
 
@@ -114,7 +114,7 @@ La sección donde la pieza se vuelve doctrina: el escritorio no es decoración �
 =====S06=====
 *🔧 LA RECETA DE LA CARA ORDENADA (una tarde, por pisos)*
 
-*Piso uno — el escritorio entra.* Lawnchair del censo (placa marcada: ★13.713 al 15-oct-2026, push del 13-oct) o Kvaesitso (GPL-3.0) de la tienda legal o repo. El primer toque: se pone como predeterminado (Ajustes → Apps → App predeterminada → Inicio) — el teléfono pregunta una vez y la cara queda. Los iconos se acomodan CON calma: primero las cinco de la mañana, después el resto.
+*Piso uno — el escritorio entra.* Lawnchair del censo (placa marcada: ★13.727 al 18-oct-2026, push del 13-oct) o Kvaesitso (GPL-3.0) de la tienda legal o repo. El primer toque: se pone como predeterminado (Ajustes → Apps → App predeterminada → Inicio) — el teléfono pregunta una vez y la cara queda. Los iconos se acomodan CON calma: primero las cinco de la mañana, después el resto.
 
 *Piso dos — el buscador se entrena.* La barra del escritorio busca lo TUYO: prueba buscar «luz» — y mira si encuentra la app del banco, el contacto de la luz, la nota del cuaderno. Kvaesitso lo hace de fábrica; Lawnchair con su buscador de apps y la búsqueda de Google desactivable. El entrenamiento del buscador es el detalle que convierte la cara nueva en cara TUYA.
 
@@ -177,7 +177,7 @@ La sección donde la pieza se vuelve doctrina: el escritorio no es decoración �
 
 Las cinco placas de la cara al 15-oct-2026, listas pa copiar y verificar:
 
-Lawnchair · LawnchairLauncher/lawnchair · ★13.713 · nacida 3-mar-2017 · push 13-oct-2026 · sin licencia declarada al censo. Kvaesitso · MM2-0/Kvaesitso · ★5.268 · nacida 18-sep-2021 · push 13-oct-2026 · GPL-3.0. FlorisBoard · florisboard/florisboard · ★8.704 · nacida 8-abr-2020 · push 15-oct-2026 (mismo día del censo) · Apache-2.0. fcitx5-android · fcitx5-android/fcitx5-android · ★5.761 · nacida 10-jun-2021 · push 13-oct-2026 · LGPL-2.1. FUTO Keyboard · futo-org/android-keyboard · ★3.357 · nacida 7-may-2024 · push 23-sep-2026 · sin licencia declarada en el censo (repo espejo del git oficial del taller).
+Lawnchair · LawnchairLauncher/lawnchair · ★13.727 · nacida 3-mar-2017 · push 13-oct-2026 · sin licencia declarada al censo. Kvaesitso · MM2-0/Kvaesitso · ★5.270 · nacida 18-sep-2021 · push 13-oct-2026 · GPL-3.0. FlorisBoard · florisboard/florisboard · ★8.704 · nacida 8-abr-2020 · push 18-oct-2026 (mismo día del censo) · Apache-2.0. fcitx5-android · fcitx5-android/fcitx5-android · ★5.770 · nacida 10-jun-2021 · push 13-oct-2026 · LGPL-2.1. FUTO Keyboard · futo-org/android-keyboard · ★3.357 · nacida 7-may-2024 · push 23-sep-2026 · sin licencia declarada en el censo (repo espejo del git oficial del taller).
 
 Fuente: censo vivo de la casa (5.684 repos, tarde del 15-oct-2026). Dato viaja FECHADO a esa tarde.
 
@@ -362,9 +362,9 @@ Cinco preguntas de la pieza. Las respuestas van AL REVÉS al pie (leídas de atr
 
 >>>REV>>> 1=FlorisBoard: ★8.704, Apache-2.0, push del MISMO 15-oct-2026 — el teclado comunitario de referencia
 
->>>REV>>> 2=Lawnchair (★13.713) y FUTO (★3.357): la de FUTO es repo espejo — el código oficial vive en el git del taller
+>>>REV>>> 2=Lawnchair (★13.727) y FUTO (★3.357): la de FUTO es repo espejo — el código oficial vive en el git del taller
 
->>>REV>>> 3=Kvaesitso: ★5.268 al censo, GPL-3.0, nacida el 18-sep-2021 — el lanzador-buscador
+>>>REV>>> 3=Kvaesitso: ★5.270 al censo, GPL-3.0, nacida el 18-sep-2021 — el lanzador-buscador
 
 >>>REV>>> 4=la escuela china del tecleo multilingüe: brilla con chino, japonés y las distribuciones raras
 
@@ -404,7 +404,7 @@ Monta tu escritorio una tarde. Entrena el buscador. Dale dos días al teclado. Y
  PULSO AL CORTE — 15-OCT (censo tarde, mapa vivo #10)
  30 piezas WA · CIERRE DEL BLOQUE 21-30 · censo vivo 5.684 repos
  la cara: 3 lanzadores + 2 teclados · FlorisBoard push el MISMO 15-oct-2026
- futo ★3.357 repo espejo · lawnchair ★13.713 placa en blanco marcada
+ futo ★3.357 repo espejo · lawnchair ★13.727 placa en blanco marcada
 ```
 ```
  PULSO AL CORTE — 15-OCT (segunda caja: balance del bloque 21-30)

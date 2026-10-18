@@ -1,5 +1,5 @@
 *73 — EL SALÓN DEL CUBO*
-*dolphin-emu/dolphin ★15.681 (pulso 18-oct-2026) es la era de los controles con movimiento volviendo al sofá: el GameCube y la Wii corriendo en tu caja — los discos propios volcados, el mando en la mano y el torneo del barrio en la tele (WhatsApp · La Bandita · dominicano-ES)*
+*dolphin-emu/dolphin ★15.683 (pulso 18-oct-2026) es la era de los controles con movimiento volviendo al sofá: el GameCube y la Wii corriendo en tu caja — los discos propios volcados, el mando en la mano y el torneo del barrio en la tele (WhatsApp · La Bandita · dominicano-ES)*
 
 ───────────────────
 
@@ -9,7 +9,7 @@ El salón del cubo es Dolphin: la era del cubo y la wii (los discos chiquitos de
 
 *🗺 MAPA DE ESTA GUÍA*
 
-La fila del salón (71-80) firma su tercera pieza: la era del movimiento — esta pieza septuagésimatercera trae el cubo y la wii a la caja (la tercera placa del salón: debajo del windows de la mesa ★19.519 (pulso 18-oct-2026) — por 3.838 — y encima de la bolsilla ★14.680 — por 1.001).
+La fila del salón (71-80) firma su tercera pieza: la era del movimiento — esta pieza septuagésimatercera trae el cubo y la wii a la caja (la tercera placa del salón: debajo del windows de la mesa ★19.523 (pulso 18-oct-2026) — por 3.838 — y encima de la bolsilla ★14.681 — por 1.001).
 
 El recorrido: la escena de la consola vendida (la de toda casa que creció en los 2000), el censo del cubo, las tres capas del salón, la vara de la letra propia, la doctrina del disco propio (la frontera con el robo), la receta por pisos, los mitos, las preguntas, seis casos, las despensas, los riesgos con fecha, el ritual de siete días y las cartas de la mesa.
 
@@ -27,15 +27,15 @@ Y la vara fina de la doctrina: la ley del disco propio (el juego que corre: el q
 
 El salón del cubo y su familia — las placas de la era, medidas HOY.
 
-*El salón del cubo — Dolphin.* `dolphin-emu/dolphin` ★15.681 (pulso 18-oct-2026), nacida el 22-jul-2013 (trece años de forja — la hornada del medio: más joven que el mueble padre 2010 y la bolsilla 2012, más vieja que la negra chiquita 2019).
+*El salón del cubo — Dolphin.* `dolphin-emu/dolphin` ★15.683 (pulso 18-oct-2026), nacida el 22-jul-2013 (trece años de forja — la hornada del medio: más joven que el mueble padre 2010 y la bolsilla 2012, más vieja que la negra chiquita 2019).
 
 Con aire del MISMO DÍA (push de hoy), con su letra por leer en su hogar (NOASSERTION en el índice — la firma se lee en la casa de la forja: el oficio de la 58, aplicado a las letras). La forja de la era del movimiento: el cubo y la wii en un mismo salón.
 
-*El ranking, con honestidad del censo:* el salón del cubo es LA TERCERA PLACA DEL SALÓN (★15.681, pulso 18-oct-2026: debajo del windows de la mesa ★19.519 — por 3.838 — y encima de la bolsilla ★14.680 — por 1.001 — y del mueble padre ★14.367). En el censo entero: debajo del router del aire ★28.760 (pulso 18-oct-2026).
+*El ranking, con honestidad del censo:* el salón del cubo es LA TERCERA PLACA DEL SALÓN (★15.683, pulso 18-oct-2026: debajo del windows de la mesa ★19.523 — por 3.840 — y encima de la bolsilla ★14.681 — por 1.002 — y del mueble padre ★14.370). En el censo entero: debajo del router del aire ★28.760 (pulso 18-oct-2026).
 
 La lección del censo: trece años de push constante — la forja que pulió la era completa sin apurarla. El censo no decora: mide.
 
-*La familia del salón:* el mueble padre (71: RetroArch ★14.367, pulso 18-oct-2026 — las consolas de cartucho), el windows de la mesa (72: Winlator ★19.519 — los programas), la bolsilla (74: PPSSPP ★14.680 — la era portátil), la negra chiquita (75: DuckStation ★10.856). El salón de la casa: armando por eras — una sola ley del disco propio.
+*La familia del salón:* el mueble padre (71: RetroArch ★14.370, pulso 18-oct-2026 — las consolas de cartucho), el windows de la mesa (72: Winlator ★19.523 — los programas), la bolsilla (74: PPSSPP ★14.681 — la era portátil), la negra chiquita (75: DuckStation ★10.856). El salón de la casa: armando por eras — una sola ley del disco propio.
 
 *🏛 LAS TRES CAPAS DE LA ERA DEL MOVIMIENTO*
 
@@ -133,7 +133,7 @@ Otra vara fina seria: el mando original como lujo (el control de la wii guardada
 
 Con la vara mayor: el sofá completo (el teléfono a la tele, los controles bluetooth: el torneo del sábado — sin una sola pieza nueva de guerra). La caja de la casa: basta — el gasto: en discos que faltan volcar.
 
-*¿Qué placa es la del salón del cubo — entre quiénes corre y con qué edad?* La tercera placa del salón — con vara fina: ★15.681 (pulso 18-oct-2026), debajo del windows de la mesa ★19.519 (por 3.838) y encima de la bolsilla ★14.680 (por 1.001) y del mueble padre ★14.367, y en el censo entero debajo del router ★28.760 (pulso 18-oct-2026).
+*¿Qué placa es la del salón del cubo — entre quiénes corre y con qué edad?* La tercera placa del salón — con vara fina: ★15.683 (pulso 18-oct-2026), debajo del windows de la mesa ★19.523 (por 3.840) y encima de la bolsilla ★14.681 (por 1.002) y del mueble padre ★14.370, y en el censo entero debajo del router ★28.760 (pulso 18-oct-2026).
 
 Encima la vara mayor: TRECE AÑOS de forja (2013-2026: la hornada del medio del salón — más joven que el mueble, más vieja que la negra chiquita). Su lectura fina: la forja del pulido (trece años sin apurar la era: el catálogo entero, girado y re-girado). El censo no decora: mide — y la paciencia: se mide en años.
 
@@ -167,7 +167,7 @@ La memory card: resucitada — el save de la infancia: guardado en dos discos.
 
 *🏭 LA DESPENSA DE DATOS (todo lo medido, en una repisa)*
 
-*Las placas (censo 18-oct-2026):* el salón del cubo ★15.681 — LA TERCERA PLACA DEL SALÓN (debajo del windows ★19.519 por 3.838; encima de la bolsilla ★14.680 por 1.001 y del mueble ★14.367; debajo del router ★28.760 en el censo). Letra por leer en su hogar.
+*Las placas (censo 18-oct-2026):* el salón del cubo ★15.683 — LA TERCERA PLACA DEL SALÓN (debajo del windows ★19.523 por 3.840; encima de la bolsilla ★14.681 por 1.002 y del mueble ★14.370; debajo del router ★28.760 en el censo). Letra por leer en su hogar.
 
 *La edad:* nacida el 22-jul-2013 — TRECE AÑOS de forja (la hornada del medio: entre el mueble 2010 y la negra chiquita 2019).
 
@@ -371,7 +371,7 @@ Suma la vara fina: el acta del torneo (documentada en el despacho del club: la m
 
 *Firma.* La marca criptográfica del taller en su release. La tienda legal la verifica por ti; el APK de grupo, nadie sabe quién la puso. Sin firma verificable, no hay confianza — hay fe, y la casa no trabaja con fe.
 
-*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.351, 15-oct-2026) — el mueble clásico vestido de esta década.
+*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.357, 18-oct-2026) — el mueble clásico vestido de esta década.
 
 *Etiqueta.* La información adentro del archivo de música: título, artista, álbum, número, año. El reproductor lee la etiqueta, no el nombre del archivo — peinar etiquetas es peinar la biblioteca entera.
 
@@ -383,7 +383,7 @@ Suma la vara fina: el acta del torneo (documentada en el despacho del club: la m
 
 *Scrobble.* El hábito del detective: registrar lo que suenas para amarrar historial y descubrimiento. muffon lo trae de fábrica — el reproductor que también lleva el cuaderno de campo.
 
-*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Multi-fuente.* La casa que no se casa con un río: consulta varios provedores y te sirve la versión que esté limpia. Spotube, Namida y muffon viven de esa libertad — con sus licencias mirándose dos veces.
 
@@ -455,7 +455,7 @@ Suma la vara fina: el acta del torneo (documentada en el despacho del club: la m
 
 *Coleccionista.* El que suena, guarda, etiqueta y copia. No necesita FLAC de colección para empezar: necesita la rutina — maestro en PC, copia en teléfono, lista exportada. La estructura antes que el volumen.
 
-*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Bitrate.* Los kilobits por segundo del audio: la medida de cuánto archivo pesa una canción. A más bitrate, más fidelidad hasta donde el oído y el altavoz alcancen a distinguir — el 320 del MP3 es el techo práctico del bolsillo.
 
@@ -501,7 +501,7 @@ Suma la vara fina: el acta del torneo (documentada en el despacho del club: la m
 
 *Oído del barrio.* El que escucha antes de opinar: prueba dos muebles, mira dos placas y pregunta en la fila antes de palomear. No nace sabido — se hace con una semana de ritual bien dada.
 
-Salón del cubo|Dolphin: la era del GameCube y la Wii en la caja de la casa — la tercera placa del salón (★15.681, pulso 18-oct-2026). Trece años de forja puliendo la era del movimiento.
+Salón del cubo|Dolphin: la era del GameCube y la Wii en la caja de la casa — la tercera placa del salón (★15.683, pulso 18-oct-2026). Trece años de forja puliendo la era del movimiento.
 
 Ley del chiquito|La del disco pequeño del cubo: se volca por lector específico o consola propia — la única rom que la casa firma. El tacho de los rincones: jamás.
 
@@ -635,7 +635,7 @@ Esta pieza es tu torneo de vuelta — el salón del cubo en la tele del salón, 
 
 *🪡 LA ÚLTIMA AGUJA (cosida al pie, como la casa cose)*
 
-Si esta pieza sirvió para algo más que leer, fue para esto: dejar escrito que el torneo de una familia también se hereda — dolphin-emu/dolphin ★15.681 (pulso 18-oct-2026), la tercera placa del salón, trece años de forja puliendo la era del movimiento: el cubo y la wii, de vuelta en la tele de la casa.
+Si esta pieza sirvió para algo más que leer, fue para esto: dejar escrito que el torneo de una familia también se hereda — dolphin-emu/dolphin ★15.683 (pulso 18-oct-2026), la tercera placa del salón, trece años de forja puliendo la era del movimiento: el cubo y la wii, de vuelta en la tele de la casa.
 
 La forja lo midió con el pulso de HOY y lo firma: la ley del chiquito (el disco propio, volcado con respeto), el sofá de pie con su metro (la era honrándose), el cofre del oro (saves + memory card, dos discos) — y la regla cosida: el torneo con pizarra y con acta.
 

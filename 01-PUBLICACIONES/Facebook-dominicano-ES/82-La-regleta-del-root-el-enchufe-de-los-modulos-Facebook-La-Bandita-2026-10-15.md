@@ -8,7 +8,7 @@ Abrió la fila del root II (82-95) con su placa mayor: **ZygiskNext, la regleta*
 
 ## 🗼 La fila root II al pulso (18-oct-2026)
 
-**ZygiskNext** ★10.634 · APatch ★8.069 · revanced-magisk-module ★7.691 · awesome-android-root ★5.226 · ReZygisk ★4.072 · Zygisk-Assistant ★2.643 · PixelXpert ★2.447 · MMRL ★2.209 — **43.291 estrellas**, la fila más joven de la obra (2021-2024) y de las más vivas: media fila con push de HOY.
+**ZygiskNext** ★10.634 · APatch ★8.069 · revanced-magisk-module ★7.691 · awesome-android-root ★5.227 · ReZygisk ★4.072 · Zygisk-Assistant ★2.643 · PixelXpert ★2.447 · MMRL ★2.209 — **42.992 estrellas**, la fila más joven de la obra (2021-2024) y de las más vivas: media fila con push de HOY.
 
 ## 📦 Las tres reglas de la casa enchufada
 

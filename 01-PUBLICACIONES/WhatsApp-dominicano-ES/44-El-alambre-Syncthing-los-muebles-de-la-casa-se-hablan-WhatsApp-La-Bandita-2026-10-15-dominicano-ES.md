@@ -31,7 +31,7 @@ Tres placas y una historia de relevo — la familia del alambre, medida hoy.
 
 Trece años de oficio continuo, ochenta y nueve mil firmas, y el motor que la casa entera del alambre corre por dentro — en Go, multiplataforma, y con una vara que la forja firma: la sincronía continua de verdad (los archivos viajan apenas cambian, sin botón de «subir»).
 
-*La puerta que se retiró — syncthing-android.* El wrapper oficial del Android: `syncthing/syncthing-android` ★4.286 (pulso 16-oct-2026), nacida el 22-feb-2014, bajo MPL-2.0 — y ARCHIVADA: la casa la retiró con dignidad (su último aire, finales de 2024).
+*La puerta que se retiró — syncthing-android.* El wrapper oficial del Android: `syncthing/syncthing-android` ★4.287 (pulso 18-oct-2026), nacida el 22-feb-2014, bajo MPL-2.0 — y ARCHIVADA: la casa la retiró con dignidad (su último aire, finales de 2024).
 
 La obra no borra las placas retiradas: se visitan (la 40 enseñó el oficio) — y esta firma la lección de la serie: la casa que se retira AVISA, deja el espejo en pie y no suelta el nombre a cualquiera.
 
@@ -175,7 +175,7 @@ La firma de la forja: cada calle con su alambre — la casa pa la vida, la ofici
 
 *🏭 LA DESPENSA DE DATOS (todo lo medido, en una repisa)*
 
-*El motor, por placas (censo 16-oct-2026):* el motor ★89.442 · la puerta retirada ★4.286 · el relevo ★3.076 — la placa mayor de toda la fila de REDES.
+*El motor, por placas (censo 18-oct-2026):* el motor ★89.442 · la puerta retirada ★4.287 · el relevo ★3.076 — la placa mayor de toda la fila de REDES.
 
 *El motor, por edad:* nacida el 26-nov-2013 — trece años de oficio continuo, con aire hasta AYER (push 13-oct-2026). La constancia como vara.
 
@@ -223,7 +223,7 @@ La lectura fina del parte: el relevo es la pieza más joven con aire más fresco
 
 Tres medidas finas de la noche.
 
-La primera: el peso del relevo. ★3.076 (pulso 16-oct-2026) la puerta nueva contra ★4.286 (pulso 16-oct-2026) la retirada — el heredero arranca con el 72% de la firma de la casa que duerme. La medida fina: los usuarios del fork viejo siguiendo la puerta por su nombre (Syncthing-Fork) — la confianza viaja con el oficio, no con el dueño.
+La primera: el peso del relevo. ★3.076 (pulso 18-oct-2026) la puerta nueva contra ★4.287 (pulso 18-oct-2026) la retirada — el heredero arranca con el 72% de la firma de la casa que duerme. La medida fina: los usuarios del fork viejo siguiendo la puerta por su nombre (Syncthing-Fork) — la confianza viaja con el oficio, no con el dueño.
 
 La segunda: la pirámide invertida. ★89.442 (pulso 16-oct-2026) el motor contra ★3.076 (pulso 16-oct-2026) la puerta: el 3% — la brecha más grande de la fila de REDES. La medida de la forja: en el alambre, el estrellado mide el MOTOR (el que corre en laptops, servidores y cajas del mundo entero); la puerta del bolsillo es la entrada chiquita a una casa enorme.
 
@@ -373,7 +373,7 @@ La regla del sobre: si el alambre puede vivir dentro de tu wifi, que viva dentro
 
 *Firma.* La marca criptográfica del taller en su release. La tienda legal la verifica por ti; el APK de grupo, nadie sabe quién la puso. Sin firma verificable, no hay confianza — hay fe, y la casa no trabaja con fe.
 
-*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.351, 15-oct-2026) — el mueble clásico vestido de esta década.
+*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.357, 18-oct-2026) — el mueble clásico vestido de esta década.
 
 *Etiqueta.* La información adentro del archivo de música: título, artista, álbum, número, año. El reproductor lee la etiqueta, no el nombre del archivo — peinar etiquetas es peinar la biblioteca entera.
 
@@ -385,7 +385,7 @@ La regla del sobre: si el alambre puede vivir dentro de tu wifi, que viva dentro
 
 *Scrobble.* El hábito del detective: registrar lo que suenas para amarrar historial y descubrimiento. muffon lo trae de fábrica — el reproductor que también lleva el cuaderno de campo.
 
-*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Multi-fuente.* La casa que no se casa con un río: consulta varios provedores y te sirve la versión que esté limpia. Spotube, Namida y muffon viven de esa libertad — con sus licencias mirándose dos veces.
 
@@ -457,7 +457,7 @@ La regla del sobre: si el alambre puede vivir dentro de tu wifi, que viva dentro
 
 *Coleccionista.* El que suena, guarda, etiqueta y copia. No necesita FLAC de colección para empezar: necesita la rutina — maestro en PC, copia en teléfono, lista exportada. La estructura antes que el volumen.
 
-*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Bitrate.* Los kilobits por segundo del audio: la medida de cuánto archivo pesa una canción. A más bitrate, más fidelidad hasta donde el oído y el altavoz alcancen a distinguir — el 320 del MP3 es el techo práctico del bolsillo.
 

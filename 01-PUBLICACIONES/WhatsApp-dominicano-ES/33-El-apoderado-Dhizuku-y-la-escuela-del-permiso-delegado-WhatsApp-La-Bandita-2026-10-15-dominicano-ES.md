@@ -43,7 +43,7 @@ Las placas completas, tal como el censo de la tarde y el pulso nocturno del 15-o
 
 *Dhizuku-API* — iamr0s/Dhizuku-API · ★201 (pulso 15-oct-2026) · push del 13-oct · MIT · nacida el 21-abr-2023. El idioma del apoderado: la biblioteca que los muebles integran pa hablarle a Dhizuku — once días más joven que la casa madre, con la ley MÁS abierta del censo (MIT: la biblioteca se integra hasta en proyectos que no son libres).
 
-*La madre de la escuela (frontera anotada):* Shizuku (25) — la llave de ADB, ★31.555 al censo del 15-oct-2026, quieta dieciséis meses con Apache firmado. La forja la mantiene en el acta: la escuela del permiso tiene su genealogía completa en la serie — la madre que enseñó el camino (permiso técnico prestado, control del dueño), la hija que lo lleva al permiso de apoderado.
+*La madre de la escuela (frontera anotada):* Shizuku (25) — la llave de ADB, ★31.746 al censo del 18-oct-2026, quieta dieciséis meses con Apache firmado. La forja la mantiene en el acta: la escuela del permiso tiene su genealogía completa en la serie — la madre que enseñó el camino (permiso técnico prestado, control del dueño), la hija que lo lleva al permiso de apoderado.
 
 ───────────────────
 
@@ -101,7 +101,7 @@ El teléfono administrado ajeno (el «administra este dispositivo» de las apps 
 
 La historia completa del permiso prestado en el censo de esta noche:
 
-*La generación del ADB (Shizuku, pieza 25).* El camino que abrió la escuela: el permiso técnico de ADB prestado a las apps — la llave que el taller de la pieza 09 presentó al barrio. Su acta al censo del 15-oct-2026: ★31.555, quieta dieciséis meses, Apache firmado. La madre de la escuela: el diseño (un permiso técnico, prestado con control) enseñó a todo el ecosistema.
+*La generación del ADB (Shizuku, pieza 25).* El camino que abrió la escuela: el permiso técnico de ADB prestado a las apps — la llave que el taller de la pieza 09 presentó al barrio. Su acta al censo del 18-oct-2026: ★31.746, quieta dieciséis meses, Apache firmado. La madre de la escuela: el diseño (un permiso técnico, prestado con control) enseñó a todo el ecosistema.
 
 *La generación del apoderado (Dhizuku, esta pieza).* Nacida en abril de 2023 — en pleno auge de la madre — como la escuela del PERMISO DE ADMINISTRADOR: el nivel que la llave de ADB no alcanza (congelar, desactivar, administrar).
 
@@ -225,7 +225,7 @@ Las dos placas del apoderado al 15-oct-2026, listas pa copiar y verificar:
 
 Dhizuku · iamr0s/Dhizuku · ★3.970 · nacida 10-abr-2023 · push 14-oct-2026 · GPL-3.0 · el apoderado del dispositivo delegado. Dhizuku-API · iamr0s/Dhizuku-API · ★201 · nacida 21-abr-2023 · push 13-oct-2026 · MIT · el idioma de la escuela — la biblioteca de integración.
 
-Frontera anotada: Shizuku (25) — ★31.555 al censo del 15-oct-2026, Apache-2.0, quietud de dieciséis meses: la madre de la escuela, con testamento firmado y acta viva en la serie. Lista de la escuela: ShizukuDhizuku-list (★721 al pulso del 15-oct-2026, GPL-3.0) — la familia documentada por la comunidad.
+Frontera anotada: Shizuku (25) — ★31.746 al censo del 18-oct-2026, Apache-2.0, quietud de dieciséis meses: la madre de la escuela, con testamento firmado y acta viva en la serie. Lista de la escuela: ShizukuDhizuku-list (★721 al pulso del 18-oct-2026, GPL-3.0) — la familia documentada por la comunidad.
 
 Fuente: censo vivo de la casa (5.684 repos, tarde del 15-oct-2026) + pulso nocturno con la API oficial del mismo 15-oct-2026. Dato viaja FECHADO a esa noche.
 
@@ -423,7 +423,7 @@ Esta pieza es pa el que administra (su teléfono, el del familiar, la flota del 
 
 *Firma.* La marca criptográfica del taller en su release. La tienda legal la verifica por ti; el APK de grupo, nadie sabe quién la puso. Sin firma verificable, no hay confianza — hay fe, y la casa no trabaja con fe.
 
-*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.351, 15-oct-2026) — el mueble clásico vestido de esta década.
+*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.357, 18-oct-2026) — el mueble clásico vestido de esta década.
 
 *Etiqueta.* La información adentro del archivo de música: título, artista, álbum, número, año. El reproductor lee la etiqueta, no el nombre del archivo — peinar etiquetas es peinar la biblioteca entera.
 
@@ -435,7 +435,7 @@ Esta pieza es pa el que administra (su teléfono, el del familiar, la flota del 
 
 *Scrobble.* El hábito del detective: registrar lo que suenas para amarrar historial y descubrimiento. muffon lo trae de fábrica — el reproductor que también lleva el cuaderno de campo.
 
-*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Multi-fuente.* La casa que no se casa con un río: consulta varios provedores y te sirve la versión que esté limpia. Spotube, Namida y muffon viven de esa libertad — con sus licencias mirándose dos veces.
 
@@ -507,7 +507,7 @@ Esta pieza es pa el que administra (su teléfono, el del familiar, la flota del 
 
 *Coleccionista.* El que suena, guarda, etiqueta y copia. No necesita FLAC de colección para empezar: necesita la rutina — maestro en PC, copia en teléfono, lista exportada. La estructura antes que el volumen.
 
-*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Bitrate.* Los kilobits por segundo del audio: la medida de cuánto archivo pesa una canción. A más bitrate, más fidelidad hasta donde el oído y el altavoz alcancen a distinguir — el 320 del MP3 es el techo práctico del bolsillo.
 

@@ -37,7 +37,7 @@ Y una marca de la forja antes del mapa: esta pieza NO es la diez de la fila por 
 
 *48 — EL CARGADOR.* Los gigas entre pares: LibreTorrent ★3.958 (pulso 16-oct-2026), GPL-3.0 — la puerta del bolsillo; qBittorrent ★40.846 (pulso 16-oct-2026) — el semillero de la casa. Sello `d19fd3328bf5e86c`.
 
-*49 — EL EMPUJE.* La mesa nítida: LocalSend ★94.549 (pulso 16-oct-2026), Apache-2.0 — la placa mayor de todo el censo, firmada en tres años y medio. Sello `a23b3860941c67f7`.
+*49 — EL EMPUJE.* La mesa nítida: LocalSend ★94.808 (pulso 18-oct-2026), Apache-2.0 — la placa mayor de todo el censo, firmada en tres años y medio. Sello `a23b3860941c67f7`.
 
 *50 — EL MAPA.* Esta pieza: los diez al vistazo, el orden de montaje y la temporada del aire — el cierre del bloque, con su sello propio.
 
@@ -144,7 +144,7 @@ El orden de montaje, firmado por la forja — cada semana, una faena:*
 
 *Las placas del aire (censo 16-oct-2026):* veintitrés placas vivas en las piezas 41-49 — el bloque más poblado de la obra.
 
-*La placa mayor:* LocalSend ★94.549 (pulso 16-oct-2026) (la 49) — la mayor de todo el censo; firmada en tres años y medio.
+*La placa mayor:* LocalSend ★94.808 (pulso 18-oct-2026) (la 49) — la mayor de todo el censo; firmada en tres años y medio.
 
 *La placa más vieja:* el proyecto del router — desde 2004 (la 46): veinte años de oficio continuo.
 

@@ -10,7 +10,7 @@ El traductor de lenguas es box64: los programas del mundo x86 (los hechos pa los
 
 *🗺 MAPA DE ESTA GUÍA*
 
-La fila del salón (71-80) cambia de piso con esta pieza: ya no la consola — la PLANTA ELÉCTRICA del salón — esta pieza septuagintaséptima trae el traductor que hace posible la casa (la séptima placa: debajo del cartucho eterno ★7.507 (pulso 18-oct-2026) — por 1.828 — y encima de la doble pantalla ★5.122 (pulso 18-oct-2026) — por 557). El recorrido: la escena del programa que no abre — la de toda casa con un aparato nuevo.
+La fila del salón (71-80) cambia de piso con esta pieza: ya no la consola — la PLANTA ELÉCTRICA del salón — esta pieza septuagintaséptima trae el traductor que hace posible la casa (la séptima placa: debajo del cartucho eterno ★7.508 (pulso 18-oct-2026) — por 1.828 — y encima de la doble pantalla ★5.125 (pulso 18-oct-2026) — por 557). El recorrido: la escena del programa que no abre — la de toda casa con un aparato nuevo.
 
 Sigue el censo del traductor, las tres capas de la traducción, la vara de la letra propia, la doctrina del programa legítimo (la frontera con la piratería), la receta por pisos, los mitos, las preguntas, seis casos, las despensas, los riesgos con fecha, el ritual de siete días y las cartas de la mesa.
 
@@ -25,9 +25,9 @@ El traductor y su familia — las placas de la planta del salón, medidas HOY.
 
 *El traductor de lenguas — box64.* `ptitSeb/box64` ★5.679 (pulso 18-oct-2026), nacida en 2020 (SEIS AÑOS de forja — la joven de la planta: nacida cuando el brazo ARM ya pedía programas de PC), con aire del MISMO DÍA (push de hoy), con su letra por leer en su hogar (MIT en la casa de la forja: la firma más libre del salón — se lee ANTES de montar, como manda la vara de la 58).
 
-*El ranking, con honestidad del censo:* el traductor es LA SÉPTIMA PLACA DEL SALÓN (★5.679, pulso 18-oct-2026: debajo del cartucho eterno ★7.507 (pulso 18-oct-2026) — por 1.828 — y encima de la doble pantalla ★5.122 (pulso 18-oct-2026) — por 557). En el censo entero: debajo del router del aire ★28.760 (pulso 18-oct-2026). La lección del censo: SEIS AÑOS traduciendo dos idiomas de máquina — la forja de UN hombre (la de ptitSeb: la constancia del artesano) que hoy mueve media casa. El censo no decora: mide.
+*El ranking, con honestidad del censo:* el traductor es LA SÉPTIMA PLACA DEL SALÓN (★5.679, pulso 18-oct-2026: debajo del cartucho eterno ★7.508 (pulso 18-oct-2026) — por 1.829 — y encima de la doble pantalla ★5.125 (pulso 18-oct-2026) — por 554). En el censo entero: debajo del router del aire ★28.760 (pulso 18-oct-2026). La lección del censo: SEIS AÑOS traduciendo dos idiomas de máquina — la forja de UN hombre (la de ptitSeb: la constancia del artesano) que hoy mueve media casa. El censo no decora: mide.
 
-*La familia del salón:* el mueble padre (71: RetroArch ★14.367, pulso 18-oct-2026), el windows de la mesa (72: ★19.519 — la placa mayor), el cubo (73: Dolphin ★15.681), la bolsilla (74: PPSSPP ★14.680), la negra chiquita (75: ★10.856), el cartucho eterno (76: ★7.507). Y el traductor: el que NO es consola — es la PLANTA (el que deja que las demás eras y los programas del oficio: enciendan en el brazo). El salón de la casa: con su intérprete — dos idiomas, una casa.
+*La familia del salón:* el mueble padre (71: RetroArch ★14.370, pulso 18-oct-2026), el windows de la mesa (72: ★19.523 — la placa mayor), el cubo (73: Dolphin ★15.683), la bolsilla (74: PPSSPP ★14.681), la negra chiquita (75: ★10.856), el cartucho eterno (76: ★7.508). Y el traductor: el que NO es consola — es la PLANTA (el que deja que las demás eras y los programas del oficio: enciendan en el brazo). El salón de la casa: con su intérprete — dos idiomas, una casa.
 
 =====S03=====
 *🏛 LAS TRES CAPAS DE LA TRADUCCIÓN*
@@ -128,7 +128,7 @@ Con la vara fina: el traductor de programas traduce un IDIOMA (el x86 → el ARM
 
 La pareja del salón: las dos artes del traducir — la del museo y la del oficio, la casa aprendiéndose las dos. El museo: guarda eras — el oficio: mueve la casa.
 
-*¿Qué placa es la del traductor — entre quiénes corre y con qué edad?* La séptima placa del salón — con vara fina: ★5.679 (pulso 18-oct-2026), debajo del cartucho eterno ★7.507 (por 1.828) y encima de la doble pantalla ★5.122 (por 557), debajo del router ★28.760 (pulso 18-oct-2026) en el censo. Encima la vara mayor: SEIS AÑOS de forja (2020-2026: la joven de la planta — la forja de ptitSeb), y la lectura fina: la constancia del artesano (seis años de pushes: la forja de una mano seria — el barrio: reportando). El censo no decora: mide — y seis años: la medida de la constancia.
+*¿Qué placa es la del traductor — entre quiénes corre y con qué edad?* La séptima placa del salón — con vara fina: ★5.679 (pulso 18-oct-2026), debajo del cartucho eterno ★7.508 (por 1.829) y encima de la doble pantalla ★5.125 (por 554), debajo del router ★28.760 (pulso 18-oct-2026) en el censo. Encima la vara mayor: SEIS AÑOS de forja (2020-2026: la joven de la planta — la forja de ptitSeb), y la lectura fina: la constancia del artesano (seis años de pushes: la forja de una mano seria — el barrio: reportando). El censo no decora: mide — y seis años: la medida de la constancia.
 
 *🧪 CASOS DEL BARRIO*
 
@@ -147,7 +147,7 @@ La pareja del salón: las dos artes del traducir — la del museo y la del ofici
 =====S08=====
 *🏭 LA DESPENSA DE DATOS (todo lo medido, en una repisa)*
 
-*Las placas (censo 18-oct-2026):* el traductor ★5.679 — LA SÉPTIMA PLACA DEL SALÓN (debajo del cartucho eterno ★7.507 por 1.828; encima de la doble pantalla ★5.122 por 557; debajo del router ★28.760 en el censo). Letra MIT: leer en su hogar.
+*Las placas (censo 18-oct-2026):* el traductor ★5.679 — LA SÉPTIMA PLACA DEL SALÓN (debajo del cartucho eterno ★7.508 por 1.829; encima de la doble pantalla ★5.125 por 554; debajo del router ★28.760 en el censo). Letra MIT: leer en su hogar.
 
 *La edad:* nacida en 2020 — SEIS AÑOS de forja (la joven de la planta; la forja de ptitSeb).
 
@@ -330,7 +330,7 @@ El amigo del tacho, en su oferta: «TE INSTALO EL EMULADOR CON TODO — 300 PROG
 
 >>>REV>>> Corre / pide afinar / no corre — el acta sin pena, fechada en la libreta: la planta dice lo que faena y lo que no (la confianza: sin deudas).
 
->>>REV>>> La séptima placa del salón: ★5.679 (pulso 18-oct-2026) — debajo del cartucho eterno ★7.507 (por 1.828), encima de la doble pantalla ★5.122 (por 557): SEIS AÑOS de forja (2020-2026), la de ptitSeb.
+>>>REV>>> La séptima placa del salón: ★5.679 (pulso 18-oct-2026) — debajo del cartucho eterno ★7.508 (por 1.829), encima de la doble pantalla ★5.125 (por 554): SEIS AÑOS de forja (2020-2026), la de ptitSeb.
 
 >>>REV>>> La memoria de bloques del traductor: lo ya traducido NO se retraduce — se afina con el box64rc de cada programa (SU llave), se anota con fecha y se respalda en el cofre del taller.
 

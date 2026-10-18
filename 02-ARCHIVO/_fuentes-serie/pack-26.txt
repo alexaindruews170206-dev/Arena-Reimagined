@@ -8,7 +8,7 @@
 
 Toda la serie repite una ley como un himno: *respaldo en la copia de la copia*. La biblioteca (22) la firmó, el taller (25) la rutó, el escudo (24) la presupuso. Esta pieza es donde la ley se vuelve MUEBLE: el sótano de la casa digital — el territorio de la sincronización sin nube y del respaldo cifrado, medido al censo del 15-oct-2026.
 
-Las placas de la noche: **Syncthing** — ★89.412 (censo 15-oct-2026), MPL-2.0, nacida el 26-nov-2013: LA CASA MÁS VIEJA DE TODA LA SERIE, con casi trece años empujando el 13-oct. Al lado sus guardianes: **restic** con ★36.595 y BSD firmado, y **Kopia** con ★14.360 empujando el MISMO día del censo. Y la genealogía que la noche regaló: el cliente Android oficial de Syncthing se retiró — y la línea la carga el fork de la comunidad, que este año MUDÓ de casa (de Catfriend1 a researchxxl) sin dejar de empujar un solo mes.
+Las placas de la noche: **Syncthing** — ★89.497 (censo 18-oct-2026), MPL-2.0, nacida el 26-nov-2013: LA CASA MÁS VIEJA DE TODA LA SERIE, con casi trece años empujando el 13-oct. Al lado sus guardianes: **restic** con ★36.595 y BSD firmado, y **Kopia** con ★14.360 empujando el MISMO día del censo. Y la genealogía que la noche regaló: el cliente Android oficial de Syncthing se retiró — y la línea la carga el fork de la comunidad, que este año MUDÓ de casa (de Catfriend1 a researchxxl) sin dejar de empujar un solo mes.
 
 El sótano es el territorio menos aplaudido y más decisivo de la casa digital: nadie publica su respaldo, pero el día que el teléfono se cae al piso, el sótano decide si lloras un día o lloras un año. Aquí se mide con placa, como todo en esta biblioteca.
 
@@ -57,7 +57,7 @@ Y trae la vara del oficio más pura de la serie: en el sótano NO se apuesta. El
 
 Las placas completas, tal como el censo de la tarde del 15-oct-2026 y el pulso nocturno las contestaron:
 
-*Syncthing* — syncthing/syncthing · ★89.412 (censo 15-oct-2026) · push del 13-oct · MPL-2.0 · nacida el 26-nov-2013. LA CASA MÁS VIEJA DE TODA LA SERIE: casi trece años de taller continuo. La sincronización sin nube entre tus máquinas — teléfono, PC, el jardín de la casa — de igual a igual, sin dueño intermedio. La cuarta casa más grande que la serie ha medido.
+*Syncthing* — syncthing/syncthing · ★89.497 (censo 18-oct-2026) · push del 13-oct · MPL-2.0 · nacida el 26-nov-2013. LA CASA MÁS VIEJA DE TODA LA SERIE: casi trece años de taller continuo. La sincronización sin nube entre tus máquinas — teléfono, PC, el jardín de la casa — de igual a igual, sin dueño intermedio. La cuarta casa más grande que la serie ha medido.
 
 *restic* — restic/restic · ★36.595 (pulso 15-oct-2026) · push del 11-oct · BSD-2-Clause · nacida el 27-abr-2014. El guardián de los respaldos: copias cifradas, incrementales y deduplicadas — el estándar del respaldo serio en la terminal, con doce años de oficio.
 
@@ -181,7 +181,7 @@ TRES — y la capa que la forja firma con cuidado: los forks de continuidad son 
 
 Las cuatro placas del sótano al 15-oct-2026, listas pa copiar y verificar:
 
-Syncthing · syncthing/syncthing · ★89.412 · nacida 26-nov-2013 · push 13-oct-2026 · MPL-2.0. restic · restic/restic · ★36.595 · nacida 27-abr-2014 · push 11-oct-2026 · BSD-2-Clause. Kopia · kopia/kopia · ★14.360 · nacida 19-dic-2015 · push 16-oct-2026 (mismo día del censo) · Apache-2.0. Syncthing-Fork Android · researchxxl/syncthing-android · ★3.069 · renacida 29-oct-2025 · push 14-oct-2026 · MPL-2.0 (ex Catfriend1, mudanza confirmada por redirección de la API).
+Syncthing · syncthing/syncthing · ★89.497 · nacida 26-nov-2013 · push 13-oct-2026 · MPL-2.0. restic · restic/restic · ★36.595 · nacida 27-abr-2014 · push 11-oct-2026 · BSD-2-Clause. Kopia · kopia/kopia · ★14.360 · nacida 19-dic-2015 · push 18-oct-2026 (mismo día del censo) · Apache-2.0. Syncthing-Fork Android · researchxxl/syncthing-android · ★3.069 · renacida 29-oct-2025 · push 14-oct-2026 · MPL-2.0 (ex Catfriend1, mudanza confirmada por redirección de la API).
 
 Fuente: censo vivo de la casa (5.684 repos, tarde del 15-oct-2026) + pulso nocturno con la API oficial del mismo 15-oct-2026. Dato viaja FECHADO a esa noche.
 
@@ -265,7 +265,7 @@ El balance del parte, en una línea: cuatro casas, cero en espera, cero quietude
 
 Tres medidas finas que la forja firma en voz alta.
 
-La primera: el tamaño de las casas. De ★89.412 a ★3.069 al censo del 15-oct-2026 — el sótano tiene la casa GRANDE de la serie (Syncthing compite con la élite del ecosistema entero) y su enana respetable (el fork que carga la línea de bolsillo). La lectura: el sótano es piramidal — una institución, sus guardianes medianos, y el heredero de bolsillo creciendo. La distribución de una casa con historia.
+La primera: el tamaño de las casas. De ★89.497 a ★3.069 al censo del 18-oct-2026 — el sótano tiene la casa GRANDE de la serie (Syncthing compite con la élite del ecosistema entero) y su enana respetable (el fork que carga la línea de bolsillo). La lectura: el sótano es piramidal — una institución, sus guardianes medianos, y el heredero de bolsillo creciendo. La distribución de una casa con historia.
 
 La segunda: la mezcla de leyes. MPL-2.0, BSD-2-Clause, Apache-2.0 — tres firmas, tres escuelas, cero huecos. El sótano es la cosecha más variada y mejor firmada de la serie: hasta el fork heredó su ley de la madre. La vara aplicada: en el territorio donde vive lo tuyo, hasta los contratos se cuidan más.
 
@@ -417,7 +417,7 @@ Monta tu espejo. Corre tu máquina del tiempo. Borra el archivo de prueba y mír
  PULSO AL CORTE — 15-OCT (censo tarde + pulso nocturno, mapa vivo #10)
  26 piezas WA · censo vivo 5.684 repos · syncthing casa más vieja de la serie
  nace 26 el sótano · 4 casas con placa · 3 de 4 empujaron en los últimos 4 días
- syncthing ★89.412 nacida 26-nov-2013 (casi 13 años) · push 13-oct-2026
+ syncthing ★89.497 nacida 26-nov-2013 (casi 13 años) · push 13-oct-2026
 ```
 ```
  PULSO AL CORTE — 15-OCT (segunda caja)
@@ -450,7 +450,7 @@ Abuela|La casa más vieja de la serie: Syncthing, casi trece años al corte. El 
 Ley de archivo|La firma MPL-2.0: los archivos originales siguen abiertos aunque el código se mezcle. Por eso el retiro pudo ser relevo — la puerta de la herencia viene de fábrica.
 Respaldo decorativo|La copia que se hace y nunca se prueba: el riesgo número uno del sótano. Su antídoto tiene fecha: la prueba de oro mensual.
 Parte sin grave|El balance de salud del sótano: cuatro casas, cero quietudes, cero esperas al corte. El primer territorio de la serie que respira completo — la confianza se empuja, no se declara.
-Pirámide|La distribución del sótano: la institución grande (Syncthing ★89.412 al censo del 15-oct-2026), los guardianes medianos, el heredero de bolsillo creciendo. La forma de una casa con historia.
+Pirámide|La distribución del sótano: la institución grande (Syncthing ★89.497 al censo del 18-oct-2026), los guardianes medianos, el heredero de bolsillo creciendo. La forma de una casa con historia.
 Consagración|Cómo nacen las casas del sótano: no estrenos de moda — líneas que se heredan con apellido. El territorio donde ni los nacimientos se improvisan.
 Inventario de obra|El caso del obrero: las fotos que cobran contratos protegidas del teléfono que muere cada año. Cambiar de guante sin perder la mano.
 Despensa del negocio|El caso de las hermanas: la carpeta compartida que termina la guerra de las versiones. La copia que pelea, cuesta ventas — la que abraza, las trae.

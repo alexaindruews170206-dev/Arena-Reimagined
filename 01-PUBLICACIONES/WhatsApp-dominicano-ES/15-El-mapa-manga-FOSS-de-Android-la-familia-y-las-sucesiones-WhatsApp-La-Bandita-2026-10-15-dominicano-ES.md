@@ -66,7 +66,7 @@
 
 Esta pieza nace de DOS hallazgos del dueño de la casa en una ojeada de tarde, y de una orden que cambió el método de la biblioteca entera: «familias adaptativas en cada contexto». La casa venía escribiendo guías de UNA pieza por vez; el dueño miró la cuadra y vio lo que la casa tenía delante y no había nombrado: no hay UN lector de manga libre — hay una FAMILIA, con su abuela, sus herederos, sus rencillas de herencia y sus primos lejanos.
 
-El primer hallazgo fue Kiroku (Nahiro18/Kiroku, ★13 al censo del 15-oct-2026): su portada lo dice sin rodeos, «fork of ReDantotsu». La casa tiró del hilo como manda la vara: ReDantotsu (★153) se presenta como «Remake» del original Dantotsu; y Dantotsu desciende a su vez de Saikou, una abuela de la escena. Tres generaciones en un solo hallazgo de ojeada: la sucesión de calle otra vez, igual que la calle DSU de la pieza 14. El dueño encuentra sucesiones como otros encuentran setas.
+El primer hallazgo fue Kiroku (Nahiro18/Kiroku, ★14 al censo del 15-oct-2026): su portada lo dice sin rodeos, «fork of ReDantotsu». La casa tiró del hilo como manda la vara: ReDantotsu (★153) se presenta como «Remake» del original Dantotsu; y Dantotsu desciende a su vez de Saikou, una abuela de la escena. Tres generaciones en un solo hallazgo de ojeada: la sucesión de calle otra vez, igual que la calle DSU de la pieza 14. El dueño encuentra sucesiones como otros encuentran setas.
 
 El segundo hallazgo fue Wammy (kainotch/Wammy, ★6, nacido en agosto de 2026): «lector libre de manga y novelas para Android», Apache-2.0 limpio, con lanzamiento del 14-oct. Un recién llegado sin herencia que reclamar, sin licencia incierta: el contraste perfecto para enseñar qué distingue a un novato sano de un re-brandeo con herencia oscura — porque esta familia, como toda familia grande, también tiene sus papeles raros.
 
@@ -92,7 +92,7 @@ CALLE 2 — LA SAGA DANTOTSU (lectores anime+manga con pedigree):
 · itsmechinmoy/Dantotsu: ★82 · push 14-oct · rel v3.2.2 (14-oct) — la línea de vida del nombre original, sostenida al 15-oct-2026 por su mantenedor activo.
 · itsmechinmoy/dantotsu-updater: ★150 · push 14-oct — el mayordomo de builds del nombre.
 · AsrOfficialDev/ReDantotsu: ★153 · push 18-ago · rel v1.0.7 (26-jun) — el «Remake» (cocina quieta dos meses: vigilada).
-· Nahiro18/Kiroku: ★13 · push 12-oct · rel v1.1.94 (12-oct) — HALLAZGO DEL DUEÑO: la rama más fresca de la saga (licencia NOASSERTION: la vara baja aquí, sección de costado).
+· Nahiro18/Kiroku: ★14 · push 12-oct · rel v1.1.94 (12-oct) — HALLAZGO DEL DUEÑO: la rama más fresca de la saga (licencia NOASSERTION: la vara baja aquí, sección de costado).
 · aayush2622/Dartotsu: ★479 · push 15-oct · rel v1.0.0 (24-jul) — el primo multiplataforma de la saga.
 · Y el papelero de la familia: Re-zorotsu (★0 al 15-oct), «rebranded de ReDantotsu» — existir existe; la vara ya dijo lo suyo.
 

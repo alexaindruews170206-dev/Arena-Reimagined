@@ -1,5 +1,5 @@
 *78 — LA DOBLE PANTALLA*
-*melonDS-emu/melonDS ★5.122 (pulso 18-oct-2026) es la era del DS de vuelta en una sola pantalla: los dos cristales de la infancia corriendo en la tele o en la caja que ya llevas — la consola de las dos pantallas y el lápiz, resucitada con precisión de bit (WhatsApp · La Bandita · dominicano-ES)*
+*melonDS-emu/melonDS ★5.125 (pulso 18-oct-2026) es la era del DS de vuelta en una sola pantalla: los dos cristales de la infancia corriendo en la tele o en la caja que ya llevas — la consola de las dos pantallas y el lápiz, resucitada con precisión de bit (WhatsApp · La Bandita · dominicano-ES)*
 
 ───────────────────
 
@@ -9,7 +9,7 @@ La doble pantalla es melonDS: los juegos del Nintendo DS (la consola que abría 
 
 *🗺 MAPA DE ESTA GUÍA*
 
-La fila del salón (71-80) firma su octava pieza: la era del libro abierto — esta pieza septuagintaoctava trae el DS a la casa (la octava placa: debajo del traductor ★5.679 (pulso 18-oct-2026) — por 557 — y encima de los relatos ★2.858 (pulso 18-oct-2026) — por 2.264).
+La fila del salón (71-80) firma su octava pieza: la era del libro abierto — esta pieza septuagintaoctava trae el DS a la casa (la octava placa: debajo del traductor ★5.679 (pulso 18-oct-2026) — por 557 — y encima de los relatos ★2.860 (pulso 18-oct-2026) — por 2.264).
 
 El recorrido: la escena del libro que se abría (la de toda casa que sopló el micrófono), el censo de la doble, las tres capas del libro, la vara de la letra propia, la doctrina del cartucho propio leído (la frontera con el robo), la receta por pisos, los mitos, las preguntas, seis casos, las despensas, los riesgos con fecha, el ritual de siete días y las cartas de la mesa.
 
@@ -29,15 +29,15 @@ Y el juego que corre: el que la casa VUELCA (el cartucho propio en SU lector: la
 
 La doble y su familia — las placas de la era del libro, medidas HOY.
 
-*La doble pantalla — melonDS.* `melonDS-emu/melonDS` ★5.122 (pulso 18-oct-2026).
+*La doble pantalla — melonDS.* `melonDS-emu/melonDS` ★5.125 (pulso 18-oct-2026).
 
 Nacida en 2016 (DIEZ AÑOS de forja — la forja del detalle fino: más joven que el mueble padre, más vieja que la negra chiquita). Con aire del MISMO DÍA (push de hoy). Con su letra por leer en su hogar (GPL-3.0 en la casa de la forja: la firma fuerte de la escuela — se lee ANTES de montar, como manda la vara de la 58).
 
-*El ranking, con honestidad del censo:* la doble es LA OCTAVA PLACA DEL SALÓN (★5.122, pulso 18-oct-2026: debajo del traductor ★5.679 (pulso 18-oct-2026) — por 557 — y encima de los relatos ★2.858 (pulso 18-oct-2026) — por 2.264). En el censo entero: debajo del router del aire ★28.760 (pulso 18-oct-2026).
+*El ranking, con honestidad del censo:* la doble es LA OCTAVA PLACA DEL SALÓN (★5.125, pulso 18-oct-2026: debajo del traductor ★5.679 (pulso 18-oct-2026) — por 554 — y encima de los relatos ★2.860 (pulso 18-oct-2026) — por 2.265). En el censo entero: debajo del router del aire ★28.760 (pulso 18-oct-2026).
 
 La lección del censo: DIEZ AÑOS puliendo UNA consola de dos pantallas — la forja del detalle fino (el wifi local de la era: resucitado). El censo no decora: mide.
 
-*La familia del salón:* el mueble padre (71: RetroArch ★14.367, pulso 18-oct-2026), el windows de la mesa (72: ★19.519 — la placa mayor), el cubo (73: Dolphin ★15.681), la bolsilla (74: PPSSPP ★14.680), la negra chiquita (75: ★10.856), el cartucho eterno (76: ★7.507), el traductor (77: ★5.679). Y la doble: la era del libro — las dos pantallas, en una.
+*La familia del salón:* el mueble padre (71: RetroArch ★14.370, pulso 18-oct-2026), el windows de la mesa (72: ★19.523 — la placa mayor), el cubo (73: Dolphin ★15.683), la bolsilla (74: PPSSPP ★14.681), la negra chiquita (75: ★10.856), el cartucho eterno (76: ★7.508), el traductor (77: ★5.679). Y la doble: la era del libro — las dos pantallas, en una.
 
 El salón de la casa: con su piso de libro — la era que se abría como cuento.
 
@@ -141,7 +141,7 @@ Con la vara fina: la honestidad del oro (lo intercambiado: respaldado al cofre �
 
 Suma la vara fina: la mezcla fina (el juego del intercambio: mando pa jugar, toque pa el menú — la casa: mezclando como pida). La mano: manda — el lápiz: jubilándose con honor.
 
-*¿Qué placa es la de la doble — entre quiénes corre y con qué edad?* La octava placa del salón — con vara fina: ★5.122 (pulso 18-oct-2026), debajo del traductor ★5.679 (por 557) y encima de los relatos ★2.858 (por 2.264), debajo del router ★28.760 (pulso 18-oct-2026) en el censo.
+*¿Qué placa es la de la doble — entre quiénes corre y con qué edad?* La octava placa del salón — con vara fina: ★5.125 (pulso 18-oct-2026), debajo del traductor ★5.679 (por 554) y encima de los relatos ★2.860 (por 2.265), debajo del router ★28.760 (pulso 18-oct-2026) en el censo.
 
 Encima la vara mayor: DIEZ AÑOS de forja (2016-2026: la forja del detalle fino — nacida cuando la negra era recién nacida), y la lectura fina: la forja del libro (diez años puliendo las dos pantallas y el wifi: el detalle — como oficio). El censo no decora: mide — y diez años: la medida del detalle.
 
@@ -175,7 +175,7 @@ Montaje: el cofre ordenado (carpetas por gente: los del hermano, los del hijo), 
 
 *🏭 LA DESPENSA DE DATOS (todo lo medido, en una repisa)*
 
-*Las placas (censo 18-oct-2026):* la doble ★5.122 — LA OCTAVA PLACA DEL SALÓN (debajo del traductor ★5.679 por 557; encima de los relatos ★2.858 por 2.264; debajo del router ★28.760 en el censo). Letra GPL-3.0: leer en su hogar.
+*Las placas (censo 18-oct-2026):* la doble ★5.125 — LA OCTAVA PLACA DEL SALÓN (debajo del traductor ★5.679 por 554; encima de los relatos ★2.860 por 2.265; debajo del router ★28.760 en el censo). Letra GPL-3.0: leer en su hogar.
 
 *La edad:* nacida en 2016 — DIEZ AÑOS de forja (la forja del detalle fino; más joven que el mueble, más vieja que la negra).
 
@@ -381,7 +381,7 @@ La otra vara fina: el aparato del libro (si la casa puede: SU aparato pa el jueg
 
 *Firma.* La marca criptográfica del taller en su release. La tienda legal la verifica por ti; el APK de grupo, nadie sabe quién la puso. Sin firma verificable, no hay confianza — hay fe, y la casa no trabaja con fe.
 
-*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.351, 15-oct-2026) — el mueble clásico vestido de esta década.
+*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.357, 18-oct-2026) — el mueble clásico vestido de esta década.
 
 *Etiqueta.* La información adentro del archivo de música: título, artista, álbum, número, año. El reproductor lee la etiqueta, no el nombre del archivo — peinar etiquetas es peinar la biblioteca entera.
 
@@ -393,7 +393,7 @@ La otra vara fina: el aparato del libro (si la casa puede: SU aparato pa el jueg
 
 *Scrobble.* El hábito del detective: registrar lo que suenas para amarrar historial y descubrimiento. muffon lo trae de fábrica — el reproductor que también lleva el cuaderno de campo.
 
-*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Multi-fuente.* La casa que no se casa con un río: consulta varios provedores y te sirve la versión que esté limpia. Spotube, Namida y muffon viven de esa libertad — con sus licencias mirándose dos veces.
 
@@ -465,7 +465,7 @@ La otra vara fina: el aparato del libro (si la casa puede: SU aparato pa el jueg
 
 *Coleccionista.* El que suena, guarda, etiqueta y copia. No necesita FLAC de colección para empezar: necesita la rutina — maestro en PC, copia en teléfono, lista exportada. La estructura antes que el volumen.
 
-*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Bitrate.* Los kilobits por segundo del audio: la medida de cuánto archivo pesa una canción. A más bitrate, más fidelidad hasta donde el oído y el altavoz alcancen a distinguir — el 320 del MP3 es el techo práctico del bolsillo.
 
@@ -511,7 +511,7 @@ La otra vara fina: el aparato del libro (si la casa puede: SU aparato pa el jueg
 
 *Oído del barrio.* El que escucha antes de opinar: prueba dos muebles, mira dos placas y pregunta en la fila antes de palomear. No nace sabido — se hace con una semana de ritual bien dada.
 
-Doble pantalla|melonDS: la era del DS en una pantalla — la octava placa del salón (★5.122, pulso 18-oct-2026). Diez años de forja resucitando el libro.
+Doble pantalla|melonDS: la era del DS en una pantalla — la octava placa del salón (★5.125, pulso 18-oct-2026). Diez años de forja resucitando el libro.
 
 Ley del libro propio|La del cartucho del DS: se lee con SU lector fino (la tarde del cajón) — la única rom que la casa reconoce. El «todo incluido» del tacho: jamás.
 
@@ -665,7 +665,7 @@ Otra vara fina: el cofre del oro social (los saves del recreo: respaldados con p
 
 *🪡 LA ÚLTIMA AGUJA (cosida al pie, como la casa cose)*
 
-Si esta pieza sirvió para algo más que leer, fue para esto: dejar escrito que el recreo de una casa también se hereda — melonDS-emu/melonDS ★5.122 (pulso 18-oct-2026), la octava placa del salón, diez años de forja resucitando la era del libro: los cartuchos del cajón, de vuelta en la pantalla.
+Si esta pieza sirvió para algo más que leer, fue para esto: dejar escrito que el recreo de una casa también se hereda — melonDS-emu/melonDS ★5.125 (pulso 18-oct-2026), la octava placa del salón, diez años de forja resucitando la era del libro: los cartuchos del cajón, de vuelta en la pantalla.
 
 La forja lo midió con el pulso de HOY y lo firma: la ley del cartucho propio (el juego del cajón, leído con respeto), el libro acomodado al gusto (las dos pantallas: viviendo en una), el wifi local vivo — y la regla cosida: el oro social, sagrado.
 

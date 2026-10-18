@@ -27,17 +27,17 @@ La pared de la casa: con su mapa — el salón, medido y en pie.
 
 El mapa completo — las diez placas de la fila 71-80, medidas HOY y contadas por edad.
 
-*Las placas del salón, de mayor a menor estrella:* el windows de la mesa (72: Winlator ★19.519, pulso 18-oct-2026, 26-jul-2023), el cubo (73: Dolphin ★15.681, pulso 18-oct-2026, 22-jul-2013), la bolsilla (74: PPSSPP ★14.680, pulso 18-oct-2026, 1-nov-2012), el mueble padre (71: RetroArch ★14.367, pulso 18-oct-2026, 27-may-2010).
+*Las placas del salón, de mayor a menor estrella:* el windows de la mesa (72: Winlator ★19.523, pulso 18-oct-2026, 26-jul-2023), el cubo (73: Dolphin ★15.683, pulso 18-oct-2026, 22-jul-2013), la bolsilla (74: PPSSPP ★14.681, pulso 18-oct-2026, 1-nov-2012), el mueble padre (71: RetroArch ★14.370, pulso 18-oct-2026, 27-may-2010).
 
-Sigue la negra chiquita (75: DuckStation ★10.856, pulso 18-oct-2026, 9-sep-2019). Sigue el cartucho eterno (76: mGBA ★7.507, pulso 18-oct-2026, 2013), el traductor (77: box64 ★5.679, pulso 18-oct-2026, 2020).
+Sigue la negra chiquita (75: DuckStation ★10.856, pulso 18-oct-2026, 9-sep-2019). Sigue el cartucho eterno (76: mGBA ★7.508, pulso 18-oct-2026, 2013), el traductor (77: box64 ★5.679, pulso 18-oct-2026, 2020).
 
-Siguen la doble pantalla (78: melonDS ★5.122, pulso 18-oct-2026, 2016), los relatos (79: ScummVM ★2.858, pulso 18-oct-2026, 2001) con su horno (DOSBox Staging ★1.815, pulso 18-oct-2026) — y el mapa (esta pieza: el censo mismo).
+Siguen la doble pantalla (78: melonDS ★5.125, pulso 18-oct-2026, 2016), los relatos (79: ScummVM ★2.860, pulso 18-oct-2026, 2001) con su horno (DOSBox Staging ★1.817, pulso 18-oct-2026) — y el mapa (esta pieza: el censo mismo).
 
 *Las edades del salón, de vieja a joven:* los relatos (25 años), el mueble padre (16), la bolsilla (14), el cubo y el cartucho (13 gemelas), la doble (10), la negra (7), el traductor (6), el windows (3). La lección del censo: la forja MAYOR del salón (los relatos, 2001) es anterior a TODAS las consolas del mueble — la biblioteca: más vieja que el mueble.
 
 El censo no decora: mide.
 
-*Las restas del salón (verificadas en el pulso del 18-oct-2026):* 19.519−15.681=3.838 · 15.681−14.680=1.001 · 14.680−14.367=313 · 10.856−7.507=3.349 · 7.507−5.679=1.828 · 5.679−5.122=557 · 5.122−2.858=2.264 · 2.858−1.815=1.043. Las nueve forjas de la fila suman 96.269 estrellas — y con el horno del DOS (DOSBox Staging ★1.815, pulso 18-oct-2026): 98.084.
+*Las restas del salón (verificadas en el pulso del 18-oct-2026):* 19.519−15.681=3.838 · 15.681−14.680=1.001 · 14.680−14.367=313 · 10.856−7.507=3.349 · 7.507−5.679=1.828 · 5.679−5.122=557 · 5.122−2.858=2.264 · 2.858−1.815=1.043 Las nueve forjas de la fila suman 96.285 estrellas — y con el horno del DOS (DOSBox Staging ★1.817, pulso 18-oct-2026): 98.102.
 
 La fila entera: un salón de forja seria.
 
@@ -61,7 +61,7 @@ La vara fina: la pizarra de la casa (las cuatro leyes: escritas junto a la tele 
 
 *La letra por leer en su hogar.* La letra del salón (las nueve forjas: GPL-3.0, LGPL-2.1, MIT, MPL-2.0, BSD-3, NOASSERTION-por-leer — SU firma leyéndose ANTES de montar cada placa: la vara de la 58, mandando en toda la fila).
 
-La lectura fina del oficio: 96.269 estrellas de código público (las diez placas del salón: cada una, examinada por el barrio del mundo — la forja seria: mostrada en la forja).
+La lectura fina del oficio: 96.285 estrellas de código público (las diez placas del salón: cada una, examinada por el barrio del mundo — la forja seria: mostrada en la forja).
 
 La vara fina del mapa: la letra de cada FORJA es SUya — los juegos: de cada casa (la ley del juego propio, por encima de todo salón). Las forjas: de la escuela pública — las eras: de la familia.
 
@@ -143,7 +143,7 @@ La otra vara fina seria: el perfil por gente manda (saves con nombre — sin mez
 
 Encima la vara mayor: la gira compartida (la tarde del salón: la familia revisando junta — el mapa: criando la casa). El salón: de todos — el save: de cada quien.
 
-*¿Qué deja el mapa enseñando de la fila 71-80?* La constancia medida — con vara fina: el censo del 18-oct-2026 (96.269 estrellas en las nueve forjas: la forja seria — vieja y joven, empujando HOY).
+*¿Qué deja el mapa enseñando de la fila 71-80?* La constancia medida — con vara fina: el censo del 18-oct-2026 (96.285 estrellas en las nueve forjas: la forja seria — vieja y joven, empujando HOY).
 
 Otra vara fina: las edades del salón (los relatos con 25 años: la forja mayor — el windows con 3: la joven del salón; TODAS: con push vivo).
 
@@ -181,7 +181,7 @@ El mapa se hereda en familia — el salón: de la casa, pa la casa.
 
 *🏭 LA DESPENSA DE DATOS (todo lo medido, en una repisa)*
 
-*Las placas (censo 18-oct-2026):* Winlator ★19.519 · Dolphin ★15.681 · PPSSPP ★14.680 · RetroArch ★14.367 · DuckStation ★10.856 · mGBA ★7.507 · box64 ★5.679 · melonDS ★5.122 · ScummVM ★2.858 · DOSBox Staging ★1.815 — 96.269 estrellas de forja seria.
+*Las placas (censo 18-oct-2026):* Winlator ★19.523 · Dolphin ★15.683 · PPSSPP ★14.681 · RetroArch ★14.370 · DuckStation ★10.856 · mGBA ★7.508 · box64 ★5.679 · melonDS ★5.125 · ScummVM ★2.860 · DOSBox Staging ★1.817 — 96.285 estrellas de forja seria.
 
 *Las edades:* relatos 25 · mueble 16 · bolsilla 14 · cubo 13 · cartucho 13 · doble 10 · negra 7 · traductor 6 · windows 3 — TODAS con push vivo.
 
@@ -209,7 +209,7 @@ No dice que instales las diez — dice la regla del mes: el mapa mide — la cas
 
 No dice que el desorden sea cantidad — dice la prueba del invitado: el orden es MAPA — cada era en SU lugar, cada placa con SU ley.
 
-No dice que el censo sea adorno — dice la vara del censo: 96.319 estrellas y las edades medidas — la constancia: respetándose.
+No dice que el censo sea adorno — dice la vara del censo: 96.285 estrellas y las edades medidas — la constancia: respetándose.
 
 No dice que una placa sea poco — dice la casa de una era: SU mapa de una placa, en pie — el mapa: mide, jamás obliga.
 
@@ -217,7 +217,7 @@ No dice que el salón se termine — dice el mapa vivo: la gira re-pulsando, las
 
 *🩺 LA SALUD DEL SALÓN AL CORTE (el parte del mapa)*
 
-El parte del 18-oct-2026: las diez placas con aire de HOY (la fila entera: empujando), las letras leyéndose en sus hogares (la vara de la 58: mandando en las nueve forjas), 96.269 estrellas de forja seria girando en las casas del barrio.
+El parte del 18-oct-2026: las diez placas con aire de HOY (la fila entera: empujando), las letras leyéndose en sus hogares (la vara de la 58: mandando en las nueve forjas), 96.285 estrellas de forja seria girando en las casas del barrio.
 
 Su lectura fina del parte: el salón de la fila al corte (un cuarto de siglo de forja: cada placa, examinada por el barrio del mundo — las edades: medidas, las restas: verificadas) — la fila 71-80: la generación más completa del salón. La salud del mapa: la de las casas con ley — el salón: medido, no amontonado.
 
@@ -281,7 +281,7 @@ Encima la vara mayor: el mapa heredándose (el salón de tres generaciones: la p
 
 *🪧 EL CARTEL DEL MAPA*
 
-*El salón de la casa, medido como gente — diez placas, 96.319 estrellas y un cuarto de siglo de forja en la pared.*
+*El salón de la casa, medido como gente — diez placas, 96.285 estrellas y un cuarto de siglo de forja en la pared.*
 
 *Un núcleo por era — el mapa mide, la casa decide: el teléfono con lo que se juega, el resto al cofre.*
 
@@ -295,7 +295,7 @@ Encima la vara mayor: el mapa heredándose (el salón de tres generaciones: la p
 
 El fanático del teléfono, presumiendo: «TENGO 16 EMULADORES INSTALADOS — MI SALÓN ES COMPLETO». El mapa de la casa, en su silencio: «Yo mido — y tu teléfono tiene un depósito con cuatro partidas jugadas en 2023».
 
-La pared de la casa: diez placas (bueno, las seis que esta casa juega: el mapa mide, no obliga), el cofre maestro con póliza, la pizarra con las cuatro leyes y la gira del primer domingo. Eso no lo firma la acumulación: lo firman 96.269 estrellas de forja seria — y la tarde de la verdad, jugándose una vez y pagando pa siempre.
+La pared de la casa: diez placas (bueno, las seis que esta casa juega: el mapa mide, no obliga), el cofre maestro con póliza, la pizarra con las cuatro leyes y la gira del primer domingo. Eso no lo firma la acumulación: lo firman 96.285 estrellas de forja seria — y la tarde de la verdad, jugándose una vez y pagando pa siempre.
 
 *⚠ LOS RIESGOS DEL MAPA, CON FECHA*
 
@@ -383,7 +383,7 @@ Otra vara fina: la puerta del cofre (la placa dormida: esperando SU tarde — el
 
 *Firma.* La marca criptográfica del taller en su release. La tienda legal la verifica por ti; el APK de grupo, nadie sabe quién la puso. Sin firma verificable, no hay confianza — hay fe, y la casa no trabaja con fe.
 
-*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.351, 15-oct-2026) — el mueble clásico vestido de esta década.
+*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.357, 18-oct-2026) — el mueble clásico vestido de esta década.
 
 *Etiqueta.* La información adentro del archivo de música: título, artista, álbum, número, año. El reproductor lee la etiqueta, no el nombre del archivo — peinar etiquetas es peinar la biblioteca entera.
 
@@ -395,7 +395,7 @@ Otra vara fina: la puerta del cofre (la placa dormida: esperando SU tarde — el
 
 *Scrobble.* El hábito del detective: registrar lo que suenas para amarrar historial y descubrimiento. muffon lo trae de fábrica — el reproductor que también lleva el cuaderno de campo.
 
-*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Multi-fuente.* La casa que no se casa con un río: consulta varios provedores y te sirve la versión que esté limpia. Spotube, Namida y muffon viven de esa libertad — con sus licencias mirándose dos veces.
 
@@ -467,7 +467,7 @@ Otra vara fina: la puerta del cofre (la placa dormida: esperando SU tarde — el
 
 *Coleccionista.* El que suena, guarda, etiqueta y copia. No necesita FLAC de colección para empezar: necesita la rutina — maestro en PC, copia en teléfono, lista exportada. La estructura antes que el volumen.
 
-*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Bitrate.* Los kilobits por segundo del audio: la medida de cuánto archivo pesa una canción. A más bitrate, más fidelidad hasta donde el oído y el altavoz alcancen a distinguir — el 320 del MP3 es el techo práctico del bolsillo.
 
@@ -537,7 +537,7 @@ Prueba de la prima|La del teléfono muerto: las apps re-bajándose en una tarde,
 
 Espejo del salón|El del mapa: la única pieza que no corre na — midiendo. La casa — mirándose jugar; el salón — armado según lo que juega.
 
-96.319 estrellas|La suma del salón: las diez placas del censo del 18-oct-2026 — la forja seria medida. El censo — no decora: mide.
+96.285 estrellas|La suma del salón: las diez placas del censo del 18-oct-2026 — la forja seria medida. El censo — no decora: mide.
 
 Fila cerrada|La de los emuladores: diez placas nacidas, medidas y citadas — 71-80 en pie. La casa — no improvisa: arma el salón por eras.
 
@@ -615,7 +615,7 @@ Apéndice B — las cinco preguntas del mostrador, en una línea. ¿Qué hace? M
 
 El mapa cambia con la casa: la era que muere al cofre, la que nace — con ley.
 
-Apéndice C — la página en blanco. La que la forja deja abierta a propósito: ¿qué eras juega TU casa de verdad — y cuántas apps dormidas tiene el teléfono HOY? Esa respuesta — la tuya, fechada — vale más que 96.269 estrellas: es la vara midiendo tu salón. La obra no termina en la lectura: termina cuando la pared de tu sala, tiene SU mapa.
+Apéndice C — la página en blanco. La que la forja deja abierta a propósito: ¿qué eras juega TU casa de verdad — y cuántas apps dormidas tiene el teléfono HOY? Esa respuesta — la tuya, fechada — vale más que 96.285 estrellas: es la vara midiendo tu salón. La obra no termina en la lectura: termina cuando la pared de tu sala, tiene SU mapa.
 
 Apéndice D — la sala de los errores. Las tres fallas posibles y su salida. Si el inventario incomoda (la tarde de la verdad pesando): la verdad por tandas (una era por tarde: el mapa — dibujándose sin prisa). Si el cofre maestro se descuadra (las carpetas mezcladas): el confesorio del oro mandando (cada era, cada gente: SU carpeta — la gira lo revisa).
 
@@ -665,11 +665,11 @@ Con vara fina: la lección de la prima (el teléfono muerto del caso: sus saves 
 
 *🪡 LA ÚLTIMA AGUJA (cosida al pie, como la casa cose)*
 
-Si esta pieza sirvió para algo más que leer, fue para esto: dejar escrito que el salón de una casa se mide antes de jugarse — la fila 71-80 completa: 96.269 estrellas (pulso 18-oct-2026), diez placas y un cuarto de siglo de forja — la pared del salón: midiendo HOY.
+Si esta pieza sirvió para algo más que leer, fue para esto: dejar escrito que el salón de una casa se mide antes de jugarse — la fila 71-80 completa: 96.285 estrellas (pulso 18-oct-2026), diez placas y un cuarto de siglo de forja — la pared del salón: midiendo HOY.
 
 La forja lo midió con el pulso de HOY y lo firma: un núcleo por era (el mapa mide — la casa decide), el cofre maestro (el oro de todas las eras: UNO, con póliza), las cuatro leyes en la pizarra — y la regla cosida: el censo, siempre HOY.
 
-Haz la tarde de la verdad. Arma el cofre maestro. Escribe la pizarra. Y cuando presumas tu salón, que sea como la casa: con mapa, con ley y con gira — porque un salón no se amontona: se mide, se respalda y se juega en familia. Eso no lo firma la acumulación: lo firman 96.269 estrellas de forja seria — y la fila 71-80 entera, empujando HOY.
+Haz la tarde de la verdad. Arma el cofre maestro. Escribe la pizarra. Y cuando presumas tu salón, que sea como la casa: con mapa, con ley y con gira — porque un salón no se amontona: se mide, se respalda y se juega en familia. Eso no lo firma la acumulación: lo firman 96.285 estrellas de forja seria — y la fila 71-80 entera, empujando HOY.
 
 ───────────────────
 

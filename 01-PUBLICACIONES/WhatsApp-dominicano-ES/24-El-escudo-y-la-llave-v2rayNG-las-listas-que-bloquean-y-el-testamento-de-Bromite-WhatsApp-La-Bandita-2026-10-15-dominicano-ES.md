@@ -37,17 +37,17 @@ Las placas completas, tal como el censo de la tarde del 15-oct-2026 las contest�
 
 *v2rayNG* — 2dust/v2rayNG · ★64.031 (censo 15-oct-2026) · push del 11-oct · GPL-3.0 · nacida el 15-may-2019. El gigante de la cosecha: siete años de taller y sesenta y cuatro mil aplausos. Cliente Android de la familia de protocolos V2Ray — la llave de la escuela del camino cifrado, y la casa más grande que la serie ha medido hasta hoy junto al MCP de la pieza 19.
 
-*Lanterna de papel — lantern* — getlantern/lantern · ★16.300 (censo 15-oct-2026) · push del MISMO día del censo · GPL-3.0 · nacida el 17-feb-2011. QUINCE AÑOS de taller: la casa más vieja que esta serie ha censado jamás. Nació cuando el teléfono inteligente apenas balbuceaba — y su push del 15-oct-2026 dice lo que mil discursos no pueden: sigue viva.
+*Lanterna de papel — lantern* — getlantern/lantern · ★16.406 (censo 18-oct-2026) · push del MISMO día del censo · GPL-3.0 · nacida el 17-feb-2011. QUINCE AÑOS de taller: la casa más vieja que esta serie ha censado jamás. Nació cuando el teléfono inteligente apenas balbuceaba — y su push del 18-oct-2026 dice lo que mil discursos no pueden: sigue viva.
 
-*Lista-escudo Shadowrocket* — Johnshall/Shadowrocket-ADBlock-Rules-Forever · ★31.221 (censo 15-oct-2026) · push del 14-oct · sin licencia declarada en el censo · nacida el 6-dic-2021. La forja la mide como lo que es: una ESTANTERÍA de reglas de bloqueo — no un mueble.
+*Lista-escudo Shadowrocket* — Johnshall/Shadowrocket-ADBlock-Rules-Forever · ★31.302 (censo 18-oct-2026) · push del 14-oct · sin licencia declarada en el censo · nacida el 6-dic-2021. La forja la mide como lo que es: una ESTANTERÍA de reglas de bloqueo — no un mueble.
 
 Su placa sin firma es exactamente el tipo de detalle que esta pieza te enseña a mirar: útil y famosa, sí; con testamento, no.
 
-*Bromite* — bromite/bromite · ★6.324 (censo 15-oct-2026) · push del 24-ene-2024 · GPL-3.0 · nacida el 11-oct-2017. EL ACTIVO DE ESTA PIEZA: el navegador anti-anuncios que quedó quieto hace dos años y nueve meses — y cuya quietud es la lección más noble del censo. Su acta completa y su heredero viven más abajo.
+*Bromite* — bromite/bromite · ★6.322 (censo 18-oct-2026) · push del 24-ene-2024 · GPL-3.0 · nacida el 11-oct-2017. EL ACTIVO DE ESTA PIEZA: el navegador anti-anuncios que quedó quieto hace dos años y nueve meses — y cuya quietud es la lección más noble del censo. Su acta completa y su heredero viven más abajo.
 
-*LibRedirect* — libredirect/browser_extension · ★4.079 (censo 15-oct-2026) · push del 12-oct · GPL-3.0 · nacida el 3-dic-2021. La extensión que redirige tus enlaces de plataformas hacia sus frontends amables (casa de la pieza 16): el escudo del NAVEGADOR — donde el link tóxico se convierte en puerta limpia antes de abrir.
+*LibRedirect* — libredirect/browser_extension · ★4.081 (censo 18-oct-2026) · push del 12-oct · GPL-3.0 · nacida el 3-dic-2021. La extensión que redirige tus enlaces de plataformas hacia sus frontends amables (casa de la pieza 16): el escudo del NAVEGADOR — donde el link tóxico se convierte en puerta limpia antes de abrir.
 
-*Piped* — TeamPiped/Piped · ★10.283 (censo 15-oct-2026) · push del MISMO día · AGPL-3.0. El proxy de YouTube que mira por ti — ya censado en la pieza 16 como frontend; aquí entra por la puerta del escudo: tu IP descansa mientras el proxy hace la fila. Frontera nombrada, censo no repetido.
+*Piped* — TeamPiped/Piped · ★10.282 (censo 18-oct-2026) · push del MISMO día · AGPL-3.0. El proxy de YouTube que mira por ti — ya censado en la pieza 16 como frontend; aquí entra por la puerta del escudo: tu IP descansa mientras el proxy hace la fila. Frontera nombrada, censo no repetido.
 
 ───────────────────
 
@@ -101,7 +101,7 @@ La línea que pesa doble aquí: el escudo que instalas hoy ve tu banca, tu mensa
 
 *🕰 QUIETUDES CON FECHA (y el testamento más noble de la serie)*
 
-*Bromite — ★6.324 (censo 15-oct-2026) · push del 24-ene-2024 · GPL-3.0 · nacida el 11-oct-2017*
+*Bromite — ★6.322 (censo 18-oct-2026) · push del 24-ene-2024 · GPL-3.0 · nacida el 11-oct-2017*
 
 Dos años, ocho meses y veintiún días de silencio al corte. Bromite fue el navegador que puso los anuncios FUERA de Android antes de que fuera moda: bloqueo de fábrica, sin teatro. Y su quietud no es un chisme de censo — es la lección completa del copyleft en un solo caso.
 
@@ -117,7 +117,7 @@ La forja se descubre: el escudo más noble es el que no se jubila.
 
 *La estantería sin testamento — el caso opuesto.*
 
-La lista-escudo Shadowrocket: ★31.221, push del 14-oct-2026, y SIN licencia. Toda la vida del censo, ninguna firma. La lectura de la forja: úsala sabiendo que comes reglas de una mesa sin contrato — el día que la mesa cambie el plato, nadie firmó que no. La forja no la borra: la marca. La vara existe para mirar dos veces, no para escupir a la fama.
+La lista-escudo Shadowrocket: ★31.302, push del 14-oct-2026, y SIN licencia. Toda la vida del censo, ninguna firma. La lectura de la forja: úsala sabiendo que comes reglas de una mesa sin contrato — el día que la mesa cambie el plato, nadie firmó que no. La forja no la borra: la marca. La vara existe para mirar dos veces, no para escupir a la fama.
 
 ───────────────────
 
@@ -165,7 +165,7 @@ Y la prueba del escudo puesto: abre cualquier página de noticias de siempre des
 
 La columna de nacimientos del escudo es la más vieja de la serie. Lantern nació el 17-feb-2011: QUINCE años, la abuela del censo entero. Bromite, el 11-oct-2017: nueve años de historia con su quietud al final. v2rayNG, el 15-may-2019: siete años y el gigante de la cosecha con ★64.031 (censo 15-oct-2026).
 
-La estantería Shadowrocket llegó el 6-dic-2021 y LibRedirect el 3-dic-2021: gemelas de diciembre con oficios distintos. Y Piped es la menor del censo con su ★10.283 (censo 15-oct-2026).
+La estantería Shadowrocket llegó el 6-dic-2021 y LibRedirect el 3-dic-2021: gemelas de diciembre con oficios distintos. Y Piped es la menor del censo con su ★10.282 (censo 18-oct-2026).
 
 Lo que la columna enseña: el escudo es el territorio de la PACIENCIA — cinco de seis casas superan los cuatro años, y las dos más viejas son las que más enseñan: la de quince años que sigue empujando (lantern, 15-oct-2026) y la de nueve que dejó testamento (Bromite). En ninguna otra familia la longevidad y la lección se dieron la mano así.
 
@@ -239,9 +239,9 @@ La genealogía no es nostalgia: es mantenimiento con memoria.
 
 Las seis placas del censo de la tarde del 15-oct-2026, listas para copiar y verificar:
 
-v2rayNG · 2dust/v2rayNG · ★64.031 · nacida 15-may-2019 · push 11-oct-2026 · GPL-3.0. Lantern · getlantern/lantern · ★16.300 · nacida 17-feb-2011 · push 15-oct-2026 · GPL-3.0. Lista-escudo Shadowrocket · Johnshall/Shadowrocket-ADBlock-Rules-Forever · ★31.221 · nacida 6-dic-2021 · push 14-oct-2026 · sin licencia declarada.
+v2rayNG · 2dust/v2rayNG · ★64.031 · nacida 15-may-2019 · push 11-oct-2026 · GPL-3.0. Lantern · getlantern/lantern · ★16.406 · nacida 17-feb-2011 · push 18-oct-2026 · GPL-3.0. Lista-escudo Shadowrocket · Johnshall/Shadowrocket-ADBlock-Rules-Forever · ★31.302 · nacida 6-dic-2021 · push 14-oct-2026 · sin licencia declarada.
 
-Bromite · bromite/bromite · ★6.324 · nacida 11-oct-2017 · push 24-ene-2024 · GPL-3.0 · quietud con heredero. LibRedirect · libredirect/browser_extension · ★4.079 · nacida 3-dic-2021 · push 12-oct-2026 · GPL-3.0. Piped · TeamPiped/Piped · ★10.283 · push 15-oct-2026 · AGPL-3.0 · casa de la pieza 16.
+Bromite · bromite/bromite · ★6.322 · nacida 11-oct-2017 · push 24-ene-2024 · GPL-3.0 · quietud con heredero. LibRedirect · libredirect/browser_extension · ★4.081 · nacida 3-dic-2021 · push 12-oct-2026 · GPL-3.0. Piped · TeamPiped/Piped · ★10.282 · push 18-oct-2026 · AGPL-3.0 · casa de la pieza 16.
 
 Fuente: censo vivo de la casa (5.684 repos, tarde del 15-oct-2026). Dato viaja FECHADO a esa tarde — el pulso nocturno #10 midió la familia musical; el escudo queda para el pulso próximo de la serie. El mapa vivo no disfraza horas.
 
@@ -249,7 +249,7 @@ Fuente: censo vivo de la casa (5.684 repos, tarde del 15-oct-2026). Dato viaja F
 
 *💬 LA CONVERSACIÓN HONESTA*
 
-Primera: esta pieza se escribió con la vara más recta de la serie hasta hoy — porque el escudo ve TODO, y el margen de humor en esta familia es cero. La forja nombró sin licencia a una casa de ★31.221 (censo 15-oct-2026) y recomendó a su heredero a una de ★6.324: las estrellas no compran misión — la placa la firma el oficio.
+Primera: esta pieza se escribió con la vara más recta de la serie hasta hoy — porque el escudo ve TODO, y el margen de humor en esta familia es cero. La forja nombró sin licencia a una casa de ★31.302 (censo 18-oct-2026) y recomendó a su heredero a una de ★6.322: las estrellas no compran misión — la placa la firma el oficio.
 
 Segunda: la llave (v2rayNG, lantern) se mide aquí como herramienta pública de camino cifrado — la misma vara neutral con la que el censo mide cualquier mueble. Su uso legal, su firma: tuya. La casa no acompaña a nadie a la cuerda floja — ni a este lado ni al otro.
 
@@ -261,7 +261,7 @@ Tercera: el glosario es el de la FAMILIA cosecha más las entradas del escudo. M
 
 No dice que el escudo te vuelva invisible — dice que las capas bajan la mirada ajena, con fechas y sin magia.
 
-No dice que la estantería Shadowrocket sea basura — dice que la fame de ★31.221 (censo 15-oct-2026) y el testamento son dos columnas, y la suya está en blanco al corte.
+No dice que la estantería Shadowrocket sea basura — dice que la fame de ★31.302 (censo 18-oct-2026) y el testamento son dos columnas, y la suya está en blanco al corte.
 
 No dice que la llave sea delito — dice que es herramienta pública GPL, y que su uso lo firma cada quien con la ley de su tierra.
 
@@ -421,7 +421,7 @@ Clávalo donde no lo vea la mirada ajena:
 
 *Firma.* La marca criptográfica del taller en su release. La tienda legal la verifica por ti; el APK de grupo, nadie sabe quién la puso. Sin firma verificable, no hay confianza — hay fe, y la casa no trabaja con fe.
 
-*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.351, 15-oct-2026) — el mueble clásico vestido de esta década.
+*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.357, 18-oct-2026) — el mueble clásico vestido de esta década.
 
 *Etiqueta.* La información adentro del archivo de música: título, artista, álbum, número, año. El reproductor lee la etiqueta, no el nombre del archivo — peinar etiquetas es peinar la biblioteca entera.
 
@@ -433,7 +433,7 @@ Clávalo donde no lo vea la mirada ajena:
 
 *Scrobble.* El hábito del detective: registrar lo que suenas para amarrar historial y descubrimiento. muffon lo trae de fábrica — el reproductor que también lleva el cuaderno de campo.
 
-*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Multi-fuente.* La casa que no se casa con un río: consulta varios provedores y te sirve la versión que esté limpia. Spotube, Namida y muffon viven de esa libertad — con sus licencias mirándose dos veces.
 
@@ -505,7 +505,7 @@ Clávalo donde no lo vea la mirada ajena:
 
 *Coleccionista.* El que suena, guarda, etiqueta y copia. No necesita FLAC de colección para empezar: necesita la rutina — maestro en PC, copia en teléfono, lista exportada. La estructura antes que el volumen.
 
-*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Bitrate.* Los kilobits por segundo del audio: la medida de cuánto archivo pesa una canción. A más bitrate, más fidelidad hasta donde el oído y el altavoz alcancen a distinguir — el 320 del MP3 es el techo práctico del bolsillo.
 

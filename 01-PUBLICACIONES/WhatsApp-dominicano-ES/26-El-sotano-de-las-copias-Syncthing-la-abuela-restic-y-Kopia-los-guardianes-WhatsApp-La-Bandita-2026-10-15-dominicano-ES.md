@@ -7,7 +7,7 @@
 
 Toda la serie repite una ley como un himno: *respaldo en la copia de la copia*. La biblioteca (22) la firmó, el taller (25) la rutó, el escudo (24) la presupuso. Esta pieza es donde la ley se vuelve MUEBLE: el sótano de la casa digital — el territorio de la sincronización sin nube y del respaldo cifrado, medido al censo del 15-oct-2026.
 
-Las placas de la noche: **Syncthing** — ★89.412 (censo 15-oct-2026), MPL-2.0, nacida el 26-nov-2013: LA CASA MÁS VIEJA DE TODA LA SERIE, con casi trece años empujando el 13-oct. Al lado sus guardianes: **restic** con ★36.595 y BSD firmado, y **Kopia** con ★14.360 empujando el MISMO día del censo.
+Las placas de la noche: **Syncthing** — ★89.497 (censo 18-oct-2026), MPL-2.0, nacida el 26-nov-2013: LA CASA MÁS VIEJA DE TODA LA SERIE, con casi trece años empujando el 13-oct. Al lado sus guardianes: **restic** con ★36.595 y BSD firmado, y **Kopia** con ★14.360 empujando el MISMO día del censo.
 
 Y la genealogía que la noche regaló: el cliente Android oficial de Syncthing se retiró — y la línea la carga el fork de la comunidad, que este año MUDÓ de casa (de Catfriend1 a researchxxl) sin dejar de empujar un solo mes.
 
@@ -35,7 +35,7 @@ Y trae la vara del oficio más pura de la serie: en el sótano NO se apuesta. El
 
 Las placas completas, tal como el censo de la tarde del 15-oct-2026 y el pulso nocturno las contestaron:
 
-*Syncthing* — syncthing/syncthing · ★89.412 (censo 15-oct-2026) · push del 13-oct · MPL-2.0 · nacida el 26-nov-2013. LA CASA MÁS VIEJA DE TODA LA SERIE: casi trece años de taller continuo. La sincronización sin nube entre tus máquinas — teléfono, PC, el jardín de la casa — de igual a igual, sin dueño intermedio. La cuarta casa más grande que la serie ha medido.
+*Syncthing* — syncthing/syncthing · ★89.497 (censo 18-oct-2026) · push del 13-oct · MPL-2.0 · nacida el 26-nov-2013. LA CASA MÁS VIEJA DE TODA LA SERIE: casi trece años de taller continuo. La sincronización sin nube entre tus máquinas — teléfono, PC, el jardín de la casa — de igual a igual, sin dueño intermedio. La cuarta casa más grande que la serie ha medido.
 
 *restic* — restic/restic · ★36.595 (pulso 15-oct-2026) · push del 11-oct · BSD-2-Clause · nacida el 27-abr-2014. El guardián de los respaldos: copias cifradas, incrementales y deduplicadas — el estándar del respaldo serio en la terminal, con doce años de oficio.
 
@@ -181,7 +181,7 @@ Y Kopia el respaldo mensual del inventario completo. El negocio que deja de pele
 
 Las cuatro placas del sótano al 15-oct-2026, listas pa copiar y verificar:
 
-Syncthing · syncthing/syncthing · ★89.412 · nacida 26-nov-2013 · push 13-oct-2026 · MPL-2.0. restic · restic/restic · ★36.595 · nacida 27-abr-2014 · push 11-oct-2026 · BSD-2-Clause. Kopia · kopia/kopia · ★14.360 · nacida 19-dic-2015 · push 16-oct-2026 (mismo día del censo) · Apache-2.0.
+Syncthing · syncthing/syncthing · ★89.497 · nacida 26-nov-2013 · push 13-oct-2026 · MPL-2.0. restic · restic/restic · ★36.595 · nacida 27-abr-2014 · push 11-oct-2026 · BSD-2-Clause. Kopia · kopia/kopia · ★14.360 · nacida 19-dic-2015 · push 18-oct-2026 (mismo día del censo) · Apache-2.0.
 
 Syncthing-Fork Android · researchxxl/syncthing-android · ★3.069 · renacida 29-oct-2025 · push 14-oct-2026 · MPL-2.0 (ex Catfriend1, mudanza confirmada por redirección de la API).
 
@@ -397,7 +397,7 @@ El grupo de siempre no es fuente de APKs — la lección número uno de la casa,
 
 *Firma.* La marca criptográfica del taller en su release. La tienda legal la verifica por ti; el APK de grupo, nadie sabe quién la puso. Sin firma verificable, no hay confianza — hay fe, y la casa no trabaja con fe.
 
-*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.351, 15-oct-2026) — el mueble clásico vestido de esta década.
+*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.357, 18-oct-2026) — el mueble clásico vestido de esta década.
 
 *Etiqueta.* La información adentro del archivo de música: título, artista, álbum, número, año. El reproductor lee la etiqueta, no el nombre del archivo — peinar etiquetas es peinar la biblioteca entera.
 
@@ -409,7 +409,7 @@ El grupo de siempre no es fuente de APKs — la lección número uno de la casa,
 
 *Scrobble.* El hábito del detective: registrar lo que suenas para amarrar historial y descubrimiento. muffon lo trae de fábrica — el reproductor que también lleva el cuaderno de campo.
 
-*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Multi-fuente.* La casa que no se casa con un río: consulta varios provedores y te sirve la versión que esté limpia. Spotube, Namida y muffon viven de esa libertad — con sus licencias mirándose dos veces.
 
@@ -481,7 +481,7 @@ El grupo de siempre no es fuente de APKs — la lección número uno de la casa,
 
 *Coleccionista.* El que suena, guarda, etiqueta y copia. No necesita FLAC de colección para empezar: necesita la rutina — maestro en PC, copia en teléfono, lista exportada. La estructura antes que el volumen.
 
-*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Bitrate.* Los kilobits por segundo del audio: la medida de cuánto archivo pesa una canción. A más bitrate, más fidelidad hasta donde el oído y el altavoz alcancen a distinguir — el 320 del MP3 es el techo práctico del bolsillo.
 
@@ -569,7 +569,7 @@ Respaldo decorativo|La copia que se hace y nunca se prueba: el riesgo número un
 
 Parte sin grave|El balance de salud del sótano: cuatro casas, cero quietudes, cero esperas al corte. El primer territorio de la serie que respira completo — la confianza se empuja, no se declara.
 
-Pirámide|La distribución del sótano: la institución grande (Syncthing ★89.412 al censo del 15-oct-2026), los guardianes medianos, el heredero de bolsillo creciendo. La forma de una casa con historia.
+Pirámide|La distribución del sótano: la institución grande (Syncthing ★89.497 al censo del 18-oct-2026), los guardianes medianos, el heredero de bolsillo creciendo. La forma de una casa con historia.
 
 Consagración|Cómo nacen las casas del sótano: no estrenos de moda — líneas que se heredan con apellido. El territorio donde ni los nacimientos se improvisan.
 
@@ -623,7 +623,7 @@ El balance del parte, en una línea: cuatro casas, cero en espera, cero quietude
 
 Tres medidas finas que la forja firma en voz alta.
 
-La primera: el tamaño de las casas. De ★89.412 a ★3.069 al censo del 15-oct-2026 — el sótano tiene la casa GRANDE de la serie (Syncthing compite con la élite del ecosistema entero) y su enana respetable (el fork que carga la línea de bolsillo). La lectura: el sótano es piramidal — una institución, sus guardianes medianos, y el heredero de bolsillo creciendo.
+La primera: el tamaño de las casas. De ★89.497 a ★3.069 al censo del 18-oct-2026 — el sótano tiene la casa GRANDE de la serie (Syncthing compite con la élite del ecosistema entero) y su enana respetable (el fork que carga la línea de bolsillo). La lectura: el sótano es piramidal — una institución, sus guardianes medianos, y el heredero de bolsillo creciendo.
 
 La distribución de una casa con historia.
 

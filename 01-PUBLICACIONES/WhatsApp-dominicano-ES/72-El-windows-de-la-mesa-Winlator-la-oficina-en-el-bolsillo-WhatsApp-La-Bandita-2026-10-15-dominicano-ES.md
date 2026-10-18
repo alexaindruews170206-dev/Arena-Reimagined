@@ -1,5 +1,5 @@
 *72 — EL WINDOWS DE LA MESA*
-*brunodev85/winlator ★19.519 (pulso 18-oct-2026) es la placa mayor del salón: los programas y juegos de Windows de antes corriendo EN tu teléfono con Wine y Box64 — la oficina entera de la PC vieja, en la caja que ya tienes (WhatsApp · La Bandita · dominicano-ES)*
+*brunodev85/winlator ★19.523 (pulso 18-oct-2026) es la placa mayor del salón: los programas y juegos de Windows de antes corriendo EN tu teléfono con Wine y Box64 — la oficina entera de la PC vieja, en la caja que ya tienes (WhatsApp · La Bandita · dominicano-ES)*
 
 ───────────────────
 
@@ -27,15 +27,15 @@ Y la vara fina de la doctrina: lo que corre, lo que la casa TIENE (el disco orig
 
 El traductor y su familia — las placas del salón, medidas HOY.
 
-*El salón mayor — Winlator.* `brunodev85/winlator` ★19.519 (pulso 18-oct-2026), nacida el 26-jul-2023 (la hornada del despertar de la fila IA — nacida el mismo año que la mente y el cerebro: la generación que decidió que la caja del teléfono es SUFICIENTE).
+*El salón mayor — Winlator.* `brunodev85/winlator` ★19.523 (pulso 18-oct-2026), nacida el 26-jul-2023 (la hornada del despertar de la fila IA — nacida el mismo año que la mente y el cerebro: la generación que decidió que la caja del teléfono es SUFICIENTE).
 
 Con aire de la SEMANA (push 17-oct), con su letra LGPL-2.1 — **LETRA DE OFICIO CON COPIA LEGAL** (la escuela del trabajo junto: lo que mejores el traductor, comparte la mejora — la familia GPL del bloque, en su variante de biblioteca).
 
-*El ranking, con honestidad del censo:* el salón mayor ES LA PLACA MAYOR DE SU FILA (★19.519, pulso 18-oct-2026: encima del cubo ★15.681, la bolsilla ★14.680 y el mueble padre ★14.367 — por 4.838 sobre el cubo y 5.152 sobre el mueble). En el censo entero: corre por debajo del router del aire ★28.760 y del apoderado del mensaje ★29.474 (pulso 18-oct-2026).
+*El ranking, con honestidad del censo:* el salón mayor ES LA PLACA MAYOR DE SU FILA (★19.523, pulso 18-oct-2026: encima del cubo ★15.683, la bolsilla ★14.681 y el mueble padre ★14.370 — por 4.838 sobre el cubo y 5.152 sobre el mueble). En el censo entero: corre por debajo del router del aire ★28.760 y del apoderado del mensaje ★29.474 (pulso 18-oct-2026).
 
 La lección del censo: la más joven de las forjas viejas del salón (2023 contra 2010-2014) — y YA la más alta: la nostalgia de la PC, corriendo con empuje. El censo no decora: mide.
 
-*La familia del salón:* el mueble padre (71: RetroArch ★14.367, pulso 18-oct-2026 — las consolas), el traductor de lenguas (77: Box64 ★5.679 — el motor adentro), y la pareja del oficio: el mueble corre las CONSOLAS, el salón mayor corre los PROGRAMAS de Windows (el salón de la casa: dos pisos, una sola ley del juego propio).
+*La familia del salón:* el mueble padre (71: RetroArch ★14.370, pulso 18-oct-2026 — las consolas), el traductor de lenguas (77: Box64 ★5.679 — el motor adentro), y la pareja del oficio: el mueble corre las CONSOLAS, el salón mayor corre los PROGRAMAS de Windows (el salón de la casa: dos pisos, una sola ley del juego propio).
 
 *🏛 LAS TRES CAPAS DEL TRADUCTOR*
 
@@ -139,7 +139,7 @@ Y la vara mayor: el teclado del oficio (la contabilidad del taller: teclado chic
 
 Con la vara mayor: la mudanza de la casa entera (los espacios de a uno: el segundo piso viajando en dos discos). La oficina: mudable — jamás prisionera de un aparato.
 
-*¿Qué placa es la del salón mayor — y por qué es la mayor de la fila?* La placa mayor del salón — con vara fina: ★19.519 (pulso 18-oct-2026), encima del cubo ★15.681 (por 4.838), la bolsilla ★14.680 y el mueble padre ★14.367 (por 5.152), debajo del router ★28.760 (pulso 18-oct-2026) en el censo).
+*¿Qué placa es la del salón mayor — y por qué es la mayor de la fila?* La placa mayor del salón — con vara fina: ★19.523 (pulso 18-oct-2026), encima del cubo ★15.683 (por 4.838), la bolsilla ★14.681 y el mueble padre ★14.370 (por 5.153), debajo del router ★28.760 (pulso 18-oct-2026) en el censo).
 
 Encima la vara mayor: la JÓVEN de las forjas viejas (nacida 26-jul-2023 — la más joven de la fila del salón: contra 2010 del mueble, 2012 de la bolsilla, 2013 del cubo). La lectura fina: la nostalgia de la PC (el recuerdo de la era del ciber: la más grande de todas — la placa lo midió en tres años). El censo no decora: mide — y la juventud con empuje: también se mide.
 
@@ -175,7 +175,7 @@ Montaje: el disco original guardado (SU disco de la era: la ley del instalador p
 
 *🏭 LA DESPENSA DE DATOS (todo lo medido, en una repisa)*
 
-*Las placas (censo 18-oct-2026):* el salón mayor ★19.519 — LA PLACA MAYOR DEL SALÓN (encima del cubo ★15.681 por 4.838, la bolsilla ★14.680 y el mueble padre ★14.367 por 5.152; debajo del router ★28.760 en el censo). LGPL-2.1.
+*Las placas (censo 18-oct-2026):* el salón mayor ★19.523 — LA PLACA MAYOR DEL SALÓN (encima del cubo ★15.683 por 4.838, la bolsilla ★14.681 y el mueble padre ★14.370 por 5.153; debajo del router ★28.760 en el censo). LGPL-2.1.
 
 *La edad:* nacida el 26-jul-2023 — la JÓVEN de las forjas viejas (el mismo año de la mente y el cerebro: la hornada que decidió que el teléfono basta).
 
@@ -203,7 +203,7 @@ No dice que instales Windows — dice lo contrario: el traductor IMITA el ambien
 
 No dice que corras los juegos de hoy — dice la escala honesta: la era clásica del ciber — el presente pesado: su propia máquina.
 
-No dice que sea placa del censo entero — dice la vara fina: ★19.519 (pulso 18-oct-2026), la placa MAYOR DE SU FILA — debajo del router ★28.760 (pulso 18-oct-2026) en el censo.
+No dice que sea placa del censo entero — dice la vara fina: ★19.523 (pulso 18-oct-2026), la placa MAYOR DE SU FILA — debajo del router ★28.760 (pulso 18-oct-2026) en el censo.
 
 No dice que bajes programas del rincon — dice la ley del instalador propio: el disco de la casa — la llave verdadera de SU cerradura.
 
@@ -223,7 +223,7 @@ La primera: la placa joven mayor. El salón mayor (2023) mandando sobre forjas d
 
 La medida del piso: la juventud con causa manda.
 
-La segunda: la pareja del salón. El mueble (★14.367, pulso 18-oct-2026) + el salón mayor (★19.519): la suma del salón completo (33.886) — las consolas Y los programas de una era entera, en la caja del teléfono, y la vara fina: la pareja legal (GPL-3.0 + LGPL-2.1: la escuela de la copia legal — las dos piezas del salón, firmadas).
+La segunda: la pareja del salón. El mueble (★14.370, pulso 18-oct-2026) + el salón mayor (★19.523): la suma del salón completo (33.886) — las consolas Y los programas de una era entera, en la caja del teléfono, y la vara fina: la pareja legal (GPL-3.0 + LGPL-2.1: la escuela de la copia legal — las dos piezas del salón, firmadas).
 
 La medida del segundo piso: dos eras rescatadas — una sola caja.
 
@@ -381,7 +381,7 @@ La otra vara fina: el save de la noche (la partida se guarda: el ritual de la ca
 
 *Firma.* La marca criptográfica del taller en su release. La tienda legal la verifica por ti; el APK de grupo, nadie sabe quién la puso. Sin firma verificable, no hay confianza — hay fe, y la casa no trabaja con fe.
 
-*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.351, 15-oct-2026) — el mueble clásico vestido de esta década.
+*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.357, 18-oct-2026) — el mueble clásico vestido de esta década.
 
 *Etiqueta.* La información adentro del archivo de música: título, artista, álbum, número, año. El reproductor lee la etiqueta, no el nombre del archivo — peinar etiquetas es peinar la biblioteca entera.
 
@@ -393,7 +393,7 @@ La otra vara fina: el save de la noche (la partida se guarda: el ritual de la ca
 
 *Scrobble.* El hábito del detective: registrar lo que suenas para amarrar historial y descubrimiento. muffon lo trae de fábrica — el reproductor que también lleva el cuaderno de campo.
 
-*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Multi-fuente.* La casa que no se casa con un río: consulta varios provedores y te sirve la versión que esté limpia. Spotube, Namida y muffon viven de esa libertad — con sus licencias mirándose dos veces.
 
@@ -465,7 +465,7 @@ La otra vara fina: el save de la noche (la partida se guarda: el ritual de la ca
 
 *Coleccionista.* El que suena, guarda, etiqueta y copia. No necesita FLAC de colección para empezar: necesita la rutina — maestro en PC, copia en teléfono, lista exportada. La estructura antes que el volumen.
 
-*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Bitrate.* Los kilobits por segundo del audio: la medida de cuánto archivo pesa una canción. A más bitrate, más fidelidad hasta donde el oído y el altavoz alcancen a distinguir — el 320 del MP3 es el techo práctico del bolsillo.
 
@@ -511,7 +511,7 @@ La otra vara fina: el save de la noche (la partida se guarda: el ritual de la ca
 
 *Oído del barrio.* El que escucha antes de opinar: prueba dos muebles, mira dos placas y pregunta en la fila antes de palomear. No nace sabido — se hace con una semana de ritual bien dada.
 
-Windows de la mesa|Winlator: los programas y juegos de Windows de antes corriendo en el teléfono — la placa mayor del salón (★19.519, pulso 18-oct-2026). La oficina del ciber: en el bolsillo.
+Windows de la mesa|Winlator: los programas y juegos de Windows de antes corriendo en el teléfono — la placa mayor del salón (★19.523, pulso 18-oct-2026). La oficina del ciber: en el bolsillo.
 
 Placa mayor del salón|La del salón mayor: encima del cubo (por 4.838), la bolsilla y el mueble. La JÓVEN de la fila (2023) — mandando por la nostalgia del ciber.
 
@@ -633,7 +633,7 @@ Esta pieza es tu puerta — el salón mayor reconstruye el ciber EN tu casa (el 
 
 *🪡 LA ÚLTIMA AGUJA (cosida al pie, como la casa cose)*
 
-Si esta pieza sirvió para algo más que leer, fue para esto: dejar escrito que la oficina de una casa también se hereda — brunodev85/winlator ★19.519 (pulso 18-oct-2026), la placa mayor del salón, tres años de forja con su letra LGPL-2.1: los programas de la era del ciber, corriendo en el teléfono de la casa.
+Si esta pieza sirvió para algo más que leer, fue para esto: dejar escrito que la oficina de una casa también se hereda — brunodev85/winlator ★19.523 (pulso 18-oct-2026), la placa mayor del salón, tres años de forja con su letra LGPL-2.1: los programas de la era del ciber, corriendo en el teléfono de la casa.
 
 La forja lo midió con el pulso de la semana y lo firma: el instalador propio (el disco de la casa — la única llave que se firma), un espacio por oficio (el confesorio de los programas), la escala honesta — y la regla cosida: el oro del piso, mudable y con póliza.
 

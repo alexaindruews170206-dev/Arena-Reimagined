@@ -33,11 +33,11 @@ La familia entera del enchufe — las placas de la fila 82-95, medidas HOY.
 
 *Las placas que se enchufan a la regleta (la fila root II, medida HOY).* El parche del kernel (bmax121/APatch ★8.069, pulso 18-oct-2026, 21-ago-2023 — el root nuevo que parcha el sistema: GPL-3.0, push 16-oct). La fábrica de módulos (j-hc/revanced-magisk-module ★7.691, pulso 18-oct-2026, push de HOY — el builder diario de módulos ReVanced: GPL-3.0).
 
-El mapa del root (awesome-android-root/awesome-android-root ★5.226, pulso 18-oct-2026, push de HOY — la guía MIT de apps root, Magisk, KernelSU y módulos LSPosed). El espejo transparente (PerformanC/ReZygisk ★4.072, pulso 18-oct-2026 — la otra implementación de Zygisk: GPL-3.0).
+El mapa del root (awesome-android-root/awesome-android-root ★5.227, pulso 18-oct-2026, push 10-11-oct — la guía MIT de apps root, Magisk, KernelSU y módulos LSPosed). El espejo transparente (PerformanC/ReZygisk ★4.072, pulso 18-oct-2026 — la otra implementación de Zygisk: GPL-3.0).
 
 El asistente del escondite (snake-4/Zygisk-Assistant ★2.643, pulso 18-oct-2026 — el módulo que oculta el root en el banco: MIT). El Pixel en mano (siavash79/PixelXpert ★2.447, pulso 18-oct-2026 — el módulo Xposed+Magisk pa personalizar Pixel: GPL-3.0). La tienda de módulos (MMRLApp/MMRL ★2.209, pulso 18-oct-2026, push de HOY — la app que gestiona y comparte módulos: GPL-3.0).
 
-*Las restas de la fila (verificadas en el pulso del 18-oct-2026):* 10.634−8.069=2.565 · 8.069−7.691=378 · 7.691−5.226=2.465 · 5.226−4.072=1.154 · 4.072−2.643=1.429 · 2.643−2.447=196 · 2.447−2.209=238. En el censo entero: la regleta corre debajo del router del aire ★28.760 (pulso 18-oct-2026) y encima de la familia de los relatos (ScummVM ★2.858, pulso 18-oct-2026): por 7.776.
+*Las restas de la fila (verificadas en el pulso del 18-oct-2026):* 10.634−8.069=2.565 · 8.069−7.691=378 · 7.691−5.226=2.465 · 5.226−4.072=1.154 · 4.072−2.643=1.429 · 2.643−2.447=196 · 2.447−2.209=238 En el censo entero: la regleta corre debajo del router del aire ★28.760 (pulso 18-oct-2026) y encima de la familia de los relatos (ScummVM ★2.860, pulso 18-oct-2026): por 7.776.
 
 La lección del censo: la fila root II es joven (2021-2024: las hornadas del módulo) — y empuja TODA.
 
@@ -207,7 +207,7 @@ Clase armada: la regleta del club (el enchufe: instalado y probado en el teléfo
 
 *🏭 LA DESPENSA DE DATOS (todo lo medido, en una repisa)*
 
-*Las placas (censo 18-oct-2026):* ZygiskNext ★10.634 · APatch ★8.069 · revanced-magisk-module ★7.691 · awesome-android-root ★5.226 · ReZygisk ★4.072 · Zygisk-Assistant ★2.643 · PixelXpert ★2.447 · MMRL ★2.209 — la fila root II: 43.291 estrellas de forja seria.
+*Las placas (censo 18-oct-2026):* ZygiskNext ★10.634 · APatch ★8.069 · revanced-magisk-module ★7.691 · awesome-android-root ★5.227 · ReZygisk ★4.072 · Zygisk-Assistant ★2.643 · PixelXpert ★2.447 · MMRL ★2.209 — la fila root II: 42.992 estrellas de forja seria.
 
 *Las edades:* regleta 3 (2023) · parche 3 (2023) · fábrica 4 (2022) · mapa 2 (2024) · espejo 2 (2024) · asistente 2 (2024) · Pixel 4 (2022) · tienda 4 (2022) — la fila joven del root, TODA viva.
 
@@ -247,7 +247,7 @@ No dice que la fila root II esté completa — dice el mapa: la regleta abre (82
 
 *🩺 LA SALUD DE LA FILA AL CORTE (el parte de la regleta)*
 
-El parte del 18-oct-2026: la fila root II con aire de HOY (la regleta con push del 15-oct, media fila con push de HOY: la fábrica, el mapa, la tienda), las letras leyéndose en sus hogares (siete de ocho con SPDX en la puerta: GPL-3.0 y MIT — la regleta: la puerta sin letrero, bajo vara de la 58), 43.291 estrellas de forja seria en la fila.
+El parte del 18-oct-2026: la fila root II con aire de HOY (la regleta con push del 15-oct, media fila con push 10-15-oct: la fábrica, el mapa, la tienda), las letras leyéndose en sus hogares (siete de ocho con SPDX en la puerta: GPL-3.0 y MIT — la regleta: la puerta sin letrero, bajo vara de la 58), 42.992 estrellas de forja seria en la fila.
 
 Su lectura fina del parte: la fila del root al corte (la hornada joven: dos a cuatro años de forja — las familias del módulo: creciendo sobre el enchufe) — la fila 82-95: la más joven de la obra, y de las más vivas. La salud de la regleta: la del enchufe universal — corriendo en todas las paredes del root.
 
@@ -319,7 +319,7 @@ La lectura fina: la diferencia con el rebaño («todos la usan» no es ley de la
 
 *🪧 EL CARTEL DEL ENCHUFE*
 
-*El root de la casa, enchufado como gente — una regleta, una familia a la vez y 43.291 estrellas de fila joven midiendo la pared.*
+*El root de la casa, enchufado como gente — una regleta, una familia a la vez y 42.992 estrellas de fila joven midiendo la pared.*
 
 *El módulo legítimo — zip de SU forja con SU fecha: la raíz sin huérfanos, el tacho fuera de la casa.*
 
@@ -429,7 +429,7 @@ Además la clave fina: la libreta al día (qué versión de regleta alimenta a q
 
 *Firma.* La marca criptográfica del taller en su release. La tienda legal la verifica por ti; el APK de grupo, nadie sabe quién la puso. Sin firma verificable, no hay confianza — hay fe, y la casa no trabaja con fe.
 
-*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.351, 15-oct-2026) — el mueble clásico vestido de esta década.
+*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.357, 18-oct-2026) — el mueble clásico vestido de esta década.
 
 *Etiqueta.* La información adentro del archivo de música: título, artista, álbum, número, año. El reproductor lee la etiqueta, no el nombre del archivo — peinar etiquetas es peinar la biblioteca entera.
 
@@ -441,7 +441,7 @@ Además la clave fina: la libreta al día (qué versión de regleta alimenta a q
 
 *Scrobble.* El hábito del detective: registrar lo que suenas para amarrar historial y descubrimiento. muffon lo trae de fábrica — el reproductor que también lleva el cuaderno de campo.
 
-*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Multi-fuente.* La casa que no se casa con un río: consulta varios provedores y te sirve la versión que esté limpia. Spotube, Namida y muffon viven de esa libertad — con sus licencias mirándose dos veces.
 
@@ -513,7 +513,7 @@ Además la clave fina: la libreta al día (qué versión de regleta alimenta a q
 
 *Coleccionista.* El que suena, guarda, etiqueta y copia. No necesita FLAC de colección para empezar: necesita la rutina — maestro en PC, copia en teléfono, lista exportada. La estructura antes que el volumen.
 
-*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Bitrate.* Los kilobits por segundo del audio: la medida de cuánto archivo pesa una canción. A más bitrate, más fidelidad hasta donde el oído y el altavoz alcancen a distinguir — el 320 del MP3 es el techo práctico del bolsillo.
 

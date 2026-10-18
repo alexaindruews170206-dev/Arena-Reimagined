@@ -1,5 +1,5 @@
 *60 — EL TABLERO DE LA CASA*
-*Uptime Kuma ★92.557 (pulso 16-oct-2026) firma el vigía del taller y Homepage ★33.188 el mapa vivo: las diez faenas de la casa, en una pantalla — y avisando al teléfono si algo respira mal (WhatsApp · La Bandita · dominicano-ES)*
+*Uptime Kuma ★92.609 (pulso 18-oct-2026) firma el vigía del taller y Homepage ★33.188 el mapa vivo: las diez faenas de la casa, en una pantalla — y avisando al teléfono si algo respira mal (WhatsApp · La Bandita · dominicano-ES)*
 
 ───────────────────
 
@@ -27,7 +27,7 @@ El nerviosismo: jubilado — el taller, vigilado por su propia casa.
 
 El vigía y el mapa — la pareja del cierre, medida HOY.
 
-*El vigía — Uptime Kuma.* `louislam/uptime-kuma` ★92.557 (pulso 16-oct-2026), nacida el 3-jul-2021, con aire hasta HOY, bajo MIT. **LA SEGUNDA PLACA MAYOR DE TODA LA OBRA** (¡pasando al cerebro de la 54!: la casa que vigila, por encima de la casa que piensa — la faena más universal del taller propio: TODO taller quiere vigía).
+*El vigía — Uptime Kuma.* `louislam/uptime-kuma` ★92.609 (pulso 18-oct-2026), nacida el 3-jul-2021, con aire hasta HOY, bajo MIT. **LA SEGUNDA PLACA MAYOR DE TODA LA OBRA** (¡pasando al cerebro de la 54!: la casa que vigila, por encima de la casa que piensa — la faena más universal del taller propio: TODO taller quiere vigía).
 
 El monitor completo: cada faena (la nube, el álbum, el cine, el cofre...) con su latido (el chequeo cada minuto: «¿responde?»), su historial (el respiro del taller: los baches del mes, dibujados), y los avisos al teléfono (el telegrama del vigía: «caído a las 3:14» — y su hermano gemelo: «levantado a las 3:16»: el taller, resucitando avisado).
 
@@ -39,7 +39,7 @@ La puerta de la casa: la página de inicio del taller (cada faena, su tarjeta co
 
 La pareja del cierre: el mapa (dónde está todo) + el vigía (si todo respira) — el tablero de la casa, en dos forjas hermanas.
 
-*La lectura del censo, con la vara de la fila: el vigía (★92.557, pulso 16-oct-2026) firma el CIERRE de la fila con la segunda placa mayor de la obra — la fila 51-60: siete cimas en el podio (116k, 92k, 91k, 69k, 61k, 58k, 58k): la fila más alta jamás montada en la serie.
+*La lectura del censo, con la vara de la fila: el vigía (★92.609, pulso 18-oct-2026) firma el CIERRE de la fila con la segunda placa mayor de la obra — la fila 51-60: siete cimas en el podio (116k, 92k, 91k, 69k, 61k, 58k, 58k): la fila más alta jamás montada en la serie.
 
 Y el vigía más firmado de la obra (92k) vigila la faena más humilde — el taller se mide por cómo cuida lo que ya tiene.*
 
@@ -187,7 +187,7 @@ Receta: el tablero de la fila (los pisos 1-5), el latido de las tres faenas del 
 
 *🏭 LA DESPENSA DE DATOS (todo lo medido, en una repisa)*
 
-*Las placas (censo 16-oct-2026):* el vigía ★92.557 · el mapa ★33.188 — la pareja del cierre, con aire de HOY las dos.
+*Las placas (censo 18-oct-2026):* el vigía ★92.609 · el mapa ★33.188 — la pareja del cierre, con aire de HOY las dos.
 
 *La edad:* el vigía, nacida el 3-jul-2021 (cinco años del oficio — la placa segunda mayor de la obra, nacida de UN forjador); el mapa, del 24-ago-2022.
 
@@ -233,7 +233,7 @@ La lectura fina del parte: el vigía es LA placa de la consistencia — cinco a�
 
 Tres medidas finas de la noche.
 
-La primera: la placa que pasó al cerebro. ★92.557 (pulso 16-oct-2026): el vigía firma la SEGUNDA placa mayor de la obra — pasando a la casa que piensa (91.562): la medida del momento: la casa que VIGILA (la faena más universal del taller: todo taller quiere vigía) por encima de la que PIENSA — el cuidar, por encima del pensar.
+La primera: la placa que pasó al cerebro. ★92.609 (pulso 18-oct-2026): el vigía firma la SEGUNDA placa mayor de la obra — pasando a la casa que piensa (91.562): la medida del momento: la casa que VIGILA (la faena más universal del taller: todo taller quiere vigía) por encima de la que PIENSA — el cuidar, por encima del pensar.
 
 La fila de la obra: las tres cimas (la memoria ★116k pulso 16-oct-2026, el vigía ★92k pulso 16-oct-2026, el cerebro ★91k) — las tres: del taller propio.
 
@@ -391,7 +391,7 @@ La salida: la vara de la puerta (la 51: el tablero, tras SU candado — dos paso
 
 *Firma.* La marca criptográfica del taller en su release. La tienda legal la verifica por ti; el APK de grupo, nadie sabe quién la puso. Sin firma verificable, no hay confianza — hay fe, y la casa no trabaja con fe.
 
-*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.351, 15-oct-2026) — el mueble clásico vestido de esta década.
+*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.357, 18-oct-2026) — el mueble clásico vestido de esta década.
 
 *Etiqueta.* La información adentro del archivo de música: título, artista, álbum, número, año. El reproductor lee la etiqueta, no el nombre del archivo — peinar etiquetas es peinar la biblioteca entera.
 
@@ -403,7 +403,7 @@ La salida: la vara de la puerta (la 51: el tablero, tras SU candado — dos paso
 
 *Scrobble.* El hábito del detective: registrar lo que suenas para amarrar historial y descubrimiento. muffon lo trae de fábrica — el reproductor que también lleva el cuaderno de campo.
 
-*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Multi-fuente.* La casa que no se casa con un río: consulta varios provedores y te sirve la versión que esté limpia. Spotube, Namida y muffon viven de esa libertad — con sus licencias mirándose dos veces.
 
@@ -475,7 +475,7 @@ La salida: la vara de la puerta (la 51: el tablero, tras SU candado — dos paso
 
 *Coleccionista.* El que suena, guarda, etiqueta y copia. No necesita FLAC de colección para empezar: necesita la rutina — maestro en PC, copia en teléfono, lista exportada. La estructura antes que el volumen.
 
-*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Bitrate.* Los kilobits por segundo del audio: la medida de cuánto archivo pesa una canción. A más bitrate, más fidelidad hasta donde el oído y el altavoz alcancen a distinguir — el 320 del MP3 es el techo práctico del bolsillo.
 
@@ -523,7 +523,7 @@ La salida: la vara de la puerta (la 51: el tablero, tras SU candado — dos paso
 
 Tablero de la casa|La pantalla que junta y vigila el taller: Homepage (el mapa) + Uptime Kuma (el vigía). Las diez faenas — de un vistazo, cuidadas sin mirar.
 
-Vigía|Uptime Kuma (★92.557, pulso 16-oct-2026, 2021): cada faena, un latido por minuto — el aviso al bolsillo. La segunda placa mayor de la obra: nacida de un solo forjador.
+Vigía|Uptime Kuma (★92.609, pulso 18-oct-2026, 2021): cada faena, un latido por minuto — el aviso al bolsillo. La segunda placa mayor de la obra: nacida de un solo forjador.
 
 Mapa|Homepage (★33.188, pulso 16-oct-2026, 2022): cada faena, su tarjeta con su botón y su semáforo. La puerta de la casa — en una pantalla, jamás diez favoritos sueltos.
 
@@ -659,7 +659,7 @@ La obra sigue (la 61 abre la fila de la IA propia), pero tu taller: COMPLETO —
 
 *🪡 LA ÚLTIMA AGUJA (cosida al pie, como la casa cose)*
 
-Si esta pieza sirvió para algo más que leer, fue para esto: dejar escrito que la casa tiene tablero con placa — Uptime Kuma ★92.557 (pulso 16-oct-2026), la segunda placa mayor de toda la obra, nacida de un solo forjador, y Homepage ★33.188, su mapa: la pareja del cierre.
+Si esta pieza sirvió para algo más que leer, fue para esto: dejar escrito que la casa tiene tablero con placa — Uptime Kuma ★92.609 (pulso 18-oct-2026), la segunda placa mayor de toda la obra, nacida de un solo forjador, y Homepage ★33.188, su mapa: la pareja del cierre.
 
 La forja lo midió con el pulso del mismo día en que nace esta pieza, y lo firma: los nueve latidos (cada faena, su vara), el telegrama con criterio (calla lo que no importa, grita lo que sí), el chequeo de profundidad (el aviso antes del ahogo) — y la regla cosida: el telegrama que llega, se lee; el tablero, tras el candado de la casa.
 

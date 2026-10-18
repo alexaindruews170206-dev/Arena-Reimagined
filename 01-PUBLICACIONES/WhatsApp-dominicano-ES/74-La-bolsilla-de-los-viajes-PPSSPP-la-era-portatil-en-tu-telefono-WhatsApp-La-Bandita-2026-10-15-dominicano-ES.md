@@ -1,5 +1,5 @@
 *74 — LA BOLSILLA DE LOS VIAJES*
-*hrydgard/ppsspp ★14.680 (pulso 18-oct-2026) es la era portátil volviendo al bolsillo: los juegos de la PSP corriendo en tu teléfono — la consola que cabía en la mano, de vuelta en la caja que ya llevas (WhatsApp · La Bandita · dominicano-ES)*
+*hrydgard/ppsspp ★14.681 (pulso 18-oct-2026) es la era portátil volviendo al bolsillo: los juegos de la PSP corriendo en tu teléfono — la consola que cabía en la mano, de vuelta en la caja que ya llevas (WhatsApp · La Bandita · dominicano-ES)*
 
 ───────────────────
 
@@ -9,7 +9,7 @@ La bolsilla de los viajes es PPSSPP: los discos de la PSP (la consola portátil 
 
 *🗺 MAPA DE ESTA GUÍA*
 
-La fila del salón (71-80) firma su cuarta pieza: la era portátil — esta pieza septuagésimacuarta trae la PSP a la caja (la cuarta placa del salón: debajo del cubo ★15.681 (pulso 18-oct-2026) — por 1.001 — y encima del mueble padre ★14.367 — por 313).
+La fila del salón (71-80) firma su cuarta pieza: la era portátil — esta pieza septuagésimacuarta trae la PSP a la caja (la cuarta placa del salón: debajo del cubo ★15.683 (pulso 18-oct-2026) — por 1.001 — y encima del mueble padre ★14.370 — por 313).
 
 El recorrido: la escena del juego prestado (la de toda casa que creció con una portátil), el censo de la bolsilla, las tres capas del viaje, la vara de la letra propia, la doctrina del UMD propio (la frontera con el robo), la receta por pisos, los mitos, las preguntas, seis casos, las despensas, los riesgos con fecha, el ritual de siete días y las cartas de la mesa.
 
@@ -27,17 +27,17 @@ Y el juego que corre: el que la casa VUELCA (el UMD propio en el lector: la rom 
 
 La bolsilla y su familia — las placas de la era portátil, medidas HOY.
 
-*La bolsilla — PPSSPP.* `hrydgard/ppsspp` ★14.680 (pulso 18-oct-2026).
+*La bolsilla — PPSSPP.* `hrydgard/ppsspp` ★14.681 (pulso 18-oct-2026).
 
 Nacida el 1-nov-2012 (CATORCE AÑOS de forja — la veterana de la era portátil: más vieja que el cubo 2013 y la negra chiquita 2019, más joven que el mueble padre 2010). Con aire del MISMO DÍA (push de hoy), con su letra por leer en su hogar (NOASSERTION en el índice — la firma se lee en la casa de la forja: la vara de la 58, siempre primero).
 
 La forja de la era portátil: la PSP entera, en una app.
 
-*El ranking, con honestidad del censo:* la bolsilla es LA CUARTA PLACA DEL SALÓN (★14.680, pulso 18-oct-2026: debajo del cubo ★15.681 — por 1.001 — y encima del mueble padre ★14.367 — por 313). En el censo entero: debajo del router del aire ★28.760 (pulso 18-oct-2026).
+*El ranking, con honestidad del censo:* la bolsilla es LA CUARTA PLACA DEL SALÓN (★14.681, pulso 18-oct-2026: debajo del cubo ★15.683 — por 1.002 — y encima del mueble padre ★14.370 — por 311). En el censo entero: debajo del router del aire ★28.760 (pulso 18-oct-2026).
 
 La lección del censo: catorce años puliendo UNA consola portátil — la forja más paciente del salón junto al mueble. El censo no decora: mide.
 
-*La familia del salón:* el mueble padre (71: RetroArch ★14.367, pulso 18-oct-2026), el windows de la mesa (72: ★19.519 — la placa mayor), el cubo (73: Dolphin ★15.681 — la era del movimiento), la negra chiquita (75: DuckStation ★10.856 — la era siguiente). El salón de la casa: con su piso portátil — la era que vive en la mano.
+*La familia del salón:* el mueble padre (71: RetroArch ★14.370, pulso 18-oct-2026), el windows de la mesa (72: ★19.523 — la placa mayor), el cubo (73: Dolphin ★15.683 — la era del movimiento), la negra chiquita (75: DuckStation ★10.856 — la era siguiente). El salón de la casa: con su piso portátil — la era que vive en la mano.
 
 *🏛 LAS TRES CAPAS DEL VIAJE*
 
@@ -133,7 +133,7 @@ Suma la vara mayor: la honestidad del juego (el juego de precisión fina: mejor 
 
 Su otra vara fina seria: la copia ANTES de tocar (el save heredado: copiado a dos discos ANTES de cargarlo — la regla del oro: la partida de otra vida, más sagrada). Con vara fina: la gira del cofre (los saves: revisados en la gira — la partida del hermano: esperando su turno como toda la casa). El oro: de familia — jamás se pisa.
 
-*¿Qué placa es la de la bolsilla — entre quiénes corre y con qué edad?* La cuarta placa del salón — con vara fina: ★14.680 (pulso 18-oct-2026), debajo del cubo ★15.681 (por 1.001) y encima del mueble padre ★14.367 (por 313), debajo del router ★28.760 (pulso 18-oct-2026) en el censo).
+*¿Qué placa es la de la bolsilla — entre quiénes corre y con qué edad?* La cuarta placa del salón — con vara fina: ★14.681 (pulso 18-oct-2026), debajo del cubo ★15.683 (por 1.002) y encima del mueble padre ★14.370 (por 311), debajo del router ★28.760 (pulso 18-oct-2026) en el censo).
 
 Encima la vara mayor: CATORCE AÑOS de forja (2012-2026: la veterana de la era portátil — nacida antes que el cubo y la negra chiquita). La lectura fina: la forja del viaje (catorce años puliendo UNA consola: la paciencia del mueble padre, con el empuje de la hornada nueva). El censo no decora: mide — y catorce años: la medida del viaje.
 
@@ -169,7 +169,7 @@ Montaje: el cofre ordenado (carpetas por gente: los del hermano, los del hijo, l
 
 *🏭 LA DESPENSA DE DATOS (todo lo medido, en una repisa)*
 
-*Las placas (censo 18-oct-2026):* la bolsilla ★14.680 — LA CUARTA PLACA DEL SALÓN (debajo del cubo ★15.681 por 1.001; encima del mueble ★14.367 por 313; debajo del router ★28.760 en el censo). Letra por leer en su hogar.
+*Las placas (censo 18-oct-2026):* la bolsilla ★14.681 — LA CUARTA PLACA DEL SALÓN (debajo del cubo ★15.683 por 1.002; encima del mueble ★14.370 por 311; debajo del router ★28.760 en el censo). Letra por leer en su hogar.
 
 *La edad:* nacida el 1-nov-2012 — CATORCE AÑOS de forja (la veterana de la era portátil).
 
@@ -371,7 +371,7 @@ Su vara fina: el teléfono del viaje (si la casa puede: SU aparato pa el juego �
 
 *Firma.* La marca criptográfica del taller en su release. La tienda legal la verifica por ti; el APK de grupo, nadie sabe quién la puso. Sin firma verificable, no hay confianza — hay fe, y la casa no trabaja con fe.
 
-*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.351, 15-oct-2026) — el mueble clásico vestido de esta década.
+*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.357, 18-oct-2026) — el mueble clásico vestido de esta década.
 
 *Etiqueta.* La información adentro del archivo de música: título, artista, álbum, número, año. El reproductor lee la etiqueta, no el nombre del archivo — peinar etiquetas es peinar la biblioteca entera.
 
@@ -383,7 +383,7 @@ Su vara fina: el teléfono del viaje (si la casa puede: SU aparato pa el juego �
 
 *Scrobble.* El hábito del detective: registrar lo que suenas para amarrar historial y descubrimiento. muffon lo trae de fábrica — el reproductor que también lleva el cuaderno de campo.
 
-*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Multi-fuente.* La casa que no se casa con un río: consulta varios provedores y te sirve la versión que esté limpia. Spotube, Namida y muffon viven de esa libertad — con sus licencias mirándose dos veces.
 
@@ -455,7 +455,7 @@ Su vara fina: el teléfono del viaje (si la casa puede: SU aparato pa el juego �
 
 *Coleccionista.* El que suena, guarda, etiqueta y copia. No necesita FLAC de colección para empezar: necesita la rutina — maestro en PC, copia en teléfono, lista exportada. La estructura antes que el volumen.
 
-*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Bitrate.* Los kilobits por segundo del audio: la medida de cuánto archivo pesa una canción. A más bitrate, más fidelidad hasta donde el oído y el altavoz alcancen a distinguir — el 320 del MP3 es el techo práctico del bolsillo.
 
@@ -501,7 +501,7 @@ Su vara fina: el teléfono del viaje (si la casa puede: SU aparato pa el juego �
 
 *Oído del barrio.* El que escucha antes de opinar: prueba dos muebles, mira dos placas y pregunta en la fila antes de palomear. No nace sabido — se hace con una semana de ritual bien dada.
 
-Bolsilla de los viajes|PPSSPP: la era portátil de la PSP en el teléfono — la cuarta placa del salón (★14.680, pulso 18-oct-2026). Catorce años de forja resucitando el autobús.
+Bolsilla de los viajes|PPSSPP: la era portátil de la PSP en el teléfono — la cuarta placa del salón (★14.681, pulso 18-oct-2026). Catorce años de forja resucitando el autobús.
 
 Ley del UMD propio|La del disco portátil: se volca con SU firma (consola propia o lector del club) — la única ISO que la casa reconoce. El «todo incluido» del tacho: jamás.
 
@@ -643,7 +643,7 @@ El save perdido: no vuelve — el próximo: jamás se pierde.
 
 *🪡 LA ÚLTIMA AGUJA (cosida al pie, como la casa cose)*
 
-Si esta pieza sirvió para algo más que leer, fue para esto: dejar escrito que el viaje de una casa también se hereda — hrydgard/ppsspp ★14.680 (pulso 18-oct-2026), la cuarta placa del salón, catorce años de forja resucitando la era portátil: los UMD del estante, de vuelta en la mano.
+Si esta pieza sirvió para algo más que leer, fue para esto: dejar escrito que el viaje de una casa también se hereda — hrydgard/ppsspp ★14.681 (pulso 18-oct-2026), la cuarta placa del salón, catorce años de forja resucitando la era portátil: los UMD del estante, de vuelta en la mano.
 
 La forja lo midió con el pulso de HOY y lo firma: la ley del UMD propio (el disco del estante, volcado con respeto), las tandas del trayecto (la era pausándose como el autobús), el cofre del oro heredado — y la regla cosida: el save ajeno, sagrado.
 

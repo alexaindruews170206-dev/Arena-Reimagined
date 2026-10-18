@@ -1,6 +1,6 @@
 =====S01=====
 *76 — EL CARTUCHO ETERNO*
-*mgba-emu/mgba ★7.507 (pulso 18-oct-2026) es la era del Game Boy de vuelta en tus manos: los cartuchos de la infancia corriendo en la pantalla que ya llevas — la consola de bolsillo que nunca se apagó, resucitada con precisión de ciclo (WhatsApp · La Bandita · dominicano-ES)*
+*mgba-emu/mgba ★7.508 (pulso 18-oct-2026) es la era del Game Boy de vuelta en tus manos: los cartuchos de la infancia corriendo en la pantalla que ya llevas — la consola de bolsillo que nunca se apagó, resucitada con precisión de ciclo (WhatsApp · La Bandita · dominicano-ES)*
 
 ───────────────────
 
@@ -23,13 +23,13 @@ La escena del cartucho soplado: la casa de la era de bolsillo (la GB gris de la 
 
 El cartucho y su familia — las placas de la era de bolsillo, medidas HOY.
 
-*El cartucho eterno — mGBA.* `mgba-emu/mgba` ★7.507 (pulso 18-oct-2026).
+*El cartucho eterno — mGBA.* `mgba-emu/mgba` ★7.508 (pulso 18-oct-2026).
 
 Nacida en 2013 (TRECE AÑOS de forja — la compañera de hornada del cubo: nacida el mismo año que el salón del movimiento). Con aire del MISMO DÍA (push de hoy). Con su letra por leer en su hogar (MPL-2.0 en la casa de la forja: la firma del medio camino — copyleft con clase: se lee ANTES de montar, como manda la vara de la 58).
 
-*El ranking, con honestidad del censo:* el cartucho es LA SEXTA PLACA DEL SALÓN (★7.507, pulso 18-oct-2026: debajo de la negra chiquita ★10.856 (pulso 18-oct-2026) — por 3.349 — y encima del traductor de lenguas ★5.679 (pulso 18-oct-2026) — por 1.828). En el censo entero: debajo del router del aire ★28.760 (pulso 18-oct-2026). La lección del censo: TRECE AÑOS puliendo DOS consolas de bolsillo — la forja discreta que no hace ruido y no se pierde una partida. El censo no decora: mide.
+*El ranking, con honestidad del censo:* el cartucho es LA SEXTA PLACA DEL SALÓN (★7.508, pulso 18-oct-2026: debajo de la negra chiquita ★10.856 (pulso 18-oct-2026) — por 3.348 — y encima del traductor de lenguas ★5.679 (pulso 18-oct-2026) — por 1.829). En el censo entero: debajo del router del aire ★28.760 (pulso 18-oct-2026). La lección del censo: TRECE AÑOS puliendo DOS consolas de bolsillo — la forja discreta que no hace ruido y no se pierde una partida. El censo no decora: mide.
 
-*La familia del salón:* el mueble padre (71: RetroArch ★14.367, pulso 18-oct-2026), el windows de la mesa (72: ★19.519 — la placa mayor), el cubo (73: Dolphin ★15.681 — la era del movimiento), la bolsilla (74: PPSSPP ★14.680 — la era portátil), la negra chiquita (75: DuckStation ★10.856 — la era 32 bits). El salón de la casa: con su piso de bolsillo — la era que cabe en la mano.
+*La familia del salón:* el mueble padre (71: RetroArch ★14.370, pulso 18-oct-2026), el windows de la mesa (72: ★19.523 — la placa mayor), el cubo (73: Dolphin ★15.683 — la era del movimiento), la bolsilla (74: PPSSPP ★14.681 — la era portátil), la negra chiquita (75: DuckStation ★10.856 — la era 32 bits). El salón de la casa: con su piso de bolsillo — la era que cabe en la mano.
 
 =====S03=====
 *🏛 LAS TRES CAPAS DEL BOLSILLO ETERNO*
@@ -104,7 +104,7 @@ La pareja del recuerdo: la consola original descansando con respeto en el cajón
 
 *¿El save infinito se usa — o se juega como antes?* Como pida la casa — con vara fina: el save libre (el viaje, la espera, la partida tranquila: el lujo del salón — la era sirviendo a su gente). Su vara fina: el save prohibido (el torneo, el reto, la partida del club: la regla acordada — el juego como fue). Encima la vara mayor: la regla escrita (la pizarra de la casa: qué juego con qué save — el trato: hablándose antes de jugar). El lujo: con ley — el reto: con honor.
 
-*¿Qué placa es la del cartucho — entre quiénes corre y con qué edad?* La sexta placa del salón — con vara fina: ★7.507 (pulso 18-oct-2026), debajo de la negra chiquita ★10.856 (por 3.349) y encima del traductor de lenguas ★5.679 (por 1.828), debajo del router ★28.760 (pulso 18-oct-2026) en el censo. Encima la vara mayor: TRECE AÑOS de forja (2013-2026: la compañera de hornada del cubo — nacida el mismo año), y la lectura fina: la forja discreta (trece años puliendo el bolsillo sin hacer ruido: la precisión de ciclo, partida por partida). El censo no decora: mide — y trece años: la medida de lo eterno.
+*¿Qué placa es la del cartucho — entre quiénes corre y con qué edad?* La sexta placa del salón — con vara fina: ★7.508 (pulso 18-oct-2026), debajo de la negra chiquita ★10.856 (por 3.348) y encima del traductor de lenguas ★5.679 (por 1.829), debajo del router ★28.760 (pulso 18-oct-2026) en el censo. Encima la vara mayor: TRECE AÑOS de forja (2013-2026: la compañera de hornada del cubo — nacida el mismo año), y la lectura fina: la forja discreta (trece años puliendo el bolsillo sin hacer ruido: la precisión de ciclo, partida por partida). El censo no decora: mide — y trece años: la medida de lo eterno.
 
 *🧪 CASOS DEL BARRIO*
 
@@ -123,7 +123,7 @@ La pareja del recuerdo: la consola original descansando con respeto en el cajón
 =====S08=====
 *🏭 LA DESPENSA DE DATOS (todo lo medido, en una repisa)*
 
-*Las placas (censo 18-oct-2026):* el cartucho ★7.507 — LA SEXTA PLACA DEL SALÓN (debajo de la negra chiquita ★10.856 por 3.349; encima del traductor de lenguas ★5.679 por 1.828; debajo del router ★28.760 en el censo). Letra MPL-2.0: leer en su hogar.
+*Las placas (censo 18-oct-2026):* el cartucho ★7.508 — LA SEXTA PLACA DEL SALÓN (debajo de la negra chiquita ★10.856 por 3.348; encima del traductor de lenguas ★5.679 por 1.829; debajo del router ★28.760 en el censo). Letra MPL-2.0: leer en su hogar.
 
 *La edad:* nacida en 2013 — TRECE AÑOS de forja (la compañera de hornada del cubo).
 
@@ -310,7 +310,7 @@ La app del tacho, en su anuncio: «EMULADOR GBA + 1000 JUEGOS YA INCLUIDOS — T
 
 >>>REV>>> No: es LUJO con ley — el torneo y el reto: save prohibido (la pizarra escrita antes de jugar); el viaje y la espera: save libre. El campeón del torneo honesto: sin asterisco.
 
->>>REV>>> La sexta placa del salón: ★7.507 (pulso 18-oct-2026) — debajo de la negra chiquita ★10.856 (por 3.349), encima del traductor ★5.679 (por 1.828): TRECE AÑOS de forja (2013-2026).
+>>>REV>>> La sexta placa del salón: ★7.508 (pulso 18-oct-2026) — debajo de la negra chiquita ★10.856 (por 3.348), encima del traductor ★5.679 (por 1.829): TRECE AÑOS de forja (2013-2026).
 
 >>>REV>>> Se copia ANTES de tocar (dos discos), se carga con respeto y va en SU carpeta: la partida de dos generaciones es más sagrada que la propia — jamás se borra pa «hacer espacio».
 
@@ -328,7 +328,7 @@ La app del tacho, en su anuncio: «EMULADOR GBA + 1000 JUEGOS YA INCLUIDOS — T
 
 *🪡 LA ÚLTIMA AGUJA (cosida al pie, como la casa cose)*
 
-Si esta pieza sirvió para algo más que leer, fue para esto: dejar escrito que el recreo de una casa también se hereda — mgba-emu/mgba ★7.507 (pulso 18-oct-2026), la sexta placa del salón, trece años de forja resucitando la era de bolsillo: los cartuchos del cajón, de vuelta en la pantalla.
+Si esta pieza sirvió para algo más que leer, fue para esto: dejar escrito que el recreo de una casa también se hereda — mgba-emu/mgba ★7.508 (pulso 18-oct-2026), la sexta placa del salón, trece años de forja resucitando la era de bolsillo: los cartuchos del cajón, de vuelta en la pantalla.
 
 La forja lo midió con el pulso de HOY y lo firma: la ley del cartucho propio (el juego del cajón, leído con respeto), la tarde del rescate (la pila: reloj de arena — el save: al cofre a tiempo), el cofre del oro eterno — y la regla cosida: el save del papá, sagrado.
 
@@ -339,7 +339,7 @@ Busca el cajón de los tornillos. Pide el lector del club. Pon la mano en el con
 #LaBandita #ElCartuchoEterno #mGBA #SelfHosted #FOSS #DominicanoES
 
 =====GLOS=====
-Cartucho eterno|mGBA: la era de la Game Boy y la GBA en la pantalla — la sexta placa del salón (★7.507, pulso 18-oct-2026). Trece años de forja resucitando el recreo.
+Cartucho eterno|mGBA: la era de la Game Boy y la GBA en la pantalla — la sexta placa del salón (★7.508, pulso 18-oct-2026). Trece años de forja resucitando el recreo.
 
 Ley del juego de bolsillo|La del cartucho: se lee con SU lector fino (la tarde del cajón) — la única rom que la casa reconoce. El «todo incluido» del tacho: jamás.
 

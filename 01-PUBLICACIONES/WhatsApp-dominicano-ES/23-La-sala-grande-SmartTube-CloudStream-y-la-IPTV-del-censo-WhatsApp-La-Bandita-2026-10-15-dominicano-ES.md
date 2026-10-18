@@ -5,7 +5,7 @@
 
 *⚡ EN UN RESPIRO*
 
-Del teléfono a la SALA: esta cosecha mide el vídeo grande — la pantalla del salón, el televisor del barrio, la IPTV del colmado. Seis casas con placa al censo del 15-oct-2026 (tarde), y la sala trae su campeón propio: **SmartTube** con ★34.998 (censo 15-oct-2026) y push del MISMO día del censo — el muñeco que le quita los anuncios al televisor de YouTube sin root ni cirugía.
+Del teléfono a la SALA: esta cosecha mide el vídeo grande — la pantalla del salón, el televisor del barrio, la IPTV del colmado. Seis casas con placa al censo del 18-oct-2026 (tarde), y la sala trae su campeón propio: **SmartTube** con ★35.125 (censo 18-oct-2026) y push del MISMO día del censo — el muñeco que le quita los anuncios al televisor de YouTube sin root ni cirugía.
 
 Trae además su quietud con acta (Miru, diez meses de silencio), su escuela IPTV con tres casas medidas, y la frontera más delicada de la serie: el streaming de películas — que la casa trata con la vara más recta de todas.
 
@@ -35,21 +35,21 @@ Es además el territorio del CONTROL parental involuntario: el control remoto qu
 
 Las placas completas, tal como el censo de la tarde del 15-oct-2026 las contestó:
 
-*SmartTube* — yuliskov/SmartTube · ★34.998 (censo 15-oct-2026) · push del MISMO día · MIT. El campeón de la sala: el cliente de YouTube para televisores y cajas sin anuncios, con fondo libre y sin cuenta obligada. La casa más grande de la familia del vídeo de salón — cuarenta y una veces el menor de la lista.
+*SmartTube* — yuliskov/SmartTube · ★35.125 (censo 18-oct-2026) · push del MISMO día · MIT. El campeón de la sala: el cliente de YouTube para televisores y cajas sin anuncios, con fondo libre y sin cuenta obligada. La casa más grande de la familia del vídeo de salón — cuarenta y una veces el menor de la lista.
 
-*CloudStream* — recloudstream/cloudstream · ★10.968 (censo 15-oct-2026) · push del MISMO día · GPL-3.0. El mueble vacío más famoso del ecosistema: un reproductor-buscador que NO trae contenido — las extensiones las pone el usuario. La forja lo mide con la vara derecha y la advertencia por delante: el mueble es GPL y público; lo que le conectes, tuyo.
+*CloudStream* — recloudstream/cloudstream · ★10.997 (censo 18-oct-2026) · push del MISMO día · GPL-3.0. El mueble vacío más famoso del ecosistema: un reproductor-buscador que NO trae contenido — las extensiones las pone el usuario. La forja lo mide con la vara derecha y la advertencia por delante: el mueble es GPL y público; lo que le conectes, tuyo.
 
-*Miru* — miru-project/miru-app · ★5.757 (censo 15-oct-2026) · push del 5-dic-2025 · AGPL-3.0 · QUIETUD anotada. El multiservicio: vídeo, manga y novelas en un mueble — su acta de quietud vive más abajo.
+*Miru* — miru-project/miru-app · ★5.767 (censo 18-oct-2026) · push del 5-dic-2025 · AGPL-3.0 · QUIETUD anotada. El multiservicio: vídeo, manga y novelas en un mueble — su acta de quietud vive más abajo.
 
-*MyTV* — mytv-android/mytv-android · ★2.804 (censo 15-oct-2026) · push del MISMO día · MIT. El sintonizador IPTV con diseño Material 3 para Android TV — la casa nueva de la escuela del canal.
+*MyTV* — mytv-android/mytv-android · ★2.821 (censo 18-oct-2026) · push del MISMO día · MIT. El sintonizador IPTV con diseño Material 3 para Android TV — la casa nueva de la escuela del canal.
 
-*YourTV* — horsemail/yourtv · ★1.355 (censo 15-oct-2026) · push del 25-ago · MIT. IPTV con soporte de listas web — la casa práctica del canal, con sus dos meses de ritmo a la vista.
+*YourTV* — horsemail/yourtv · ★1.356 (censo 18-oct-2026) · push del 25-ago · MIT. IPTV con soporte de listas web — la casa práctica del canal, con sus dos meses de ritmo a la vista.
 
-*M3UAndroid* — oxyroid/M3UAndroid · ★1.281 (censo 15-oct-2026) · push del 20-sep · GPL-3.0. El lector de listas M3U limpio y sin anuncios — la herramienta del que trae su propia lista de canales legales.
+*M3UAndroid* — oxyroid/M3UAndroid · ★1.283 (censo 18-oct-2026) · push del 20-sep · GPL-3.0. El lector de listas M3U limpio y sin anuncios — la herramienta del que trae su propia lista de canales legales.
 
 ───────────────────
 
-Frontera nombrada: **Piped** (★10.283, censo 15-oct-2026, push del mismo día, AGPL-3.0) es la puerta alternativa de YouTube — pero su oficio ya lo midió la pieza 16 con los frontends. En la sala se nombra y se respeta su casa: no se repite censo.
+Frontera nombrada: **Piped** (★10.282, censo 18-oct-2026, push del mismo día, AGPL-3.0) es la puerta alternativa de YouTube — pero su oficio ya lo midió la pieza 16 con los frontends. En la sala se nombra y se respeta su casa: no se repite censo.
 
 Detalle que la forja firma: SmartTube y CloudStream empujando el MISMO día del censo — los dos campeones de las dos escuelas grandes de la sala, con la luz prendida el mismo jueves.
 
@@ -97,7 +97,7 @@ La línea que la casa repite desde la pieza 01 y aquí pesa doble: en la sala se
 
 *🕰 QUIETUDES CON FECHA*
 
-*Miru — ★5.757 (censo 15-oct-2026) · push del 5-dic-2025 · AGPL-3.0*
+*Miru — ★5.767 (censo 18-oct-2026) · push del 5-dic-2025 · AGPL-3.0*
 
 Diez meses y diez días de silencio al corte. Miru fue la promesa del mueble TODO: vídeo, manga y novelas en una app, con extensiones elegantes y diseño fino. Su GPL (AGPL) dejó testamento: la línea puede vivirla cualquier heredero que la tome con las reglas.
 
@@ -129,7 +129,7 @@ Dos meses (25-ago) y casi un mes (20-sep) sin empuje NO son quietudes en la escu
 
 *Mito uno — «SmartTube es piratería».* No. Es un CLIENTE de YouTube: mira los mismos videos públicos, con TU cuenta si quieres (o sin ella). Lo que no trae es ANUNCIOS — y el anuncio no era el video. La casa lo mide con placa: MIT, repo público, push del 15-oct-2026. Otra cosa es que al servicio no le guste — eso lo discutes con el servicio, no con la vara.
 
-*Mito dos — «CloudStream trae todas las películas».* No trae UNA. Con ★10.968 al censo del 15-oct-2026, es un mueble vacío por diseño — las extensiones las conecta el usuario y CADA quien responde por su firma legal. La casa lo mide como lo que es: reproductor-buscador GPL de ★10.968 con push vivo.
+*Mito dos — «CloudStream trae todas las películas».* No trae UNA. Con ★10.997 al censo del 18-oct-2026, es un mueble vacío por diseño — las extensiones las conecta el usuario y CADA quien responde por su firma legal. La casa lo mide como lo que es: reproductor-buscador GPL de ★10.997 con push vivo.
 
 Lo que la piratería no va a tener nunca es pieza aquí — solo el mueble y la advertencia con nombre.
 
@@ -213,11 +213,11 @@ Salió con SmartTube para el YouTube de la universidad y las claras: la sala lib
 
 Las seis placas del censo de la tarde del 15-oct-2026, listas para copiar y verificar:
 
-SmartTube · yuliskov/SmartTube · ★34.998 · push 15-oct-2026 · MIT. CloudStream · recloudstream/cloudstream · ★10.968 · push 15-oct-2026 · GPL-3.0. Miru · miru-project/miru-app · ★5.757 · push 5-dic-2025 · AGPL-3.0 · quietud anotada. MyTV · mytv-android/mytv-android · ★2.804 · push 15-oct-2026 · MIT. YourTV · horsemail/yourtv · ★1.355 · push 25-ago-2026 · MIT.
+SmartTube · yuliskov/SmartTube · ★35.125 · push 18-oct-2026 · MIT. CloudStream · recloudstream/cloudstream · ★10.997 · push 18-oct-2026 · GPL-3.0. Miru · miru-project/miru-app · ★5.767 · push 5-dic-2025 · AGPL-3.0 · quietud anotada. MyTV · mytv-android/mytv-android · ★2.821 · push 18-oct-2026 · MIT. YourTV · horsemail/yourtv · ★1.356 · push 25-ago-2026 · MIT.
 
-M3UAndroid · oxyroid/M3UAndroid · ★1.281 · push 20-sep-2026 · GPL-3.0.
+M3UAndroid · oxyroid/M3UAndroid · ★1.283 · push 20-sep-2026 · GPL-3.0.
 
-Frontera nombrada: Piped · TeamPiped/Piped · ★10.283 · censo 15-oct-2026 · push 15-oct-2026 · AGPL-3.0 — frontends, casa de la pieza 16.
+Frontera nombrada: Piped · TeamPiped/Piped · ★10.282 · censo 18-oct-2026 · push 18-oct-2026 · AGPL-3.0 — frontends, casa de la pieza 16.
 
 Fuente: censo vivo de la casa (5.684 repos, tarde del 15-oct-2026). Dato viaja FECHADO a esa tarde — el pulso nocturno #10 midió la familia musical; la sala queda para el pulso próximo de la serie. Así viaja el mapa vivo: con hora, no con vanidad.
 
@@ -331,7 +331,7 @@ Clávalo donde mire toda la familia:
 
 — El grupo de siempre: *«SmartTube PREMIUM VIP ULTRA 4K sin límites, ¡descarga y comparte!»* 💸
 
-— SmartTube real: *★34.998 (censo 15-oct-2026), push del mismo día, MIT, repo público — y gratuito DE VERDAD por diseñο* 🧐
+— SmartTube real: *★35.125 (censo 18-oct-2026), push del mismo día, MIT, repo público — y gratuito DE VERDAD por diseñο* 🧐
 
 — El del grupo, con tres anuncios en la instalación y una suscripción «oculta»: 🪦
 
@@ -413,7 +413,7 @@ Clávalo donde mire toda la familia:
 
 *Firma.* La marca criptográfica del taller en su release. La tienda legal la verifica por ti; el APK de grupo, nadie sabe quién la puso. Sin firma verificable, no hay confianza — hay fe, y la casa no trabaja con fe.
 
-*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.351, 15-oct-2026) — el mueble clásico vestido de esta década.
+*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.357, 18-oct-2026) — el mueble clásico vestido de esta década.
 
 *Etiqueta.* La información adentro del archivo de música: título, artista, álbum, número, año. El reproductor lee la etiqueta, no el nombre del archivo — peinar etiquetas es peinar la biblioteca entera.
 
@@ -425,7 +425,7 @@ Clávalo donde mire toda la familia:
 
 *Scrobble.* El hábito del detective: registrar lo que suenas para amarrar historial y descubrimiento. muffon lo trae de fábrica — el reproductor que también lleva el cuaderno de campo.
 
-*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Multi-fuente.* La casa que no se casa con un río: consulta varios provedores y te sirve la versión que esté limpia. Spotube, Namida y muffon viven de esa libertad — con sus licencias mirándose dos veces.
 
@@ -497,7 +497,7 @@ Clávalo donde mire toda la familia:
 
 *Coleccionista.* El que suena, guarda, etiqueta y copia. No necesita FLAC de colección para empezar: necesita la rutina — maestro en PC, copia en teléfono, lista exportada. La estructura antes que el volumen.
 
-*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Bitrate.* Los kilobits por segundo del audio: la medida de cuánto archivo pesa una canción. A más bitrate, más fidelidad hasta donde el oído y el altavoz alcancen a distinguir — el 320 del MP3 es el techo práctico del bolsillo.
 

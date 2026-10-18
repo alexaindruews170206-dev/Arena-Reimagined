@@ -43,7 +43,7 @@ La forja firma el cierre con la misma vara con la que abrió: placas del censo, 
 
 *48 — EL CARGADOR.* Los gigas entre pares: LibreTorrent ★3.958 (pulso 16-oct-2026), GPL-3.0 — la puerta del bolsillo; qBittorrent ★40.846 (pulso 16-oct-2026) — el semillero de la casa. Sello `d19fd3328bf5e86c`.
 
-*49 — EL EMPUJE.* La mesa nítida: LocalSend ★94.549 (pulso 16-oct-2026), Apache-2.0 — la placa mayor de todo el censo, firmada en tres años y medio. Sello `a23b3860941c67f7`.
+*49 — EL EMPUJE.* La mesa nítida: LocalSend ★94.808 (pulso 18-oct-2026), Apache-2.0 — la placa mayor de todo el censo, firmada en tres años y medio. Sello `a23b3860941c67f7`.
 
 *50 — EL MAPA.* Esta pieza: los diez al vistazo, el orden de montaje y la temporada del aire — el cierre del bloque, con su sello propio.
 
@@ -195,7 +195,7 @@ La vara del mostrador: el bloque no pide renunciar de golpe — pide UNA faena p
 
 *Las placas del aire (censo 16-oct-2026):* veintitrés placas vivas en las piezas 41-49 — el bloque más poblado de la obra.
 
-*La placa mayor:* LocalSend ★94.549 (pulso 16-oct-2026) (la 49) — la mayor de todo el censo; firmada en tres años y medio.
+*La placa mayor:* LocalSend ★94.808 (pulso 18-oct-2026) (la 49) — la mayor de todo el censo; firmada en tres años y medio.
 
 *La placa más vieja:* el proyecto del router — desde 2004 (la 46): veinte años de oficio continuo.
 
@@ -381,7 +381,7 @@ La salida: el ritual de la temporada (una hora, un trimestre, el calendario del 
 
 *Firma.* La marca criptográfica del taller en su release. La tienda legal la verifica por ti; el APK de grupo, nadie sabe quién la puso. Sin firma verificable, no hay confianza — hay fe, y la casa no trabaja con fe.
 
-*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.351, 15-oct-2026) — el mueble clásico vestido de esta década.
+*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.357, 18-oct-2026) — el mueble clásico vestido de esta década.
 
 *Etiqueta.* La información adentro del archivo de música: título, artista, álbum, número, año. El reproductor lee la etiqueta, no el nombre del archivo — peinar etiquetas es peinar la biblioteca entera.
 
@@ -393,7 +393,7 @@ La salida: el ritual de la temporada (una hora, un trimestre, el calendario del 
 
 *Scrobble.* El hábito del detective: registrar lo que suenas para amarrar historial y descubrimiento. muffon lo trae de fábrica — el reproductor que también lleva el cuaderno de campo.
 
-*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Multi-fuente.* La casa que no se casa con un río: consulta varios provedores y te sirve la versión que esté limpia. Spotube, Namida y muffon viven de esa libertad — con sus licencias mirándose dos veces.
 
@@ -465,7 +465,7 @@ La salida: el ritual de la temporada (una hora, un trimestre, el calendario del 
 
 *Coleccionista.* El que suena, guarda, etiqueta y copia. No necesita FLAC de colección para empezar: necesita la rutina — maestro en PC, copia en teléfono, lista exportada. La estructura antes que el volumen.
 
-*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Bitrate.* Los kilobits por segundo del audio: la medida de cuánto archivo pesa una canción. A más bitrate, más fidelidad hasta donde el oído y el altavoz alcancen a distinguir — el 320 del MP3 es el techo práctico del bolsillo.
 

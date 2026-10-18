@@ -1,5 +1,5 @@
 *67 — LA RAÍZ DEL TELÉFONO*
-*Magisk ★63.307 (pulso 16-oct-2026) abre la jaula ENTERA del Android: la llave maestra del sistema — la raíz pa tu taller, disfrazada pa la banca, con póliza de respaldo ANTES (WhatsApp · La Bandita · dominicano-ES)*
+*Magisk ★63.344 (pulso 18-oct-2026) abre la jaula ENTERA del Android: la llave maestra del sistema — la raíz pa tu taller, disfrazada pa la banca, con póliza de respaldo ANTES (WhatsApp · La Bandita · dominicano-ES)*
 
 ───────────────────
 
@@ -31,15 +31,15 @@ La póliza ANTES (el respaldo completo del teléfono: la vara de la casa seria �
 
 La llave maestra y su familia — las placas del poder, medidas HOY.
 
-*La llave maestra — Magisk.* `topjohnwu/Magisk` ★63.307 (pulso 16-oct-2026), nacida el 8-sep-2016, con aire del MISMO DÍA (push de hoy), con su letra GPL-3.0 — **LETRA DE FUENTE PURA** (la firma de la escuela libre: la llave, pa siempre abierta).
+*La llave maestra — Magisk.* `topjohnwu/Magisk` ★63.344 (pulso 18-oct-2026), nacida el 8-sep-2016, con aire del MISMO DÍA (push 10-15-oct), con su letra GPL-3.0 — **LETRA DE FUENTE PURA** (la firma de la escuela libre: la llave, pa siempre abierta).
 
 La forja de la raíz del mundo libre: DIEZ AÑOS de oficio (2016-2026 — la segunda veterana de la fila, tras el bolsillo de 2015), un solo forjador de planta (la forja de una mano: el oficio del artesano).
 
-*La vara del ranking, con honestidad del censo:* la raíz NO es placa mayor — es la PLACA DE LA RAÍZ: UNA NARIZ (554 estrellas) encima del taller de bolsillo (66: Termux ★62.753, pulso 16-oct-2026), por debajo de la sincronía (45: syncthing ★89.442, pulso 16-oct-2026).
+*La vara del ranking, con honestidad del censo:* la raíz NO es placa mayor — es la PLACA DE LA RAÍZ: UNA NARIZ (554 estrellas) encima del taller de bolsillo (66: Termux ★62.914, pulso 18-oct-2026), por debajo de la sincronía (45: syncthing ★89.442, pulso 18-oct-2026).
 
 La pareja de veteranas: la raíz (2016) y el bolsillo (2015) — las dos forjas más viejas del bloque, corriendo hombro con hombro. El censo no decora: mide.
 
-*La familia de la fila:* la mente (61: Ollama ★183.478, pulso 16-oct-2026), el bolsillo (66: ★62.753), el taller de casa (51-60). La pareja del bolsillo y la raíz: el Termux faena en la jaula, la raíz abre la jaula — el taller chico, siendo dueño de su casa.
+*La familia de la fila:* la mente (61: Ollama ★183.478, pulso 18-oct-2026), el bolsillo (66: ★62.914), el taller de casa (51-60). La pareja del bolsillo y la raíz: el Termux faena en la jaula, la raíz abre la jaula — el taller chico, siendo dueño de su casa.
 
 *🏛 LAS TRES CAPAS DE LA LLAVE MAESTRA*
 
@@ -187,7 +187,7 @@ El apunte en la póliza: (la raíz: pa cuando la casa sea suya entera — la var
 
 *🏭 LA DESPENSA DE DATOS (todo lo medido, en una repisa)*
 
-*Las placas (censo 16-oct-2026):* la raíz ★63.307 — la PLACA DE LA RAÍZ (UNA NARIZ de 554 encima del bolsillo ★62.753; bajo la sincronía ★89.442) · GPL-3.0 — la letra de fuente pura.
+*Las placas (censo 18-oct-2026):* la raíz ★63.344 — la PLACA DE LA RAÍZ (UNA NARIZ de 554 encima del bolsillo ★62.914; bajo la sincronía ★89.442) · GPL-3.0 — la letra de fuente pura.
 
 *La edad:* nacida el 8-sep-2016 — **LA SEGUNDA VETERANA DE LA FILA** (diez años; el cumpleaños diez: esta misma semana del pulso).
 
@@ -391,7 +391,7 @@ Además la vara fina: la casa que no la necesita, NO la monta (el «no» como la
 
 *Firma.* La marca criptográfica del taller en su release. La tienda legal la verifica por ti; el APK de grupo, nadie sabe quién la puso. Sin firma verificable, no hay confianza — hay fe, y la casa no trabaja con fe.
 
-*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.351, 15-oct-2026) — el mueble clásico vestido de esta década.
+*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.357, 18-oct-2026) — el mueble clásico vestido de esta década.
 
 *Etiqueta.* La información adentro del archivo de música: título, artista, álbum, número, año. El reproductor lee la etiqueta, no el nombre del archivo — peinar etiquetas es peinar la biblioteca entera.
 
@@ -403,7 +403,7 @@ Además la vara fina: la casa que no la necesita, NO la monta (el «no» como la
 
 *Scrobble.* El hábito del detective: registrar lo que suenas para amarrar historial y descubrimiento. muffon lo trae de fábrica — el reproductor que también lleva el cuaderno de campo.
 
-*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Multi-fuente.* La casa que no se casa con un río: consulta varios provedores y te sirve la versión que esté limpia. Spotube, Namida y muffon viven de esa libertad — con sus licencias mirándose dos veces.
 
@@ -475,7 +475,7 @@ Además la vara fina: la casa que no la necesita, NO la monta (el «no» como la
 
 *Coleccionista.* El que suena, guarda, etiqueta y copia. No necesita FLAC de colección para empezar: necesita la rutina — maestro en PC, copia en teléfono, lista exportada. La estructura antes que el volumen.
 
-*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Bitrate.* Los kilobits por segundo del audio: la medida de cuánto archivo pesa una canción. A más bitrate, más fidelidad hasta donde el oído y el altavoz alcancen a distinguir — el 320 del MP3 es el techo práctico del bolsillo.
 
@@ -523,7 +523,7 @@ Además la vara fina: la casa que no la necesita, NO la monta (el «no» como la
 
 Raíz del teléfono|Magisk: la llave maestra del Android montada por encima del sistema — el dueño, mandando en su jaula. El poder — con póliza y con vara.
 
-Placa de la raíz|La de Magisk (★63.307, pulso 16-oct-2026): una nariz encima del bolsillo — la pareja de veteranas 2016-2015, hombro con hombro. Diez años: la forja de una sola planta.
+Placa de la raíz|La de Magisk (★63.344, pulso 18-oct-2026): una nariz encima del bolsillo — la pareja de veteranas 2016-2015, hombro con hombro. Diez años: la forja de una sola planta.
 
 Forja de una planta|La del artesano: diez años, push de HOY, una sola mano — la rareza noble del censo. La fuente GPL: la heredera — el oficio, pa siempre.
 
@@ -647,7 +647,7 @@ La vara fina, además: la raíz con oficio es lo OPUESTO de lo que hiciste (la p
 
 *🪡 LA ÚLTIMA AGUJA (cosida al pie, como la casa cose)*
 
-Si esta pieza sirvió para algo más que leer, fue para esto: dejar escrito que el poder también tiene oficio — Magisk ★63.307 (pulso 16-oct-2026), la placa de la raíz, diez años de una sola planta con su letra GPL-3.0: la llave maestra de fuente pura.
+Si esta pieza sirvió para algo más que leer, fue para esto: dejar escrito que el poder también tiene oficio — Magisk ★63.344 (pulso 18-oct-2026), la placa de la raíz, diez años de una sola planta con su letra GPL-3.0: la llave maestra de fuente pura.
 
 La forja lo midió con el pulso de HOY y lo firma: la raíz por encima del sistema (sin cicatriz), la póliza ANTES (el que no sabe volver, no arranca), los módulos uno por uno (de la forja, jamás de la vitrina), el disfraz fino pa la convivencia — y la regla cosida: si no toca, no se monta.
 

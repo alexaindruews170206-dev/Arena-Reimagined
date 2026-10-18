@@ -1,5 +1,5 @@
 *71 — LA SALA DE LAS CONSOLAS*
-*libretro/RetroArch ★14.367 (pulso 18-oct-2026) es el mueble donde cuelgan TODAS las consolas de una vez: los núcleos del mundo libre corriendo en tu caja — un salón, veinte máquinas, y la ley del juego propio mandando (WhatsApp · La Bandita · dominicano-ES)*
+*libretro/RetroArch ★14.370 (pulso 18-oct-2026) es el mueble donde cuelgan TODAS las consolas de una vez: los núcleos del mundo libre corriendo en tu caja — un salón, veinte máquinas, y la ley del juego propio mandando (WhatsApp · La Bandita · dominicano-ES)*
 
 ───────────────────
 
@@ -27,17 +27,17 @@ Con la vara fina de la doctrina: el juego lo pone la CASA (el cartucho propio, e
 
 El mueble y su familia — las placas del salón, medidas HOY.
 
-*El padre del salón — RetroArch.* `libretro/RetroArch` ★14.367 (pulso 18-oct-2026), nacida el 27-may-2010 — **LA FORJA MÁS VIEJA DE TODA LA OBRA: 16 AÑOS** (más vieja que la mente, que la casa de los pensares, que el taller de bolsillo: la abuela del censo entero).
+*El padre del salón — RetroArch.* `libretro/RetroArch` ★14.370 (pulso 18-oct-2026), nacida el 27-may-2010 — **LA FORJA MÁS VIEJA DE TODA LA OBRA: 16 AÑOS** (más vieja que la mente, que la casa de los pensares, que el taller de bolsillo: la abuela del censo entero).
 
 Con aire del MISMO DÍA (push de hoy), con su letra GPL-3.0 — **LETRA DE OFICIO CON COPIA LEGAL** (la misma escuela de la raíz de la 67). El mueble donde el mundo libre cuelga sus consolas: la API del núcleo (la técnica del oficio: cada máquina, un módulo que el mismo salón corre).
 
-*El ranking, con honestidad del censo:* el mueble padre NO es placa mayor — es LA FORJA MADRE DEL SALÓN: por estrellas corre debajo de tres hermanas de su propia fila (el windows de la mesa ★19.519 (pulso 18-oct-2026), el cubo ★15.681 y la bolsilla ★14.680 — por trescientas trece narices finas). En el censo entero: debajo del router del aire ★28.760 (pulso 18-oct-2026).
+*El ranking, con honestidad del censo:* el mueble padre NO es placa mayor — es LA FORJA MADRE DEL SALÓN: por estrellas corre debajo de tres hermanas de su propia fila (el windows de la mesa ★19.523 (pulso 18-oct-2026), el cubo ★15.683 y la bolsilla ★14.681 — por trescientas trece narices finas). En el censo entero: debajo del router del aire ★28.760 (pulso 18-oct-2026).
 
 La lección del censo: la casa más vieja no es la más alta — es la que SOSTIENE.
 
 Dieciséis años de push: ninguna forja de esta fila tiene ese historial. El censo no decora: mide.
 
-*La familia de la fila:* el windows de la mesa (72: Winlator ★19.519, pulso 18-oct-2026 — la oficina en la caja), el cubo (73: Dolphin ★15.681), la bolsilla (74: PPSSPP ★14.680), la negra chiquita (75: DuckStation ★10.856), el cartucho eterno (76: mGBA ★7.507).
+*La familia de la fila:* el windows de la mesa (72: Winlator ★19.523, pulso 18-oct-2026 — la oficina en la caja), el cubo (73: Dolphin ★15.683), la bolsilla (74: PPSSPP ★14.681), la negra chiquita (75: DuckStation ★10.856), el cartucho eterno (76: mGBA ★7.508).
 
 Y la pareja del mueble: los NÚCLEOS (los módulos de cada consola: del estante del mueble, con la misma vara de faena que la despensa de la 68).
 
@@ -139,7 +139,7 @@ La otra vara fina: para lo moderno, la fila tiene piezas hermanas (el windows de
 
 El mueble: corre los recuerdos — el presente: tiene su mesa.
 
-*¿Qué placa es la del mueble — y por qué celebro que no sea alta?* La forja madre — con vara fina: ★14.367 (pulso 18-oct-2026), la cuarta de SU fila por estrellas (debajo del windows ★19.519, el cubo ★15.681 y la bolsilla ★14.680 — por trescientas trece narices).
+*¿Qué placa es la del mueble — y por qué celebro que no sea alta?* La forja madre — con vara fina: ★14.370 (pulso 18-oct-2026), la cuarta de SU fila por estrellas (debajo del windows ★19.523, el cubo ★15.683 y la bolsilla ★14.681 — por trescientas trece narices).
 
 Encima la vara mayor: 16 años de push (2010-2026: la forja más vieja de la obra — más vieja que TODAS las placas mayores del censo: la mente nació 2023, la casa 2018, el taller de bolsillo 2015). La lectura fina: la altura se compra — la VEJEZ SANA se gana (16 años de aire fresco cada semana: la seriedad, probada como ninguna).
 
@@ -185,7 +185,7 @@ Montaje: el cofre ordenado (volcados con nombre de gente y año: «el del abuelo
 
 *🏭 LA DESPENSA DE DATOS (todo lo medido, en una repisa)*
 
-*Las placas (censo 18-oct-2026):* el mueble padre ★14.367 — LA FORJA MADRE DEL SALÓN (cuarta de su fila: debajo del windows ★19.519, el cubo ★15.681 y la bolsilla ★14.680 — por trescientas trece narices; debajo del router ★28.760 en el censo). GPL-3.0.
+*Las placas (censo 18-oct-2026):* el mueble padre ★14.370 — LA FORJA MADRE DEL SALÓN (cuarta de su fila: debajo del windows ★19.523, el cubo ★15.683 y la bolsilla ★14.681 — por trescientas trece narices; debajo del router ★28.760 en el censo). GPL-3.0.
 
 *La edad:* nacida el 27-may-2010 — **16 AÑOS: LA FORJA MÁS VIEJA DE TODA LA OBRA** (más vieja que la mente 2023, la casa 2018, el bolsillo 2015, la raíz 2016).
 
@@ -387,7 +387,7 @@ Con vara fina: el save de la noche (la partida se guarda a las diez: el ritual d
 
 *Firma.* La marca criptográfica del taller en su release. La tienda legal la verifica por ti; el APK de grupo, nadie sabe quién la puso. Sin firma verificable, no hay confianza — hay fe, y la casa no trabaja con fe.
 
-*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.351, 15-oct-2026) — el mueble clásico vestido de esta década.
+*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.357, 18-oct-2026) — el mueble clásico vestido de esta década.
 
 *Etiqueta.* La información adentro del archivo de música: título, artista, álbum, número, año. El reproductor lee la etiqueta, no el nombre del archivo — peinar etiquetas es peinar la biblioteca entera.
 
@@ -399,7 +399,7 @@ Con vara fina: el save de la noche (la partida se guarda a las diez: el ritual d
 
 *Scrobble.* El hábito del detective: registrar lo que suenas para amarrar historial y descubrimiento. muffon lo trae de fábrica — el reproductor que también lleva el cuaderno de campo.
 
-*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Multi-fuente.* La casa que no se casa con un río: consulta varios provedores y te sirve la versión que esté limpia. Spotube, Namida y muffon viven de esa libertad — con sus licencias mirándose dos veces.
 
@@ -471,7 +471,7 @@ Con vara fina: el save de la noche (la partida se guarda a las diez: el ritual d
 
 *Coleccionista.* El que suena, guarda, etiqueta y copia. No necesita FLAC de colección para empezar: necesita la rutina — maestro en PC, copia en teléfono, lista exportada. La estructura antes que el volumen.
 
-*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Bitrate.* Los kilobits por segundo del audio: la medida de cuánto archivo pesa una canción. A más bitrate, más fidelidad hasta donde el oído y el altavoz alcancen a distinguir — el 320 del MP3 es el techo práctico del bolsillo.
 
@@ -519,7 +519,7 @@ Con vara fina: el save de la noche (la partida se guarda a las diez: el ritual d
 
 Sala de las consolas|RetroArch: el mueble que cuelga TODAS las máquinas viejas — un salón, veinte consolas, un control. La forja madre: 16 años, la más vieja de la obra.
 
-Forja madre|La del mueble (★14.367, pulso 18-oct-2026): nacida 27-may-2010 — la forja más vieja jamás medida en la obra. Dieciséis años de push — con aire de HOY.
+Forja madre|La del mueble (★14.370, pulso 18-oct-2026): nacida 27-may-2010 — la forja más vieja jamás medida en la obra. Dieciséis años de push — con aire de HOY.
 
 Núcleo|El módulo de cada consola en el mueble: la negra chiquita, el cartucho eterno, la doble pantalla. Un núcleo por consola — elegido por faena, jamás el primero del estante.
 
@@ -545,7 +545,7 @@ Clase del save|La del liceo: el volcado en vivo del cartucho didáctico — la l
 
 Cofre de la herencia|El de los volcados del abuelo: cartuchos de joven, archivos con año y nombre. Los nietos — heredando jugando; la póliza — eterna.
 
-Windows de la mesa|La placa mayor del salón (72: ★19.519, pulso 18-oct-2026): los juegos de PC de antes en la caja. La pareja del mueble — núcleos y programas, la misma vara.
+Windows de la mesa|La placa mayor del salón (72: ★19.523, pulso 18-oct-2026): los juegos de PC de antes en la caja. La pareja del mueble — núcleos y programas, la misma vara.
 
 Vejez sana|La que el censo celebra: 16 años de push semanal — continuidad, no museo. La forja más vieja de la obra — midiendo como ninguna.
 
@@ -639,7 +639,7 @@ Con vara fina: la ley es UNA para toda la fila (el juego propio: el salón enter
 
 *🪡 LA ÚLTIMA AGUJA (cosida al pie, como la casa cose)*
 
-Si esta pieza sirvió para algo más que leer, fue para esto: dejar escrito que la memoria de una casa también se juega — libretro/RetroArch ★14.367 (pulso 18-oct-2026), la forja madre del salón, 16 años (la más vieja de toda la obra) con su letra GPL-3.0: el mueble donde las consolas del cajón vuelven a la tele.
+Si esta pieza sirvió para algo más que leer, fue para esto: dejar escrito que la memoria de una casa también se juega — libretro/RetroArch ★14.370 (pulso 18-oct-2026), la forja madre del salón, 16 años (la más vieja de toda la obra) con su letra GPL-3.0: el mueble donde las consolas del cajón vuelven a la tele.
 
 La forja lo midió con el pulso de HOY y lo firma: la ley del juego propio (el cartucho de la casa, volcado con respeto), el núcleo por faena (la gira del mueble), el oro con póliza — y la regla cosida: la dosis del sofá, mandando.
 

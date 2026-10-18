@@ -1,5 +1,5 @@
 *39 — EL TIMBRE*
-*Fossify Phone ★1.366 (censo 15-oct-2026) lleva el teléfono del linaje rescatado y Koler ★1.072 (censo 15-oct-2026) firma el minimalismo original: la llamada de la casa con dueño (WhatsApp · La Bandita · dominicano-ES)*
+*Fossify Phone ★1.389 (censo 18-oct-2026) lleva el teléfono del linaje rescatado y Koler ★1.072 (censo 18-oct-2026) firma el minimalismo original: la llamada de la casa con dueño (WhatsApp · La Bandita · dominicano-ES)*
 
 ───────────────────
 
@@ -7,7 +7,7 @@
 
 La pieza 37 armó la ficha (ConnectYou) y la voz (Quik) — esta noche completa el trío de la gente con el TIMBRE: el mueble de las LLAMADAS. Censo del 15-oct-2026.
 
-Las placas: **Fossify Phone** — ★1.366 (pulso 15-oct-2026), GPL-3.0, push del 13-oct (aire de dos días — la placa más fresca de la noche): el teléfono del colectivo Fossify — el heredero del linaje Simple Mobile Tools que la pieza 32 midió rescatándose: el mueble de llamadas con libreta, bloqueo de números y velocidad de discado de los de antes.
+Las placas: **Fossify Phone** — ★1.389 (pulso 18-oct-2026), GPL-3.0, push del 13-oct (aire de dos días — la placa más fresca de la noche): el teléfono del colectivo Fossify — el heredero del linaje Simple Mobile Tools que la pieza 32 midió rescatándose: el mueble de llamadas con libreta, bloqueo de números y velocidad de discado de los de antes.
 
 Y **Koler** — ★1.072 (censo 15-oct-2026), push del 27-dic-2024: el minimalismo original — «just a phone app», la app de llamada más limpia del estante, en quietud de diez meses (la placa honesta, firmada sin maquillaje).
 
@@ -39,7 +39,7 @@ La placa honesta de la noche, además: Koler en quietud de diez meses (push del 
 
 Las placas completas, tal como el censo de la tarde y el pulso nocturno del 15-oct-2026 las contestaron:
 
-*Fossify Phone* — FossifyOrg/Phone · ★1.366 (pulso 15-oct-2026) · push del 13-oct · GPL-3.0 · nacida el 4-jun-2022.
+*Fossify Phone* — FossifyOrg/Phone · ★1.389 (pulso 18-oct-2026) · push del 13-oct · GPL-3.0 · nacida el 4-jun-2022.
 
 El teléfono del colectivo: el heredero directo del linaje Simple Mobile Tools (la venta de la 32) — el mueble que el colectivo Fossify rescató y mantiene: gestor de llamadas con libreta integrada, bloqueo de números, marcado rápido, y el ritmo de push del colectivo (aire de dos días). La casa nueva del mueble más usado de la vieja familia.
 
@@ -101,7 +101,7 @@ La forja lo firma con la vara de la 37: la gente de la casa (llamada o bloqueada
 
 *🔧 LA RECETA DEL TIMBRE MUDADO (una tarde, por pisos)*
 
-*Piso uno — la escuela.* Fossify Phone del estante (placa: ★1.366 (censo 15-oct-2026), GPL-3.0, push del 13-oct-2026 — el colectivo respirando) o Koler (★1.072 (censo 15-oct-2026), push del 27-dic-2024 — el artesano, con su quietud a la vista). La vara de la casa: pa la mudanza completa, el colectivo; pa el minimalismo sabido, el artesano.
+*Piso uno — la escuela.* Fossify Phone del estante (placa: ★1.389 (censo 18-oct-2026), GPL-3.0, push del 13-oct-2026 — el colectivo respirando) o Koler (★1.072 (censo 18-oct-2026), push del 27-dic-2024 — el artesano, con su quietud a la vista). La vara de la casa: pa la mudanza completa, el colectivo; pa el minimalismo sabido, el artesano.
 
 La del estante institucional SIEMPRE (la puerta de la 35) — el «teléfono mejorado» de la tienda, jamás.
 
@@ -217,7 +217,7 @@ Receta: la lista negra local en los tres timbres (los números del guiso y sus p
 
 Las dos placas del timbre al 15-oct-2026, listas pa copiar y verificar:
 
-Fossify Phone · FossifyOrg/Phone · ★1.366 (censo 15-oct-2026) · nacida 4-jun-2022 · push 13-oct-2026 · GPL-3.0 · el teléfono del colectivo (heredero del linaje Simple Mobile Tools, venta de la 32). Koler · Chooloo/koler · ★1.072 (censo 15-oct-2026) · nacida 25-dic-2018 · push 27-dic-2024 · licencia sin sello SPDX en la API (frontera anotada) · «just a phone app».
+Fossify Phone · FossifyOrg/Phone · ★1.389 (censo 18-oct-2026) · nacida 4-jun-2022 · push 13-oct-2026 · GPL-3.0 · el teléfono del colectivo (heredero del linaje Simple Mobile Tools, venta de la 32). Koler · Chooloo/koler · ★1.072 (censo 18-oct-2026) · nacida 25-dic-2018 · push 27-dic-2024 · licencia sin sello SPDX en la API (frontera anotada) · «just a phone app».
 
 Fuente: censo vivo de la casa (5.684 repos, tarde del 15-oct-2026) + pulso nocturno con la API oficial del mismo 15-oct-2026. Dato viaja FECHADO a esa noche.
 
@@ -415,7 +415,7 @@ El oficio del timbre es el más invisible de la serie: se muda, se prueba con la
 
 *Firma.* La marca criptográfica del taller en su release. La tienda legal la verifica por ti; el APK de grupo, nadie sabe quién la puso. Sin firma verificable, no hay confianza — hay fe, y la casa no trabaja con fe.
 
-*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.351, 15-oct-2026) — el mueble clásico vestido de esta década.
+*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.357, 18-oct-2026) — el mueble clásico vestido de esta década.
 
 *Etiqueta.* La información adentro del archivo de música: título, artista, álbum, número, año. El reproductor lee la etiqueta, no el nombre del archivo — peinar etiquetas es peinar la biblioteca entera.
 
@@ -427,7 +427,7 @@ El oficio del timbre es el más invisible de la serie: se muda, se prueba con la
 
 *Scrobble.* El hábito del detective: registrar lo que suenas para amarrar historial y descubrimiento. muffon lo trae de fábrica — el reproductor que también lleva el cuaderno de campo.
 
-*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Multi-fuente.* La casa que no se casa con un río: consulta varios provedores y te sirve la versión que esté limpia. Spotube, Namida y muffon viven de esa libertad — con sus licencias mirándose dos veces.
 
@@ -499,7 +499,7 @@ El oficio del timbre es el más invisible de la serie: se muda, se prueba con la
 
 *Coleccionista.* El que suena, guarda, etiqueta y copia. No necesita FLAC de colección para empezar: necesita la rutina — maestro en PC, copia en teléfono, lista exportada. La estructura antes que el volumen.
 
-*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Bitrate.* Los kilobits por segundo del audio: la medida de cuánto archivo pesa una canción. A más bitrate, más fidelidad hasta donde el oído y el altavoz alcancen a distinguir — el 320 del MP3 es el techo práctico del bolsillo.
 
@@ -615,7 +615,7 @@ Ni más, ni menos|Lo que sabe el timbre de la casa: lo que la casa sabe. El nomb
 
 *🗓 EL RITUAL DE LA PRIMERA SEMANA (de la puerta arrendada a la llamada con dueño)*
 
-*DÍA UNO — la escuela.* El timbre del estante: Fossify Phone (placa: ★1.366 (censo 15-oct-2026), GPL-3.0, push del 13-oct-2026 — el colectivo respirando) o Koler (★1.072 (censo 15-oct-2026), push del 27-dic-2024 — el artesano, quietud firmada). La vara de la casa: mudanza completa → colectivo; minimalismo sabido → artesano. La del estante, jamás la de la tienda.
+*DÍA UNO — la escuela.* El timbre del estante: Fossify Phone (placa: ★1.389 (censo 18-oct-2026), GPL-3.0, push del 13-oct-2026 — el colectivo respirando) o Koler (★1.072 (censo 18-oct-2026), push del 27-dic-2024 — el artesano, quietud firmada). La vara de la casa: mudanza completa → colectivo; minimalismo sabido → artesano. La del estante, jamás la de la tienda.
 
 *DÍA DOS — el default.* El cambio de app de teléfono por defecto (un menú que la fábrica no publicita) + la llamada de prueba a la casa de la mamá: el timbre bautizándose en familia. Y el de fábrica: quieto de repuesto (sin desinstalar — la vara del mueble duplicado).
 
@@ -701,7 +701,7 @@ Y la tranquillidad que cobra: tu gente vuelve a ser asunto tuyo — el rótulo d
 
 *SEGUNDA CARTA — al colectivo que rescató el mueble y al artesano que lo descansa.*
 
-El censo de esta noche los firma juntos y honestos: Fossify Phone ★1.366 (pulso del 15-oct-2026) respirando dos días después del push, Koler ★1.072 en su quietud de diciembre — las dos escuelas del timbre con sus placas a la vista.
+El censo de esta noche los firma juntos y honestos: Fossify Phone ★1.389 (pulso del 18-oct-2026) respirando dos días después del push, Koler ★1.072 en su quietud de diciembre — las dos escuelas del timbre con sus placas a la vista.
 
 El censo firma la genealogía completa (la venta, el rescate, la GPL sosteniendo el mueble) y re-mide en el censo próximo — si el artesano despierta, la fiesta la anota esta casa.
 

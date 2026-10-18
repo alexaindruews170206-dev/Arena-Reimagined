@@ -9,7 +9,7 @@ La negra chiquita es DuckStation: los discos de la PlayStation 1 (la consola neg
 
 *🗺 MAPA DE ESTA GUÍA*
 
-La fila del salón (71-80) firma su quinta pieza: la era 32 bits — esta pieza septuagésimaquinta trae la PS1 a la casa (la quinta placa: debajo del cartucho eterno ★7.507 (pulso 18-oct-2026) — por 3.349 — y encima de la fila que viene).
+La fila del salón (71-80) firma su quinta pieza: la era 32 bits — esta pieza septuagésimaquinta trae la PS1 a la casa (la quinta placa: debajo del cartucho eterno ★7.508 (pulso 18-oct-2026) — por 3.349 — y encima de la fila que viene).
 
 El recorrido: la escena del disco negro (la de toda casa que vio cargar la tapa), el censo de la negra, las tres capas del salón fino, la vara de la letra propia, la doctrina del disco propio volcado (la frontera con el robo), la receta por pisos, los mitos, las preguntas, seis casos, las despensas, los riesgos con fecha, el ritual de siete días y las cartas de la mesa.
 
@@ -31,11 +31,11 @@ La negra y su familia — las placas de la era 32 bits, medidas HOY.
 
 Nacida el 9-sep-2019 (SIETE AÑOS de forja — la más joven de la fila del salón: nacida cuando el mueble padre ya tenía nueve años y el cubo seis). Con aire del MISMO DÍA (push de hoy). Con su letra por leer en su hogar (BSD-3 en la casa de la forja: la firma de la escuela abierta — se lee ANTES de montar, como manda la vara de la 58).
 
-*El ranking, con honestidad del censo:* la negra es LA QUINTA PLACA DEL SALÓN (★10.856, pulso 18-oct-2026: debajo de la bolsilla ★14.680 (pulso 18-oct-2026) — por 3.824 — y encima del cartucho eterno ★7.507 (pulso 18-oct-2026) — por 3.349). En el censo entero: debajo del router del aire ★28.760 (pulso 18-oct-2026).
+*El ranking, con honestidad del censo:* la negra es LA QUINTA PLACA DEL SALÓN (★10.856, pulso 18-oct-2026: debajo de la bolsilla ★14.681 (pulso 18-oct-2026) — por 3.825 — y encima del cartucho eterno ★7.508 (pulso 18-oct-2026) — por 3.348). En el censo entero: debajo del router del aire ★28.760 (pulso 18-oct-2026).
 
 La lección del censo: SIETE AÑOS puliendo UNA consola vieja — la forja joven con el respeto del oficio viejo. El censo no decora: mide.
 
-*La familia del salón:* el mueble padre (71: RetroArch ★14.367, pulso 18-oct-2026), el windows de la mesa (72: ★19.519 — la placa mayor), el cubo (73: Dolphin ★15.681 — la era del movimiento), la bolsilla (74: PPSSPP ★14.680 — la era portátil). El salón de la casa: con su piso 32 bits — la era que enseñó a jugar en 3D.
+*La familia del salón:* el mueble padre (71: RetroArch ★14.370, pulso 18-oct-2026), el windows de la mesa (72: ★19.523 — la placa mayor), el cubo (73: Dolphin ★15.683 — la era del movimiento), la bolsilla (74: PPSSPP ★14.681 — la era portátil). El salón de la casa: con su piso 32 bits — la era que enseñó a jugar en 3D.
 
 *🏛 LAS TRES CAPAS DEL SALÓN FINO*
 
@@ -139,7 +139,7 @@ La otra vara fina seria: la copia ANTES de tocar (el volcado: a dos discos ANTES
 
 Encima la vara mayor: el confesorio del oro (los saves: en carpetas por gente — la memory card del hermano: con SU nombre). El oro: de familia — jamás se pisa.
 
-*¿Qué placa es la de la negra — entre quiénes corre y con qué edad?* La quinta placa del salón — con vara fina: ★10.856 (pulso 18-oct-2026), debajo de la bolsilla ★14.680 (por 3.824) y encima del cartucho eterno ★7.507 (por 3.349), debajo del router ★28.760 (pulso 18-oct-2026) en el censo).
+*¿Qué placa es la de la negra — entre quiénes corre y con qué edad?* La quinta placa del salón — con vara fina: ★10.856 (pulso 18-oct-2026), debajo de la bolsilla ★14.681 (por 3.825) y encima del cartucho eterno ★7.508 (por 3.348), debajo del router ★28.760 (pulso 18-oct-2026) en el censo).
 
 Encima la vara mayor: SIETE AÑOS de forja (2019-2026: la más joven de la fila — nacida cuando el mueble padre ya tenía nueve), y la lectura fina: la forja joven con respeto viejo (siete años puliendo una consola de 1994: la precisión como oficio). El censo no decora: mide — y siete años: la medida del respeto.
 
@@ -173,7 +173,7 @@ Montaje: el cofre ordenado (carpetas por gente: los del hermano, los del hijo, l
 
 *🏭 LA DESPENSA DE DATOS (todo lo medido, en una repisa)*
 
-*Las placas (censo 18-oct-2026):* la negra ★10.856 — LA QUINTA PLACA DEL SALÓN (debajo de la bolsilla ★14.680 por 3.824; encima del cartucho eterno ★7.507 por 3.349; debajo del router ★28.760 en el censo). Letra BSD-3: leer en su hogar.
+*Las placas (censo 18-oct-2026):* la negra ★10.856 — LA QUINTA PLACA DEL SALÓN (debajo de la bolsilla ★14.681 por 3.825; encima del cartucho eterno ★7.508 por 3.348; debajo del router ★28.760 en el censo). Letra BSD-3: leer en su hogar.
 
 *La edad:* nacida el 9-sep-2019 — SIETE AÑOS de forja (la más joven de la fila del salón).
 
@@ -393,7 +393,7 @@ Suma la vara fina: la póliza del disco (cada volcado: a dos discos ANTES de arc
 
 *Firma.* La marca criptográfica del taller en su release. La tienda legal la verifica por ti; el APK de grupo, nadie sabe quién la puso. Sin firma verificable, no hay confianza — hay fe, y la casa no trabaja con fe.
 
-*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.351, 15-oct-2026) — el mueble clásico vestido de esta década.
+*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.357, 18-oct-2026) — el mueble clásico vestido de esta década.
 
 *Etiqueta.* La información adentro del archivo de música: título, artista, álbum, número, año. El reproductor lee la etiqueta, no el nombre del archivo — peinar etiquetas es peinar la biblioteca entera.
 
@@ -405,7 +405,7 @@ Suma la vara fina: la póliza del disco (cada volcado: a dos discos ANTES de arc
 
 *Scrobble.* El hábito del detective: registrar lo que suenas para amarrar historial y descubrimiento. muffon lo trae de fábrica — el reproductor que también lleva el cuaderno de campo.
 
-*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Multi-fuente.* La casa que no se casa con un río: consulta varios provedores y te sirve la versión que esté limpia. Spotube, Namida y muffon viven de esa libertad — con sus licencias mirándose dos veces.
 
@@ -477,7 +477,7 @@ Suma la vara fina: la póliza del disco (cada volcado: a dos discos ANTES de arc
 
 *Coleccionista.* El que suena, guarda, etiqueta y copia. No necesita FLAC de colección para empezar: necesita la rutina — maestro en PC, copia en teléfono, lista exportada. La estructura antes que el volumen.
 
-*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Bitrate.* Los kilobits por segundo del audio: la medida de cuánto archivo pesa una canción. A más bitrate, más fidelidad hasta donde el oído y el altavoz alcancen a distinguir — el 320 del MP3 es el techo práctico del bolsillo.
 

@@ -1,5 +1,5 @@
 *76 — EL CARTUCHO ETERNO*
-*mgba-emu/mgba ★7.507 (pulso 18-oct-2026) es la era del Game Boy de vuelta en tus manos: los cartuchos de la infancia corriendo en la pantalla que ya llevas — la consola de bolsillo que nunca se apagó, resucitada con precisión de ciclo (WhatsApp · La Bandita · dominicano-ES)*
+*mgba-emu/mgba ★7.508 (pulso 18-oct-2026) es la era del Game Boy de vuelta en tus manos: los cartuchos de la infancia corriendo en la pantalla que ya llevas — la consola de bolsillo que nunca se apagó, resucitada con precisión de ciclo (WhatsApp · La Bandita · dominicano-ES)*
 
 ───────────────────
 
@@ -27,15 +27,15 @@ Y el juego que corre: el que la casa VUELCA (el cartucho propio en SU lector: la
 
 El cartucho y su familia — las placas de la era de bolsillo, medidas HOY.
 
-*El cartucho eterno — mGBA.* `mgba-emu/mgba` ★7.507 (pulso 18-oct-2026).
+*El cartucho eterno — mGBA.* `mgba-emu/mgba` ★7.508 (pulso 18-oct-2026).
 
 Nacida en 2013 (TRECE AÑOS de forja — la compañera de hornada del cubo: nacida el mismo año que el salón del movimiento). Con aire del MISMO DÍA (push de hoy). Con su letra por leer en su hogar (MPL-2.0 en la casa de la forja: la firma del medio camino — copyleft con clase: se lee ANTES de montar, como manda la vara de la 58).
 
-*El ranking, con honestidad del censo:* el cartucho es LA SEXTA PLACA DEL SALÓN (★7.507, pulso 18-oct-2026: debajo de la negra chiquita ★10.856 (pulso 18-oct-2026) — por 3.349 — y encima del traductor de lenguas ★5.679 (pulso 18-oct-2026) — por 1.828). En el censo entero: debajo del router del aire ★28.760 (pulso 18-oct-2026).
+*El ranking, con honestidad del censo:* el cartucho es LA SEXTA PLACA DEL SALÓN (★7.508, pulso 18-oct-2026: debajo de la negra chiquita ★10.856 (pulso 18-oct-2026) — por 3.348 — y encima del traductor de lenguas ★5.679 (pulso 18-oct-2026) — por 1.829). En el censo entero: debajo del router del aire ★28.760 (pulso 18-oct-2026).
 
 La lección del censo: TRECE AÑOS puliendo DOS consolas de bolsillo — la forja discreta que no hace ruido y no se pierde una partida. El censo no decora: mide.
 
-*La familia del salón:* el mueble padre (71: RetroArch ★14.367, pulso 18-oct-2026), el windows de la mesa (72: ★19.519 — la placa mayor), el cubo (73: Dolphin ★15.681 — la era del movimiento), la bolsilla (74: PPSSPP ★14.680 — la era portátil), la negra chiquita (75: DuckStation ★10.856 — la era 32 bits).
+*La familia del salón:* el mueble padre (71: RetroArch ★14.370, pulso 18-oct-2026), el windows de la mesa (72: ★19.523 — la placa mayor), el cubo (73: Dolphin ★15.683 — la era del movimiento), la bolsilla (74: PPSSPP ★14.681 — la era portátil), la negra chiquita (75: DuckStation ★10.856 — la era 32 bits).
 
 El salón de la casa: con su piso de bolsillo — la era que cabe en la mano.
 
@@ -135,7 +135,7 @@ La otra vara fina seria: el volcado ANTES de abrir (el save del 99: copiado al c
 
 Encima la vara mayor: la regla escrita (la pizarra de la casa: qué juego con qué save — el trato: hablándose antes de jugar). El lujo: con ley — el reto: con honor.
 
-*¿Qué placa es la del cartucho — entre quiénes corre y con qué edad?* La sexta placa del salón — con vara fina: ★7.507 (pulso 18-oct-2026), debajo de la negra chiquita ★10.856 (por 3.349) y encima del traductor de lenguas ★5.679 (por 1.828), debajo del router ★28.760 (pulso 18-oct-2026) en el censo.
+*¿Qué placa es la del cartucho — entre quiénes corre y con qué edad?* La sexta placa del salón — con vara fina: ★7.508 (pulso 18-oct-2026), debajo de la negra chiquita ★10.856 (por 3.348) y encima del traductor de lenguas ★5.679 (por 1.829), debajo del router ★28.760 (pulso 18-oct-2026) en el censo.
 
 Encima la vara mayor: TRECE AÑOS de forja (2013-2026: la compañera de hornada del cubo — nacida el mismo año), y la lectura fina: la forja discreta (trece años puliendo el bolsillo sin hacer ruido: la precisión de ciclo, partida por partida). El censo no decora: mide — y trece años: la medida de lo eterno.
 
@@ -171,7 +171,7 @@ Montaje: el cofre ordenado (carpetas por gente: los del papá, los del hijo), la
 
 *🏭 LA DESPENSA DE DATOS (todo lo medido, en una repisa)*
 
-*Las placas (censo 18-oct-2026):* el cartucho ★7.507 — LA SEXTA PLACA DEL SALÓN (debajo de la negra chiquita ★10.856 por 3.349; encima del traductor de lenguas ★5.679 por 1.828; debajo del router ★28.760 en el censo). Letra MPL-2.0: leer en su hogar.
+*Las placas (censo 18-oct-2026):* el cartucho ★7.508 — LA SEXTA PLACA DEL SALÓN (debajo de la negra chiquita ★10.856 por 3.348; encima del traductor de lenguas ★5.679 por 1.829; debajo del router ★28.760 en el censo). Letra MPL-2.0: leer en su hogar.
 
 *La edad:* nacida en 2013 — TRECE AÑOS de forja (la compañera de hornada del cubo).
 
@@ -387,7 +387,7 @@ Con vara fina: la carpeta limpia (el teléfono del liceo: limpio de tachos — S
 
 *Firma.* La marca criptográfica del taller en su release. La tienda legal la verifica por ti; el APK de grupo, nadie sabe quién la puso. Sin firma verificable, no hay confianza — hay fe, y la casa no trabaja con fe.
 
-*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.351, 15-oct-2026) — el mueble clásico vestido de esta década.
+*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.357, 18-oct-2026) — el mueble clásico vestido de esta década.
 
 *Etiqueta.* La información adentro del archivo de música: título, artista, álbum, número, año. El reproductor lee la etiqueta, no el nombre del archivo — peinar etiquetas es peinar la biblioteca entera.
 
@@ -399,7 +399,7 @@ Con vara fina: la carpeta limpia (el teléfono del liceo: limpio de tachos — S
 
 *Scrobble.* El hábito del detective: registrar lo que suenas para amarrar historial y descubrimiento. muffon lo trae de fábrica — el reproductor que también lleva el cuaderno de campo.
 
-*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Multi-fuente.* La casa que no se casa con un río: consulta varios provedores y te sirve la versión que esté limpia. Spotube, Namida y muffon viven de esa libertad — con sus licencias mirándose dos veces.
 
@@ -471,7 +471,7 @@ Con vara fina: la carpeta limpia (el teléfono del liceo: limpio de tachos — S
 
 *Coleccionista.* El que suena, guarda, etiqueta y copia. No necesita FLAC de colección para empezar: necesita la rutina — maestro en PC, copia en teléfono, lista exportada. La estructura antes que el volumen.
 
-*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Bitrate.* Los kilobits por segundo del audio: la medida de cuánto archivo pesa una canción. A más bitrate, más fidelidad hasta donde el oído y el altavoz alcancen a distinguir — el 320 del MP3 es el techo práctico del bolsillo.
 
@@ -517,7 +517,7 @@ Con vara fina: la carpeta limpia (el teléfono del liceo: limpio de tachos — S
 
 *Oído del barrio.* El que escucha antes de opinar: prueba dos muebles, mira dos placas y pregunta en la fila antes de palomear. No nace sabido — se hace con una semana de ritual bien dada.
 
-Cartucho eterno|mGBA: la era de la Game Boy y la GBA en la pantalla — la sexta placa del salón (★7.507, pulso 18-oct-2026). Trece años de forja resucitando el recreo.
+Cartucho eterno|mGBA: la era de la Game Boy y la GBA en la pantalla — la sexta placa del salón (★7.508, pulso 18-oct-2026). Trece años de forja resucitando el recreo.
 
 Ley del juego de bolsillo|La del cartucho: se lee con SU lector fino (la tarde del cajón) — la única rom que la casa reconoce. El «todo incluido» del tacho: jamás.
 
@@ -663,7 +663,7 @@ Con vara fina: la lección de la casa (lo que hoy juega tu hermano menor o tu hi
 
 *🪡 LA ÚLTIMA AGUJA (cosida al pie, como la casa cose)*
 
-Si esta pieza sirvió para algo más que leer, fue para esto: dejar escrito que el recreo de una casa también se hereda — mgba-emu/mgba ★7.507 (pulso 18-oct-2026), la sexta placa del salón, trece años de forja resucitando la era de bolsillo: los cartuchos del cajón, de vuelta en la pantalla.
+Si esta pieza sirvió para algo más que leer, fue para esto: dejar escrito que el recreo de una casa también se hereda — mgba-emu/mgba ★7.508 (pulso 18-oct-2026), la sexta placa del salón, trece años de forja resucitando la era de bolsillo: los cartuchos del cajón, de vuelta en la pantalla.
 
 La forja lo midió con el pulso de HOY y lo firma: la ley del cartucho propio (el juego del cajón, leído con respeto), la tarde del rescate (la pila: reloj de arena — el save: al cofre a tiempo), el cofre del oro eterno — y la regla cosida: el save del papá, sagrado.
 

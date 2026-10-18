@@ -9,7 +9,7 @@ El traductor de lenguas es box64: los programas del mundo x86 (los hechos pa los
 
 *🗺 MAPA DE ESTA GUÍA*
 
-La fila del salón (71-80) cambia de piso con esta pieza: ya no la consola — la PLANTA ELÉCTRICA del salón — esta pieza septuagintaséptima trae el traductor que hace posible la casa (la séptima placa: debajo del cartucho eterno ★7.507 (pulso 18-oct-2026) — por 1.828 — y encima de la doble pantalla ★5.122 (pulso 18-oct-2026) — por 557).
+La fila del salón (71-80) cambia de piso con esta pieza: ya no la consola — la PLANTA ELÉCTRICA del salón — esta pieza septuagintaséptima trae el traductor que hace posible la casa (la séptima placa: debajo del cartucho eterno ★7.508 (pulso 18-oct-2026) — por 1.828 — y encima de la doble pantalla ★5.125 (pulso 18-oct-2026) — por 557).
 
 El recorrido: la escena del programa que no abre — la de toda casa con un aparato nuevo.
 
@@ -31,11 +31,11 @@ El traductor y su familia — las placas de la planta del salón, medidas HOY.
 
 *El traductor de lenguas — box64.* `ptitSeb/box64` ★5.679 (pulso 18-oct-2026), nacida en 2020 (SEIS AÑOS de forja — la joven de la planta: nacida cuando el brazo ARM ya pedía programas de PC), con aire del MISMO DÍA (push de hoy), con su letra por leer en su hogar (MIT en la casa de la forja: la firma más libre del salón — se lee ANTES de montar, como manda la vara de la 58).
 
-*El ranking, con honestidad del censo:* el traductor es LA SÉPTIMA PLACA DEL SALÓN (★5.679, pulso 18-oct-2026: debajo del cartucho eterno ★7.507 (pulso 18-oct-2026) — por 1.828 — y encima de la doble pantalla ★5.122 (pulso 18-oct-2026) — por 557). En el censo entero: debajo del router del aire ★28.760 (pulso 18-oct-2026).
+*El ranking, con honestidad del censo:* el traductor es LA SÉPTIMA PLACA DEL SALÓN (★5.679, pulso 18-oct-2026: debajo del cartucho eterno ★7.508 (pulso 18-oct-2026) — por 1.829 — y encima de la doble pantalla ★5.125 (pulso 18-oct-2026) — por 554). En el censo entero: debajo del router del aire ★28.760 (pulso 18-oct-2026).
 
 La lección del censo: SEIS AÑOS traduciendo dos idiomas de máquina — la forja de UN hombre (la de ptitSeb: la constancia del artesano) que hoy mueve media casa. El censo no decora: mide.
 
-*La familia del salón:* el mueble padre (71: RetroArch ★14.367, pulso 18-oct-2026), el windows de la mesa (72: ★19.519 — la placa mayor), el cubo (73: Dolphin ★15.681), la bolsilla (74: PPSSPP ★14.680), la negra chiquita (75: ★10.856), el cartucho eterno (76: ★7.507).
+*La familia del salón:* el mueble padre (71: RetroArch ★14.370, pulso 18-oct-2026), el windows de la mesa (72: ★19.523 — la placa mayor), el cubo (73: Dolphin ★15.683), la bolsilla (74: PPSSPP ★14.681), la negra chiquita (75: ★10.856), el cartucho eterno (76: ★7.508).
 
 Y el traductor: el que NO es consola — es la PLANTA (el que deja que las demás eras y los programas del oficio: enciendan en el brazo). El salón de la casa: con su intérprete — dos idiomas, una casa.
 
@@ -147,7 +147,7 @@ Con la vara fina: el traductor de programas traduce un IDIOMA (el x86 → el ARM
 
 La pareja del salón: las dos artes del traducir — la del museo y la del oficio, la casa aprendiéndose las dos. El museo: guarda eras — el oficio: mueve la casa.
 
-*¿Qué placa es la del traductor — entre quiénes corre y con qué edad?* La séptima placa del salón — con vara fina: ★5.679 (pulso 18-oct-2026), debajo del cartucho eterno ★7.507 (por 1.828) y encima de la doble pantalla ★5.122 (por 557), debajo del router ★28.760 (pulso 18-oct-2026) en el censo.
+*¿Qué placa es la del traductor — entre quiénes corre y con qué edad?* La séptima placa del salón — con vara fina: ★5.679 (pulso 18-oct-2026), debajo del cartucho eterno ★7.508 (por 1.829) y encima de la doble pantalla ★5.125 (por 554), debajo del router ★28.760 (pulso 18-oct-2026) en el censo.
 
 Encima la vara mayor: SEIS AÑOS de forja (2020-2026: la joven de la planta — la forja de ptitSeb), y la lectura fina: la constancia del artesano (seis años de pushes: la forja de una mano seria — el barrio: reportando). El censo no decora: mide — y seis años: la medida de la constancia.
 
@@ -179,7 +179,7 @@ Montaje: el cofre ordenado (carpetas por máquina: la del taller, la del estudio
 
 *🏭 LA DESPENSA DE DATOS (todo lo medido, en una repisa)*
 
-*Las placas (censo 18-oct-2026):* el traductor ★5.679 — LA SÉPTIMA PLACA DEL SALÓN (debajo del cartucho eterno ★7.507 por 1.828; encima de la doble pantalla ★5.122 por 557; debajo del router ★28.760 en el censo). Letra MIT: leer en su hogar.
+*Las placas (censo 18-oct-2026):* el traductor ★5.679 — LA SÉPTIMA PLACA DEL SALÓN (debajo del cartucho eterno ★7.508 por 1.829; encima de la doble pantalla ★5.125 por 554; debajo del router ★28.760 en el censo). Letra MIT: leer en su hogar.
 
 *La edad:* nacida en 2020 — SEIS AÑOS de forja (la joven de la planta; la forja de ptitSeb).
 
@@ -387,7 +387,7 @@ Suma la vara fina: la versión anterior guardada (el retroceso: siempre disponib
 
 *Firma.* La marca criptográfica del taller en su release. La tienda legal la verifica por ti; el APK de grupo, nadie sabe quién la puso. Sin firma verificable, no hay confianza — hay fe, y la casa no trabaja con fe.
 
-*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.351, 15-oct-2026) — el mueble clásico vestido de esta década.
+*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.357, 18-oct-2026) — el mueble clásico vestido de esta década.
 
 *Etiqueta.* La información adentro del archivo de música: título, artista, álbum, número, año. El reproductor lee la etiqueta, no el nombre del archivo — peinar etiquetas es peinar la biblioteca entera.
 
@@ -399,7 +399,7 @@ Suma la vara fina: la versión anterior guardada (el retroceso: siempre disponib
 
 *Scrobble.* El hábito del detective: registrar lo que suenas para amarrar historial y descubrimiento. muffon lo trae de fábrica — el reproductor que también lleva el cuaderno de campo.
 
-*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Multi-fuente.* La casa que no se casa con un río: consulta varios provedores y te sirve la versión que esté limpia. Spotube, Namida y muffon viven de esa libertad — con sus licencias mirándose dos veces.
 
@@ -471,7 +471,7 @@ Suma la vara fina: la versión anterior guardada (el retroceso: siempre disponib
 
 *Coleccionista.* El que suena, guarda, etiqueta y copia. No necesita FLAC de colección para empezar: necesita la rutina — maestro en PC, copia en teléfono, lista exportada. La estructura antes que el volumen.
 
-*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Bitrate.* Los kilobits por segundo del audio: la medida de cuánto archivo pesa una canción. A más bitrate, más fidelidad hasta donde el oído y el altavoz alcancen a distinguir — el 320 del MP3 es el techo práctico del bolsillo.
 

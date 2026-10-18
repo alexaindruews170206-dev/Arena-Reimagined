@@ -285,7 +285,7 @@ El cierre del bloque pide su mapa — la fila completa, pa leerse de corrido:
 
 *EL CERROJO (38).* La segunda cerradura: Aegis (★13.299 (pulso 16-oct-2026)) y FreeOTP+ (★750 (pulso 16-oct-2026)) — la frase al tronco, el código no se le dice a nadie.
 
-*EL TIMBRE (39).* La llamada con dueño: Fossify Phone (★1.366 (pulso 16-oct-2026)) y Koler (★1.072 (pulso 16-oct-2026)) — el historial no sube, el mapa de la gente no se arrienda.
+*EL TIMBRE (39).* La llamada con dueño: Fossify Phone (★1.389 (pulso 18-oct-2026)) y Koler (★1.072 (pulso 18-oct-2026)) — el historial no sube, el mapa de la gente no se arrienda.
 
 *LA TORRE (40).* La sala de control: App Manager (★9.244 (pulso 16-oct-2026), push de HOY) — el sistema que se mira, se gobierna.
 
@@ -433,7 +433,7 @@ El oficio del sistema es el más satisfactorio de la serie: se ve la casa entera
 
 *Firma.* La marca criptográfica del taller en su release. La tienda legal la verifica por ti; el APK de grupo, nadie sabe quién la puso. Sin firma verificable, no hay confianza — hay fe, y la casa no trabaja con fe.
 
-*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.351, 15-oct-2026) — el mueble clásico vestido de esta década.
+*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.357, 18-oct-2026) — el mueble clásico vestido de esta década.
 
 *Etiqueta.* La información adentro del archivo de música: título, artista, álbum, número, año. El reproductor lee la etiqueta, no el nombre del archivo — peinar etiquetas es peinar la biblioteca entera.
 
@@ -445,7 +445,7 @@ El oficio del sistema es el más satisfactorio de la serie: se ve la casa entera
 
 *Scrobble.* El hábito del detective: registrar lo que suenas para amarrar historial y descubrimiento. muffon lo trae de fábrica — el reproductor que también lleva el cuaderno de campo.
 
-*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Multi-fuente.* La casa que no se casa con un río: consulta varios provedores y te sirve la versión que esté limpia. Spotube, Namida y muffon viven de esa libertad — con sus licencias mirándose dos veces.
 
@@ -517,7 +517,7 @@ El oficio del sistema es el más satisfactorio de la serie: se ve la casa entera
 
 *Coleccionista.* El que suena, guarda, etiqueta y copia. No necesita FLAC de colección para empezar: necesita la rutina — maestro en PC, copia en teléfono, lista exportada. La estructura antes que el volumen.
 
-*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Bitrate.* Los kilobits por segundo del audio: la medida de cuánto archivo pesa una canción. A más bitrate, más fidelidad hasta donde el oído y el altavoz alcancen a distinguir — el 320 del MP3 es el techo práctico del bolsillo.
 

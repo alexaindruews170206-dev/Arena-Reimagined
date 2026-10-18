@@ -7,9 +7,9 @@
 
 La cosecha musical (21), la repisa (22), la sala (23) y el escudo (24) midieron las casas que el barrio PALOMEA. Esta pieza mide las que el oficio USA: las herramientas del cajón del taller — la llave maestra, el inspector, el descargador, el mueble de archivos, el cuaderno y el autómata.
 
-Y esta cosecha trae el acta más grande de la serie: **Shizuku** — la llave maestra que la pieza 09 presentó al barrio — lleva quieta desde el 18-jun-2025: DIECISÉIS MESES de silencio al censo del 15-oct-2026, con ★31.555 y Apache firmado. La forja le dedica la sección central de la pieza, porque media herramienta del ecosistema depende de su respiración.
+Y esta cosecha trae el acta más grande de la serie: **Shizuku** — la llave maestra que la pieza 09 presentó al barrio — lleva quieta desde el 18-jun-2025: DIECISÉIS MESES de silencio al censo del 18-oct-2026, con ★31.746 y Apache firmado. La forja le dedica la sección central de la pieza, porque media herramienta del ecosistema depende de su respiración.
 
-Al lado, las vivas: **Gopeed** el descargador con ★26.936 (censo 15-oct-2026) empujando el 14-oct, **Amaze** el mueble de archivos con DOCE AÑOS de taller y push del MISMO día del censo, el **inspector de APKs** con su vara sin testamento, el **cuaderno** de notas sin nube, y el **autómata** que palomea por ti.
+Al lado, las vivas: **Gopeed** el descargador con ★26.998 (censo 18-oct-2026) empujando el 14-oct, **Amaze** el mueble de archivos con DOCE AÑOS de taller y push del MISMO día del censo, el **inspector de APKs** con su vara sin testamento, el **cuaderno** de notas sin nube, y el **autómata** que palomea por ti.
 
 No es una lista de utilidades «top» — es el cajón del taller medido: porque las herramientas que no tienen placa no son herramientas — son apuestas.
 
@@ -35,17 +35,17 @@ El acta de Shizuku manda el tono: la herramienta más importante del ecosistema 
 
 Las placas completas, tal como el censo de la tarde del 15-oct-2026 las contestó:
 
-*Shizuku* — RikkaApps/Shizuku · ★31.555 (censo 15-oct-2026) · push del 18-jun-2025 · Apache-2.0 · QUIETUD de dieciséis meses anotada. La llave maestra: deja que apps de confianza usen permisos de sistema con ADB o root, sin abrir el teléfono entero. Media herramienta moderna del ecosistema respira por ella — su acta completa es el corazón de esta pieza.
+*Shizuku* — RikkaApps/Shizuku · ★31.746 (censo 18-oct-2026) · push del 18-jun-2025 · Apache-2.0 · QUIETUD de dieciséis meses anotada. La llave maestra: deja que apps de confianza usen permisos de sistema con ADB o root, sin abrir el teléfono entero. Media herramienta moderna del ecosistema respira por ella — su acta completa es el corazón de esta pieza.
 
-*Gopeed* — GopeedLab/gopeed · ★26.936 (censo 15-oct-2026) · push del 14-oct · GPL-3.0 · nacida el 21-abr-2019. El descargador moderno: multi-plataforma, rápido, con extensiones — el hijo legítimo de la escuela de los gestores de descarga, con siete años de taller.
+*Gopeed* — GopeedLab/gopeed · ★26.998 (censo 18-oct-2026) · push del 14-oct · GPL-3.0 · nacida el 21-abr-2019. El descargador moderno: multi-plataforma, rápido, con extensiones — el hijo legítimo de la escuela de los gestores de descarga, con siete años de taller.
 
-*AppManager* — MuntashirAkon/AppManager · ★9.241 (censo 15-oct-2026) · push del 14-oct · SIN LICENCIA DECLARADA en el censo · nacida el 30-may-2020. El inspector: ve qué hay dentro de cada APK, qué permisos pide, qué actividades esconde — la lupa del cajón, con su placa legal en blanco y su vara marcada.
+*AppManager* — MuntashirAkon/AppManager · ★9.282 (censo 18-oct-2026) · push del 14-oct · SIN LICENCIA DECLARADA en el censo · nacida el 30-may-2020. El inspector: ve qué hay dentro de cada APK, qué permisos pide, qué actividades esconde — la lupa del cajón, con su placa legal en blanco y su vara marcada.
 
-*Amaze* — TeamAmaze/AmazeFileManager · ★6.429 (censo 15-oct-2026) · push del MISMO día del censo · GPL-3.0 · nacida el 14-jul-2014. DOCE AÑOS de taller: el mueble de archivos clásico del ecosistema, la casa más vieja de esta cosecha — empujando el mismo 15-oct-2026.
+*Amaze* — TeamAmaze/AmazeFileManager · ★6.430 (censo 18-oct-2026) · push del MISMO día del censo · GPL-3.0 · nacida el 14-jul-2014. DOCE AÑOS de taller: el mueble de archivos clásico del ecosistema, la casa más vieja de esta cosecha — empujando el mismo 18-oct-2026.
 
-*Markor* — gsantner/markor · ★6.295 (censo 15-oct-2026) · push del 10-oct · SIN LICENCIA DECLARADA en el censo · nacida el 26-ago-2017. El cuaderno: notas y Markdown en archivos PLANO — tus notas son tuyas porque son ARCHIVOS, no rehenes de una nube. Segunda placa sin testamento de la cosecha.
+*Markor* — gsantner/markor · ★6.308 (censo 18-oct-2026) · push del 10-oct · SIN LICENCIA DECLARADA en el censo · nacida el 26-ago-2017. El cuaderno: notas y Markdown en archivos PLANO — tus notas son tuyas porque son ARCHIVOS, no rehenes de una nube. Segunda placa sin testamento de la cosecha.
 
-*Touch Helper* — zfdang/Android-Touch-Helper · ★5.321 (censo 15-oct-2026) · push del 10-oct · MIT · nacida el 16-oct-2020. El autómata: palomea, salta y bloquea toques por ti — la herramienta del permiso incómodo, con la placa MIT más simple de la cosecha.
+*Touch Helper* — zfdang/Android-Touch-Helper · ★5.327 (censo 18-oct-2026) · push del 10-oct · MIT · nacida el 16-oct-2020. El autómata: palomea, salta y bloquea toques por ti — la herramienta del permiso incómodo, con la placa MIT más simple de la cosecha.
 
 ───────────────────
 
@@ -97,11 +97,11 @@ En el cajón, la licencia pesa más que en cualquier otra cosecha — porque est
 
 *Con firma completa:* Gopeed y Amaze con **GPL-3.0**; Shizuku con **Apache-2.0** (el testamento que garantiza su heredero); Touch Helper con **MIT**. Cuatro de seis firmadas al censo del 15-oct-2026 — pero las dos que NO firmaron son precisamente las que MIRAN TU TELÉFONO entero:
 
-*AppManager — la lupa sin testamento.* ★9.241 (censo 15-oct-2026), push del 14-oct, oficio de primera — y sin licencia declarada en el censo. La lectura de la forja: úsala como inspector con la vara marcada (mirar, sí; confiarle cirugía con permisos de root, solo entendiendo que nadie firmó nada), y espera a que el taller firme.
+*AppManager — la lupa sin testamento.* ★9.282 (censo 18-oct-2026), push del 14-oct, oficio de primera — y sin licencia declarada en el censo. La lectura de la forja: úsala como inspector con la vara marcada (mirar, sí; confiarle cirugía con permisos de root, solo entendiendo que nadie firmó nada), y espera a que el taller firme.
 
 La fame no compra el contrato — lección que la serie repite desde la estantería del escudo.
 
-*Markor — el cuaderno sin firma.* ★6.295 (censo 15-oct-2026), push del 10-oct, y el detalle que lo salva: sus notas son ARCHIVOS PLANOS — aunque la app no firmara nada, tus notas no viven presas dentro. La vara sin testamento pesa en la APP, no en tus datos. Aun así: la forja marca la placa — la cuarta pieza sin firma que la serie encuentra en la noche.
+*Markor — el cuaderno sin firma.* ★6.308 (censo 18-oct-2026), push del 10-oct, y el detalle que lo salva: sus notas son ARCHIVOS PLANOS — aunque la app no firmara nada, tus notas no viven presas dentro. La vara sin testamento pesa en la APP, no en tus datos. Aun así: la forja marca la placa — la cuarta pieza sin firma que la serie encuentra en la noche.
 
 *La vara en cuatro pasos, versión cajón:* uno — licencia con nombre, sigue; sin ella, con permisos de lectura basta, con permisos de mando NO. Dos — push vivo. Tres — fila de asuntos contestada. Cuatro — instalación del repo o tienda legal — y en la escuela de la llave, la receta EXACTA del taller (pieza 09), nunca el atajo del grupo.
 
@@ -109,7 +109,7 @@ La fame no compra el contrato — lección que la serie repite desde la estanter
 
 *🕰 EL ACTA DE SHIZUKU (la quietud que la serie esperaba)*
 
-*Shizuku — ★31.555 (censo 15-oct-2026) · push del 18-jun-2025 · Apache-2.0*
+*Shizuku — ★31.746 (censo 18-oct-2026) · push del 18-jun-2025 · Apache-2.0*
 
 Dieciséis meses y doce días de silencio al corte. Para dimensionar: Shizuku es a las herramientas modernas de Android lo que la electricidad al taller — apps de respaldo, de automatización, de gestión avanzada LEEN el teléfono a través de ella. Su quietud no es un dato más del censo: es un parte de estado del ECOSISTEMA ENTERO.
 
@@ -123,7 +123,7 @@ La lectura completa de la forja, en cuatro capas:
 
 El mapa existe para esto: quietud con plan no es crisis — es espera informada.
 
-*CUATRO — y la lección que la serie cosía:* hasta la casa más firmada del taller se queda quieta. La fama de Shizuku (★31.555 al censo 15-oct-2026) no la salva del silencio — solo la ley y los herederos salvan líneas. El lector que aprendió esto con la música, la repisa y el escudo, ahora lo ve en la llave maestra: la placa con fecha es la ÚNICA vara que no falla.
+*CUATRO — y la lección que la serie cosía:* hasta la casa más firmada del taller se queda quieta. La fama de Shizuku (★31.746 al censo 18-oct-2026) no la salva del silencio — solo la ley y los herederos salvan líneas. El lector que aprendió esto con la música, la repisa y el escudo, ahora lo ve en la llave maestra: la placa con fecha es la ÚNICA vara que no falla.
 
 ───────────────────
 
@@ -131,7 +131,7 @@ El mapa existe para esto: quietud con plan no es crisis — es espera informada.
 
 *Piso uno — el mueble de archivos.* Del censo del 15-oct-2026: Amaze (doce años de taller, GPL-3.0, push del mismo día del censo) desde la tienda legal. Primer trabajo: encontrar tu carpeta de Descargas y vaciarla de basura — el cajón del teléfono se ordena igual que el de la casa: primero lo que estorba.
 
-*Piso dos — el descargador.* Gopeed (★26.936 al censo 15-oct-2026, GPL-3.0, push del 14-oct) del repo o tienda legal. Prueba con la descarga legal de siempre (el EPUB del Gutenberg de la pieza 22): velocidad, pausa, reanudación. El descargador que pausa y reanuda es el que aguanta la vida real del campo dominicano.
+*Piso dos — el descargador.* Gopeed (★26.998 al censo 18-oct-2026, GPL-3.0, push del 14-oct) del repo o tienda legal. Prueba con la descarga legal de siempre (el EPUB del Gutenberg de la pieza 22): velocidad, pausa, reanudación. El descargador que pausa y reanuda es el que aguanta la vida real del campo dominicano.
 
 *Piso tres — el cuaderno.* Markor con su vara marcada: crea tu primera nota en Markdown, mira DÓNDE la guardó (carpeta de archivos — tu nota es TUYA). La vara del piso tres: exporta una nota a texto plano y ábrela en otra app — si vive, el cuaderno sirve.
 
@@ -191,9 +191,9 @@ El descargador que aguanta la vida real es el que paga la casa.
 
 Las seis placas del censo de la tarde del 15-oct-2026, listas para copiar y verificar:
 
-Shizuku · RikkaApps/Shizuku · ★31.555 · push 18-jun-2025 · Apache-2.0 · quietud de dieciséis meses. Gopeed · GopeedLab/gopeed · ★26.936 · nacida 21-abr-2019 · push 14-oct-2026 · GPL-3.0. AppManager · MuntashirAkon/AppManager · ★9.241 · nacida 30-may-2020 · push 14-oct-2026 · sin licencia declarada.
+Shizuku · RikkaApps/Shizuku · ★31.746 · push 18-jun-2025 · Apache-2.0 · quietud de dieciséis meses. Gopeed · GopeedLab/gopeed · ★26.998 · nacida 21-abr-2019 · push 14-oct-2026 · GPL-3.0. AppManager · MuntashirAkon/AppManager · ★9.282 · nacida 30-may-2020 · push 14-oct-2026 · sin licencia declarada.
 
-Amaze · TeamAmaze/AmazeFileManager · ★6.429 · nacida 14-jul-2014 · push 15-oct-2026 · GPL-3.0. Markor · gsantner/markor · ★6.295 · nacida 26-ago-2017 · push 10-oct-2026 · sin licencia declarada. Touch Helper · zfdang/Android-Touch-Helper · ★5.321 · nacida 16-oct-2020 · push 10-oct-2026 · MIT.
+Amaze · TeamAmaze/AmazeFileManager · ★6.430 · nacida 14-jul-2014 · push 18-oct-2026 · GPL-3.0. Markor · gsantner/markor · ★6.308 · nacida 26-ago-2017 · push 10-oct-2026 · sin licencia declarada. Touch Helper · zfdang/Android-Touch-Helper · ★5.327 · nacida 16-oct-2020 · push 10-oct-2026 · MIT.
 
 Fuente: censo vivo de la casa (5.684 repos, tarde del 15-oct-2026). Dato viaja FECHADO a esa tarde — el pulso nocturno #10 midió la música; el cajón queda para el pulso próximo de la serie.
 
@@ -227,7 +227,7 @@ No dice — jamás — que la llave maestra se instala por atajo de grupo: el pe
 
 El corte honesto declara sus huecos — con motivo escrito:
 
-*La familia del teclado y del lanzador.* FlorisBoard, Kvaesitso y Lawnchair viven con placa en el censo (★8.704, ★5.268, ★13.713 al corte del 15-oct-2026) — pero su oficio es LA CARA del teléfono (pieza 30 de la serie): personalización, no herramientas. Frontera de serie con fecha, no exclusión.
+*La familia del teclado y del lanzador.* FlorisBoard, Kvaesitso y Lawnchair viven con placa en el censo (★8.704, ★5.270, ★13.727 al corte del 18-oct-2026) — pero su oficio es LA CARA del teléfono (pieza 30 de la serie): personalización, no herramientas. Frontera de serie con fecha, no exclusión.
 
 *Los descargadores del torrent.* La escuela del BitTorrent (qBittorrent y familia) espera pieza propia del sótano: su oficio toca red y protocolo — el cajón de hoy mide el descargador HTTP, no el enjambre.
 
@@ -307,7 +307,7 @@ Clávalo en la puerta del taller:
 
 — El grupo de siempre: *«CLEANER MASTER PRO — tu teléfono 300% más rápido, libera RAM YA»* 💸
 
-— Amaze real: *★6.429 (censo 15-oct-2026), doce años de taller, GPL-3.0, push del mismo día — y ni un cartelito de «limpia tu RAM» en ninguna parte* 🧐
+— Amaze real: *★6.430 (censo 18-oct-2026), doce años de taller, GPL-3.0, push del mismo día — y ni un cartelito de «limpia tu RAM» en ninguna parte* 🧐
 
 — El del cleaner, borrando el respaldo del usuario «para optimizar»: 🪦
 
@@ -389,7 +389,7 @@ Clávalo en la puerta del taller:
 
 *Firma.* La marca criptográfica del taller en su release. La tienda legal la verifica por ti; el APK de grupo, nadie sabe quién la puso. Sin firma verificable, no hay confianza — hay fe, y la casa no trabaja con fe.
 
-*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.351, 15-oct-2026) — el mueble clásico vestido de esta década.
+*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.357, 18-oct-2026) — el mueble clásico vestido de esta década.
 
 *Etiqueta.* La información adentro del archivo de música: título, artista, álbum, número, año. El reproductor lee la etiqueta, no el nombre del archivo — peinar etiquetas es peinar la biblioteca entera.
 
@@ -401,7 +401,7 @@ Clávalo en la puerta del taller:
 
 *Scrobble.* El hábito del detective: registrar lo que suenas para amarrar historial y descubrimiento. muffon lo trae de fábrica — el reproductor que también lleva el cuaderno de campo.
 
-*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Multi-fuente.* La casa que no se casa con un río: consulta varios provedores y te sirve la versión que esté limpia. Spotube, Namida y muffon viven de esa libertad — con sus licencias mirándose dos veces.
 
@@ -473,7 +473,7 @@ Clávalo en la puerta del taller:
 
 *Coleccionista.* El que suena, guarda, etiqueta y copia. No necesita FLAC de colección para empezar: necesita la rutina — maestro en PC, copia en teléfono, lista exportada. La estructura antes que el volumen.
 
-*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Bitrate.* Los kilobits por segundo del audio: la medida de cuánto archivo pesa una canción. A más bitrate, más fidelidad hasta donde el oído y el altavoz alcancen a distinguir — el 320 del MP3 es el techo práctico del bolsillo.
 
@@ -523,7 +523,7 @@ Llave maestra|El permiso intermediario: apps de confianza usan permisos de siste
 
 Inspector|La lupa del cajón: mira dentro de cada APK — permisos, actividades, rastreadores. AppManager al censo — con su placa sin testamento y la vara marcada.
 
-Descargador|El mueble del trámite: baja con pausa, reanudación y cola. Gopeed (★26.936 al censo 15-oct-2026, GPL-3.0) hereda la escuela clásica con cara moderna.
+Descargador|El mueble del trámite: baja con pausa, reanudación y cola. Gopeed (★26.998 al censo 18-oct-2026, GPL-3.0) hereda la escuela clásica con cara moderna.
 
 Cuaderno|La herramienta de notas en ARCHIVOS planos: tus palabras no viven presas en ninguna nube. Markor la representa — con su vara sin firma pesando en la app, no en tus datos.
 

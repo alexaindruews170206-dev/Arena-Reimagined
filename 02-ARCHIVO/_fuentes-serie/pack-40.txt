@@ -294,7 +294,7 @@ El cierre del bloque pide su mapa — la fila completa, pa leerse de corrido:
 
 *EL CERROJO (38).* La segunda cerradura: Aegis (★13.299 (pulso 16-oct-2026)) y FreeOTP+ (★750 (pulso 16-oct-2026)) — la frase al tronco, el código no se le dice a nadie.
 
-*EL TIMBRE (39).* La llamada con dueño: Fossify Phone (★1.366 (pulso 16-oct-2026)) y Koler (★1.072 (pulso 16-oct-2026)) — el historial no sube, el mapa de la gente no se arrienda.
+*EL TIMBRE (39).* La llamada con dueño: Fossify Phone (★1.389 (pulso 18-oct-2026)) y Koler (★1.072 (pulso 18-oct-2026)) — el historial no sube, el mapa de la gente no se arrienda.
 
 *LA TORRE (40).* La sala de control: App Manager (★9.244 (pulso 16-oct-2026), push de HOY) — el sistema que se mira, se gobierna.
 

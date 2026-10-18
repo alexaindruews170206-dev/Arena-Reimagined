@@ -7,9 +7,9 @@
 
 El mayordomo (29) dejó la casa trabajando. Esta pieza mide lo PRIMERO que tocas al despertar: la cara del teléfono — el lanzador que muestra el escritorio y el teclado que escribe cada mensaje del día. Diez piezas ha durado el bloque de las cosechas; esta lo cierra midiendo el territorio más personal de todos, al censo del 15-oct-2026.
 
-Las placas: **Lawnchair** — ★13.713 (censo 15-oct-2026), nacida el 3-mar-2017: el escritorio estilo Pixel que la comunidad adoptó como suyo, con su placa SIN testamento marcada. **Kvaesitso** — ★5.268, GPL-3.0, el lanzador-buscador que busca en TODO antes que en las tiendas. **FlorisBoard** — ★8.704, Apache-2.0, empujando EL MISMO día del censo.
+Las placas: **Lawnchair** — ★13.727 (censo 18-oct-2026), nacida el 3-mar-2017: el escritorio estilo Pixel que la comunidad adoptó como suyo, con su placa SIN testamento marcada. **Kvaesitso** — ★5.270, GPL-3.0, el lanzador-buscador que busca en TODO antes que en las tiendas. **FlorisBoard** — ★8.704, Apache-2.0, empujando EL MISMO día del censo.
 
-**fcitx5** — ★5.761 (censo 15-oct-2026), LGPL-2.1, el teclado multilingüe de la escuela china. Y **FUTO Keyboard** — ★3.357, el teclado con dictado por voz que corre SIN nube.
+**fcitx5** — ★5.770 (censo 18-oct-2026), LGPL-2.1, el teclado multilingüe de la escuela china. Y **FUTO Keyboard** — ★3.357, el teclado con dictado por voz que corre SIN nube.
 
 El marco honesto: la cara del teléfono es el territorio de la identificación — aquí la gente no pregunta «cuál es mejor»: pregunta «cuál se parece a mí». La pieza mide las cinco casas con la vara de siempre y deja que la cara la elija el dueño.
 
@@ -35,15 +35,15 @@ Y su vara es la del detalle: la cara del teléfono no falla ruidoso — falla en
 
 Las placas completas, tal como el censo de la tarde del 15-oct-2026 las contestó:
 
-*Lawnchair* — LawnchairLauncher/lawnchair · ★13.713 (censo 15-oct-2026) · push del 13-oct · SIN LICENCIA DECLARADA en el censo · nacida el 3-mar-2017. El escritorio libre más querido de Android: la cara estilo Pixel — el buscador, las paletas de iconos, los widgets bien puestos.
+*Lawnchair* — LawnchairLauncher/lawnchair · ★13.727 (censo 18-oct-2026) · push del 13-oct · SIN LICENCIA DECLARADA en el censo · nacida el 3-mar-2017. El escritorio libre más querido de Android: la cara estilo Pixel — el buscador, las paletas de iconos, los widgets bien puestos.
 
 Nueve años y siete meses de taller — y su placa en blanco anotada con vara: la casa más famosa con testamento pendiente de la noche.
 
-*Kvaesitso* — MM2-0/Kvaesitso · ★5.268 (censo 15-oct-2026) · push del 13-oct · GPL-3.0 · nacida el 18-sep-2021. El lanzador-buscador: el escritorio que busca PRIMERO — en tus apps, tus archivos, tus contactos, tu calendario y la web — antes de preguntar qué icono tocaste. Cinco años y un mes: la cara más joven y más pensada del censo.
+*Kvaesitso* — MM2-0/Kvaesitso · ★5.270 (censo 18-oct-2026) · push del 13-oct · GPL-3.0 · nacida el 18-sep-2021. El lanzador-buscador: el escritorio que busca PRIMERO — en tus apps, tus archivos, tus contactos, tu calendario y la web — antes de preguntar qué icono tocaste. Cinco años y un mes: la cara más joven y más pensada del censo.
 
 *FlorisBoard* — florisboard/florisboard · ★8.704 (censo 15-oct-2026) · push del MISMO día del censo · Apache-2.0 · nacida el 8-abr-2020. El teclado de la comunidad: completo, con predicción local y diseño propio — el teclado libre de referencia del ecosistema. Seis años y seis meses, empujando el mismo día en que la forja lo midió.
 
-*fcitx5 (Android)* — fcitx5-android/fcitx5-android · ★5.761 (censo 15-oct-2026) · push del 13-oct · LGPL-2.1 · nacida el 10-jun-2021. El teclado multilingüe de la escuela seria: heredero del ecosistema fcitx de Linux, trae idiomas que los teclados grandes ni saben que existen. Cinco años y cuatro meses.
+*fcitx5 (Android)* — fcitx5-android/fcitx5-android · ★5.770 (censo 18-oct-2026) · push del 13-oct · LGPL-2.1 · nacida el 10-jun-2021. El teclado multilingüe de la escuela seria: heredero del ecosistema fcitx de Linux, trae idiomas que los teclados grandes ni saben que existen. Cinco años y cuatro meses.
 
 *FUTO Keyboard* — futo-org/android-keyboard · ★3.357 (censo 15-oct-2026) · push del 23-sep · SIN LICENCIA DECLARADA en el censo (el repo se declara espejo del código oficial del taller FUTO) · nacida el 7-may-2024. El teclado del dictado local: voz a texto SIN nube — la escuela de los modelos on-device en tu bolsillo.
 
@@ -79,7 +79,7 @@ El corte de la cara al 15-oct-2026: tres firmas completas, dos placas en blanco 
 
 *Con firma completa:* Kvaesitso con **GPL-3.0**, FlorisBoard con **Apache-2.0**, fcitx5 con **LGPL-2.1** — la firma de biblioteca: el ecosistema fcitx protege su núcleo sin cerrar la puerta a las mezclas. Tres leyes distintas, tres escuelas, cero huecos.
 
-*En blanco:* **Lawnchair** (★13.713 al censo del 15-oct-2026 — la casa más famosa del censo) y **FUTO** (★3.357 — con el agravante del repo espejo: el código oficial vive fuera de GitHub, en el git del taller).
+*En blanco:* **Lawnchair** (★13.727 al censo del 18-oct-2026 — la casa más famosa del censo) y **FUTO** (★3.357 — con el agravante del repo espejo: el código oficial vive fuera de GitHub, en el git del taller).
 
 La lectura completa de la forja: Lawnchair es históricamente GPLv3 y su código es público y auditado por años — pero el censo del 15-oct-2026 le marca la placa y la vara es la vara: SE ESPERA LA FIRMA, como con KeePassXC (27) y las otras de la noche.
 
@@ -109,7 +109,7 @@ La diferencia se nota a la semana: el teléfono que encuentra lo TUYO primero es
 
 *🔧 LA RECETA DE LA CARA ORDENADA (una tarde, por pisos)*
 
-*Piso uno — el escritorio entra.* Lawnchair del censo (placa marcada: ★13.713 al 15-oct-2026, push del 13-oct) o Kvaesitso (GPL-3.0) de la tienda legal o repo. El primer toque: se pone como predeterminado (Ajustes → Apps → App predeterminada → Inicio) — el teléfono pregunta una vez y la cara queda.
+*Piso uno — el escritorio entra.* Lawnchair del censo (placa marcada: ★13.727 al 18-oct-2026, push del 13-oct) o Kvaesitso (GPL-3.0) de la tienda legal o repo. El primer toque: se pone como predeterminado (Ajustes → Apps → App predeterminada → Inicio) — el teléfono pregunta una vez y la cara queda.
 
 Los iconos se acomodan CON calma: primero las cinco de la mañana, después el resto.
 
@@ -205,9 +205,9 @@ El teléfono de cualquiera de las dos sirve pa cualquiera de las dos — la cara
 
 Las cinco placas de la cara al 15-oct-2026, listas pa copiar y verificar:
 
-Lawnchair · LawnchairLauncher/lawnchair · ★13.713 · nacida 3-mar-2017 · push 13-oct-2026 · sin licencia declarada al censo. Kvaesitso · MM2-0/Kvaesitso · ★5.268 · nacida 18-sep-2021 · push 13-oct-2026 · GPL-3.0. FlorisBoard · florisboard/florisboard · ★8.704 · nacida 8-abr-2020 · push 15-oct-2026 (mismo día del censo) · Apache-2.0.
+Lawnchair · LawnchairLauncher/lawnchair · ★13.727 · nacida 3-mar-2017 · push 13-oct-2026 · sin licencia declarada al censo. Kvaesitso · MM2-0/Kvaesitso · ★5.270 · nacida 18-sep-2021 · push 13-oct-2026 · GPL-3.0. FlorisBoard · florisboard/florisboard · ★8.704 · nacida 8-abr-2020 · push 18-oct-2026 (mismo día del censo) · Apache-2.0.
 
-fcitx5-android · fcitx5-android/fcitx5-android · ★5.761 · nacida 10-jun-2021 · push 13-oct-2026 · LGPL-2.1. FUTO Keyboard · futo-org/android-keyboard · ★3.357 · nacida 7-may-2024 · push 23-sep-2026 · sin licencia declarada en el censo (repo espejo del git oficial del taller).
+fcitx5-android · fcitx5-android/fcitx5-android · ★5.770 · nacida 10-jun-2021 · push 13-oct-2026 · LGPL-2.1. FUTO Keyboard · futo-org/android-keyboard · ★3.357 · nacida 7-may-2024 · push 23-sep-2026 · sin licencia declarada en el censo (repo espejo del git oficial del taller).
 
 Fuente: censo vivo de la casa (5.684 repos, tarde del 15-oct-2026). Dato viaja FECHADO a esa tarde.
 
@@ -407,7 +407,7 @@ La noche termina con dos varas pendientes — y con las cinco casas empujando, q
 
 *Firma.* La marca criptográfica del taller en su release. La tienda legal la verifica por ti; el APK de grupo, nadie sabe quién la puso. Sin firma verificable, no hay confianza — hay fe, y la casa no trabaja con fe.
 
-*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.351, 15-oct-2026) — el mueble clásico vestido de esta década.
+*Material You.* El lenguaje de diseño de Android moderno que sigue el color de tu fondo. Retro Music lo lleva de bandera (★5.357, 18-oct-2026) — el mueble clásico vestido de esta década.
 
 *Etiqueta.* La información adentro del archivo de música: título, artista, álbum, número, año. El reproductor lee la etiqueta, no el nombre del archivo — peinar etiquetas es peinar la biblioteca entera.
 
@@ -419,7 +419,7 @@ La noche termina con dos varas pendientes — y con las cinco casas empujando, q
 
 *Scrobble.* El hábito del detective: registrar lo que suenas para amarrar historial y descubrimiento. muffon lo trae de fábrica — el reproductor que también lleva el cuaderno de campo.
 
-*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Discografía.* El mapa completo de un artista: álbumes, años, versiones. La vara del detective es amarrarla bien — muffon la cruza entre fuentes al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Multi-fuente.* La casa que no se casa con un río: consulta varios provedores y te sirve la versión que esté limpia. Spotube, Namida y muffon viven de esa libertad — con sus licencias mirándose dos veces.
 
@@ -491,7 +491,7 @@ La noche termina con dos varas pendientes — y con las cinco casas empujando, q
 
 *Coleccionista.* El que suena, guarda, etiqueta y copia. No necesita FLAC de colección para empezar: necesita la rutina — maestro en PC, copia en teléfono, lista exportada. La estructura antes que el volumen.
 
-*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 15-oct-2026 con ★2.244 y AGPL firmado.
+*Oído con oficio.* El que escucha preguntando: qué versión, qué año, qué disco. La escuela del detective existe para él — muffon al 18-oct-2026 con ★2.246 y AGPL firmado.
 
 *Bitrate.* Los kilobits por segundo del audio: la medida de cuánto archivo pesa una canción. A más bitrate, más fidelidad hasta donde el oído y el altavoz alcancen a distinguir — el 320 del MP3 es el techo práctico del bolsillo.
 
