@@ -65,7 +65,7 @@ Lo primero es lo primero: las placas. Catorce casas, tal como el censo vivo las 
 
 *muffon* — staniel359/muffon · ★2.246 (18-oct-2026, pulso #10) · push del 7-oct · AGPL-3.0. La más rara y la más curiosa: streaming multi-fuente con lado de descubrimiento y discografía — un reproductor que también es detective musical.
 
-*Sonora* — sonorahq/sonora · ★2.066 (18-oct-2026, pulso #10) · push del mismo día · GPL-3.0. La más nueva de la lista en peso: cliente de streaming nativo que subió de ★2.145 a ★2.066 entre el censo de la tarde y el pulso de la noche del mismo día. Nacimiento en cámara.
+*Sonora* — sonorahq/sonora · ★2.145 (18-oct-2026, censo fresco de la tarde) · push del mismo día · GPL-3.0. La más nueva de la lista en peso: cliente de streaming nativo que se dejó ver subiendo de ★2.066 a ★2.145 entre el pulso nocturno y el censo de la tarde del mismo día. Nacimiento en cámara: nació chiquita, se quedó creciendo.
 
 ───────────────────
 
@@ -251,13 +251,13 @@ La versión limpia pesa menos porque no trae huéspedes.
 
 Las catorce, por escuela, con su placa completa al pulso #10 (15-oct-2026, ~23:12 UTC) — la misma línea que puede copiar quien quiera verificar:
 
-Puente: SimpMusic ★12.079 · push 18-oct-2026 · GPL-3.0 · 309 asuntos · OuterTune ★5.431 · push 12-oct-2026 · GPL-3.0 · v0.10.1 · Musify ★4.331 · push 11-oct-2026 · GPL-3.0 · 42 asuntos · NeriPlayer ★3.785 · push 18-oct-2026 · GPL-3.0 · 137 asuntos · Sonora ★2.066 · push 18-oct-2026 · GPL-3.0 · 159 asuntos.
+Puente: SimpMusic ★12.079 · push 18-oct-2026 · GPL-3.0 · 309 asuntos · OuterTune ★5.431 · push 12-oct-2026 · GPL-3.0 · v0.10.1 · Musify ★4.331 · push 11-oct-2026 · GPL-3.0 · 42 asuntos · NeriPlayer ★3.785 · push 18-oct-2026 · GPL-3.0 · 137 asuntos · Sonora ★2.145 · push 18-oct-2026 · GPL-3.0 · 159 asuntos.
 
 Multi-fuente y detective: Spotube ★49.974 · push 18-oct-2026 · NOASSERTION · 868 asuntos · Namida ★6.648 · push 14-oct-2026 · NOASSERTION · 61 asuntos · muffon ★2.246 · push 7-oct-2026 · AGPL-3.0 · 44 asuntos · ArchiveTune ★7.175 · push 18-oct-2026 · GPL-3.0 · 158 asuntos.
 
 Cajón: Salt Player ★7.516 · push 7-oct-2026 · MIT · 769 asuntos · Retro Music ★5.357 · push 4-oct-2026 · GPL-3.0 · 382 asuntos · Pixel Player ★6.713 · push 21-sep-2026 · NOASSERTION · 622 asuntos · Timber ★7.039 · push 28-abr-2023 · sin licencia · 210 asuntos.
 
-Fuente: censo vivo de la casa (5.684 repos, 18-oct-2026) + pulso #10 por API con el token del dueño, hora ~23:12 UTC. Delta visible en la misma noche: Spotube ★50.078→★49.974 y Sonora ★2.145→★2.066 entre el censo de la tarde y el pulso nocturno — el censo no es una foto: es un latido.
+Fuente: censo vivo de la casa (5.684 repos, 18-oct-2026) + pulso #10 por API con el token del dueño, hora ~23:12 UTC. Delta visible en la misma noche: Spotube ★50.078→★49.974 y Sonora ★2.066→★2.145 entre el pulso nocturno y el censo fresco de la tarde — el censo no es una foto: es un latido.
 
 ───────────────────
 
