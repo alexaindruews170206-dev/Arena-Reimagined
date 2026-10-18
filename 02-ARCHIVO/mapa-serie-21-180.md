@@ -52,3 +52,13 @@ Estado al cierre de cada bloque de producción se anota en hoja-de-ruta (append-
 - **Serie 21-80 nacidas: 60/158.** Cola: 82-95 root II → 96-110 fotografía → 111-125 día a día → 126-140 developer → 141-155 oficio II → 156-178 · catálogo final ~180 (salta 81, nacida).
 - **Catálogo v4 re-horneado**: 5.924.250 chars · 6.168.116 bytes · 84 WA · build 2026-10-18 17:03.
 - **Cirugías heredadas (no bloquean)**: 53/54 + acta 54 + ordinal 60 · QA quiz display 61 · COLA VI.
+
+---
+
+## BITÁCORA 18-OCT-2026 (16:00-18:00) — FB ENTRA A LA OBRA + WA 82
+
+- Pulso 16:00: re-verificación total desde la 01 (v6 ×86 exit 0 · snapshot #4 restaurado · RE-WALK 00-16 en cola) → push `503d559`.
+- **WA 82 LA REGLETA nacida**: 63.323c `70b03ed2eeae18a5` · fila 82-95 root II abierta (ZygiskNext ★10.634; fila 43.291) → push `2bf237e`.
+- **FB 80+81+82 nacidas** (familia del muro, adaptativas): casa nueva `01-PUBLICACIONES/Facebook-dominicano-ES/`.
+- Catálogo v4 re-horneado con TODAS las WA (orden del dueño: juntar todas en el HTML).
+- Serie: **21-82 nacidas (61/158)** + FB 80-82. Cola: 83-94 familias root → 95 mapa → 96-110 fotografía → 111-125 día a día → 126-140 developer → 141-155 oficio II → 156-178.
