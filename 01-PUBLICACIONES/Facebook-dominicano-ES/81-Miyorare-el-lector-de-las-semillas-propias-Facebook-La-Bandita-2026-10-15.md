@@ -1,10 +1,10 @@
-# Publicación 81 — Myiyorare: el lector nuevo con sus sobres de semillas
+# Publicación 81 — Miyorare: el lector nuevo con sus sobres de semillas
 
 **La Bandita · 18 de octubre de 2026**
 
 ## ⚡ En una página
 
-Llegó un lector nuevo al barrio del manga y las novelas: **Myiyorare**, GPLv3, joven en fama (★13) y despierto en el taller — **v1.4.9 publicada el 13-oct y código empujado el mismo día de esta verificación**. Lo interesante no es la estrella: es que trae **sus propios sobres de semillas** (Source Packs oficiales ID y EN, curados y repartidos aparte) y conversa con toda la familia: compatibilidad declarada con Kotatsu, Mihon, Keiyoushi, UMA y Gekkoushi.
+Llegó un lector nuevo al barrio del manga y las novelas: **Miyorare**, GPLv3, joven en fama (★13) y despierto en el taller — **v1.4.9 publicada el 13-oct y código empujado el mismo día de esta verificación**. Lo interesante no es la estrella: es que trae **sus propios sobres de semillas** (Source Packs oficiales ID y EN, curados y repartidos aparte) y conversa con toda la familia: compatibilidad declarada con Kotatsu, Mihon, Keiyoushi, UMA y Gekkoushi.
 
 ## 📦 Lo que trae el bolsillo
 
