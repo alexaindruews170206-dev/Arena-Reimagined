@@ -41,3 +41,14 @@ Estado al cierre de cada bloque de producción se anota en hoja-de-ruta (append-
 - Incidente snapshot #2: piezas 40-60 soltadas del workspace live — restauradas 21/21 desde el repo remoto (sellos verificados). LEY: el repo remoto = fuente de verdad del contenido.
 - Serie: **21-70 nacidas (50/158)** · CERT de cinco bloques (21-40 20/20 · 41-50 · 51-60 · 61-70). Catálogo v4 re-horneado: **5.448.220 bytes · 73 WA** · build 16-oct 20:00.
 - SIGUE: fila 71-80 (EMULADORES II — el taller de consolas: Termux ya consumido en 66; candidatos de pulso: emulación on-device, frontend de consolas, Wine/box64 en la fila) · después 82-95 root II → 96-110 fotografía → 111-125 día a día → 126-140 developer → 141-155 oficio II → 156-178 cierres.
+
+---
+
+## BITÁCORA 18-OCT-2026 (tarde-noche) — CIERRE DE LA FILA 71-80 EMULADORES II
+
+- **Fila 71-80 CERRADA Y CERTIFICADA ×3** (v6 10/10 · v5 mutate 10/10 · fuzz 58/58 ×10): 71 RetroArch (mueble padre) · 72 Winlator (windows de la mesa) · 73 Dolphin (cubo) · 74 PPSSPP (bolsilla) · 75 DuckStation (negra chiquita) · 76 mGBA (cartucho eterno) · 77 box64 (traductor) · 78 melonDS (doble pantalla) · 79 ScummVM (relatos) · 80 EL MAPA DEL SALÓN (cierre).
+- **Censo de la fila (pulso 18-oct-2026)**: 96.269 estrellas en las nueve forjas (98.084 con el horno DOSBox Staging). Restas verificadas en piezas 72-80.
+- **sha16 de la fila**: `bdca32a06775b24f` · `6c3dd486e907ee7c` · `a727bd39494a5336` · `22742e7f28f9ace5` · `2fbb68575da5cd54` · `15c74604bf646771` · `aac7ac65570a0871` · `033bec6ac14c4fc5` · `604b9f8b69422eaa` · `f15f16dca1dcebda`.
+- **Serie 21-80 nacidas: 60/158.** Cola: 82-95 root II → 96-110 fotografía → 111-125 día a día → 126-140 developer → 141-155 oficio II → 156-178 · catálogo final ~180 (salta 81, nacida).
+- **Catálogo v4 re-horneado**: 5.924.250 chars · 6.168.116 bytes · 84 WA · build 2026-10-18 17:03.
+- **Cirugías heredadas (no bloquean)**: 53/54 + acta 54 + ordinal 60 · QA quiz display 61 · COLA VI.
